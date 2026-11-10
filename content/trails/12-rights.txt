@@ -1,0 +1,126 @@
+# Trail: rights (politics). Facts from the articles named in src.
+
+@trail rights
+title: Who counts? The widening circle of rights
+kid-title: Fair rules for everyone
+theme: power
+color: #9fe870
+order: 12
+deck: A charter sealed in a meadow, a declaration in Paris, a revolt of the enslaved, a petition in New Zealand, a bus in Alabama, a queue of first-time voters in South Africa. Eleven steps, none of them the last.
+kid-deck: Once, only kings and a few rich men had rights. Visit eleven places where people fought for fairer rules, so that more and more people were counted.
+
+@stop rt-1
+trail: rights
+title: A king agrees to rules
+date: 1215-06-15
+at: Runnymede
+alt: 900
+src: Magna Carta
+src: Runnymede
+T: On 15 June 1215, in a water-meadow beside the Thames at Runnymede, King John of England sealed Magna Carta, the "Great Charter". It was drafted to make peace between an unpopular king and a group of rebel barons, and promised, among other things, protection for the barons from illegal imprisonment.
+K: In 1215 the powerful lords of England forced King John to agree to a list of rules, called Magna Carta. It promised that the lords could not be locked up illegally.
+
+@stop rt-2
+trail: rights
+title: A declaration in Philadelphia
+date: 1776-07-04
+at: Independence Hall
+alt: 900
+src: United States Declaration of Independence
+src: Independence Hall
+T: On 4 July 1776 the Second Continental Congress unanimously adopted the Declaration of Independence, the founding document of the United States. It was debated and adopted at what is now called Independence Hall in Philadelphia, where the Constitution of the United States was later adopted too.
+K: On 4 July 1776, in a hall in the city of Philadelphia, thirteen colonies in North America declared their independence. That was the birth of the United States.
+
+@stop rt-3
+trail: rights
+title: The rights of man
+date: 1789
+at: Paris
+alt: 900
+src: Declaration of the Rights of Man and of the Citizen
+T: In 1789, during the French Revolution, France's National Constituent Assembly set out the Declaration of the Rights of Man and of the Citizen, a document of human and civil rights. The Marquis de Lafayette prepared the first drafts, in consultation with Thomas Jefferson. Most of the final text came from the Abbé Sieyès.
+K: In 1789, during the French Revolution, the new French assembly wrote down a list of rights that belong to every citizen.
+
+@stop rt-4
+trail: rights
+title: The enslaved free themselves
+date: 1791-08-21..1804-01-01
+at: Haiti
+alt: 2200
+src: Haitian Revolution
+T: In the French colony of Saint-Domingue, enslaved Black Africans rose against colonial rule on 21 August 1791. The struggle ended with independence on 1 January 1804. Their revolution is one of the only known slave rebellions in history that led to the founding of a state both free from slavery and ruled by people who had been enslaved. That state is Haiti.
+K: On a Caribbean island ruled by France, enslaved people rose up and fought for their freedom. They won, and founded their own country, Haiti.
+
+@stop rt-5
+trail: rights
+title: Britain abolishes slavery
+date: 1833
+at: London
+alt: 1500
+src: Slavery Abolition Act 1833
+T: The Slavery Abolition Act of 1833, passed by the Parliament of the United Kingdom, abolished slavery in the British Empire. It did so by way of what was called compensated emancipation.
+K: In 1833 the British Parliament passed a law ending slavery in the British Empire.
+
+@stop rt-6
+trail: rights
+title: A convention for women's rights
+date: 1848-07-19..1848-07-20
+at: Seneca Falls, New York
+alt: 1500
+src: Seneca Falls Convention
+T: On 19 and 20 July 1848 the first women's rights convention met in the Wesleyan Chapel at Seneca Falls, New York. Its organisers advertised it as "a convention to discuss the social, civil, and religious condition and rights of woman".
+K: In 1848, in a small town called Seneca Falls, people held the first big meeting about women's rights.
+
+@stop rt-7
+trail: rights
+title: Emancipation
+date: 1863-01-01
+at: Washington, D.C.
+alt: 1500
+src: Emancipation Proclamation
+T: On 1 January 1863, in the middle of the American Civil War, President Abraham Lincoln issued the Emancipation Proclamation. It changed the legal status of more than 3.5 million enslaved African Americans in the Confederate states.
+K: On 1 January 1863, during a civil war in the United States, President Abraham Lincoln announced that more than 3.5 million enslaved people in the states that had broken away were to be free.
+
+@stop rt-8
+trail: rights
+title: Every woman can vote
+date: 1893
+at: New Zealand
+alt: 5200
+src: Women's suffrage in New Zealand
+src: Kate Sheppard
+T: After years of campaigning led by Kate Sheppard, who organised the Women's Suffrage Petition of 1893, New Zealand became the first nation in the world in which all women had the right to vote in parliamentary elections.
+K: In 1893 New Zealand became the first country in the world where all women could vote. A woman named Kate Sheppard led the campaign and organised a great petition.
+
+@stop rt-9
+trail: rights
+title: Rights for all human beings
+date: 1948-12-10
+at: Palais de Chaillot
+alt: 900
+src: Universal Declaration of Human Rights
+T: On 10 December 1948, meeting at the Palais de Chaillot in Paris, the United Nations General Assembly accepted the Universal Declaration of Human Rights. It was drafted by a committee chaired by Eleanor Roosevelt, and sets out rights and freedoms of all human beings.
+K: After the Second World War, the countries of the United Nations agreed on a list of rights that every single person in the world should have. They accepted it in Paris on 10 December 1948.
+
+@stop rt-10
+trail: rights
+title: A seat on the bus
+date: 1955-12-05..1956-12-20
+at: Montgomery, Alabama
+alt: 1500
+src: Montgomery bus boycott
+src: March on Washington
+T: On 5 December 1955, the Monday after Rosa Parks was arrested for refusing to give up her seat to a white person, Black residents of Montgomery, Alabama began a boycott of the city's segregated buses. It lasted until 20 December 1956 and was a foundational event of the civil rights movement.
+T: On 28 August 1963, at the March on Washington, Martin Luther King Jr. gave his "I Have a Dream" speech in front of the Lincoln Memorial.
+K: In Montgomery, Black people had to give up their bus seats to white people. In 1955 Rosa Parks refused, and was arrested. For more than a year, Black people in the city refused to ride the buses at all, until the rule was changed.
+
+@stop rt-11
+trail: rights
+title: Everyone votes
+date: 1994-04-26..1994-04-29
+at: Pretoria
+alt: 2600
+src: 1994 South African general election
+src: South Africa
+T: Between 26 and 29 April 1994 South Africa held the first election in which citizens of all races could vote, the country's first under universal suffrage. The African National Congress won 62 percent of the vote. The pin is on Pretoria, the administrative capital.
+K: In April 1994, for the first time, South Africans of all races could vote in an election.

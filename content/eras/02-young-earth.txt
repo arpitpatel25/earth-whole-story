@@ -1,0 +1,205 @@
+# Young Earth: from the planet's formation to the eve of complex animal life.
+
+@era hadean
+name: Hadean
+kid: The fiery beginning
+level: 1
+group: young-earth
+span: 4567.3 mya..4031 mya
+src: Hadean
+S: The Hadean is the first of Earth's four geologic eons. It runs from the planet's formation, dated by the oldest solid material in the solar system to about 4,567 million years ago, to 4,031 million years ago, the age of the oldest intact rock formations known on Earth.
+K: The Hadean is the very first chapter of Earth's story. Almost no rock from it survives, so scientists read it from tiny crystals, meteorites and the Moon.
+B: The first magma ocean cooled to solid rock within about 5 million years, leaving a thick atmosphere of carbon dioxide, hydrogen and water vapour. How much continental crust the Hadean Earth had is not settled: different models give very different answers.
+conf: debated
+
+@era archean
+name: Archean
+kid: The first living things
+level: 1
+group: young-earth
+span: 4031 mya..2500 mya
+src: Archean
+src: Earliest known life forms
+S: The Archean eon lasted from 4,031 to 2,500 million years ago. The earliest direct fossils of life, layered mats built by microbes called stromatolites, are 3.48 billion years old.
+K: In the Archean, Earth had oceans and its first living things: tiny microbes. Some built layered mounds called stromatolites that we can still find as fossils.
+
+@era proterozoic
+name: Proterozoic
+kid: Oxygen and the first big cells
+level: 1
+group: young-earth
+span: 2500 mya..538.8 mya
+src: Proterozoic
+S: The Proterozoic spans 2,500 to 538.8 million years ago and is the longest eon of Earth's history. During it oxygen built up in the air, supercontinents assembled and broke apart, and ice may have covered the whole planet more than once.
+K: The Proterozoic is the longest chapter in Earth's history. The air filled with oxygen, giant continents joined and split, and the whole planet may have frozen over.
+
+@era accretion
+name: Planetary accretion
+short: Earth assembles
+kid: Earth is built
+level: 2
+group: young-earth
+span: 4567 mya..4500 mya
+src: Age of Earth
+src: Formation and evolution of the Solar System
+S: Earth grew as bodies in the young Sun's disc collided and merged. Its age, 4.54 billion years give or take 0.05, marks the final stages of that growth and of the separation of its interior into layers.
+K: Earth grew bit by bit as rocks in space smashed together and stuck. It finished growing about 4.54 billion years ago.
+
+@era moon-forming-impact
+name: Moon-forming impact
+kid: The crash that made the Moon
+level: 2
+group: young-earth
+span: 4500 mya..4470 mya
+focus: -4500000000
+src: Giant-impact hypothesis
+S: The leading explanation for the Moon is that the young Earth collided with a Mars-sized body, often called Theia, about 4.5 billion years ago, 20 to 100 million years after the solar system formed. Debris thrown into orbit gathered to form the Moon.
+K: Most scientists think a planet the size of Mars crashed into the young Earth. Rubble from the crash circled the Earth and clumped together to become the Moon.
+conf: debated
+
+@era magma-ocean
+name: Magma ocean
+kid: An ocean of melted rock
+level: 2
+group: young-earth
+span: 4470 mya..4440 mya
+src: Magma ocean
+src: Hadean
+S: Magma oceans are vast fields of molten rock at the surface of a growing planet. On bodies as large as the early Earth the heat came from giant impacts. Earth's first magma ocean is thought to have solidified within about 5 million years.
+K: Giant crashes melted the outside of the young Earth, so the surface was an ocean of glowing melted rock. It cooled and hardened surprisingly fast.
+
+@era first-crust-oceans
+name: First crust and oceans
+kid: First rock, first seas
+level: 2
+group: young-earth
+span: 4440 mya..4100 mya
+src: Hadean zircon
+src: Origin of water on Earth
+S: Zircon crystals about 4 billion years old and more are the oldest surviving pieces of Earth's crust. Where Earth's water came from is still debated: it may have been delivered from the outer solar system, produced with help from hydrogen inside the planet, or both.
+K: As Earth cooled, a hard crust formed and water gathered into the first seas. Scientists are still working out where all that water came from.
+conf: debated
+
+@era late-heavy-bombardment
+name: Late Heavy Bombardment
+short: Heavy bombardment
+kid: A rain of asteroids, perhaps
+level: 2
+group: young-earth
+span: 4100 mya..3800 mya
+src: Late Heavy Bombardment
+S: The Late Heavy Bombardment is a hypothesised spike in asteroid and comet impacts on the inner planets about 4.1 to 3.8 billion years ago. It is still controversial: some researchers argue the cluster of ages in Moon rocks is an artifact of sampling debris from a single large impact.
+K: Moon rocks hint that swarms of asteroids pounded the Earth and Moon about 4 billion years ago. Not everyone agrees. The rocks might all come from one giant crash.
+conf: debated
+
+@era first-life
+name: First life
+kid: Life begins
+level: 2
+group: young-earth
+span: 4100 mya..3480 mya
+src: Earliest known life forms
+src: Abiogenesis
+S: Life may be as old as 4.1 billion years, on the evidence of carbon inside a single zircon grain from Australia. Rocks 3.7 billion years old in Greenland hold further chemical traces, and the oldest direct fossils are 3.48-billion-year-old stromatolites.
+K: Nobody knows exactly when life began. The oldest fossils anyone has found are 3.48 billion years old, and chemical clues suggest life could be even older.
+B: The prevailing view is that life did not begin in a single event. It emerged through steps of growing complexity: a habitable planet, organic molecules, molecules that could copy themselves, and cell membranes.
+conf: debated
+
+@era photosynthesis
+name: Photosynthesis
+kid: Living on sunlight
+level: 2
+group: young-earth
+span: 3500 mya..2460 mya
+src: Evolution of photosynthesis
+S: Geochemical evidence suggests photosynthesis that did not release oxygen emerged 3.3 to 3.5 billion years ago. The kind that splits water and gives off oxygen evolved later, in an ancestor of today's cyanobacteria.
+K: Some microbes learned to make food from sunlight. Later, their relatives began giving off oxygen as they did it. That would change the whole planet.
+
+@era great-oxidation
+name: Great Oxidation Event
+short: Great Oxidation
+kid: The air fills with oxygen
+level: 2
+group: young-earth
+span: 2460 mya..2060 mya
+src: Great Oxidation Event
+S: Beginning about 2.46 to 2.426 billion years ago and ending around 2.06 billion years ago, free oxygen made by microbes built up in Earth's atmosphere and shallow seas for the first time.
+K: Tiny living things had been making oxygen for ages. About 2.4 billion years ago it finally began to pile up in the air and the sea.
+
+@era kenorland
+name: Kenorland
+kid: Kenorland, an early giant continent
+level: 2
+group: young-earth
+span: 2720 mya..2460 mya
+src: Kenorland
+S: Kenorland is a hypothetical supercontinent thought to have formed about 2.72 billion years ago. If it existed it joined what later became Laurentia (the core of North America and Greenland), Baltica (Scandinavia and the Baltic), Western Australia and Kalaharia.
+K: Kenorland may have been one of the first giant continents, made of pieces that are now far apart. Scientists are not certain it existed.
+conf: debated
+
+@era huronian
+name: Huronian glaciation
+kid: An early deep freeze
+level: 2
+group: young-earth
+span: 2400 mya..2100 mya
+src: Huronian glaciation
+S: The Huronian glaciation was a series of three glacial periods about 2.4 to 2.1 billion years ago, among the earliest known. It broadly coincides with the Great Oxidation Event, when the loss of greenhouse gases probably cooled the climate.
+K: While oxygen was filling the air, Earth went through three long freezes. They are some of the oldest ice ages we know about.
+
+@era columbia
+name: Columbia (Nuna)
+kid: Columbia, a giant continent
+level: 2
+group: young-earth
+span: 2100 mya..1500 mya
+src: Columbia (supercontinent)
+S: Columbia, also called Nuna, is a hypothetical supercontinent thought to have existed between about 2,500 and 1,500 million years ago, its assembly completed by collisions 2,100 to 1,800 million years ago.
+K: Columbia, also called Nuna, was probably a giant continent that formed when smaller lands crashed together about 2 billion years ago.
+conf: debated
+
+@era first-complex-cells
+name: First complex cells
+kid: The first big, complicated cells
+level: 2
+group: young-earth
+span: 1700 mya..1200 mya
+src: Eukaryote
+S: Eukaryotes are cells with a nucleus, the kind that make up animals, plants and fungi. Fossils clearly related to modern groups appear about 1.2 billion years ago as red algae, and some fossil algae may be 1.6 to 1.7 billion years old.
+K: A new kind of cell appeared, with its instructions packed inside a nucleus. Every animal, plant and mushroom is built from cells like these.
+conf: debated
+
+@era rodinia
+name: Rodinia
+kid: Rodinia, the motherland continent
+level: 2
+group: young-earth
+span: 1260 mya..750 mya
+src: Rodinia
+S: Rodinia was a supercontinent that assembled 1.26 to 0.90 billion years ago and broke up 750 to 633 million years ago. Its name comes from the Russian word for motherland.
+K: Rodinia was a giant continent whose name means "motherland" in Russian. It took hundreds of millions of years to join up, and just as long to break apart.
+
+@era snowball-earth
+name: Snowball Earth
+kid: Snowball Earth
+level: 2
+group: young-earth
+span: 717 mya..635 mya
+src: Snowball Earth
+src: Sturtian glaciation
+src: Marinoan glaciation
+S: The Snowball Earth hypothesis proposes that the planet's surface froze almost entirely, most famously in two episodes: the Sturtian, about 717 to 660 million years ago, and the Marinoan, which ended 635 million years ago. Others read the same rocks as several regional glaciations.
+K: Twice, ice may have covered nearly the whole Earth, even at the equator, for millions of years. Some scientists think patches of open water remained.
+conf: debated
+
+@era ediacaran
+name: Ediacaran: first animals
+short: First animals
+kid: The first animals
+level: 2
+group: young-earth
+span: 635 mya..538.8 mya
+src: Ediacaran
+src: Ediacaran biota
+S: The Ediacaran period runs from 635 to 538.8 million years ago. Its fossils, mostly soft-bodied creatures shaped like tubes and fronds, are the earliest known large, complex, many-celled organisms.
+K: After the big freeze came the first large living things: soft creatures shaped like tubes and feathery fronds that lay on the sea floor.

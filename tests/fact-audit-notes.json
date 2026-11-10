@@ -1,0 +1,682 @@
+{
+ "3D part|earth-interior.mantle|kid": {
+  "claim": "The mantle is by far the biggest layer: hot rock almost 3,000 kilometres thick. Most of the Earth is mantle.",
+  "note": "ok: 'almost 3,000' rounds the source's 'a thickness of 2,900 kilometers'."
+ },
+ "3D part|stonehenge.ditch|kid": {
+  "claim": "Before any stones were raised, people dug a big circular ditch here, about 5,000 years ago.",
+  "note": "ok: the source says 'as early as 3000 BC, when the ditch and bank were first dug', about 5,000 years ago."
+ },
+ "3D scene|aryabhata|kid": {
+  "claim": "Aryabhata was the first satellite built in India. It was named after a great Indian astronomer who lived about 1,500 years ago.",
+  "note": "ok: the source says 'named after the 6th-century astronomer and mathematician Aryabhata', about 1,500 years ago."
+ },
+ "3D scene|great-bath|kid": {
+  "claim": "More than 4,000 years ago the people of Mohenjo-daro built a brick pool that did not leak. It was probably used for special holy baths.",
+  "note": "ok: the source says 'the Great Bath was built in the third millennium BCE', more than 4,000 years ago."
+ },
+ "3D scene|printing-press|kid": {
+  "claim": "About 600 years ago Johannes Gutenberg built a machine that could print page after page. Before that, every book was copied by hand.",
+  "note": "ok: the source says 'invented by the German goldsmith Johannes Gutenberg around 1440', about 600 years ago."
+ },
+ "3D scene|qutb-minar|kid": {
+  "claim": "The Qutb Minar is a very tall tower in Delhi, built about 800 years ago. It has 399 steps inside.",
+  "note": "ok: the source says 'mostly built between 1199 and 1220', about 800 years ago."
+ },
+ "era|axial-age|kid": {
+  "claim": "Between about 2,800 and 2,200 years ago, thinkers in Persia, India, China, the Levant, Greece and Rome asked big new questions about how to live and what is true.",
+  "note": "ok: the source says 'from about the 8th to the 3rd century BCE', that is about 2,800 to 2,200 years ago, in 'Persia, India, China, the Levant, and the Greco-Roman world'."
+ },
+ "era|bronze-age-collapse|kid": {
+  "claim": "About 3,200 years ago, many great kingdoms around the eastern Mediterranean Sea fell apart suddenly. Historians have argued about the cause since the 1800s.",
+  "note": "ok: the source says 'during the late 13th to early 12th century BC', about 3,200 years ago."
+ },
+ "era|great-dying|kid": {
+  "claim": "About 252 million years ago, most kinds of living things died out, in the sea and on land. It is the worst die-off Earth has ever had. Life took a very long time to recover.",
+  "note": "ok: 'about 252 million' rounds the source's 'around 251.902 million years ago'."
+ },
+ "era|hadean|text": {
+  "claim": "The Hadean is the first of Earth's four geologic eons. It runs from the planet's formation, dated by the oldest solid material in the solar system to about 4,567 million years ago, to 4,031 million years ago, the age of the oldest intact rock formations known on Earth. The first magma ocean cooled to solid rock within about 5 million years, leaving a thick atmosphere of carbon dioxide, hydrogen and water vapour. How much continental crust the Hadean Earth had is not settled: different models give very different answers.",
+  "note": "ok: 4,031 million years is the source's 'ending 4.031 Ga'."
+ },
+ "era|lapita|kid": {
+  "claim": "More than 3,000 years ago, the Lapita people sailed across open ocean to settle islands in the Pacific. They made beautiful stamped pottery.",
+  "note": "ok: the source says 'a seaborne migration at around 1600 to 500 BCE', which began more than 3,000 years ago, and speaks of 'the early peopling of the Pacific Islands'."
+ },
+ "era|silk-roads|kid": {
+  "claim": "The Silk Roads were trade routes across Asia, more than 6,400 km long. Goods, ideas and religions travelled along them for about 1,600 years.",
+  "note": "ok: the source says 'active from the second century BCE until the mid-15th century', about 1,600 years."
+ },
+ "era|song-china|kid": {
+  "claim": "The Song family ruled China for more than 300 years, from 960 to 1279.",
+  "note": "ok: 1279 minus 960 is 319 years; the source gives both dates."
+ },
+ "India biography|p-ahilyabai-holkar|kid": {
+  "claim": "Ahilyabai Holkar was a queen who ruled Indore, in the Maratha Empire, about 250 years ago. She is remembered for the temples she helped to build and repair.",
+  "note": "ok: the source dates the start of her rule to 1767, about 250 years ago."
+ },
+ "India biography|p-akka-mahadevi|kid": {
+  "claim": "Akka Mahadevi was a poet and saint who lived about 850 years ago. She left about 430 short poems.",
+  "note": "ok: the source says 'a 12th century philosopher, poet ... mystic (c. 1130–1160)', about 850 years ago, and 'Her 430 vachanas'."
+ },
+ "India biography|p-amir-khusrau|kid": {
+  "claim": "Amir Khusrau was a poet and musician at the court of the sultans of Delhi about 700 years ago.",
+  "note": "ok: the source gives '1253 – October 1325', about 700 years ago."
+ },
+ "India biography|p-amrita-sher-gil|kid": {
+  "claim": "Amrita Sher-Gil was a Hungarian–Indian painter. She painted famous pictures before she died at only 28.",
+  "note": "ok: aged 28 is the source's '30 January 1913 – 5 December 1941'."
+ },
+ "India biography|p-amrita-sher-gil|text": {
+  "claim": "Amrita Sher-Gil was a Hungarian–Indian painter who has been called one of the greatest avant-garde women artists of the early 20th century. She died at 28.",
+  "note": "ok: aged 28 is the source's '30 January 1913 – 5 December 1941'."
+ },
+ "India biography|p-anandi-gopal-joshi|kid": {
+  "claim": "Anandibai Joshi went to the United States to study and became a doctor. She died in 1887, when she was only 21.",
+  "note": "ok: aged 21 is the source's '31 March 1865 – 26 February 1887'. The claim first gave a degree year that was not in the source; it was removed."
+ },
+ "India biography|p-anandi-gopal-joshi|text": {
+  "claim": "Anandibai Gopalrao Joshi was the first certified Indian woman doctor of western medicine. She graduated with a two-year degree in western medicine in the United States, and died in 1887 aged 21.",
+  "note": "ok: aged 21 is the source's '31 March 1865 – 26 February 1887'. The claim first gave a degree year that was not in the source; it was removed."
+ },
+ "India biography|p-andal|kid": {
+  "claim": "Andal was a Tamil poet and saint who lived about 1,300 years ago. She is the only woman among twelve famous poet-saints, and her songs are still sung.",
+  "note": "ok: the source says 'Active in the eighth century CE', about 1,300 years ago. The claim first said 1,200 and was corrected."
+ },
+ "India biography|p-aruna-roy|text": {
+  "claim": "Aruna Roy is a social activist, union organiser and retired officer of the Indian Administrative Service.",
+  "note": "ok: 'Indian Administrative Service' writes out the source's 'retired IAS officer'."
+ },
+ "India biography|p-atisa|text": {
+  "claim": "Atisha Dipamkara Shrijnana was a Buddhist religious teacher and leader from Bengal, generally associated with the works he wrote at the Vikramashila monastery.",
+  "note": "ok: 'Shrijnana' is the plain-letter spelling of the source's 'Śrījñāna'."
+ },
+ "India biography|p-avvaiyar-sangam-poet|kid": {
+  "claim": "Avvaiyar was a Tamil woman poet who lived about 2,000 years ago. Fifty-nine of her poems survive in one old collection.",
+  "note": "ok: the source says she 'lived during the Sangam period' and that a plaque 'suggests the first century BCE for her birthdate', about 2,000 years ago; 'She wrote 59 poems in the Puṟanāṉūṟu'."
+ },
+ "India biography|p-birsa-munda|kid": {
+  "claim": "Birsa Munda was a young leader of the Munda people who stood up to British rule. He died when he was only 24, and is remembered as a hero.",
+  "note": "ok: aged 24 is the source's '15 November 1875 – 9 June 1900'."
+ },
+ "India biography|p-birsa-munda|text": {
+  "claim": "Birsa Munda, of the Munda tribe, was a tribal independence activist and folk hero who led a tribal religious movement. He died at 24.",
+  "note": "ok: aged 24 is the source's '15 November 1875 – 9 June 1900'."
+ },
+ "India biography|p-chandragupta-maurya|kid": {
+  "claim": "Chandragupta Maurya founded the Maurya Empire about 2,300 years ago and was its first emperor.",
+  "note": "ok: the source says 'reigned c. 320 BCE – c. 298 BCE', about 2,300 years ago."
+ },
+ "India biography|p-dnyaneshwar|kid": {
+  "claim": "Dnyaneshwar was a saint and poet of Maharashtra who lived about 750 years ago.",
+  "note": "ok: the source gives '1275–1296', about 750 years ago."
+ },
+ "India biography|p-kalidasa|kid": {
+  "claim": "Kalidasa wrote plays and poems in Sanskrit about 1,600 years ago. Many people think he was the greatest poet of ancient India.",
+  "note": "ok: the source says 'The most popular theory is that Kālidāsa flourished during the reign of Chandragupta II (r. 380 CE – 415 CE)', about 1,600 years ago."
+ },
+ "India biography|p-kanishka|kid": {
+  "claim": "Kanishka was the greatest emperor of the Kushans. He ruled about 1,900 years ago.",
+  "note": "ok: the source gives his reign as 'c. 127–150 CE', about 1,900 years ago."
+ },
+ "India biography|p-lalleshwari|kid": {
+  "claim": "Lal Ded was a holy woman and poet of Kashmir who lived about 650 years ago.",
+  "note": "ok: the source gives 'c. 1320–1392', about 650 years ago."
+ },
+ "India biography|p-madhava-of-sangamagrama|kid": {
+  "claim": "Madhava was a mathematician from Kerala who lived about 600 years ago. He started a famous school of mathematics.",
+  "note": "ok: the source gives 'c. 1340 – c. 1425', about 600 years ago."
+ },
+ "India biography|p-matangini-hazra|kid": {
+  "claim": "Matangini Hazra was 71 years old when she led a march for freedom at Tamluk in 1942. The police shot her.",
+  "note": "ok: aged 71 is the source's '19 October 1870 – 29 September 1942'."
+ },
+ "India biography|p-matangini-hazra|text": {
+  "claim": "Matangini Hazra was a revolutionary of the independence movement. On 29 September 1942, aged 71, she was leading a group of volunteers towards the Tamluk police station when the police shot her dead.",
+  "note": "ok: aged 71 is the source's '19 October 1870 – 29 September 1942'."
+ },
+ "India biography|p-mirabai|kid": {
+  "claim": "Mirabai was a princess of Rajasthan who lived about 500 years ago. She gave her life to singing songs of love for the god Krishna.",
+  "note": "ok: the source dates her marriage to 1516 and her husband's death to 1521, about 500 years ago."
+ },
+ "India biography|p-mu-in-al-din-chishti|kid": {
+  "claim": "Moinuddin Chishti was a Sufi holy man who came to India from Persia about 800 years ago. His tomb is at Ajmer.",
+  "note": "ok: the source gives '1 February 1143 – 15 March 1236' and says he arrived 'during the reign of the Sultan Iltutmish (d. 1236)', about 800 years ago."
+ },
+ "India biography|p-muhammad-bin-tughluq|kid": {
+  "claim": "Muhammad bin Tughluq was a sultan of Delhi about 700 years ago. He was nicknamed the Eccentric Prince and the Mad Sultan.",
+  "note": "ok: the source says 'He reigned from February 1325 until his death in March 1351', about 700 years ago."
+ },
+ "India biography|p-nagarjuna|kid": {
+  "claim": "Nagarjuna was a Buddhist monk and deep thinker from southern India who lived about 1,800 years ago.",
+  "note": "ok: the source gives 'c. 150 – c. 250 CE', about 1,800 years ago."
+ },
+ "India biography|p-nizamuddin-auliya|kid": {
+  "claim": "Nizamuddin Auliya was a Sufi saint who lived about 700 years ago. His tomb in Delhi is a famous shrine.",
+  "note": "ok: the source gives '1238 – 3 April 1325', about 700 years ago."
+ },
+ "India biography|p-pritilata-waddedar|kid": {
+  "claim": "Pritilata Waddedar was a young woman from Chittagong who joined the revolutionaries fighting British rule. She died when she was 21.",
+  "note": "ok: aged 21 is the source's '5 May 1911 – 24 September 1932'; the source says she joined 'the Indian Independence movement' and 'a revolutionary group'."
+ },
+ "India biography|p-pritilata-waddedar|text": {
+  "claim": "Pritilata Waddedar was a Bengali revolutionary nationalist from Chittagong who was influential in the Indian independence movement. She died at 21.",
+  "note": "ok: aged 21 is the source's '5 May 1911 – 24 September 1932'."
+ },
+ "India biography|p-pulakeshin-ii|kid": {
+  "claim": "Pulakeshin was a Chalukya king who ruled most of the Deccan about 1,400 years ago.",
+  "note": "ok: the source says he 'was the Chālukyan emperor from c. 609 to 642', about 1,400 years ago."
+ },
+ "India biography|p-purandara-dasa|kid": {
+  "claim": "Purandara Dasa was a singer and composer from Karnataka who lived about 500 years ago.",
+  "note": "ok: the source gives 'c.1470 – c.1564', about 500 years ago."
+ },
+ "India biography|p-ramanuja|kid": {
+  "claim": "Ramanuja was a Hindu teacher and thinker who lived about 900 years ago.",
+  "note": "ok: the source says traditional accounts 'place his life from 1017–1137', about 900 years ago."
+ },
+ "India biography|p-ravidas|kid": {
+  "claim": "Ravidas was a poet and saint who lived about 500 years ago. Many people in northern India still honour him as their guru.",
+  "note": "ok: the source says 'during the 15th to 16th century CE', about 500 years ago."
+ },
+ "India biography|p-subhas-chandra-bose|kid": {
+  "claim": "Subhas Chandra Bose wanted to free India by force. During the Second World War he led an army that fought alongside Japan against the British. Many Indians see him as a hero, but his choice of allies is still argued about.",
+  "note": "ok: the source speaks of 'his wartime alliances with Nazi Germany and the Empire of Japan' in 1942 and 1943 and says 'With Japanese support, Bose revamped the Indian National Army'; that war is the Second World War."
+ },
+ "India biography|p-surdas|kid": {
+  "claim": "Surdas was a blind poet and singer who lived about 500 years ago. He sang about the god Krishna.",
+  "note": "ok: the source says 'a 16th-century blind Hindu devotional poet and singer', about 500 years ago."
+ },
+ "India biography|p-the-buddha|kid": {
+  "claim": "The Buddha was a teacher who lived about 2,500 years ago. Stories say he was born a prince at Lumbini, in today's Nepal, and gave up his rich life to search for the truth. Buddhism is the religion that follows his teaching.",
+  "note": "ok: the source says 'Most historians in the early 20th century use the earlier dates of 563–483 BCE' and gives later alternatives; all are about 2,500 years ago."
+ },
+ "India biography|p-tukaram|kid": {
+  "claim": "Tukaram was a saint of Maharashtra who lived about 400 years ago. He sang his poems in Marathi.",
+  "note": "ok: the source says he 'lived in the 17th century', about 400 years ago."
+ },
+ "India biography|p-varahamihira|kid": {
+  "claim": "Varahamihira was an astronomer who lived in the city of Ujjain about 1,500 years ago.",
+  "note": "ok: the source gives 'c. 20/21 March 505 – c. 587', about 1,500 years ago."
+ },
+ "India cell|early-humans.arts|kid": {
+  "claim": "About 12,000 years ago people painted animals, hunters and dancers on the rock walls at Bhimbetka. In Kerala, others carved pictures into cave walls.",
+  "note": "ok: the source says 'the earliest are dated to 10,000 BCE', about 12,000 years ago."
+ },
+ "India cell|early-humans.food|kid": {
+  "claim": "Stone Age people did not farm. They hunted animals and gathered wild plants. Farming began only about 9,000 years ago.",
+  "note": "ok: the source says 'The Neolithic (New Stone Age), starting around 7000 BCE, is associated with the emergence of agriculture', about 9,000 years ago."
+ },
+ "India cell|early-humans.technology|kid": {
+  "claim": "Stone tools are almost all that is left of these people. At one place in southern India, tools lie both under and on top of a layer of ash from a giant volcano that erupted 76,000 years ago.",
+  "note": "ok: the source says 'the Toba eruption of 74,000 BC', which is 76,000 years before 2026."
+ },
+ "India cell|early-medieval.food|kid": {
+  "claim": "A king of Karnataka wrote a huge book about nearly everything, almost 900 years ago. It even includes recipes for food.",
+  "note": "ok: the source says 'The text was completed in 1129 CE by Someshvara III', 897 years before 2026."
+ },
+ "India cell|gupta.power|kid": {
+  "claim": "The Gupta kings ruled for about 300 years, and at their strongest they held most of northern India. Some people call their time a golden age, though not all historians agree.",
+  "note": "ok: 'about 300 years': the source says the empire 'existed from the mid 3rd century to mid 6th century CE' and 'At its peak, the dynasty ruled over an empire that spanned much of the northern Indian subcontinent'. The claim first said 200 years and was corrected."
+ },
+ "India cell|gupta.science|kid": {
+  "claim": "The mathematician Aryabhata worked out the number pi very accurately, about 1,500 years ago. Indian mathematicians also wrote numbers in places, with a dot for zero.",
+  "note": "ok: the source gives 'Aryabhata I (476–550 CE)', about 1,500 years ago."
+ },
+ "India cell|mahajanapadas.medicine|kid": {
+  "claim": "Jivaka was a famous doctor who lived about 2,500 years ago. He was the doctor of the Buddha and of a king. Healers in several Asian countries still honour him.",
+  "note": "ok: the source says he lived 'in the 5th century BCE', about 2,500 years ago."
+ },
+ "India cell|post-maurya.food|kid": {
+  "claim": "A visitor 2,000 years ago wrote that western India grew wheat, rice and sesame, and made ghee and cotton cloth.",
+  "note": "ok: the Periplus, which the source dates 'to around AD 60' (about 2,000 years ago), says the country yields 'wheat and rice and sesame oil and clarified butter, cotton and the Indian cloths'."
+ },
+ "India cell|post-maurya.technology|kid": {
+  "claim": "A ruler named Rudradaman had the story of a great lake carved on a rock: who made it and who kept it working for more than 400 years. Other builders carved whole halls out of solid rock.",
+  "note": "ok: the sources put the building of the lake under 'Chandragupta Maurya (c. 320–297 BCE)' and date the inscription 'to shortly after 150 CE': more than 400 years."
+ },
+ "India cell|sangam.arts|kid": {
+  "claim": "The oldest poems of southern India were composed in Tamil about 2,000 years ago. Some are about love and some about war. In the love poems, each kind of landscape stands for a feeling.",
+  "note": "ok: the source says 'the Sangam period, spanned from c. 300 BCE to 300 CE', centred about 2,000 years ago."
+ },
+ "India era|chola|kid": {
+  "claim": "The Chola kings ruled southern India for about 400 years. They had a strong navy and sailed across the sea to Southeast Asia. They built giant stone temples and made beautiful bronze statues.",
+  "note": "ok: the source says Vijayalaya 'founded the Chola Empire in 848 CE' and gives 'the later Cholas (1070–1279)': 431 years."
+ },
+ "India era|gupta|kid": {
+  "claim": "The Gupta kings ruled much of northern India about 1,600 years ago. It was a great time for mathematics, astronomy, poetry and art. Some historians call it India's golden age, and others say that is too simple.",
+  "note": "ok: the source says the empire 'existed from the mid 3rd century to mid 6th century CE'; the middle of that span is about 1,600 years ago."
+ },
+ "India era|mahajanapadas|kid": {
+  "claim": "About 2,500 years ago northern India was divided into sixteen states. Some had kings. Some were run by councils of nobles. New cities grew up, and two famous teachers, the Buddha and Mahavira, lived at this time.",
+  "note": "ok: the source says the sixteen states 'existed in ancient India from the sixth to fourth centuries BCE', about 2,500 years ago."
+ },
+ "India era|maurya|kid": {
+  "claim": "About 2,300 years ago a king named Chandragupta Maurya built the first great empire to cover most of India. His grandson Ashoka had messages carved on rocks and stone pillars all over the land. You can still read them today.",
+  "note": "ok: the source says 'Founded by Chandragupta Maurya around c. 320 BCE', about 2,300 years ago."
+ },
+ "India event|in-adichanallur|kid": {
+  "claim": "At Adichanallur in Tamil Nadu, archaeologists found things buried between 3,000 and 2,600 years ago.",
+  "note": "ok: the source says 'the period between 1000 BC and 600 BC', that is 3,000 to 2,600 years ago."
+ },
+ "India event|in-amaravati|kid": {
+  "claim": "A great Buddhist stupa was built at Amaravati in Andhra Pradesh over about 500 years. Today it is a ruin.",
+  "note": "ok: the source says 'probably built in phases between the third century BCE and about 250 CE', about 500 years."
+ },
+ "India event|in-amri|kid": {
+  "claim": "Amri in Sindh is an old village site that goes back about 5,600 years.",
+  "note": "ok: the source says the settlement 'goes back to 3600 BCE', about 5,600 years ago. The claim's comparison with the Indus cities was not in the source and was removed."
+ },
+ "India event|in-ashtadhyayi|kid": {
+  "claim": "About 2,500 years ago a scholar named Panini wrote down the rules of the Sanskrit language in a famous book.",
+  "note": "ok: the source says the work 'is dated to somewhere between the 6th and 4th c. BCE', about 2,500 years ago."
+ },
+ "India event|in-bengal-sultanate|kid": {
+  "claim": "For about 200 years sultans ruled a rich kingdom in Bengal. In 1500 their capital, Gaur, was one of the five biggest cities in the world.",
+  "note": "ok: the source says the sultanate lasted 'between the 14th and 16th centuries', about 200 years."
+ },
+ "India event|in-bhaja|kid": {
+  "claim": "More than 2,000 years ago Buddhist monks had prayer halls cut into the cliffs of the hills near Pune.",
+  "note": "ok: the source says 'rock-cut caves dating back to the 2nd century BC', more than 2,000 years ago."
+ },
+ "India event|in-bharhut|kid": {
+  "claim": "At Bharhut the carvings on a Buddhist stupa have labels in writing that tell you what each picture shows. They are about 2,100 years old.",
+  "note": "ok: the source says 'Recent authors date the reliefs of the railings of Bharhut circa 125–100 BCE', about 2,100 years ago."
+ },
+ "India event|in-bhimbetka|kid": {
+  "claim": "In rock shelters at Bhimbetka, people painted pictures on the walls about 12,000 years ago.",
+  "note": "ok: the source says 'the earliest are dated to 10,000 BCE', about 12,000 years ago."
+ },
+ "India event|in-burzahom|kid": {
+  "claim": "At Burzahom in Kashmir, early farmers lived from about 5,000 years ago. They grew wheat.",
+  "note": "ok: the source says 'four phases of cultural significance between 3000 BCE and 1000 BCE', beginning about 5,000 years ago."
+ },
+ "India event|in-charaka-samhita|kid": {
+  "claim": "The Charaka Samhita is a very old Indian book about medicine and keeping healthy. It was written about 2,000 years ago.",
+  "note": "ok: the source attributes the text to 'Charaka (c. 1st–2nd century CE)', about 2,000 years ago."
+ },
+ "India event|in-chili|kid": {
+  "claim": "Chillies first came to Europe, Africa and Asia on the ships of European explorers about 500 years ago.",
+  "note": "ok: the source says 'through Portuguese and Spanish traders in the 16th century', about 500 years ago."
+ },
+ "India event|in-cochin-kingdom|kid": {
+  "claim": "The Kingdom of Cochin in Kerala began about 900 years ago and lasted until 1949.",
+  "note": "ok: the source says 'It originated in the early part of the 12th century', about 900 years ago."
+ },
+ "India event|in-edakkal|kid": {
+  "claim": "In caves high in the hills of Kerala, people carved pictures into the rock at least 8,000 years ago.",
+  "note": "ok: the source says 'petroglyphs believed to date to at least 6,000 BCE', at least 8,000 years ago."
+ },
+ "India event|in-famine-1899|kid": {
+  "claim": "In 1899 the summer rains failed over western and central India. The famine that followed affected almost 60 million people.",
+  "note": "ok: 'almost 60 million' rounds the source's 'a population of 59.5 million'."
+ },
+ "India event|in-grand-trunk-road|kid": {
+  "claim": "The Grand Trunk Road is one of the oldest and longest roads in Asia. People have travelled along its route for more than 2,000 years.",
+  "note": "ok: the source says 'built along an ancient route called Uttarapatha in the 3rd century BCE', more than 2,000 years ago."
+ },
+ "India event|in-halmidi|kid": {
+  "claim": "A stone found at the village of Halmidi carries the oldest writing we know in the Kannada language. It is about 1,500 years old.",
+  "note": "ok: the source says 'often dated to between 450 CE - 500 CE', about 1,500 years ago."
+ },
+ "India event|in-indo-roman-trade|kid": {
+  "claim": "About 2,000 years ago ships sailed between India and the Roman Empire. Near Pondicherry, archaeologists have dug up an old port from that time.",
+  "note": "ok: the source says the sea route 'started around the beginning of the first century AD', about 2,000 years ago."
+ },
+ "India event|in-kallanai|kid": {
+  "claim": "Almost 1,900 years ago a Chola king named Karikala built a stone dam across the Kaveri river.",
+  "note": "ok: the source says 'built by Karikala of Chola dynasty in 150 CE', 1,876 years before 2026."
+ },
+ "India event|in-kanheri|kid": {
+  "claim": "In the forest on the edge of Mumbai are caves that Buddhist monks carved and used for about 900 years.",
+  "note": "ok: the source says 'dating from the 1st century CE to the 10th century CE', about 900 years."
+ },
+ "India event|in-kot-diji|kid": {
+  "claim": "Kot Diji was a town of the early Indus people, lived in about 5,300 years ago.",
+  "note": "ok: the source says 'estimated to have been occupied around 3300 BCE', about 5,300 years ago."
+ },
+ "India event|in-mahabodhi|kid": {
+  "claim": "A tall temple at Bodh Gaya marks the spot where the Buddha is said to have understood the truth. Most of it is about 1,500 years old.",
+  "note": "ok: the source says 'What is now visible on the ground dates from the 6th century CE, or possibly earlier', about 1,500 years ago."
+ },
+ "India event|in-mamallapuram|kid": {
+  "claim": "At Mamallapuram, by the sea in Tamil Nadu, temples and sculptures were carved from the rocks about 1,300 years ago.",
+  "note": "ok: the source says '7th- and 8th-century Hindu Group of Monuments at Mahabalipuram', about 1,300 years ago."
+ },
+ "India event|in-masulipatnam|kid": {
+  "claim": "Masulipatnam was a busy port on India's east coast. From the 1500s traders from Portugal, Holland, Britain and France all came there.",
+  "note": "ok: the source says 'settlement of European traders from the 16th century, and it was a major trading port for the Portuguese, British, Dutch and French in the 17th century'; Holland, Britain and France are those countries by their everyday names."
+ },
+ "India event|in-namgyal|kid": {
+  "claim": "The Namgyal family were the kings of Ladakh for almost 400 years.",
+  "note": "ok: the source says the kingdom 'lasted from 1460 to 1842': 382 years."
+ },
+ "India event|in-nataraja|kid": {
+  "claim": "Nataraja is the god Shiva shown as a dancer. Some of the oldest carvings of him, about 1,500 years old, are in the caves at Badami.",
+  "note": "ok: the source says 'Stone reliefs at the Ellora Caves and the Badami Caves, by around the 6th century, are among the oldest Nataraja sculptures in India', about 1,500 years ago. The claim first said 1,400 and was corrected."
+ },
+ "India event|in-ocp|kid": {
+  "claim": "About 4,000 years ago villagers of the upper Ganges plain made a kind of pottery that archaeologists can recognise by its ochre colour.",
+  "note": "ok: the source says 'generally dated 2000–1500 BCE', beginning about 4,000 years ago."
+ },
+ "India event|in-qutb-minar|kid": {
+  "claim": "The Qutb Minar is a very tall stone tower in Delhi, built about 800 years ago. It has 399 steps inside.",
+  "note": "ok: the source says 'mostly built between 1199 and 1220', about 800 years ago."
+ },
+ "India event|in-rock-edicts|kid": {
+  "claim": "The emperor Ashoka had fourteen long messages to his people carved on great rocks, more than 2,200 years ago. The pin marks Brahmagiri in Karnataka, one of the places where edicts of his were found.",
+  "note": "ok: the source says the edicts were made 'from the year 12 of his reign, that is, from 256 BCE', more than 2,200 years ago."
+ },
+ "India event|in-sanchi|kid": {
+  "claim": "The emperor Ashoka had a great stone dome, called a stupa, built at Sanchi more than 2,200 years ago.",
+  "note": "ok: the source says 'originally commissioned by the Mauryan emperor Ashoka in the 3rd century BCE', more than 2,200 years ago."
+ },
+ "India event|in-shakuntala|kid": {
+  "claim": "The poet Kalidasa wrote a famous play in Sanskrit about a girl named Shakuntala. He probably lived more than 1,600 years ago.",
+  "note": "ok: the source says 'Kalidasa is often placed in the 4th century CE', more than 1,600 years ago."
+ },
+ "India event|in-takht-i-bahi|kid": {
+  "claim": "Takht-i-Bahi is an old Buddhist monastery in the hills of Pakistan. Monks lived there for 600 years.",
+  "note": "ok: the source says 'founded in the 1st century CE, and was in use until the 7th century', about 600 years."
+ },
+ "India event|in-taxila|kid": {
+  "claim": "Taxila, in today's Pakistan, is one of the oldest cities in Asia. It was founded about 3,000 years ago.",
+  "note": "ok: the source says 'Founded around c. 1000 BC', about 3,000 years ago."
+ },
+ "India event|in-toba-jwalapuram|kid": {
+  "claim": "About 76,000 years ago a giant volcano called Toba erupted, and its ash fell on India. At Jwalapuram, stone tools lie both below the ash and above it.",
+  "note": "ok: the source says 'the Toba eruption of 74,000 BC', which is 76,000 years before 2026."
+ },
+ "India event|in-tolkappiyam|kid": {
+  "claim": "The Tolkappiyam is the oldest book of Tamil grammar that still exists. Nobody is sure how old it is: its first parts may be about 2,000 years old.",
+  "note": "ok: 'may be about 2,000 years old': the source says 'the earliest layer of the Tolkappiyam was likely composed between the 2nd and 1st century BCE' according to one scholar, while another 'dates the Tolkappiyam to no earlier than the 2nd century CE'. The claim first gave the earlier date as settled and was corrected in both texts."
+ },
+ "India event|in-vasuki|kid": {
+  "claim": "In 2005 the bones of a giant snake were found in a mine in Gujarat. It was between 11 and 15 metres long and lived tens of millions of years ago.",
+  "note": "ok: 'between 11 and 15 metres' rounds the source's 'an estimated body length between 10.9–15.2 m'."
+ },
+ "India event|Q11057724|kid": {
+  "claim": "The Shah Mir family ruled Kashmir for more than 200 years.",
+  "note": "ok: the source says the dynasty ruled 'from 1339 to 1561': 222 years."
+ },
+ "India event|Q1171865|kid": {
+  "claim": "The Hindu temple at Deogarh was built about 1,500 years ago.",
+  "note": "ok: the source says 'an early 6th century Hindu temple', about 1,500 years ago."
+ },
+ "India event|Q123027565|kid": {
+  "claim": "For about 270 years, from 1320 to 1589, Kashmir was ruled by its own sultans.",
+  "note": "ok: 1589 minus 1320 is 269 years; the Wikidata item is described as '1320–1589 Islamic state in Kashmir', and the article says 'between the early 14th and late 16th centuries'. The claim first said 250 years and was made exact."
+ },
+ "India event|Q1291612|kid": {
+  "claim": "The Great Mosque of Herat was built by the Ghurid rulers about 800 years ago.",
+  "note": "ok: the source says the Ghurid sultan 'laid its foundation in 1200 CE', about 800 years ago."
+ },
+ "India event|Q1456454|kid": {
+  "claim": "A treaty signed at Rawalpindi in 1919 ended a war between Britain and Afghanistan.",
+  "note": "ok: the source says the treaty 'brought the Third Anglo-Afghan War to an end'; 'Anglo' is Britain."
+ },
+ "India event|Q1501306|kid": {
+  "claim": "The Vakataka kings ruled in the Deccan from about 1,750 years ago.",
+  "note": "ok: the source gives the founder as 'Vindhyashakti (r. 250–270)', about 1,750 years ago."
+ },
+ "India event|Q167639|kid": {
+  "claim": "The Vijayanagara Empire ruled most of southern India for more than 200 years.",
+  "note": "ok: the source says 'established in 1336' and that its power 'diminished sharply following its defeat ... at the Battle of Talikota in 1565': 229 years."
+ },
+ "India event|Q1678784|kid": {
+  "claim": "The desert kingdom of Jaisalmer began in 1156 and lasted almost 800 years.",
+  "note": "ok: the source says 'from the mid-12th century CE until 1947' and gives 1156: 791 years."
+ },
+ "India event|Q1720882|kid": {
+  "claim": "Kutch, in the far west of India, was its own kingdom for almost 700 years.",
+  "note": "ok: the source says 'a kingdom in the Kutch region from 1147 to 1819': 672 years."
+ },
+ "India event|Q179046|text": {
+  "claim": "Fatehpur Sikri, about 36 km from Agra, was founded as the capital of the Mughal Empire in 1571 by Emperor Akbar. It served as capital until 1585 and was completely abandoned in 1610.",
+  "note": "ok: 'about 36 km' rounds the source's 'Situated 35.7 kilometres (22.2 mi) from the district headquarters of Agra'."
+ },
+ "India event|Q19830062|kid": {
+  "claim": "On 25 April 2015 a powerful earthquake struck Nepal. Almost 9,000 people were killed.",
+  "note": "ok: 'almost 9,000' rounds the source's 'killed 8,962 people'."
+ },
+ "India event|Q2039087|kid": {
+  "claim": "The Chandela kings ruled central India for about 500 years.",
+  "note": "ok: the source says the empire 'existed from the early 9th century to the 14th century CE', about 500 years."
+ },
+ "India event|Q2308237|kid": {
+  "claim": "The Ahom kings ruled Assam, in India's north-east, for almost 600 years.",
+  "note": "ok: the source says the kingdom 'existed from 1228 until 1826': 598 years."
+ },
+ "India event|Q2352054|kid": {
+  "claim": "The Wazir Khan Mosque in Lahore was built in Mughal times, almost 400 years ago.",
+  "note": "ok: the source calls it 'a 17th-century Mughal mosque' and the Wikidata item dates it to 3 December 1641, 385 years before 2026."
+ },
+ "India event|Q249578|kid": {
+  "claim": "The Ghaznavid Empire flourished for about 200 years, from 977 to 1186.",
+  "note": "ok: 1186 minus 977 is 209 years; the source says 'Flourishing from 977 to 1186'."
+ },
+ "India event|Q2572901|kid": {
+  "claim": "The Kalabhras ruled the Tamil country some time between 1,700 and 1,400 years ago.",
+  "note": "ok: the source says 'sometime between the 3rd century and 6th century CE', roughly 1,700 to 1,400 years ago."
+ },
+ "India event|Q323904|kid": {
+  "claim": "Portugal ruled some ports and towns on the coast of India for more than 400 years.",
+  "note": "ok: the Wikidata item is described as 'Portuguese colonies in South Asia (1505–1961)': 456 years."
+ },
+ "India event|Q3536222|kid": {
+  "claim": "The Chennakeshava Temple at Belur is covered in fine stone carvings. It is about 900 years old.",
+  "note": "ok: the source says 'commissioned by King Vishnuvardhana in 1117 CE', 909 years before 2026."
+ },
+ "India event|Q3635669|kid": {
+  "claim": "The Mukteshvara Temple in Bhubaneswar is a small, finely carved temple more than 1,000 years old.",
+  "note": "ok: the source says 'The temple dates back to 950–975 CE', more than 1,000 years ago."
+ },
+ "India event|Q466433|kid": {
+  "claim": "The Karkota kings ruled Kashmir for more than 200 years.",
+  "note": "ok: the source gives 'The Karkota dynasty (c. 625 − 855 CE)': 230 years."
+ },
+ "India event|Q4848728|kid": {
+  "claim": "Baitala Deula is a temple to a goddess, built in Odisha about 1,300 years ago.",
+  "note": "ok: the source says 'an 8th-century Hindu temple', about 1,300 years ago. The claim first said 1,200 and was corrected."
+ },
+ "India event|Q499527|kid": {
+  "claim": "The Shalamar Gardens in Lahore were laid out by the Mughals almost 400 years ago.",
+  "note": "ok: the source says 'The 17th-century gardens date from the period of the Mughal Empire' and the Wikidata item gives 1642, 384 years before 2026."
+ },
+ "India event|Q626191|kid": {
+  "claim": "In December 1961 the Indian army entered Goa. More than 450 years of Portuguese rule there came to an end.",
+  "note": "ok: 'more than 450 years' rounds the source's 'ending 451 years of rule by Portugal'."
+ },
+ "India event|Q62943|kid": {
+  "claim": "Chandragupta Maurya founded the first empire to rule most of India, more than 2,300 years ago.",
+  "note": "ok: the source says 'Founded by Chandragupta Maurya around c. 320 BCE', more than 2,300 years ago."
+ },
+ "India event|Q6737189|kid": {
+  "claim": "The Maitraka kings ruled Gujarat for 300 years from the city of Vallabhi.",
+  "note": "ok: the source says the dynasty ruled 'from approximately 475 to 776': 301 years."
+ },
+ "India event|Q6743492|kid": {
+  "claim": "In Sri Lanka there is a tall standing Buddha carved from a single great rock about 1,400 years ago.",
+  "note": "ok: the source says 'carved out of a large limestone rock during the 7th century', about 1,400 years ago. The claim first said 1,300 and was corrected."
+ },
+ "India event|Q752091|kid": {
+  "claim": "The Sun Temple at Konark, by the sea in Odisha, was built about 800 years ago for the Sun god.",
+  "note": "ok: the source attributes the temple to Narasingha Deva I 'about 1250 CE', about 800 years ago."
+ },
+ "India event|Q817250|kid": {
+  "claim": "At Pattadakal in Karnataka, kings built a whole group of stone temples about 1,300 years ago.",
+  "note": "ok: the source says 'a complex of 7th and 8th century CE Hindu and Jain temples', about 1,300 years ago."
+ },
+ "India event|Q9443|kid": {
+  "claim": "Lothal was a town of the Indus people in what is now Gujarat. It is more than 4,000 years old.",
+  "note": "ok: the source says 'Construction of the city is believed to have begun around 2300 BCE', more than 4,000 years ago."
+ },
+ "India state|IN-AP|kid": {
+  "claim": "People called the Andhras have lived by the rivers Godavari and Krishna for more than 2,300 years. The state was made in 1953 for people who speak Telugu.",
+  "note": "ok: the source says 'Megasthenes reported in his Indica (c. 310 BCE) that Andhras lived in the Godavari and Krishna river deltas', more than 2,300 years ago."
+ },
+ "India state|IN-CT|kid": {
+  "claim": "Chhattisgarh has a cave theatre more than 2,200 years old. One family of kings ruled most of it for 700 years. It became a state in 2000.",
+  "note": "ok: the source says the caves are 'dated to the Mauryan period of 3rd century BCE', more than 2,200 years ago, and speaks of 'the Kingdom of Haihaiyavansi, whose rule lasted for 700 years'."
+ },
+ "India state|IN-DL|kid": {
+  "claim": "Delhi became the capital of sultans about 800 years ago. Later it was the capital of Mughal emperors, then of the British, and now of India.",
+  "note": "ok: the source says 'From the early 13th century until the mid-19th century, Delhi was the capital of two major empires, the Delhi Sultanate and the Mughal Empire'; the early 13th century is about 800 years ago. The claim first said Delhi had been a capital 'for 800 years' without a break and was corrected."
+ },
+ "India state|IN-LD|kid": {
+  "claim": "People have lived on these tiny islands for at least 3,500 years. They became a union territory of India in 1956.",
+  "note": "ok: the source says 'human settlement in the region from at least 1500 BCE', at least 3,500 years."
+ },
+ "India state|IN-MP|kid": {
+  "claim": "The old city of Ujjain in Madhya Pradesh is about 2,600 years old. The state was made in 1956 and lies right in the middle of India.",
+  "note": "ok: the source says Ujjain 'arose as a major city during the second wave of Indian urbanisation in the sixth century BCE', about 2,600 years ago."
+ },
+ "India state|IN-PY|kid": {
+  "claim": "Puducherry was a French colony for about 280 years. It is made of four little pieces of land far apart from each other.",
+  "note": "ok: 1954 minus 1674 is 280 years; the source says 'In 1674, the municipality of Pondicherry (Pondichéry) became a colony in the French colonial empire' and that the territories 'were completely transferred to the Republic of India de facto on 1 November 1954'. The claim first said 'almost 300 years' and was made exact."
+ },
+ "India state|IN-SK|kid": {
+  "claim": "Sikkim was a small Buddhist kingdom in the Himalaya for about 300 years. In 1975 its people voted, and it became part of India.",
+  "note": "ok: the source says 'The Kingdom of Sikkim was founded by the Namgyal dynasty in the 17th century', and it joined India in 1975: about 300 years."
+ },
+ "story scene|cold-war/cw-09|kid": {
+  "claim": "In 1961 East Germany built a wall right round the western part of Berlin, with guards and watchtowers, so that people could not cross. Families and friends were cut off from one another for 28 years.",
+  "note": "ok: 28 years is 1989 minus 1961; the source says the wall 'encircled West Berlin from 1961 to 1989'."
+ },
+ "story scene|dinosaur-extinction/dino-02|kid": {
+  "claim": "Dinosaurs became the biggest, most important land animals about 200 million years ago. They stayed on top for more than 130 million years. Scroll slowly and watch the lands move while they ruled.",
+  "note": "ok: 'about 200 million years ago' rounds the source's 'after the Triassic–Jurassic extinction event 201.3 mya'."
+ },
+ "story scene|mining-and-metals/mm-02|kid": {
+  "claim": "The oldest mine we know is in Eswatini, in southern Africa. People dug there more than 40,000 years ago. They were not looking for metal. They wanted a red rock to grind into paint.",
+  "note": "ok: 'more than 40,000 years ago': the source says 'the age of the oldest mining activities as 41,000 to 43,000 years'."
+ },
+ "story scene|mining-and-metals/mm-03|kid": {
+  "claim": "Good stone was worth digging for too. In England, people dug more than 400 deep holes through the chalk to reach flint, a stone that makes sharp axes. The biggest holes are more than 14 metres deep.",
+  "note": "ok: 'more than 400' rounds down the source's 'at least 433 shafts dug into the natural chalk'."
+ },
+ "story scene|mining-and-metals/mm-05|kid": {
+  "claim": "People soon worked gold as well. At Varna in Bulgaria, people were buried with the oldest gold treasure in the world, more than 6,000 years old.",
+  "note": "ok: the source says 'The oldest gold treasure and jewelry in the world, dating from 4600 BC to 4200 BC', which is more than 6,000 years before 2026."
+ },
+ "story scene|mining-and-metals/mm-06|kid": {
+  "claim": "Mix copper with tin and you get bronze. But tin is rare, and the places where it was found were far apart. One of those ships sank near Turkey about 3,300 years ago. Divers found it full of copper and tin.",
+  "note": "ok: the source says 'the Uluburun off the coast of Turkey dated 1300 BC', about 3,300 years before 2026."
+ },
+ "story scene|printing-press/pp-10|kid": {
+  "claim": "In 1543 a book was printed in Nuremberg that changed how people saw the sky. Its writer, Copernicus, said that the Earth goes around the Sun, and not the Sun around the Earth.",
+  "note": "ok: 'the Earth goes around the Sun' puts into plain words the source's 'heliocentric theory', set against 'Ptolemy's geocentric system'."
+ },
+ "story scene|printing-press/pp-10|text": {
+  "claim": "In 1543 a press in Nuremberg printed On the Revolutions of the Heavenly Spheres by Nicolaus Copernicus. It set out a model of the universe with the Sun at the centre, against the Earth-centred system that had been accepted since ancient times.",
+  "note": "ok: 'the Sun at the centre' and 'Earth-centred' put into plain words the source's 'heliocentric theory' and 'Ptolemy's geocentric system'."
+ },
+ "story scene|silk-roads/sr-01|kid": {
+  "claim": "The Silk Road was not one road. It was a whole web of paths across Asia, used by traders for about 1,600 years. The name only became well known about 150 years ago.",
+  "note": "ok: 'about 150 years ago' is 2026 minus 1877; the source says the name 'was first popularized in 1877 by Ferdinand von Richthofen'. The claim first said 'invented' and was corrected to 'became well known', because the source adds that the term 'had been in use in decades prior'."
+ },
+ "story scene|silk-roads/sr-03|kid": {
+  "claim": "About 2,100 years ago the emperor of China sent a man named Zhang Qian to find out what lay to the west. What he learned opened the way for traders.",
+  "note": "ok: 'about 2,100 years ago' is the late 2nd century BC; the source says Zhang Qian 'served as an imperial envoy to the world outside of China in the late 2nd century BC' and died 'c. 114 BC'."
+ },
+ "story scene|silk-roads/sr-08|kid": {
+  "claim": "Merv was a great city on the road, in what is now Turkmenistan. People lived there for around 4,000 years.",
+  "note": "ok: 'around 4,000 years': the source says 'Human settlements on the site of Merv existed from the 3rd millennium BC until the 18th century AD'."
+ },
+ "story scene|silk-roads/sr-09|kid": {
+  "claim": "Palmyra was a city in the Syrian desert. It came under the rule of the Roman Empire about 2,000 years ago.",
+  "note": "ok: 'about 2,000 years ago' is the first century AD; the source says 'becoming a subject of the Roman Empire in the first century AD'."
+ },
+ "story scene|silk-roads/sr-14|kid": {
+  "claim": "After about the year 1450 the old roads were used less and less. Traders began to go by sea instead.",
+  "note": "ok: 'about the year 1450' is the source's 'active from the second century BCE until the mid-15th century'."
+ },
+ "story scene|spice-trade/sp-04|kid": {
+  "claim": "In Syria, archaeologists dug up a house that burned down about 3,700 years ago. Inside they found cloves. Cloves grew only on a few islands, very far away. Somehow they had travelled all that way.",
+  "note": "ok: the source says cloves were found 'in a burned-down house which was dated to 1720 BC', about 3,700 years before 2026."
+ },
+ "story scene|spice-trade/sp-06|kid": {
+  "claim": "About 2,000 years ago a Greek sailor wrote a guide for ships sailing from Egypt to India. Instead of following the coast, they sailed straight across the open sea.",
+  "note": "ok: the source dates the text 'to around AD 60', about 2,000 years ago, and says it 'was likely written by an Egyptian Greek sailor'."
+ },
+ "story scene|zero/zero-03|kid": {
+  "claim": "In Babylon, people wrote numbers by pressing marks into soft clay. Where a mark stood changed what it was worth, just like the 2 in 20 and the 2 in 200. When a place was empty they left a gap. Later they used two slanted marks to say \"nothing here\".",
+  "note": "ok: 20 and 200 are an illustration of place value written for this text, not figures taken from a source."
+ },
+ "trail stop|battles/bt-1|kid": {
+  "claim": "More than 3,200 years ago, the armies of Egypt and the Hittites fought beside a river on what is today the border of Lebanon and Syria. Thousands of chariots took part. It is the oldest battle that we know the details of.",
+  "note": "ok: the source says 'generally dated to May 1274 BCE', 3,300 years before 2026."
+ },
+ "trail stop|buddhism/bu-1|kid": {
+  "claim": "Buddhist tradition says that the Buddha was born here, in a garden called Lumbini in what is now Nepal, about 2,500 years ago. His name then was Siddhartha Gautama.",
+  "note": "ok: the source says 'Queen Maya gave birth to Siddhartha Gautama, the Buddha, in Lumbini, c. 563 BCE', about 2,500 years ago; the claim presents it as tradition."
+ },
+ "trail stop|buddhism/bu-4|kid": {
+  "claim": "This great stone dome on a hill in India is called a stupa. The emperor Ashoka had it built more than 2,200 years ago. It is one of the oldest stone buildings in India.",
+  "note": "ok: the source says 'originally commissioned by the Mauryan emperor Ashoka in the 3rd century BCE', more than 2,200 years ago."
+ },
+ "trail stop|buddhism/bu-7|kid": {
+  "claim": "In a valley in Afghanistan, two giant statues of the Buddha were carved into a cliff about 1,450 years ago. The bigger one was 55 metres tall.",
+  "note": "ok: the source says the smaller Buddha 'was built around 570 CE, and the larger 55 m ... around 618', about 1,450 years ago."
+ },
+ "trail stop|building/bg-1|kid": {
+  "claim": "More than 11,000 years ago, people raised rings of giant stone pillars on a hill in what is now Turkey, and carved wild animals on them. They are some of the oldest big stone monuments in the world.",
+  "note": "ok: the source says 'the earliest exposed structures at Göbekli Tepe were built between 9500 and 9000 BCE', more than 11,000 years ago."
+ },
+ "trail stop|building/bg-13|kid": {
+  "claim": "The Burj Khalifa in Dubai is the tallest building in the world: almost 830 metres high. Work on it started in 2004.",
+  "note": "ok: 'almost 830 metres' rounds the source's 'total height of 829.8 m'."
+ },
+ "trail stop|building/bg-2|kid": {
+  "claim": "Stonehenge is a ring of huge standing stones in England, begun about 5,000 years ago. Each big stone weighs about 25 tons. The stones line up with the sunrise on the longest day of the year.",
+  "note": "ok: the source says 'constructed in several phases, beginning about 3100 BC', about 5,000 years ago."
+ },
+ "trail stop|building/bg-4|kid": {
+  "claim": "The Great Wall of China is really many walls, built over a very long time to keep out raiders from the north. The first parts were built about 2,700 years ago.",
+  "note": "ok: the source says 'The first walls date to the 7th century BC', about 2,700 years ago."
+ },
+ "trail stop|building/bg-5|kid": {
+  "claim": "The Romans built this tall bridge in France almost 2,000 years ago. It carried water, in a channel more than 50 kilometres long, to a Roman town.",
+  "note": "ok: the source says 'built in the first century AD', almost 2,000 years ago."
+ },
+ "trail stop|building/bg-6|kid": {
+  "claim": "The Pantheon in Rome was built as a temple to all the Roman gods. The building you can see today was rebuilt by the emperor Hadrian almost 1,900 years ago. Today it is used as a church.",
+  "note": "ok: the source says 'the present building was completed by the emperor Hadrian and probably dedicated c. AD 126', 1,900 years before 2026."
+ },
+ "trail stop|building/bg-8|kid": {
+  "claim": "Angkor Wat in Cambodia is the biggest religious building in the world. A Khmer king had it built about 900 years ago as a Hindu temple. Later it became a Buddhist temple.",
+  "note": "ok: the source says 'constructed between 1113 and 1150 CE', about 900 years ago."
+ },
+ "trail stop|libraries/lib-1|kid": {
+  "claim": "About 2,700 years ago a king named Ashurbanipal collected a huge library. His books were clay tablets, and more than 30,000 pieces survive. One of them holds one of the oldest stories in the world, about a hero called Gilgamesh.",
+  "note": "ok: the source gives 'King Ashurbanipal (668–627 BCE)', about 2,700 years ago."
+ },
+ "trail stop|libraries/lib-7|kid": {
+  "claim": "In a temple in the mountains of Korea, there is a library made of wood. The Buddhist holy books were carved onto more than 80,000 wooden blocks, ready for printing. They have been kept there since 1398.",
+  "note": "ok: 'more than 80,000' rounds down the source's 'carved onto 81,352 wooden printing blocks'."
+ },
+ "trail stop|salt/salt-1|kid": {
+  "claim": "More than 7,000 years ago, people in what is now Bulgaria made salt and traded it. Their little town had stone walls. Lots of gold was found nearby, so the salt probably made them rich.",
+  "note": "ok: the source calls it 'the oldest salt production center in continental Europe (5500-4200 BC)'; 5500 BC is more than 7,000 years before 2026."
+ },
+ "trail stop|salt/salt-4|kid": {
+  "claim": "Because everyone needs salt, rulers found they could make people pay a tax on it. China did this first, about 2,300 years ago. The pin is on a Chinese city famous for its deep salt wells.",
+  "note": "ok: the source says 'Salt taxation in China dates back to 300 BC', about 2,300 years ago, and 'Salt taxes date as far back as 300 BC'."
+ },
+ "trail stop|salt/salt-5|kid": {
+  "claim": "This salt mine in Poland was worked for about 700 years. Deep underground the miners carved whole chapels and statues out of salt. You can visit them today.",
+  "note": "ok: 'about 700 years': the source says the mine, 'excavated from the 13th century, produced table salt continuously until 1996'. The claim first said 'more than 700' and was corrected."
+ },
+ "trail stop|salt/salt-8|kid": {
+  "claim": "This huge salt mine in Pakistan is the second biggest in the world. The story goes that soldiers of Alexander the Great found the salt more than 2,300 years ago. The salt here is pink.",
+  "note": "ok: the source says 'its discovery by Alexander's troops in 326 BC', more than 2,300 years before 2026."
+ },
+ "trail stop|sky/sk-1|kid": {
+  "claim": "Almost 7,000 years ago, farmers in what is now Germany built a great circle of wooden posts and ditches. Its gates line up with where the Sun rises and sets on the shortest day of the year.",
+  "note": "ok: the source says 'It was constructed around 4900 BC', 6,926 years before 2026."
+ },
+ "trail stop|sky/sk-2|kid": {
+  "claim": "In the desert of Peru there is a line of thirteen stone towers on a hill. They were built about 2,250 years ago. Seen from the right spot, the Sun rises behind a different tower as the year goes by, like a giant calendar.",
+  "note": "ok: the source says 'an astronomical observatory built in the third century BC', about 2,250 years ago."
+ }
+}

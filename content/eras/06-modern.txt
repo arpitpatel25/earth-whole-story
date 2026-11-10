@@ -1,0 +1,297 @@
+# The modern world: from the ocean voyages to this website.
+
+@era early-modern
+name: Early modern world
+kid: Ships, empires and new science
+level: 1
+group: modern
+span: 1492..1760
+src: Early modern period
+src: Age of Discovery
+S: The early modern period is usually placed between about 1500 and about 1800, with no exact date at either end. Its divisions come mainly from European history, and how well they fit depends on the region being studied.
+K: About 500 years ago, sailors from Europe began exploring, colonizing and conquering lands across the globe. Historians call the centuries that followed the early modern period.
+
+@era revolutions-industry
+name: Revolutions and industry
+kid: Revolutions and factories
+level: 1
+group: modern
+span: 1760..1914
+src: Industrial Revolution
+src: Age of Revolution
+S: The Industrial Revolution began in Great Britain around 1760 and had spread to continental Europe and the United States by about 1840. From the late 18th to the mid 19th century, revolutions across Europe and the Americas replaced absolute monarchies with governments bound by written constitutions.
+K: Machines and factories changed how things were made, starting in Britain around 1760. In the same years, people in many countries rose up and demanded a say in how they were ruled.
+
+@era world-wars
+name: World wars
+kid: Two world wars
+level: 1
+group: modern
+span: 1914..1945
+src: World War I
+src: World War II
+S: The First World War (28 July 1914 to 11 November 1918) caused 15 to 22 million deaths. The Second (1 September 1939 to 2 September 1945) was the deadliest conflict in history, killing 60 to 75 million people, most of them civilians.
+K: Two terrible wars spread across the world in just thirty years. Tens of millions of people died, and most of those killed in the second war were not soldiers.
+
+@era cold-war-era
+name: Cold War and decolonization
+short: Cold War
+kid: The Cold War and new countries
+level: 1
+group: modern
+span: 1945..1991
+src: Cold War
+src: Decolonization
+S: The Cold War was a rivalry between the United States and the Soviet Union and their allies that began after the Second World War and ended when the Soviet Union dissolved in 1991. In the same decades colonial empires broke up as their colonies won independence.
+K: After the war, two powerful countries, the United States and the Soviet Union, became rivals without fighting each other directly. Meanwhile, many colonies became free countries.
+
+@era connected-age
+name: The connected age
+kid: The connected world
+level: 1
+group: modern
+span: 1991..2027
+src: World Wide Web
+src: Globalization
+S: The World Wide Web was released to the whole Internet on 23 August 1991. Since then economies, markets, societies and cultures around the world have grown more closely tied together, a process known as globalization.
+K: In 1991 the World Wide Web opened to everyone. Since then, people everywhere have become linked together more closely than ever before.
+
+@era ocean-voyages
+name: Ocean voyages
+kid: Sailing into the unknown
+level: 2
+group: modern
+span: 1418..1620
+src: Age of Discovery
+S: In the Age of Discovery, from about 1418 to about 1620, seafarers from European countries explored, colonized and conquered regions across the globe, bringing previously isolated parts of the world into contact.
+K: European sailors set out across the oceans and reached lands they had not known about. They often took those lands by force from the people who lived there.
+
+@era columbian-exchange
+name: Columbian Exchange
+kid: The great swap
+level: 2
+group: modern
+span: 1492..1650
+src: Columbian exchange
+S: From the late 15th century, plants, animals and diseases moved in both directions between the Americas and Afro-Eurasia on a scale never seen before. The exchange is named after Christopher Columbus.
+K: From the late 1400s, plants, animals and diseases crossed the Atlantic both ways. Maize, potatoes and tomatoes went one way; wheat, sugar cane and farm animals went the other.
+
+@era colonialism
+name: Colonial empires
+kid: Colonial empires
+level: 2
+group: modern
+span: 1500..1914
+src: Colonialism
+S: Colonialism is the practice of extending and maintaining political, social, economic and cultural domination over a territory and its people by another people, who pursue their own interests from an often distant centre and claim superiority.
+K: Powerful countries took control of faraway lands and the people living there, and ran them for their own benefit. This is called colonialism.
+
+@era atlantic-slave-trade
+name: Atlantic slave trade
+kid: The Atlantic slave trade
+level: 2
+group: modern
+span: 1526..1867
+src: Atlantic slave trade
+S: The Atlantic slave trade carried enslaved African people to the Americas in ships from Europe and the New World. The historian Patrick Manning estimates that about 12 million people entered the trade between the 16th and 19th centuries, and that about 1.5 million of them died on board.
+K: For more than 300 years, millions of African people were captured, shipped across the Atlantic Ocean and forced to work without freedom or pay. Very many died on the way.
+note: The band's start and end years are nominal bounds for "the 16th to 19th centuries".
+content-note: This entry concerns slavery and mass death.
+
+@era gunpowder-empires
+name: Gunpowder empires
+kid: Three great empires
+level: 2
+group: modern
+span: 1550..1720
+src: Gunpowder empires
+S: "Gunpowder empires" is a term coined by the historian Marshall Hodgson in 1974 for three Muslim empires that flourished between the mid 16th and early 18th centuries: the Ottoman, the Safavid and the Mughal.
+K: Three big empires grew strong at about the same time: the Ottomans around Turkey, the Safavids in Iran and the Mughals in India.
+
+@era scientific-revolution
+name: Scientific Revolution
+kid: A new way of finding things out
+level: 2
+group: modern
+span: 1543..1700
+src: Scientific Revolution
+S: In the 16th and 17th centuries a new science emerged in Europe that broke with earlier natural philosophy. It was more mechanical in outlook and more tightly bound to mathematics.
+K: In the 1500s and 1600s, thinkers in Europe began testing ideas with careful measurement and mathematics. It changed how people study nature.
+note: The period is frequently said to have begun in 1543, with the printing of works by Vesalius and Copernicus.
+
+@era enlightenment
+name: Enlightenment
+kid: The Enlightenment
+level: 2
+group: modern
+span: 1685..1800
+src: Age of Enlightenment
+S: The Enlightenment, or Age of Reason, was a period of intellectual and cultural flourishing that emerged in western and central Europe in the late 17th century and peaked in the 18th, as its ideas spread across Europe and its colonies.
+K: In the 1700s, writers and thinkers argued that people should use reason and question old rules. Their ideas spread across Europe and beyond.
+
+@era age-of-revolution
+name: Age of Revolution
+kid: An age of revolutions
+level: 2
+group: modern
+span: 1775..1848
+src: Age of Revolution
+S: From the late 18th to the mid 19th century, revolutionary movements swept most of Europe and the Americas. Absolute monarchies gave way to representative governments with written constitutions, and nation states were created.
+K: In the Americas and across Europe, people rose up against kings and distant rulers and wrote new rules, called constitutions, for governing themselves.
+
+@era industrial-revolution
+name: Industrial Revolution
+kid: The Industrial Revolution
+level: 2
+group: modern
+span: 1760..1840
+src: Industrial Revolution
+S: The Industrial Revolution was a shift of the economy toward more widespread, efficient and stable manufacturing. It began in Great Britain around 1760 and had reached continental Europe and the United States by about 1840.
+K: Around 1760 in Britain, people began using machines to make things much faster than by hand. Within eighty years the change had spread to Europe and America.
+
+@era resource-rushes
+name: Mining and resource rushes
+short: Resource rushes
+kid: Gold rushes
+level: 2
+group: modern
+span: 1848..1900
+src: Gold rush
+S: A gold rush is a discovery of gold that brings an onrush of miners seeking their fortune. Major rushes took place in the 19th century in Australia, New Zealand, Brazil, Chile, South Africa, the United States and Canada, among other places.
+K: When gold was found, thousands of people raced there hoping to get rich. In the 1800s there were gold rushes in America, Australia, South Africa and many other places.
+note: The band's dates are nominal; the source says "the 19th century".
+
+@era new-imperialism
+name: Imperial expansion
+kid: Empires grab the map
+level: 2
+group: modern
+span: 1870..1914
+src: New Imperialism
+S: In the late 19th and early 20th centuries the major Western powers and the Empire of Japan pursued overseas territory on an unprecedented scale, a period historians call the New Imperialism.
+K: In the late 1800s, a few powerful countries raced to take over as much of the world as they could.
+
+@era abolition
+name: Abolition
+kid: Ending slavery
+level: 2
+group: modern
+span: 1780..1888
+src: Abolitionism
+S: Abolitionism is the political movement to end slavery and free enslaved people around the world. It gained momentum in the Western world in the late 18th and 19th centuries.
+K: Abolitionism was the movement to end slavery and free enslaved people. It grew strong in the late 1700s and 1800s.
+note: The band's dates are nominal; the source says "the late 18th and 19th centuries".
+
+@era world-war-one
+name: First World War
+kid: The First World War
+level: 2
+group: modern
+span: 1914-07-28..1918-11-11
+src: World War I
+S: The First World War, 28 July 1914 to 11 November 1918, was a global conflict between the Allies and the Central Powers. One of the deadliest in history, it caused 15 to 22 million deaths.
+K: The First World War lasted from 1914 to 1918. Countries all over the world were pulled in, and millions of people died.
+
+@era world-war-two
+name: Second World War
+kid: The Second World War
+level: 2
+group: modern
+span: 1939-09-01..1945-09-02
+src: World War II
+S: The Second World War, 1 September 1939 to 2 September 1945, was fought between the Allies and the Axis powers and involved nearly every country. It caused 60 to 75 million deaths, a majority of them civilians.
+K: The Second World War lasted from 1939 to 1945 and reached almost every country on Earth. It was the deadliest war in history.
+
+@era decolonization
+name: Decolonization
+kid: Colonies become countries
+level: 2
+group: modern
+span: 1945..1975
+src: Decolonization
+S: Decolonization is the ending of colonialism. As a movement for independence from imperial powers it began with the American Revolution in 1775; the global colonial empires collapsed in the decades after the Second World War.
+K: After the Second World War, the empires of Britain, France and other countries broke up, and the lands they had ruled became independent countries.
+note: The band covers the main post-war wave; the source dates the movement's beginning to 1775.
+
+@era cold-war
+name: Cold War
+kid: The Cold War
+level: 2
+group: modern
+span: 1947..1991
+src: Cold War
+S: The Cold War was a geopolitical rivalry between the United States and the Soviet Union and their allies. It began in the aftermath of the Second World War and ended with the dissolution of the Soviet Union in 1991. It is called cold because the two superpowers never fought each other directly.
+K: The United States and the Soviet Union were rivals for more than forty years. They never fought each other directly, which is why it is called a "cold" war.
+
+@era space-age
+name: Space Age
+kid: Into space
+level: 2
+group: modern
+span: 1957-10-04..1975
+src: Space Age
+S: The Space Age began with the launch of Sputnik 1 on 4 October 1957. By one common definition it ended in 1975 with the Apollo–Soyuz Test Project, which closed the Space Race.
+K: On 4 October 1957 the first satellite, Sputnik 1, was launched into space. A race to explore space had begun.
+
+@era green-revolution
+name: Green Revolution
+kid: Growing much more food
+level: 2
+group: modern
+span: 1950..1989
+src: Green Revolution
+S: The Green Revolution was a period in which the transfer of farming technology greatly increased crop yields. It began in developed countries in the early 20th century and spread around the world until the late 1980s. The agricultural scientist Norman Borlaug was a key leader.
+K: Scientists bred new kinds of wheat and rice that gave far bigger harvests. With fertilizer and irrigation, farms around the world grew much more food.
+note: The band's start date is nominal for the period of global spread.
+
+@era globalization
+name: Globalization
+kid: One connected world
+level: 2
+group: modern
+span: 1980..2027
+src: Globalization
+S: Globalization is the growing interdependence and integration of economies, markets, societies and cultures across countries. It is driven by lower barriers to trade, freer movement of capital, better transport and advances in communication technology.
+K: Today, things made in one country are sold in another, and news, music and ideas cross the world in seconds. This growing together is called globalization.
+note: The band's start date is nominal.
+
+@era internet
+name: Internet
+kid: The Internet
+level: 2
+group: modern
+span: 1969..2027
+src: History of the Internet
+src: World Wide Web
+S: The Internet grew out of efforts to connect computer networks. The United States research agency ARPA awarded contracts in 1969 to build the ARPANET. Tim Berners-Lee invented the World Wide Web at CERN in 1989, and it was released to the whole Internet on 23 August 1991.
+K: The Internet began in 1969 as a way to link a few computers. In 1989 Tim Berners-Lee invented the World Wide Web, which made it easy for anyone to share pages like this one.
+
+@era smartphones
+name: Smartphones
+kid: Smartphones
+level: 2
+group: modern
+span: 2007..2027
+src: Smartphone
+S: A smartphone combines a mobile phone with a computer. After the iPhone became popular in the late 2000s most smartphones took the same form: a thin slate with a large touch screen. Since 2014 more than a billion have been sold every year.
+K: A smartphone is a phone and a computer in one. More than a billion of them are sold every year.
+
+@era climate-change
+name: Climate change
+kid: A warming world
+level: 2
+group: modern
+span: 1850..2027
+src: Climate change
+S: Global average temperature is rising, driven by human activities, especially the burning of coal, oil and natural gas since the Industrial Revolution. The year 2024 was the warmest on record, 1.60 °C above the level when regular tracking began in 1850.
+K: Burning coal, oil and gas is warming the whole planet. 2024 was the hottest year since records began in 1850.
+
+@era machine-learning
+name: Machine learning
+kid: Machines that learn
+level: 2
+group: modern
+span: 1959..2027
+src: Machine learning
+S: Machine learning is the study of algorithms that learn from data and generalize to new data without being explicitly programmed. The term was coined in 1959 by Arthur Samuel of IBM. Advances in deep learning have since let neural networks outperform many earlier approaches.
+K: In machine learning, a computer is not told every step. It works out patterns from lots of examples. The name was invented in 1959.

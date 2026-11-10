@@ -1,0 +1,8 @@
+[
+  {"id":"universe","level":0,"name":"Universe","kidName":"The universe begins","start":-13800000000,"end":-4600000000,"color":"#3a3f8c"},
+  {"id":"young-earth","level":0,"name":"Young Earth","kidName":"Earth is born","start":-4600000000,"end":-538800000,"color":"#b5442c"},
+  {"id":"life","level":0,"name":"Life","kidName":"Life takes over","start":-538800000,"end":-7000000,"color":"#2f8f6b"},
+  {"id":"humans","level":0,"name":"Humans","kidName":"The first people","start":-7000000,"end":-10000,"color":"#c8862a"},
+  {"id":"civilization","level":0,"name":"Civilization","kidName":"Farms, cities and empires","start":-10000,"end":1492,"color":"#3f74c9"},
+  {"id":"modern","level":0,"name":"Modern world","kidName":"The modern world","start":1492,"end":3000,"color":"#e9e4d6"}
+]

@@ -1,0 +1,144 @@
+{
+  "ranAt": "2026-11-10T07:07:44.080Z",
+  "quick": false,
+  "results": [
+    {
+      "n": 1,
+      "name": "Any year from 3000 BCE to today can be reached and shows matching content",
+      "pass": true,
+      "detail": "40 years by the clock, 5 typed dates",
+      "seconds": 7.4
+    },
+    {
+      "n": 2,
+      "name": "Time never changes unless the user moves it (60 seconds idle)",
+      "pass": true,
+      "detail": "date stayed at 1347.5 while the ambient clock advanced 60 s",
+      "seconds": 61.5
+    },
+    {
+      "n": 3,
+      "name": "Rotating or zooming never changes the time; changing time never moves the camera",
+      "pass": true,
+      "detail": "drag: -33.8 deg, date fixed; time wheel: 96 years, camera fixed",
+      "seconds": 5.9
+    },
+    {
+      "n": 4,
+      "name": "Continents visibly change from 1 Gya to today and end at real coastlines",
+      "pass": true,
+      "detail": "frame-to-frame change 14% 16% 46% 48% 21% 45%; present-day offset 0.00000 deg over 455 points",
+      "seconds": 1
+    },
+    {
+      "n": 5,
+      "name": "Ice sheets and sea levels change across the ice ages",
+      "pass": true,
+      "detail": "sea level 20 ka: -117.6 m; Laurentide view differs 73%; Sunda shelf differs 34%",
+      "seconds": 0.5
+    },
+    {
+      "n": 6,
+      "name": "Borders change year by year in recorded history",
+      "pass": true,
+      "detail": "8/10 places changed hands 4+ times since 500 BCE; 10 dated changes land in the right year (Karlovy Vary 1939: Czechoslovakia to Germany (Prussia); Leipzig 1991: German Democratic Republic to German Federal Republic; Kyiv 1992: Russia (Soviet Union) to Ukraine); Europe's map changed in 16 separate years of the 20th century (1906, 1909, 1913, 1914, 1918, 1919, 1920, 1921, 1922, 1939, 1940, 1945, 1947, 1991, 1992, 1993)",
+      "seconds": 6.7
+    },
+    {
+      "n": 7,
+      "name": "Timeline scrubbing is smooth, with no blocking load",
+      "pass": true,
+      "detail": "642 frames: median 16.7 ms, 95th percentile 16.7 ms, worst 17 ms",
+      "seconds": 12.3
+    },
+    {
+      "n": 8,
+      "name": "Clicking any of 200 randomly sampled pins opens a correct, complete deep view",
+      "pass": true,
+      "detail": "210 sampled records resolve to complete views (160 automatic, 50 curated); 20 real clicks on pins opened the right view",
+      "seconds": 3.5
+    },
+    {
+      "n": 9,
+      "name": "100 random land points at 20 random times: real content or an honest thin-record statement",
+      "pass": true,
+      "detail": "2000 place-moments: 2000 with content, 0 with an honest thin-record statement, 0 blank",
+      "seconds": 544.9
+    },
+    {
+      "n": 10,
+      "name": "All 15 lenses visibly change the view (and the 6 deep-time lenses)",
+      "pass": true,
+      "detail": "pins per lens over India in 1930: power 260, war 260, trade 82, work 70, food 23, daily 260, science 260, medicine 142, technology 260, religion 232, arts 260, language 119, nature 260, movement 260, women 42; deep-time lenses at 100 Ma change the screen by: geology 26%, climate 45%, life 23%, extinctions 41%, oceans 42%, cosmos 41%",
+      "seconds": 6.8
+    },
+    {
+      "n": 11,
+      "name": "Search finds events, people, places and dates, and moves clock and globe",
+      "pass": true,
+      "detail": "8 searches; choosing a result set the clock to 1757.48 and flew to 24.0, 87.1",
+      "seconds": 6.1
+    },
+    {
+      "n": 12,
+      "name": "\"What stood right here?\", \"This day\", \"Surprise me\", \"Meanwhile\" and Trails all work",
+      "pass": true,
+      "detail": "right here: 141 lines for Rome; this day: 12 events (This day in history: 10 November); surprise: \"Srebrenica massacre\"; meanwhile: present; 12 trails, 131 stops walked",
+      "seconds": 3.8
+    },
+    {
+      "n": 17,
+      "name": "Kid mode exists for all curated content",
+      "pass": true,
+      "detail": "275 scenes, 131 trail stops, 321 India cells, 1006 India events, 229 biographies, 36 states, 23 3D scenes, 6 multi-region events, 106 eras: all have separate Kid text",
+      "seconds": 1
+    },
+    {
+      "n": 18,
+      "name": "Both flagship stories have 40+ scenes and work forwards, backwards and when stopped midway",
+      "pass": true,
+      "detail": "How We Became Human: 42 scenes forwards and backwards, explored at scene 21; World War II: 48 scenes forwards and backwards, explored at scene 24",
+      "seconds": 23.4
+    },
+    {
+      "n": 19,
+      "name": "All 12 shorter stories play through",
+      "pass": true,
+      "detail": "14 stories, 9 formats: black-death 12, silk-roads 14, mongol-empire 12, atlantic-slave-trade 12, cold-war 14, columbian-exchange 11, dinosaur-extinction 13, industrial-revolution 15, mining-and-metals 15, zero 14, printing-press 14, spice-trade 15, mohenjo-daro 12, ibn-battuta 12",
+      "seconds": 29
+    },
+    {
+      "n": 20,
+      "name": "Multi-country events draw across the globe and show region-specific views",
+      "pass": true,
+      "detail": "region views shown from here: black-death 5, columbian-exchange 5, atlantic-slave-trade 5, ww2 8, cold-war 6, partition 4; a war scene draws 4 overlays across the map",
+      "seconds": 9.4
+    },
+    {
+      "n": 23,
+      "name": "Mobile emulation at 390x844 is fully usable, and quality scaling triggers",
+      "pass": true,
+      "detail": "phone starts at \"low\" quality; desktop steps medium to low under load; touch drag, menu, India sheet, deep view, 3D part and story all usable at 390x844",
+      "seconds": 6.1
+    },
+    {
+      "n": 25,
+      "name": "All 9 capture views work through window.__earthCapture",
+      "pass": true,
+      "detail": "9 views ready, exact, deterministic and non-empty (mean brightness 14 48 45 41 49 103 75 66 71)",
+      "seconds": 9.2
+    },
+    {
+      "n": 26,
+      "name": "All shareable links restore state exactly",
+      "pass": true,
+      "detail": "11 links restored and round-tripped; titles such as \"1943 CE, Russia | EARTH: The Whole Story\", \"1930 CE, Gujarat, India | EARTH: The Who\", \"World War II, 8 September 1942, Russia |\"",
+      "seconds": 38
+    },
+    {
+      "n": 0,
+      "name": "No console errors during the acceptance run",
+      "pass": true
+    }
+  ]
+}

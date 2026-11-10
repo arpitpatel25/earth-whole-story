@@ -1,0 +1,117 @@
+# Trail: the fossil record of life's big steps (deep time). Facts from the articles named in src.
+
+@trail life
+title: Life's big steps
+kid-title: The great story of life
+theme: nature
+color: #7fe0a8
+order: 7
+deck: Ten famous fossil sites, from mats of microbes to footprints in ash. Each pin rides its plate, so you see where the rock was when the creatures were alive.
+kid-deck: Rocks keep a diary of life. Visit ten places where amazing fossils were found, from slimy mats of microbes to the footprints of our own ancestors.
+
+@stop lf-1
+trail: life
+title: Rocks built by microbes
+date: 1.25 bya
+at: Shark Bay
+alt: 9000
+src: Stromatolite
+src: Shark Bay
+T: Stromatolites are layered rock formations built up mainly by photosynthetic microorganisms such as cyanobacteria. They were at their peak about 1.25 billion years ago and later declined. Shark Bay in Western Australia is most renowned for its living stromatolites: hard domes made by colonies of microbial mats, said to be the oldest life forms on Earth.
+K: Long before animals, the sea was full of tiny living things too small to see. Some of them built up layered, bumpy rocks called stromatolites. You can still see living ones today at Shark Bay in Australia.
+note: The date is the peak of stromatolites given in the source, not the age of the living ones at Shark Bay.
+
+@stop lf-2
+trail: life
+title: The first big living things
+date: 570 mya
+at: Mistaken Point Ecological Reserve
+alt: 9000
+src: Mistaken Point Ecological Reserve
+src: Ediacaran
+T: At Mistaken Point, on the south-eastern tip of Newfoundland, a rock formation holds one of the most diverse and best preserved collections of Ediacaran fossils. They are the oldest known remnants of multicellular life on Earth.
+K: For a very long time all living things were tiny. The rocks at this spot in Canada hold the oldest known fossils of living things made of many cells.
+note: The date is approximate. The source gives only the period, the Ediacaran, which lasted from about 635 to 539 million years ago.
+
+@stop lf-3
+trail: life
+title: An explosion of animals
+date: 508 mya
+at: Yoho National Park
+alt: 9000
+src: Burgess Shale
+T: The Burgess Shale, in the Canadian Rockies near the town of Field in Yoho National Park, dates to about 508 to 505 million years ago. It is famous because it preserved soft-bodied animals, as thin dark films on the rock. The palaeontologist Charles Walcott discovered it on 30 August 1909.
+K: High in the mountains of Canada is a rock full of strange sea animals from 508 million years ago. Even their soft parts were saved, pressed flat like flowers in a book. It was found in 1909.
+
+@stop lf-4
+trail: life
+title: Plants reach the land
+date: 410 mya
+at: Rhynie chert
+alt: 9000
+src: Rhynie chert
+T: The Rhynie chert, near a village in Aberdeenshire, formed about 410 million years ago and preserves early land life in extraordinary detail. Most of the fossils are primitive plants, which had water-conducting cells but no true leaves, along with arthropods, lichens, algae and fungi.
+K: Life began in water. This rock in Scotland shows some of the first plants that lived on land, 410 million years ago. They had stems to carry water but no real leaves yet. Small creepy-crawlies lived among them.
+
+@stop lf-5
+trail: life
+title: A fish with a neck
+date: 375 mya
+at: Ellesmere Island
+alt: 9000
+src: Tiktaalik
+T: Tiktaalik lived about 375 million years ago. It was a lobe-finned fish, with scales and gills, but it had many features of four-legged animals, including a flattened, triangular head. The first fossils were found in 2004 on Ellesmere Island in Arctic Canada.
+K: Tiktaalik was a fish, with scales and gills. But it had a flat, triangular head and unusual fins. It is a clue to how fish slowly became animals with four legs. Its fossils were found in the Arctic in 2004.
+
+@stop lf-6
+trail: life
+title: A coal-age rainforest
+date: 310 mya
+at: Joggins
+alt: 9000
+src: Joggins
+T: The cliffs at Joggins in Nova Scotia are famous for their record of a rainforest ecosystem of about 310 million years ago, in the "Coal Age". The fossils are mainly seed ferns, lycopsids and horsetails, with early four-legged animals and sea life. A 15-km stretch of the coast is a World Heritage Site.
+K: These sea cliffs in Canada hold a whole fossil forest from 310 million years ago, the time when coal was made. There are ferns, horsetails and early four-legged animals.
+
+@stop lf-7
+trail: life
+title: Feathers in stone
+date: 150 mya
+at: Solnhofen Limestone
+alt: 9000
+src: Solnhofen Limestone
+T: The Solnhofen Limestone of Bavaria is a Jurassic deposit that preserves even soft-bodied creatures such as jellyfish in fine detail. Its most familiar fossils are of Archaeopteryx, an early feathered dinosaur. They are among the most famous and most beautiful fossils in the world.
+K: In the limestone of southern Germany, people found fossils of Archaeopteryx, an early dinosaur with feathers. They are some of the most famous fossils in the world.
+note: The source gives only "Jurassic". The date shown is approximate.
+
+@stop lf-8
+trail: life
+title: Fifty-eight kinds of dinosaur
+date: 76 mya
+at: Dinosaur Provincial Park
+alt: 9000
+src: Dinosaur Provincial Park
+T: In the badlands of Alberta, sediments laid down over about 1.5 million years of the Late Cretaceous have yielded fifty-eight species of dinosaur. More than 500 specimens have been removed and shown in museums around the globe. In all, nearly 500 species of life are known from the park, from fern spores to large carnivorous dinosaurs.
+K: This park in Canada is one of the best places in the world to find dinosaurs. Fossils of 58 different kinds have been dug up here, and they are in museums all over the world.
+note: The source dates the rocks to the Campanian stage of the Late Cretaceous. The date shown is approximate.
+
+@stop lf-9
+trail: life
+title: A lake after the dinosaurs
+date: 47 mya
+at: Messel Pit
+alt: 9000
+src: Messel Pit
+T: The Messel Pit in Hesse dates to about 47 million years ago. Its oil shale, laid down in a lake, is renowned for fossils of plants, arthropods and vertebrates in exceptional preservation. It has given significant evidence about the early evolution of mammals and birds. Once nearly turned into a landfill, it became a World Heritage Site in 1995.
+K: After the dinosaurs died out, mammals and birds took over. At this old lake in Germany, fossils from 47 million years ago are so perfect that they show us how early mammals and birds lived. It was almost turned into a rubbish dump, but people saved it.
+
+@stop lf-10
+trail: life
+title: Footprints in the ash
+date: 3.7 mya
+at: Laetoli
+alt: 5200
+src: Laetoli
+T: At Laetoli in Tanzania, a trail of footprints dated to 3.7 million years ago is preserved in volcanic ash. Mary Leakey and her team discovered the tracks in 1976. They gave convincing evidence that our relatives of that time already walked upright on two legs.
+K: A long time ago, in Africa, some of our very early relatives walked across fresh ash from a volcano. Their footprints are still there. They show that these early relatives already walked on two legs, like us.
+note: The age of the footprints, 3.7 million years, is the one given in the Laetoli article.

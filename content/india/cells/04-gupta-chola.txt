@@ -1,0 +1,199 @@
+
+
+@icell gupta.power
+src: Gupta Empire
+src: Samudragupta
+src: Chandragupta II
+T: The Gupta Empire lasted from the mid 3rd to the mid 6th century CE and at its peak covered much of the northern subcontinent. Samudragupta, the second emperor, turned an inherited kingdom into a vast empire; Chandragupta II ruled from about 375 to about 415. Some historians call the period a Golden Age; others dispute it.
+K: The Gupta kings ruled for about 300 years, and at their strongest they held most of northern India. Some people call their time a golden age, though not all historians agree.
+
+@icell gupta.war
+src: Samudragupta
+src: Gupta Empire
+src: Alchon Huns
+T: The Allahabad Pillar inscription, a eulogy by the courtier Harisena, credits Samudragupta with extensive military conquests. The empire later lost territory to its own former feudatories and to the Huna peoples, the Kidarites and Alchon Huns, invading from Central Asia; the Alchon invasion contributed to its fall.
+K: The Gupta king Samudragupta won many wars, and a poem carved on a pillar lists his victories. Later, invaders called the Huns helped to bring the empire down.
+
+@icell gupta.trade
+src: Gupta Empire
+src: Tamralipta Kingdom
+T: The Guptas exported luxury goods such as silk, leather goods, fur, iron products, ivory, pearls and pepper from centres such as Nasik, Paithan, Pataliputra and Benares. Strong trade ties made the region a cultural centre that influenced kingdoms in India and Southeast Asia. Tamralipta was a port on the Bay of Bengal.
+K: Gupta India sold silk, ivory, pearls, pepper and iron goods to other lands. Trade carried Indian ideas as far as Southeast Asia.
+
+@icell gupta.work
+src: Gupta Empire
+src: Eran
+src: Iron pillar of Delhi
+T: The empire's exports point to its trades: workers in silk, leather, iron, ivory and pearls. Eran, in central India, was one of the ancient mints, as the varied coins dug up there show. And smiths could forge an iron pillar weighing more than six tonnes.
+K: Gupta craft workers wove silk, carved ivory, worked leather and made coins. Their iron workers were skilled enough to make a pillar that weighs more than six tonnes.
+
+@icell gupta.food
+src: Gupta Empire
+src: Faxian
+conf: debated
+T: The Chinese monk Faxian, who travelled in India in these years, reported that throughout the country people did not kill living creatures, drink intoxicating liquor, or eat onions or garlic. This is one Buddhist pilgrim's sweeping account, not a survey of what everyone ate.
+K: A Chinese visitor wrote that people in Gupta India did not kill animals, drink wine, or eat onions and garlic. He was a monk, and probably did not see how everybody lived.
+
+@icell gupta.daily
+src: Faxian
+T: Faxian described a yearly festival: on the eighth day of the second month, a four-wheeled car carrying a four-storey structure of tied bamboo is drawn in a procession of images. Monks and lay people gather with singers and skilful musicians, offer flowers and incense, and keep lamps burning all night.
+K: A Chinese visitor described a festival he saw. A tall bamboo tower on wheels was pulled through the streets, with music, flowers and lamps that burned all night.
+
+@icell gupta.science
+src: Aryabhata
+src: Varāhamihira
+src: Bakhshali manuscript
+T: Aryabhata (476–550 CE) was the first of the major mathematician-astronomers of India's classical age. His Aryabhatiya gives 3.1416 as an approximation of pi and includes a table of sines and quadratic equations. Varahamihira worked at Ujjain. The Bakhshali manuscript uses place-value numerals with a dot for zero; its dating is debated.
+K: The mathematician Aryabhata worked out the number pi very accurately, about 1,500 years ago. Indian mathematicians also wrote numbers in places, with a dot for zero.
+
+@icell gupta.medicine
+src: Bower Manuscript
+src: Sushruta Samhita
+T: The Bower Manuscript, written on birch bark in early Gupta script in the 5th or early 6th century, includes the oldest dated fragments of an Indian medical text, the Navanitaka. The Sushruta Samhita, built up in layers over centuries, has unique chapters on surgical training, instruments and procedures.
+K: Some of the oldest pages of Indian medical writing come from Gupta times, written on birch bark. Another old book, the Sushruta Samhita, explains how to train surgeons and what tools they need.
+
+@icell gupta.technology
+src: Iron pillar of Delhi
+T: The iron pillar now at Mehrauli in Delhi was made under Chandragupta II. It stands 7.21 metres high, is 41 centimetres across and weighs more than six tonnes, and the metal has a rust-resistant composition.
+K: Gupta smiths made an iron pillar more than seven metres tall. It is about 1,600 years old and has hardly rusted.
+
+@icell gupta.religion
+src: Udayagiri Caves
+src: Dashavatara Temple, Deogarh
+src: Nalanda mahavihara
+T: The Udayagiri Caves near Vidisha, devoted mainly to Vishnu and Shiva, hold some of the oldest surviving Hindu temples and iconography in India; the early 6th-century temple at Deogarh is one of the earliest Hindu stone temples still standing. Buddhism flourished too: Kumaragupta I founded the great monastery of Nalanda around 427 CE.
+K: Some of the oldest Hindu temples still standing were built in Gupta times. A Gupta king also founded Nalanda, a great Buddhist monastery where monks came to study.
+
+@icell gupta.arts
+src: Kalidasa
+src: Ajanta Caves
+src: Samudragupta
+T: Kalidasa, of the 4th–5th century, is often considered ancient India's greatest poet and playwright. The paintings and sculpture of the Ajanta Caves, finished by about 480 CE, are regarded as masterpieces of Buddhist art. Samudragupta's gold coins and inscriptions suggest that the emperor himself was a poet and played the veena.
+K: The poet Kalidasa wrote plays and poems that are still loved. In the caves of Ajanta, artists painted beautiful pictures on the rock walls. One Gupta emperor played a stringed instrument called the veena.
+
+@icell gupta.language
+src: Kalidasa
+src: Amarakosha
+src: Samudragupta
+T: Classical Sanskrit was the language of court and learning. Kalidasa wrote his plays and poems in it; Harisena composed Samudragupta's eulogy on the Allahabad Pillar; and the Amarakosha, a thesaurus whose formal title means "instruction concerning nouns and gender", organised its vocabulary.
+K: Poets and scholars of Gupta times wrote in Sanskrit. One scholar even made a book that lists Sanskrit words by their meaning, like a thesaurus.
+
+@icell gupta.nature
+src: Meghadūta
+src: Kalidasa
+T: Nature fills the era's poetry. In Kalidasa's Meghaduta, the "Cloud Messenger", a banished nature spirit asks a cloud to carry a message of love to his wife. The poet tells the cloud not to miss the city of Ujjayini on its way, even if it must take a detour.
+K: In a famous poem by Kalidasa, a lonely spirit asks a rain cloud to carry a message to his wife far away, and tells it which places to see on the way.
+
+@icell gupta.movement
+src: Faxian
+src: Gupta Empire
+T: Faxian, a Chinese Buddhist monk, set out at about the age of 60 and travelled on foot to India to collect scriptures, entering from the north-west and reaching Pataliputra. He sailed home by way of Sri Lanka; a violent storm drove his ship onto an island, probably Java. From the other direction, Huna peoples came in from Central Asia.
+K: A Chinese monk named Faxian walked all the way to India when he was about 60, to find Buddhist books. He went home by sea and was nearly shipwrecked.
+
+@icell gupta.women
+src: Prabhavatigupta
+src: Eran
+T: Prabhavatigupta, a Gupta princess and Vakataka queen, effectively ruled the Vakataka realm as regent from about 390 to 410 after her husband's death. A darker record is at Eran: an inscription of 510 CE there is the first epigraphic evidence of sati, the burning of a widow.
+K: A Gupta princess named Prabhavatigupta ruled a kingdom for about twenty years after her husband died. But life could be cruel for widows, as one stone inscription from 510 shows.
+
+@icell chola.power
+src: Chola Empire
+src: Rajaraja I
+src: Rajendra I
+src: Gangaikonda Cholapuram
+T: The Chola Empire was a sea-going empire based in southern India, with dominions and influence overseas. Rajaraja I, who reigned from 985 to 1014, conquered southern India and the Anuradhapura kingdom of Sri Lanka; in 1000 he ordered a land survey. His son Rajendra I founded a new capital, Gangaikonda Cholapuram, about 1025.
+K: The Chola kings of southern India ruled a great empire that reached across the sea. Rajaraja the Great and his son Rajendra were its most powerful kings.
+
+@icell chola.war
+src: Southeast Asian campaign of Rajendra I
+src: Chola conquest of the Anuradhapura Kingdom
+src: Chola Navy
+T: Rajaraja invaded Sri Lanka about 993, and the Cholas stayed for some three-quarters of a century. In 1025 Rajendra I sent a naval expedition against Srivijaya in Southeast Asia. The Cholas had no standing navy in the modern sense: trading ships carried the army overseas.
+K: Chola armies crossed the sea to fight in Sri Lanka and in Southeast Asia. They had no special warships. Their soldiers travelled in trading ships.
+
+@icell chola.trade
+src: Ainnurruvar
+src: Nagapattinam
+src: Kulottunga I
+src: Chola Empire
+T: Organised merchant guilds held great power between the 8th and 13th centuries. The Five Hundred Lords of Ayyavole, from Aihole, linked trading communities across Tamil Nadu, Karnataka and Andhra. Nagapattinam was an important Chola port, and the Cholas sent repeated embassies to China; Kulottunga I kept up contacts with Srivijaya, China and the Khmer Empire.
+K: Rich groups of merchants called guilds traded all over southern India and across the sea. The Chola kings sent messengers as far as China.
+
+@icell chola.work
+src: Chola Empire
+src: Veeranam Lake
+T: Agriculture was the main occupation, and farming settlements were the foundation of the economy; above them were commercial towns called nagaram, whose artisans made goods for trade abroad. Chola kings saw temples as places of economic activity as well as worship. Even soldiers built: Rajaditya's army raised the dam of Veeranam Lake while in camp.
+K: Most people in the Chola lands were farmers. In the towns, craft workers made things to sell. Soldiers once built a huge lake while they were waiting to fight.
+
+@icell chola.food
+src: Chola Empire
+src: Veeranam Lake
+src: Kallanai Dam
+T: Farming fed the empire, and farming needed stored water. Veeranam Lake, made in the 10th century behind a dam 16 kilometres long, can hold about 1,465 million cubic feet of water. The ancient Kallanai dam on the Kaveri sent the river's water to the fields of the delta.
+K: Chola farmers grew their food with water saved in giant man-made lakes. One of the lakes has a wall 16 kilometres long.
+
+@icell chola.daily
+src: Uthiramerur
+T: Temple inscriptions at Uthiramerur, south-west of Chennai, describe how a village governed itself. Executive powers were given to committees called variyams, and an inscription dated 919 CE sets out the rules for electing their members.
+K: In one Chola village, the rules for choosing the village committees were carved on the temple wall more than a thousand years ago. You can still read them there.
+
+@icell chola.science
+thin: 1
+src: Chola Empire
+T: The retrieved sources describe Chola temples, trade and government in detail but say little about scientific learning in the Chola lands. Their survey of land in 1000 shows careful measurement, but its methods are not described.
+K: We know a lot about Chola temples and ships, but our sources say little about Chola science.
+
+@icell chola.medicine
+src: Kundavai Pirāttiyār
+T: Kundavai, the elder sister of Rajaraja I, built a hospital at Thanjavur, named after her father, and gave extensive lands for its upkeep.
+K: A Chola princess, Kundavai, built a hospital in the city of Thanjavur and gave land to pay for it.
+
+@icell chola.technology
+src: Brihadisvara Temple
+src: Chola art and architecture
+src: Veeranam Lake
+T: Rajaraja I built the Brihadisvara Temple at Thanjavur between 1003 and 1010 from granite; the tower above its shrine is one of the tallest in South India. Chola metalworkers cast bronzes of classic grace. Engineers built long dams to make lakes, one of which still supplies water to Chennai.
+K: Chola builders raised a giant temple of granite in only a few years. Their metalworkers made beautiful bronze statues, and their engineers made lakes that still hold water today.
+
+@icell chola.religion
+src: Brihadisvara Temple
+src: Tirumurai
+src: Periya Puranam
+src: Ramanuja
+src: Kundavai Pirāttiyār
+T: The great Chola temples were dedicated to Shiva. The Tirumurai gathers twelve volumes of Tamil hymns to Shiva from the 6th to the 11th century, and the Periya Puranam tells the lives of the sixty-three Nayanar saints. Ramanuja was a leading teacher of Sri Vaishnavism. Princess Kundavai commissioned temples for Jain Tirthankaras, Vishnu and Shiva alike.
+K: The Chola kings built great temples to the god Shiva. Poets wrote hymns in Tamil, and stories were told of sixty-three saints. A Chola princess built temples for three different faiths.
+
+@icell chola.arts
+src: Chola art and architecture
+src: Nataraja
+src: Brihadisvara Temple
+T: From about 850 to 1250 the Cholas spent the wealth of their conquests on lasting stone temples and exquisite bronze sculpture. The best-known bronze form is Nataraja, Shiva as the divine cosmic dancer. Three of their temples are a World Heritage Site, the "Great Living Chola Temples".
+K: Chola artists made some of the most beautiful bronze statues in the world. The most famous shows the god Shiva dancing.
+
+@icell chola.language
+src: Chola Empire
+src: Kambar (poet)
+src: Tirumurai
+T: Chola patronage produced some of the greatest works of Tamil literature. Kambar (1180–1250) wrote the Ramavataram, known as the Kambaramayanam, the Tamil version of the Ramayana. Hymns of the Tirumurai were compiled, and royal deeds were recorded in Tamil inscriptions.
+K: Tamil poetry flourished under the Cholas. The poet Kambar retold the story of Rama in Tamil, and his poem is still famous.
+
+@icell chola.nature
+src: Gangaikonda Cholapuram
+src: Rajendra I
+src: Veeranam Lake
+T: The Cholas reshaped their landscape with water. Rajendra's capital was remarkable for its artificial lake. Veeranam Lake still fills when heavy rain in the Western Ghats sends water down the tributaries of the Kaveri.
+K: The Cholas changed the land by making lakes. One of their lakes still fills up when the rains fall on mountains far away.
+
+@icell chola.movement
+src: Rajendra I
+src: Chola Empire
+src: Kulottunga I
+T: Chola power reached far beyond India: expeditions to the Ganges, naval raids on the cities of Srivijaya on Sumatra, and repeated embassies to China. Rajendra's campaign strengthened Indian influence in Southeast Asia. Kulottunga I had relations with Cambodia, Srivijaya, Pagan in Burma, and China.
+K: Chola ships and soldiers travelled to Sri Lanka, Sumatra and beyond. Chola messengers went all the way to China.
+
+@icell chola.women
+src: Sembiyan Mahadevi
+src: Kundavai Pirāttiyār
+T: Royal women shaped the Chola world. Sembiyan Mahadevi, queen from 949 to 957, built numerous temples and gave generously to others over sixty years. Kundavai, sister of Rajaraja I, commissioned temples for three faiths and founded a hospital at Thanjavur.
+K: Chola queens and princesses were great builders. Queen Sembiyan Mahadevi built temples for sixty years, and Princess Kundavai built a hospital.

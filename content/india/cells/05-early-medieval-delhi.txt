@@ -1,0 +1,203 @@
+
+
+@icell early-medieval.power
+src: Harsha
+src: Tripartite Struggle
+src: Pala Empire
+src: Chalukya dynasty
+T: No single empire held the subcontinent. Harsha ruled from Kannauj from 606 to 647. From 785 to 816 three dynasties, the Pratiharas, the Palas of Bengal and the Rashtrakutas, fought for Kannauj; the Pratiharas won. The Pala line began when the chiefs of Gauda elected Gopala. In the south, the Chalukyas ruled between the 6th and 12th centuries.
+K: India was divided among many strong kingdoms. Three of them fought for thirty years over one famous city, Kannauj. In Bengal, the chiefs chose their own king by election.
+
+@icell early-medieval.war
+src: Arab conquest of Sindh
+src: Mahmud of Ghazni
+src: Second Battle of Tarain
+T: Between 711 and 713 the Umayyad Caliphate defeated the Chach dynasty and made Sindh a province. Mahmud of Ghazni, sultan from 998 to 1030, attacked Somnath in Gujarat in 1025. In 1192, at Tarain north of Delhi, the Ghurid forces of Muhammad Ghuri decisively defeated the Rajput confederacy of Prithviraj Chauhan.
+K: Armies came into India from the west: first Arabs into Sindh, then the raids of Mahmud of Ghazni. In 1192 Muhammad Ghuri beat the Rajput king Prithviraj Chauhan in a great battle near Delhi.
+
+@icell early-medieval.trade
+src: Quilon Syrian copper plates
+src: Ainnurruvar
+T: About 849 CE the chieftain of Kollam, on the Kerala coast, issued a copper-plate grant conferring privileges on a Syrian Christian merchant named Maruvan Sapir Iso. Between the 8th and 13th centuries organised merchant guilds such as the Ainnurruvar held considerable power and influence.
+K: A chief on the Kerala coast gave special rights to a Christian merchant from far away, and had them written on copper plates. Groups of merchants called guilds grew rich and strong.
+
+@icell early-medieval.work
+src: Kailasa Temple, Ellora
+src: Khajuraho Group of Monuments
+T: Temples show the labour of the age. Archaeologists believe the Kailasa temple at Ellora was sculpted from a single rock; its top rises 32.6 metres above the court. At Khajuraho the Chandela dynasty built most of its temples between 885 and 1000, and 85 stood there by the 12th century.
+K: Stone workers built great temples. At Ellora they carved a whole temple out of one giant rock.
+
+@icell early-medieval.food
+src: Manasollasa
+T: The Manasollasa, a Sanskrit encyclopedia composed in the early 12th century by the Chalukya king Someshvara III, who ruled in present-day Karnataka, includes chapters on food recipes and festivals, as well as on horticulture.
+K: A king of Karnataka wrote a huge book about nearly everything, almost 900 years ago. It even includes recipes for food.
+
+@icell early-medieval.daily
+src: Chaturanga
+src: Manasollasa
+src: Xuanzang
+T: Chaturanga, a strategy board game first known from India around the seventh century, is by the prevailing view the common ancestor of chess. The Manasollasa describes games, perfumes, painting, dance and music. Xuanzang reported that children started school at seven, beginning with grammar.
+K: People in India played a board game called chaturanga, which later turned into chess. A Chinese visitor wrote that children started school when they were seven.
+
+@icell early-medieval.science
+src: Brahmagupta
+src: Līlāvatī
+src: Al-Biruni
+T: Brahmagupta (c. 598–668) is credited as the first person to formalise zero as a number in mathematics. Bhaskara II wrote the Lilavati, a treatise on mathematics, in 1150. Al-Biruni, who accompanied Mahmud's campaigns, finished a great study of India, the Tarikh al-Hind, around 1030.
+K: The mathematician Brahmagupta was the first to treat zero as a real number with its own rules. Five hundred years later, Bhaskara wrote a famous maths book called the Lilavati.
+
+@icell early-medieval.medicine
+src: Madhava-kara
+src: Vagbhata
+src: Xuanzang
+T: Madhava-kara, a practitioner of the 7th or early 8th century, wrote the Madhava Nidana: 79 chapters listing diseases with their causes, symptoms and complications, including one on smallpox. The works linked to the name Vagbhata became some of the most influential in Ayurveda. Xuanzang listed medicine among the five fields of knowledge taught to the young.
+K: A doctor named Madhava wrote a book that lists diseases one by one, with their causes and signs. One chapter is about smallpox.
+
+@icell early-medieval.technology
+src: Kailasa Temple, Ellora
+src: Rani ki Vav
+src: Bhojtal
+T: Builders worked rock and water on a grand scale. The Kailasa temple is a megalith carved into a cliff. Rani ki Vav at Patan, an 11th-century stepwell, descends through seven levels of stairs. Bhojtal at Bhopal was made by an earthen dam across the Kolans River.
+K: Builders carved a temple out of a cliff, dug a well with seven levels of steps going down to the water, and made a lake by building a dam of earth.
+
+@icell early-medieval.religion
+src: Bhakti movement
+src: Adi Shankara
+src: Vikramashila
+src: Khajuraho Group of Monuments
+T: The Bhakti movement of personal devotion began in the Tamil country in the 6th century, in the songs of the Alvars and Nayanars. Adi Shankara, in the 8th century, taught Advaita Vedanta. Buddhism flourished at monasteries such as Vikramashila, founded by the Pala king Dharmapala. At Khajuraho, Hindu and Jain temples stand together.
+K: In southern India, poet-saints sang songs of love for God, and a new kind of worship called bhakti began. Great Buddhist monasteries in the east drew students from far away.
+
+@icell early-medieval.arts
+src: Group of Monuments at Mahabalipuram
+src: Kailasa Temple, Ellora
+src: Khajuraho Group of Monuments
+T: Stone was the era's great medium: the 7th- and 8th-century monuments of Mahabalipuram on the Coromandel Coast, the Kailasa temple of Ellora, considered one of the most remarkable cave temples, and the Nagara-style temples of Khajuraho.
+K: Artists of this time carved wonderful temples from stone, on the seashore at Mahabalipuram, inside a cliff at Ellora, and at Khajuraho.
+
+@icell early-medieval.language
+src: Kavirajamarga
+src: Charyapada
+src: Rajatarangini
+T: Regional languages found their voice in literature. The Kavirajamarga of 850 is the earliest available work on poetics and grammar in Kannada. The Charyapada, mystical Buddhist songs compiled between about 1000 and 1200, is in late Apabhramsha. Sanskrit remained the language of learning: Kalhana wrote his chronicle of Kashmir's kings in it in the 12th century.
+K: People began to write books in the languages they spoke at home, such as Kannada. Sanskrit was still used for learning and history.
+
+@icell early-medieval.nature
+src: Bhojtal
+src: Rani ki Vav
+T: Water was stored and honoured. Bhojtal, the lake at Bhopal made by damming the Kolans River, still supplies drinking water to about 40 per cent of the city's residents. Rani ki Vav was designed as an inverted temple symbolising the sanctity of water; it later silted over.
+K: Water was precious. People made lakes and deep wells with steps. One well was built like an upside-down temple, to show that water is holy.
+
+@icell early-medieval.movement
+src: Xuanzang
+src: Qissa-i Sanjan
+src: Atiśa
+T: Xuanzang travelled through the subcontinent from 629 to 645 and carried at least 657 Indian texts back to China. The Bengali teacher Atisha went to Sumatra and Tibet. A later Parsi narrative, written in 1599, tells how Zoroastrian refugees fled Iran after the Arab conquest and settled in India.
+K: A Chinese monk, Xuanzang, spent sixteen years travelling to India and back and took hundreds of books home. Refugees from Iran settled in India and became the Parsi community.
+
+@icell early-medieval.women
+src: Didda
+src: Andal
+src: Rani ki Vav
+T: Didda ruled Kashmir for decades: as regent for her son and grandsons from 958, and as sole monarch from 980 to 1003. Andal is the only woman among the twelve Alvars, the Tamil poet-saints of Vishnu. The stepwell Rani ki Vav is attributed to Udayamati, queen of the Chaulukya king Bhima I.
+K: Queen Didda ruled Kashmir for more than forty years. In the south, Andal was the only woman among twelve famous poet-saints.
+
+@icell delhi-sultanate.power
+src: Delhi Sultanate
+src: Muhammad bin Tughluq
+src: Bahmani Kingdom
+T: The Delhi Sultanate was established in 1206 and lasted more than three centuries under five dynasties: Mamluk, Khalji, Tughlaq, Sayyid and Lodi. It reached its greatest extent under the Tughlaqs. In 1327 Muhammad bin Tughluq ordered the capital moved to Daulatabad in the Deccan; in 1347 the Bahmani kingdom broke away there.
+K: For more than 300 years, sultans ruled much of India from Delhi. Five families of sultans followed one another.
+
+@icell delhi-sultanate.war
+src: Alauddin Khalji
+src: Mongol invasions of India
+src: Sack of Delhi (1398)
+src: First Battle of Panipat
+T: The Mongols invaded the subcontinent repeatedly between 1221 and 1327; Alauddin Khalji fended off several invasions. Khalji and Tughlaq armies pushed deep into southern India. Timur sacked Delhi on 17 December 1398. On 21 April 1526 Babur's guns and cannon defeated Ibrahim Lodi at Panipat.
+K: The sultans of Delhi fought off the Mongols many times. But in 1398 the conqueror Timur captured and robbed Delhi. In 1526 Babur beat the last sultan with cannons and guns.
+
+@icell delhi-sultanate.trade
+src: Delhi Sultanate
+src: Bengal Sultanate
+src: Alauddin Khalji
+T: The sultanate drew the subcontinent more closely into international Islamic social and economic networks. Alauddin Khalji imposed price controls. In the east, the Bengal Sultanate had a network of mint towns striking the taka and was linked by sea and land to Asia, Africa and Europe.
+K: Under the sultans, India traded more with the Muslim lands to the west. One sultan fixed the prices of goods. Bengal made its own coins and sent ships across the ocean.
+
+@icell delhi-sultanate.work
+src: Iqta'
+src: Delhi Sultanate
+T: Army officers were paid through the iqta: a temporary grant of the tax revenue of a piece of land in place of a regular wage. In the villages, cloth-making changed: according to historians, the spinning wheel was introduced from Iran in this period, and the earliest clear Indian reference to one dates from 1350.
+K: Soldiers were often paid with the taxes from a piece of land. Spinners got a new tool, the spinning wheel, for making thread.
+
+@icell delhi-sultanate.food
+src: Firuz Shah Tughlaq
+src: Alauddin Khalji
+T: Sultans intervened in the food supply. Alauddin Khalji's changes covered revenues and price controls. Firuz Shah Tughlaq, sultan from 1351 to 1388, founded more than 300 villages and dug five major canals; he also laid out gardens.
+K: The sultans tried to make sure there was enough food. One fixed prices. Another dug five big canals to bring water to the fields.
+
+@icell delhi-sultanate.daily
+src: Ibn Battuta
+src: Muhammad bin Tughluq
+src: Firuz Shah Tughlaq
+T: Ibn Battuta, the traveller and jurist from Morocco, wrote about his time at the court of Muhammad bin Tughluq. Under Firuz Shah, many rest houses for travellers, gardens and tombs were built.
+K: A traveller from Morocco, Ibn Battuta, lived at the sultan's court and wrote about what he saw. Rest houses were built along the roads for travellers.
+
+@icell delhi-sultanate.science
+src: Madhava of Sangamagrama
+T: Far from Delhi, in Kerala, Madhava of Sangamagrama (c. 1340–1425) founded a school of astronomy and mathematics. He made pioneering contributions to the study of infinite series and was the first to use infinite-series approximations for a range of trigonometric functions.
+K: In Kerala, the mathematician Madhava found a way to work out hard numbers by adding up an endless list of smaller and smaller pieces.
+
+@icell delhi-sultanate.medicine
+src: Unani medicine
+T: Unani medicine, a Greco-Arabic system based on the four humours, arrived in India by the 12th century, carried by Muslim scholars, and took root there. It was influenced in turn by Indian and Chinese traditional systems.
+K: Muslim scholars brought a kind of medicine called Unani to India. It began with the ideas of the ancient Greeks and is still practised in South Asia today.
+
+@icell delhi-sultanate.technology
+src: Delhi Sultanate
+src: First Battle of Panipat
+src: Firuz Shah Tughlaq
+T: The Sultanate period coincided with more use of mechanical technology in the subcontinent, including the spinning wheel. Firuz Shah's engineers dug major canals. At its very end came gunpowder: Panipat in 1526 was one of the earliest battles involving gunpowder arms on the subcontinent.
+K: New machines arrived in India in this time, like the spinning wheel. At the end of the era came cannons and guns.
+
+@icell delhi-sultanate.religion
+src: Chishti Order
+src: Nizamuddin Auliya
+src: Kabir
+src: Guru Nanak
+src: Bhakti movement
+T: Sufi orders spread Islam's mystical side: Muin al-Din Chishti carried the Chishti order to Ajmer, and Nizamuddin Auliya (1238–1325) taught in Delhi. From the 15th century the Bhakti movement swept north India. Kabir's verses are honoured in several faiths. Guru Nanak (1469–1539) founded Sikhism.
+K: Muslim holy men called Sufis taught in India. The poet Kabir is honoured by Hindus, Sikhs and Sufis alike. Guru Nanak founded a new religion, Sikhism.
+
+@icell delhi-sultanate.arts
+src: Qutb Minar
+src: Amir Khusrau
+src: Delhi Sultanate
+T: The Qutb Minar in Delhi, a minaret and victory tower with 399 steps, was mostly built between 1199 and 1220. A new Indo-Islamic architecture developed under the sultans. Amir Khusrau (1253–1325), singer, musician and court poet, is regarded as the "father of qawwali", a devotional form of singing.
+K: The sultans built the Qutb Minar, a very tall tower with 399 steps. The poet and musician Amir Khusrau is called the father of qawwali singing.
+
+@icell delhi-sultanate.language
+src: Delhi Sultanate
+src: Amir Khusrau
+src: Hindustani language
+T: The Sultanate's wider connections show in the development of the Hindustani language, whose two standard registers today are Hindi and Urdu, the latter Persianised and Arabised. Amir Khusrau wrote mainly in Persian but also in Hindavi and Punjabi; a verse vocabulary of Arabic, Persian and Hindavi words is often attributed to him.
+K: In the sultans' time a new language grew up in north India. Today its two forms are called Hindi and Urdu. Poets at court wrote mostly in Persian.
+
+@icell delhi-sultanate.nature
+src: Firuz Shah Tughlaq
+T: Rulers began to redirect rivers. Firuz Shah Tughlaq built a canal joining the Sarasvati and Markanda rivers near Sirhind, built a palace complex at Hisar in 1354, and dug five major canals in all.
+K: One sultan dug canals to carry river water across the land, and planted gardens.
+
+@icell delhi-sultanate.movement
+src: Mongol invasions of India
+src: Ibn Battuta
+src: Ahom kingdom
+T: People arrived from every side. Mongol armies raided for a century. Travellers such as Ibn Battuta, born in Tangier, came to the sultan's court. In the far north-east, Sukaphaa, a Tai prince from Mong Mao, founded the Ahom kingdom in the Brahmaputra valley in 1228.
+K: Many people came to India in these years: Mongol raiders, travellers from Muslim lands, and a Tai prince who founded a kingdom in Assam.
+
+@icell delhi-sultanate.women
+src: Razia Sultan
+src: Rudrama Devi
+src: Lalleshwari
+T: Razia ruled as Sultan of Delhi from 1236 to 1240, the first female Muslim ruler of the subcontinent; nobles who expected a figurehead deposed her when she asserted her power. Rudrama Devi reigned over the Kakatiya kingdom from 1262 to 1289. In Kashmir, Lalleshwari (c. 1320–1392) created a style of mystic poetry.
+K: Razia was the only woman ever to rule as Sultan of Delhi. In the south, Queen Rudrama Devi ruled a kingdom for 27 years. In Kashmir, the poet Lal Ded made a new kind of poem.

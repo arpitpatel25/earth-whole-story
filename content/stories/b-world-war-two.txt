@@ -1,0 +1,812 @@
+# Flagship Story B. Every figure and date below is taken from the article named in src.
+# Front lines are approximate reconstructions (content/tracks/eastern-front.json) and say so on screen.
+
+@story world-war-two
+title: World War II
+kid-title: The Second World War
+format: war
+flagship: 1
+order: 2
+color: #ff5d52
+counter: deaths in the events shown so far (the war's total was 60 to 75 million)
+content-note: This story covers war, genocide, famine and the bombing of cities. It describes them plainly and without graphic images.
+deck: The deadliest conflict in history, fought on every ocean and inhabited continent. Scroll through it day by day.
+kid-deck: The biggest and most terrible war there has ever been. Scroll through it and see how it spread across the world, and how it ended.
+led: era:cold-war | Cold War | the rivalry that followed; era:decolonization | Decolonization | empires break up; era:space-age | Space Age | rockets built for war reach orbit; era:world-war-one | First World War | the war before this one
+
+@scene ww2-01
+story: world-war-two
+title: World War II
+y: 1939-09-01
+cam: 30, 40, 22000
+look: title
+src: World War II
+src: World War II casualties
+T: From 1 September 1939 to 2 September 1945, nearly every country on Earth was drawn into one war. It killed an estimated 60 to 75 million people, about 3 percent of everyone then alive. Most of them were civilians.
+T: To see how it happened, the clock has to go back twenty years, to the end of the war before it.
+K: The Second World War lasted six years, from 1939 to 1945. Almost every country was pulled in. Tens of millions of people died, and most of them were not soldiers. To understand how it began, we have to go back twenty years.
+
+@scene ww2-02
+story: world-war-two
+title: A peace that satisfied no one
+y: 1919-06-28
+cam: Palace of Versailles | 4200
+src: Treaty of Versailles
+src: World War I
+T: The First World War killed 15 to 22 million people. The fighting stopped with an armistice on 11 November 1918, whose terms already included the payment of reparations. It took six more months of negotiation among the victors in Paris to settle the peace.
+T: The Treaty of Versailles was signed on 28 June 1919. It required Germany to disarm, give up territory and pay reparations, and one article, 231, became known as the "War Guilt" clause.
+K: The First World War ended in 1918. The winners spent six months in Paris deciding what the peace would look like. The treaty they wrote was signed at Versailles on 28 June 1919. It made Germany pay for the war.
+show: site | at=Palace of Versailles | label=Versailles, 28 June 1919 | ring=1
+
+@scene ww2-03
+story: world-war-two
+title: The crash
+y: 1929
+to: 1933
+cam: 40, -40, 17000
+src: Great Depression
+T: In 1929 an economic collapse began in the United States and spread around the world. The Great Depression lasted until 1939. It brought high unemployment and poverty, drastic falls in industrial production and international trade, and the failure of banks and businesses everywhere.
+K: In 1929 a money crisis began in the United States and spread around the world. Banks and businesses failed, and millions of people lost their jobs. It was called the Great Depression, and it lasted ten years.
+
+@scene ww2-04
+story: world-war-two
+title: Two dictators
+y: 1922-10-28
+to: 1933-01-30
+cam: 47, 12, 5200
+src: March on Rome
+src: Adolf Hitler's rise to power
+T: In October 1922, Fascist Party leaders in Italy organised a mass march on Rome. It ended with their leader, Benito Mussolini, in power.
+T: In Germany, after rounds of backroom negotiation, President Hindenburg appointed the leader of the Nazi Party, Adolf Hitler, as Chancellor on 30 January 1933.
+K: In Italy in 1922, a man named Mussolini took power after his followers marched on the capital, Rome. In Germany in 1933, Adolf Hitler, the leader of the Nazi Party, was made head of the government.
+show: site | at=Rome | label=Rome, October 1922
+show: site | at=Berlin | label=Berlin, 30 January 1933 | since=1933-01-30
+
+@scene ww2-05
+story: world-war-two
+title: Manchuria, 1931
+y: 1931-09-18
+to: 1932-03-01
+cam: Mukden incident | 5200
+src: Mukden incident
+src: Japanese invasion of Manchuria
+T: On 18 September 1931 Japanese military personnel staged an incident near Mukden, in north-east China, and blamed Chinese dissidents. It was a pretext. Japan's Kwantung Army invaded Manchuria at once.
+T: By February 1932 the fighting was over, and Japan had set up a puppet state there called Manchukuo.
+K: In 1931, Japanese army officers secretly staged an attack in north-east China and blamed the Chinese. They used it as an excuse to invade. Japan then took over the whole region, called Manchuria.
+show: site | at=Mukden incident | label=Mukden, 18 September 1931 | ring=1
+show: region | countries=JPN | color=axis
+
+@scene ww2-06
+story: world-war-two
+title: Ethiopia, 1935
+y: 1935-10-03
+to: 1936-05-05
+cam: Addis Ababa | 5200
+linear: 1
+src: Second Italo-Ethiopian War
+T: On 3 October 1935, two hundred thousand Italian soldiers attacked Ethiopia from Italian Eritrea without declaring war. It is regarded as the largest colonial campaign in history. When the advance slowed, Mussolini authorised the use of mustard gas; Italian aircraft dropped 330 tons of it in four months.
+T: Emperor Haile Selassie was forced into exile on 2 May 1936. Italian troops entered Addis Ababa three days later. The League of Nations had failed to stop the invasion, and its authority never recovered.
+K: In 1935 Italy invaded Ethiopia. The Italian air force dropped poison gas. Ethiopia's emperor, Haile Selassie, had to flee, and the world's peace-keeping body, the League of Nations, did nothing to stop it.
+show: arrow | from=Asmara | to=Addis Ababa | color=axis
+show: site | at=Addis Ababa | label=Addis Ababa falls, 5 May 1936 | since=1936-05-05 | ring=1
+
+@scene ww2-07
+story: world-war-two
+title: Spain, 1936
+y: 1936-07-17
+to: 1937-04-26
+cam: Bombing of Guernica | 3600
+src: Spanish Civil War
+src: Bombing of Guernica
+T: From 1936 to 1939 Spain fought a civil war between the Republicans, loyal to the elected left-leaning government and supported by the Soviet Union, and Nationalist rebels directly aided by Fascist Italy and Nazi Germany.
+T: On 26 April 1937 the Basque town of Guernica was bombed from the air by Germany's Condor Legion and Italian aircraft, at the request of the Nationalists.
+K: From 1936 to 1939 there was a civil war in Spain. Germany and Italy helped one side. On 26 April 1937 their planes bombed the town of Guernica.
+show: site | at=Bombing of Guernica | label=Guernica, 26 April 1937 | since=1937-04-26 | ring=1
+
+@scene ww2-08
+story: world-war-two
+title: China, 1937
+y: 1937-07-07
+to: 1937-12-13
+cam: 34, 117, 5600
+linear: 1
+src: Marco Polo Bridge incident
+src: Second Sino-Japanese War
+src: Nanjing Massacre
+T: On 7 July 1937 Chinese and Japanese troops clashed at the Marco Polo Bridge near Beijing. The battle lasted three days; the war it opened lasted until 1945. It is often regarded as the beginning of the Second World War in Asia.
+T: Japanese forces captured Shanghai in November and marched on the capital, Nanjing.
+K: In July 1937 Japan and China began a full war. Japan's army took the great city of Shanghai and then marched on Nanjing, which was China's capital at the time.
+show: site | at=Marco Polo Bridge incident | label=Marco Polo Bridge, 7 July 1937 | ring=1
+show: arrow | from=Shanghai | to=Nanjing Massacre | color=axis
+
+@scene ww2-09
+story: world-war-two
+title: Nanjing
+y: 1937-12-13
+to: 1938-03-01
+cam: Nanjing Massacre | 2600
+toll: 100000
+src: Nanjing Massacre
+T: Between December 1937 and March 1938, soldiers of the Imperial Japanese Army murdered Chinese civilians and prisoners of war in Nanjing in vast numbers, and raped women and girls.
+T: The post-war Tokyo tribunal estimated that more than 200,000 people were killed. Newer estimates put the death toll between 100,000 and 200,000.
+K: When the Japanese army took Nanjing, its soldiers killed a huge number of people who were not fighting: at least 100,000, and perhaps more than 200,000. It is one of the worst crimes of the war.
+show: site | at=Nanjing Massacre | label=Nanjing, December 1937 to March 1938 | ring=1
+note: Content note: mass killing and sexual violence against civilians.
+
+@scene ww2-10
+story: world-war-two
+title: Munich
+y: 1938-03-12
+to: 1938-11-10
+cam: Munich | 3800
+linear: 1
+src: Anschluss
+src: Munich Agreement
+src: Kristallnacht
+T: On 12 March 1938 Germany annexed Austria. On 30 September, at Munich, Britain, France and Italy agreed that Germany could also take the Sudetenland, a part of Czechoslovakia where three million people, mainly ethnic Germans, lived.
+T: On 9 and 10 November, Nazi paramilitaries attacked Jews across Germany while the authorities looked on. More than 7,000 Jewish businesses were damaged or destroyed and 30,000 Jewish men were arrested. The night is known as Kristallnacht, after the broken glass in the streets.
+K: In 1938 Germany took over Austria. Then Britain and France agreed to let it take part of Czechoslovakia, hoping that would be enough. It was not. That November, Nazi gangs attacked Jewish people, their shops and their places of worship all over Germany.
+show: site | at=Vienna | label=Austria annexed, 12 March 1938
+show: site | at=Munich | label=Munich Agreement, 30 September 1938 | since=1938-09-30 | ring=1
+
+@scene ww2-11
+story: world-war-two
+title: The pact
+y: 1939-08-23
+cam: Moscow | 5600
+src: Molotov–Ribbentrop Pact
+T: On 23 August 1939, in Moscow, Nazi Germany and the Soviet Union signed a treaty of non-aggression. A secret protocol divided eastern Europe between them into German and Soviet spheres of influence.
+T: One week later, Germany invaded Poland.
+K: In August 1939, Germany and the Soviet Union, who had been enemies, suddenly signed a deal not to fight each other. In secret, they also agreed to share out the countries that lay between them.
+show: site | at=Moscow | label=Moscow, 23 August 1939 | ring=1
+show: region | countries=DEU | color=axis
+
+@scene ww2-12
+story: world-war-two
+title: 1 September 1939
+y: 1939-09-01
+to: 1939-10-06
+cam: Warsaw | 3600
+linear: 1
+res: 0.003
+weight: 2
+src: Invasion of Poland
+src: Battle of France
+T: Germany marched into Poland on 1 September 1939, one week after the pact was signed. On 3 September, France and Britain declared war on Germany. On 17 September the Soviet Union invaded Poland from the east.
+T: The campaign was over by 6 October. Poland never formally surrendered, but the Second Polish Republic had ceased to exist.
+K: On 1 September 1939, Germany invaded Poland. Two days later Britain and France declared war on Germany. Then the Soviet Union invaded Poland from the other side. In five weeks Poland was overrun. The Second World War had begun.
+show: arrow | from=Berlin | to=Warsaw | color=axis
+show: arrow | from=Minsk | to=Brest, Belarus | color=axis | since=1939-09-17
+show: site | at=Warsaw | label=Warsaw | ring=1
+
+@scene ww2-13
+story: world-war-two
+title: France falls in six weeks
+y: 1940-05-10
+to: 1940-06-25
+cam: 49.5, 3, 3000
+linear: 1
+res: 0.003
+weight: 2
+src: Battle of France
+src: Dunkirk evacuation
+T: On 10 May 1940 Germany invaded Belgium, Luxembourg, the Netherlands and France. German armies outflanked France's fortified Maginot Line and drove deep into the country.
+T: Belgian, British and French troops were cut off on the Channel coast. Between 26 May and 4 June more than 338,000 Allied soldiers were carried to England from the beaches and harbour of Dunkirk. German troops entered Paris unopposed on 14 June. France signed an armistice on 22 June.
+K: In May 1940 Germany attacked France, Belgium and the Netherlands. A huge Allied army was trapped by the sea at Dunkirk, and more than 338,000 soldiers were rescued by ships and boats. But France itself was beaten in just six weeks.
+show: arrow | from=Cologne | to=Dunkirk evacuation | color=axis
+show: site | at=Dunkirk evacuation | label=Dunkirk, 26 May to 4 June | since=1940-05-26 | ring=1
+show: site | at=Paris | label=Paris occupied, 14 June | since=1940-06-14
+show: arrow | from=Dunkirk evacuation | to=Dover | color=allies | since=1940-05-26
+
+@scene ww2-14
+story: world-war-two
+title: The Battle of Britain
+img: File:Spitfire and He 111 during Battle of Britain 1940.jpg | A Royal Air Force Spitfire trails smoke after attacking a German Heinkel bomber during the Battle of Britain, 1940.
+y: 1940-07-10
+to: 1941-05-11
+cam: London | 2800
+src: Battle of Britain
+src: The Blitz
+T: Britain now stood without its ally. From 10 July to 31 October 1940 the Royal Air Force defended the country against large-scale attacks by the German air force. It was the first major campaign fought entirely in the air.
+T: From 7 September, Germany turned to mass night raids on British cities, beginning with London. The Blitz lasted eight months.
+K: Next Germany tried to beat Britain from the air. British pilots fought the German planes off in the summer and autumn of 1940. Then German bombers attacked London and other cities, night after night, for eight months.
+show: site | at=London | label=London | ring=1
+show: region | countries=DEU, ITA | color=axis | opacity=0.3
+
+@scene ww2-15
+story: world-war-two
+title: Axis
+y: 1940-09-27
+cam: 35, 75, 22000
+src: Tripartite Pact
+T: On 27 September 1940, in Berlin, Germany, Italy and Japan signed the Tripartite Pact, a military alliance that other states later joined. Its members are known as the Axis powers. Those who fought them are known as the Allies.
+T: On this globe, from here on, Axis moves are drawn in red and Allied moves in blue.
+K: In September 1940, Germany, Italy and Japan promised to help one another. Together they were called the Axis. The countries that fought against them were called the Allies. From now on, red means the Axis and blue means the Allies.
+show: region | countries=DEU, ITA, JPN | color=axis
+show: region | countries=GBR | color=allies
+note: Countries are tinted using today's borders, which differ from those of 1940.
+
+@scene ww2-16
+story: world-war-two
+title: Ethiopia freed
+y: 1940-06-10
+to: 1941-11-27
+cam: 6, 40, 6500
+src: East African campaign (World War II)
+src: Indian Army during World War II
+T: Between June 1940 and November 1941 the Allies fought Italy for East Africa. The force was drawn from across the British Empire: troops from Britain, South Africa, British India, Uganda, Kenya, Somaliland, West Africa, the Rhodesias, Sudan and Nyasaland, joined by soldiers from the Belgian Congo and by the Ethiopian resistance, the Arbegnoch.
+T: Italian East Africa fell. Ethiopia, conquered five years earlier, was free again.
+K: Soldiers from many parts of Africa and from India, together with Ethiopian fighters, drove the Italian army out of East Africa in 1941. Ethiopia was free again.
+show: arrow | from=Nairobi | to=Addis Ababa | color=allies
+show: arrow | from=Khartoum | to=Asmara | color=allies
+show: site | at=Addis Ababa | label=Addis Ababa
+note: Arrows are schematic.
+
+@scene ww2-17
+story: world-war-two
+title: Barbarossa
+y: 1941-06-22
+to: 1941-12-05
+cam: 54, 30, 4600
+cam-to: 54.5, 34, 4600
+linear: 1
+res: 0.003
+weight: 4
+toll: 0
+src: Operation Barbarossa
+src: Eastern Front (World War II)
+T: On Sunday 22 June 1941 Germany and its allies broke the pact and invaded the Soviet Union: more than 3.8 million Axis troops along a front 2,900 km long. It became the largest and costliest military offensive in history.
+T: Scroll and watch the line move. Smolensk fell on 16 July. Kiev was surrendered on 19 September. Kharkov was captured on 24 October and Rostov on 20 November. On 27 November a German tank army reached Khimki, the last tram stop on the Moscow line, 30 km from the Kremlin. By 5 December the offensive had cost more than 8 million casualties, and it had stopped.
+K: On 22 June 1941, Germany broke its promise and attacked the Soviet Union with millions of soldiers. Scroll and watch the red line move east, city by city, until it almost reaches Moscow. Then winter came, and the attack stopped.
+show: front | id=eastern-front | color=axis
+show: site | at=Smolensk | label=Smolensk, 16 July | since=1941-07-16
+show: site | at=Kyiv | label=Kiev, 19 September | since=1941-09-19
+show: site | at=Kharkiv | label=Kharkov, 24 October | since=1941-10-24
+show: site | at=Rostov-on-Don | label=Rostov, 20 November | since=1941-11-20
+show: site | at=Khimki | label=Khimki, 27 November | since=1941-11-27 | ring=1
+show: site | at=Moscow | label=Moscow
+note: The front line is an approximate reconstruction drawn through the places named in dated battles. It is schematic between them.
+
+@scene ww2-18
+story: world-war-two
+title: Leningrad
+img: File:Anti aircraft Leningrad 1941.JPG | Anti-aircraft guns firing near St Isaac's Cathedral during the defence of Leningrad, 1941.
+y: 1941-09-08
+to: 1944-01-27
+cam: Siege of Leningrad | 2600
+toll: 1500000
+src: Siege of Leningrad
+T: On 8 September 1941 the last land routes into Leningrad were cut. The Soviet Union's second city was besieged by Germany and Finland for 872 days, and never captured.
+T: It was the most destructive siege in history and possibly the deadliest. An estimated 1.5 million people died, out of 3.2 million who had lived there before the war. Because the city's people were systematically starved, some historians classify the siege as a genocide.
+K: The city of Leningrad was surrounded for 872 days. Almost no food could get in. About one and a half million people died, most of them from hunger and cold. The city never gave up.
+show: site | at=Siege of Leningrad | label=Leningrad, besieged 872 days | ring=1
+show: front | id=eastern-front | color=axis
+
+@scene ww2-19
+story: world-war-two
+title: The killing begins in the east
+y: 1941-09-29
+cam: Babi Yar | 2600
+toll: 3300000
+src: Babi Yar
+src: The Holocaust
+src: Operation Barbarossa
+T: Behind the advancing front, German forces began murdering Jews by mass shooting. At Babi Yar, a ravine in Kiev, some 33,771 Jews were murdered on 29 and 30 September 1941. Between 100,000 and 150,000 people were killed at that one site during the occupation, among them Soviet prisoners of war, communists and Roma.
+T: Of the five million Soviet soldiers the Axis captured on the Eastern Front, 3.3 million were deliberately starved or otherwise killed.
+K: As the German army moved east, special units behind it began shooting Jewish families in huge numbers. At a ravine called Babi Yar, in Kiev, more than 33,000 Jewish people were murdered in two days. Millions of captured Soviet soldiers were deliberately starved to death.
+show: site | at=Babi Yar | label=Babi Yar, 29 and 30 September 1941 | ring=1
+note: Content note: mass murder. The running total adds the 3.3 million Soviet prisoners of war here; Jewish victims are counted once, in the scene on the Holocaust.
+
+@scene ww2-20
+story: world-war-two
+title: Pearl Harbor
+img: File:Attack on Pearl Harbor Japanese planes view.jpg | A photograph taken from a Japanese plane during the torpedo attack on ships moored at Pearl Harbor, 7 December 1941.
+y: 1941-12-07
+cam: Attack on Pearl Harbor | 5200
+toll: 2403
+src: Attack on Pearl Harbor
+T: On 7 December 1941 aircraft launched from Japanese carriers struck the US Pacific Fleet at its base at Pearl Harbor, Hawaii. The United States was a neutral country. Negotiations between the two governments had been going on for months.
+T: All eight US battleships in the harbour were damaged, and four were sunk. 2,403 Americans were killed. The United States declared war on Japan the next day.
+K: On 7 December 1941, Japanese planes made a surprise attack on American warships at Pearl Harbor in Hawaii. 2,403 Americans were killed. The next day the United States joined the war.
+show: arrow | from=Tokyo | to=Attack on Pearl Harbor | color=axis
+show: site | at=Attack on Pearl Harbor | label=Pearl Harbor, 7 December 1941 | ring=1
+
+@scene ww2-21
+story: world-war-two
+title: Japan's hundred days
+y: 1941-12-08
+to: 1942-02-15
+cam: 8, 110, 9500
+linear: 1
+res: 0.003
+weight: 2
+src: Malayan campaign
+src: Fall of Singapore
+T: On 8 December 1941, as Pearl Harbor burned, the Japanese campaign in Malaya began. Land battles carried General Yamashita's army down the peninsula in ten weeks.
+T: Singapore was Britain's foremost military base and port in South-East Asia. It fell after a week of fighting, from 8 to 15 February 1942. General Arthur Percival had commanded 85,000 Allied troops there, and the capitulation was the largest surrender in British history.
+K: Japan attacked in many places at once. Its army raced down through Malaya and captured Singapore, Britain's strongest base in Asia, in February 1942. It was the biggest surrender in British history.
+show: arrow | from=George Town, Penang | to=Fall of Singapore | color=axis
+note: The arrow is schematic.
+show: site | at=Fall of Singapore | label=Singapore falls, 15 February 1942 | since=1942-02-15 | ring=1
+show: region | countries=JPN | color=axis
+
+@scene ww2-22
+story: world-war-two
+title: Under occupation in Asia
+y: 1942-06-01
+to: 1945-03-01
+cam: 14, 103, 7500
+toll: 400000
+src: Burma Railway
+src: Vietnamese famine of 1944–1945
+T: Occupation brought forced labour and hunger. The 415 km railway from Thailand into Burma was built by captured Allied soldiers and by at least 250,000 South-East Asian civilians, taken and made to work by the Japanese. Local people call it the Death Railway.
+T: In northern Vietnam, between 400,000 and 2 million people starved to death in the famine of 1944 and 1945.
+K: In the lands Japan occupied, many people were forced to work. Hundreds of thousands were made to build a railway through the jungle between Thailand and Burma. In Vietnam, a terrible famine killed at least 400,000 people.
+show: route | via=Bangkok; Burma Railway; Yangon | color=axis | dash=1
+show: site | at=Burma Railway | label=Burma Railway
+show: site | at=Hanoi | label=Famine in northern Vietnam, 1944 to 1945
+
+@scene ww2-23
+story: world-war-two
+title: The Holocaust
+img: File:2 Birkenau 3.JPG | Barracks at Auschwitz II-Birkenau.
+y: 1942-01-20
+to: 1945-01-27
+cam: Auschwitz concentration camp | 3600
+weight: 2
+toll: 6000000
+src: The Holocaust
+src: Wannsee Conference
+src: Auschwitz concentration camp
+T: On 20 January 1942 senior Nazi officials met in the Berlin suburb of Wannsee to coordinate what they called the Final Solution: the Jews of German-occupied Europe were to be deported to occupied Poland and murdered.
+T: From 1941 to 1945 Nazi Germany and its collaborators systematically murdered around six million Jews, about two-thirds of Europe's Jewish population, by mass shooting in the east and by poison gas in extermination camps: Auschwitz-Birkenau, Treblinka, Belzec, Sobibor, Chełmno and Majdanek.
+T: Of the 1.3 million people sent to Auschwitz, 1.1 million were murdered there. 960,000 of them were Jews, and 865,000 of those were gassed on arrival.
+K: The Nazis set out to murder all the Jewish people of Europe. They built camps for killing, and sent men, women and children there by train from every country they controlled. They murdered about six million Jews, two out of every three in Europe. This is called the Holocaust.
+show: site | at=Wannsee Conference | label=Wannsee, 20 January 1942
+show: site | at=Auschwitz concentration camp | label=Auschwitz-Birkenau | ring=1
+show: site | at=Treblinka extermination camp | label=Treblinka
+show: site | at=Sobibor extermination camp | label=Sobibor
+show: site | at=Belzec extermination camp | label=Belzec
+show: site | at=Chełmno extermination camp | label=Chełmno
+show: site | at=Majdanek concentration camp | label=Majdanek
+note: Content note: genocide.
+
+@scene ww2-24
+story: world-war-two
+title: Roma, disabled people and others
+y: 1939-09-01
+to: 1945-05-08
+cam: 50, 14, 5200
+toll: 525000
+src: Romani Holocaust
+src: Aktion T4
+src: Auschwitz concentration camp
+T: Jews were not the only people the Nazi state set out to destroy. From 1933 it persecuted Roma and Sinti with internment and forced sterilisation, and then with deportation and mass murder. Historians estimate that at least 250,000 were killed, and possibly as many as 500,000.
+T: Under a programme later called Aktion T4, physicians selected people with disabilities and mental illness to be killed by gas, injection and starvation. Between 275,000 and 300,000 people were murdered in psychiatric hospitals. At Auschwitz the dead also included 74,000 non-Jewish Poles and 15,000 Soviet prisoners of war.
+K: The Nazis also murdered Roma people, at least 250,000 of them, and about 275,000 people who were disabled or mentally ill. They killed Polish people and prisoners of war in huge numbers too.
+show: region | countries=DEU, AUT, POL, CZE | color=neutral | opacity=0.25
+note: Content note: genocide and the murder of disabled people.
+
+@scene ww2-25
+story: world-war-two
+title: Midway
+y: 1942-06-04
+to: 1942-06-07
+cam: Battle of Midway | 9500
+linear: 1
+res: 0.003
+src: Battle of Midway
+T: Six months after Pearl Harbor, Admiral Yamamoto set out to capture Midway Atoll and draw the American carriers into a trap. Instead, American planes found his carriers at the moment they were rearming and refuelling.
+T: Between 4 and 7 June 1942 all four Japanese fleet carriers in the battle, Akagi, Kaga, Sōryū and Hiryū, were sunk. It was a decisive defeat for Japan.
+K: In June 1942, near a tiny island called Midway, American planes sank four of Japan's big aircraft carriers in one battle. After that, Japan could no longer attack wherever it liked.
+show: arrow | from=Tokyo | to=Battle of Midway | color=axis
+show: arrow | from=Attack on Pearl Harbor | to=Battle of Midway | color=allies
+show: site | at=Battle of Midway | label=Midway, 4 to 7 June 1942 | ring=1
+
+@scene ww2-26
+story: world-war-two
+title: Guadalcanal
+y: 1942-08-07
+to: 1943-02-09
+cam: Guadalcanal campaign | 7500
+src: Guadalcanal campaign
+T: On 7 August 1942 the Allies landed on Guadalcanal in the Solomon Islands: their first major land offensive against Japan. The fighting on and around the island, on land and at sea, lasted until 9 February 1943.
+T: From here the war in the Pacific became a long advance from island to island, each one a base for the next.
+K: In August 1942, Allied soldiers landed on the island of Guadalcanal and fought there for six months. From then on they pushed towards Japan one island at a time.
+show: site | at=Guadalcanal campaign | label=Guadalcanal, August 1942 to February 1943 | ring=1
+
+@scene ww2-27
+story: world-war-two
+title: El Alamein
+y: 1942-10-23
+to: 1942-11-16
+cam: 31.5, 20, 5600
+linear: 1
+res: 0.003
+src: Second Battle of El Alamein
+src: Operation Torch
+T: Near a railway halt in the Egyptian desert, the British Eighth Army under Bernard Montgomery opened its offensive on 23 October 1942. In thirteen days the Axis army in Africa was crushed and driven back out of Egypt and Libya towards Tunisia.
+T: On 8 November, American and British forces landed at the other end of the coast, in French North Africa.
+K: In the desert of Egypt, in October 1942, the British army beat the German and Italian army at El Alamein and chased it west. A few days later, American and British soldiers landed on the other side of North Africa.
+show: site | at=Second Battle of El Alamein | label=El Alamein, 23 October to 4 November | ring=1
+show: arrow | from=Second Battle of El Alamein | to=Tripoli, Libya | color=allies
+show: arrow | from=Gibraltar | to=Algiers | color=allies | since=1942-11-08
+
+@scene ww2-28
+story: world-war-two
+title: Stalingrad
+img: File:62. armata a Stalingrado.jpg | Soviet soldiers of the 62nd Army in the ruins of Stalingrad, December 1942.
+y: 1942-08-23
+to: 1943-02-02
+cam: Battle of Stalingrad | 2500
+linear: 1
+res: 0.003
+weight: 4
+src: Battle of Stalingrad
+src: Operation Uranus
+T: On 23 August 1942 the German 6th Army attacked Stalingrad, on the Volga, behind bombing raids that reduced much of the city to rubble. What followed was fought at close quarters in the ruins: the largest and deadliest urban battle in history.
+T: On 19 November the Red Army struck the armies guarding the German flanks. By late on 22 November the northern and southern Soviet forces had met at the town of Kalach, and some 290,000 Axis soldiers were encircled. Hitler forbade a breakout. On 2 February 1943, out of ammunition and food, the 6th Army capitulated.
+K: At the city of Stalingrad, the German and Soviet armies fought for five months, house by house. In November 1942 the Soviet army went round both sides and trapped about 290,000 enemy soldiers. On 2 February 1943 they surrendered. Germany never recovered from this defeat.
+show: front | id=eastern-front | color=axis
+show: site | at=Battle of Stalingrad | label=Stalingrad | ring=1
+show: arrow | from=49.6, 42.6 | to=Kalach-na-Donu | color=allies | since=1942-11-19
+show: arrow | from=47.9, 44.8 | to=Kalach-na-Donu | color=allies | since=1942-11-20
+show: site | at=Kalach-na-Donu | label=Kalach: the ring closes, 22 November | since=1942-11-22
+note: The two blue arrows show the directions of the Soviet pincers schematically. The front line is an approximate reconstruction.
+
+@scene ww2-29
+story: world-war-two
+title: India's army of volunteers
+img: File:1-5MahrattaLightInfantryFlorence1944.jpg | Infantrymen of the 1/5 Mahratta Light Infantry during training in Florence, Italy, 28 August 1944.
+y: 1942-08-08
+cam: 22, 79, 7500
+src: Indian Army during World War II
+src: Quit India Movement
+T: India was not free, and it was at war. The Indian Army began the war with just under 200,000 men. By August 1945 it had over 2.5 million: the largest volunteer army in history. They fought in Ethiopia, Egypt, Libya, Tunisia and Italy, and against Japan.
+T: At home, on 8 August 1942 in Bombay, Mahatma Gandhi launched the Quit India Movement with a call to "Do or Die", demanding an end to British rule. The Viceroy called it "by far the most serious rebellion since 1857".
+K: India was ruled by Britain, so India was in the war too. More than two and a half million Indians volunteered to be soldiers, more volunteers than any army has ever had. At the same time, Gandhi and millions of others told the British it was time to leave India.
+show: site | at=Mumbai | label=Quit India, Bombay, 8 August 1942 | ring=1
+show: region | countries=IND, PAK, BGD | color=allies | opacity=0.25
+note: British India is tinted using the modern borders of India, Pakistan and Bangladesh.
+
+@scene ww2-30
+story: world-war-two
+title: Famine in Bengal
+y: 1943-01-01
+to: 1943-12-31
+cam: Kolkata | 2800
+toll: 800000
+src: Bengal famine of 1943
+T: In 1943 famine struck Bengal and Orissa. An estimated 800,000 to 3.8 million people died of starvation, malaria and other diseases made worse by malnutrition, displacement, insanitary conditions, poor British wartime policies and a lack of health care.
+T: Millions were impoverished. Families broke apart as men sold their small farms and left to look for work.
+K: In 1943 there was a terrible famine in Bengal, in eastern India. At least 800,000 people died, and perhaps as many as 3.8 million. Bad decisions by India's British rulers during the war made it worse.
+show: site | at=Kolkata | label=Bengal, 1943 | ring=1
+note: Content note: mass death from famine. Historians continue to debate how far wartime policy caused the famine.
+conf: debated
+
+@scene ww2-31
+story: world-war-two
+title: Imphal and Kohima
+y: 1944-03-08
+to: 1944-07-03
+cam: Battle of Kohima | 2600
+src: Indian National Army
+src: Battle of Imphal
+src: Battle of Kohima
+T: Not all Indians fought for Britain. The Indian National Army, led by Subhas Chandra Bose and formed mainly from Indian prisoners of war held by Japan, aimed to free India by force, with Japanese support.
+T: From March to July 1944 Japanese armies, with the INA, invaded north-east India. They were stopped at Imphal, the capital of Manipur, and on the ridge at Kohima, in what is now Nagaland, and driven back into Burma with heavy losses. It was the turning point of the Burma campaign.
+K: Some Indians joined an army led by Subhas Chandra Bose that fought alongside Japan, hoping to free India from Britain. In 1944, Japan invaded north-east India. The invasion was stopped at the towns of Imphal and Kohima.
+show: arrow | from=Mandalay | to=Imphal | color=axis
+note: The arrow is schematic.
+show: site | at=Imphal | label=Imphal, March to July 1944 | ring=1
+show: site | at=Battle of Kohima | label=Kohima, 4 April to 22 June 1944
+
+@scene ww2-32
+story: world-war-two
+title: The home fronts
+img: File:Riveting team2.jpg | A riveting team at work on the cockpit shell of an aircraft at a California factory, October 1942.
+y: 1942-10-01
+cam: 45, -40, 20000
+src: Rosie the Riveter
+src: Soviet women in World War II
+src: Rationing in the United Kingdom
+T: The war was fought in factories and kitchens too. In the United States, women took jobs in factories and shipyards that men had left; their symbol was Rosie the Riveter. In the Soviet Union most women worked double shifts or more in industry, transport and farming, and around 800,000 served in the Red Army.
+T: Britain had imported 20 million tons of food a year, including about 70 percent of its cheese, sugar and cereals. With ships under attack, food was rationed.
+K: The war changed life for people at home. Women took over jobs in factories, shipyards and farms. In the Soviet Union, 800,000 women joined the army. In Britain food was shared out carefully, because the ships that brought it were being sunk.
+
+@scene ww2-33
+story: world-war-two
+title: Codes and science
+img: File:Bletchley Park Mansion.jpg | The mansion at Bletchley Park, headquarters of Britain's wartime codebreakers.
+y: 1943-01-01
+cam: Bletchley Park | 2600
+model: enigma
+src: Bletchley Park
+src: Enigma machine
+src: Manhattan Project
+T: At Bletchley Park, an English country house, codebreakers including Alan Turing, Margaret Rock and Mavis Lever regularly read the secret messages of the Axis powers, above all those enciphered on the German Enigma machine, which Germany believed to be secure.
+T: Across the Atlantic the Manhattan Project, led by the United States with Britain and Canada, employed nearly 130,000 people at its peak to build a new kind of bomb.
+K: In a country house in England, clever men and women worked in secret to crack the codes the German army used for its messages. In America, scientists were secretly building a terrible new weapon: the atomic bomb.
+show: site | at=Bletchley Park | label=Bletchley Park | ring=1
+
+@scene ww2-34
+story: world-war-two
+title: Soldiers of the empires
+y: 1944-12-01
+cam: Thiaroye massacre | 4200
+toll: 35
+src: Senegalese Tirailleurs
+src: Thiaroye massacre
+src: East African campaign (World War II)
+T: The colonial powers fought the war with colonial soldiers. France's Tirailleurs Sénégalais were recruited across west, central and east Africa. Many fought in the Battle of France in 1940 and spent years in German prison camps.
+T: On 1 December 1944, at Thiaroye camp near Dakar, veterans just returned from those camps protested over poor conditions and unpaid wages. The French Army opened fire. Between 35 and 300 were killed.
+K: Britain and France used soldiers from the countries they ruled in Africa and Asia. Many African soldiers fought for France and were taken prisoner. When some of them came home and asked for the pay they were owed, French troops shot at them.
+show: site | at=Thiaroye massacre | label=Thiaroye, 1 December 1944 | ring=1
+
+@scene ww2-35
+story: world-war-two
+title: Kursk
+y: 1943-03-25
+to: 1943-08-23
+cam: Battle of Kursk | 2800
+linear: 1
+res: 0.003
+weight: 2
+src: Battle of Kursk
+src: Eastern Front (World War II)
+T: In the summer of 1943 the two armies met around a bulge in the front at Kursk. Germany attacked on 5 July, the costliest single day of air fighting in history. It is the largest battle ever fought.
+T: The attack stalled. On 12 July the Soviets went over to the offensive. Orel was retaken on 5 August, and Kharkov was abandoned by the Germans for the last time on 22 August. From here the front moved west.
+K: In July 1943, near the city of Kursk, the biggest battle in history was fought, with thousands of tanks and planes. The German attack failed. After that the Soviet army kept pushing the Germans back.
+show: front | id=eastern-front | color=axis
+show: site | at=Battle of Kursk | label=Kursk, July 1943 | ring=1
+show: site | at=Oryol | label=Orel retaken, 5 August | since=1943-08-05
+show: site | at=Kharkiv | label=Kharkov, 22 August | since=1943-08-22
+
+@scene ww2-36
+story: world-war-two
+title: Italy changes sides
+y: 1943-07-10
+to: 1943-09-03
+cam: 39, 14, 3800
+src: Allied invasion of Sicily
+src: Armistice of Cassibile
+T: In July 1943 Allied forces invaded Sicily and took it from the Italian and German armies defending it.
+T: On 3 September Italy signed an armistice with the Allies, approved by the King and by the prime minister, Marshal Badoglio. Italy's war against the Allies was over. German troops fought on in Italy, and Indian soldiers were among those who fought them there.
+K: In 1943 the Allies landed on the Italian island of Sicily. Italy soon stopped fighting and made peace. The German army in Italy kept fighting.
+show: arrow | from=Tunis | to=Palermo | color=allies
+show: site | at=Palermo | label=Sicily, July 1943
+
+@scene ww2-37
+story: world-war-two
+title: The ghetto fights back
+img: File:Stroop Report - Warsaw Ghetto Uprising BW.jpg | Jews captured during the Warsaw Ghetto Uprising, photographed for the report of the SS commander Jürgen Stroop. The original Nazi caption reads "Forcibly pulled out of bunkers".
+y: 1943-04-19
+to: 1943-05-16
+cam: Warsaw Ghetto Uprising | 2500
+linear: 1
+res: 0.003
+src: Warsaw Ghetto Uprising
+T: In the summer of 1942 more than a quarter of a million Jews were deported from the Warsaw Ghetto to Treblinka and murdered. Those who remained began building bunkers and smuggling in weapons.
+T: On 19 April 1943, when German forces came to deport the rest, the ghetto refused to surrender. The SS destroyed it block by block until 16 May. It was the largest single revolt by Jews against the Nazis during the war.
+K: In the city of Warsaw, the Nazis had forced Jewish people to live crowded together in one small walled area, the ghetto, and then began sending them to be killed. In April 1943 the people left in the ghetto fought back. They held out for four weeks.
+show: site | at=Warsaw Ghetto Uprising | label=Warsaw Ghetto, 19 April to 16 May 1943 | ring=1
+
+@scene ww2-38
+story: world-war-two
+title: 6 June 1944
+img: File:Into the Jaws of Death 23-0455M edit.jpg | Troops of the US 1st Infantry Division wade ashore from a landing craft on the morning of 6 June 1944. Photograph by Robert F. Sargent, US Coast Guard.
+y: 1944-06-06
+to: 1944-08-25
+cam: Normandy landings | 2500
+cam-to: 49.1, 1, 2800
+linear: 1
+res: 0.003
+weight: 2.4
+toll: 4414
+src: Normandy landings
+src: Liberation of Paris
+T: Shortly after midnight on 6 June 1944, 24,000 American, British and Canadian airborne troops dropped into Normandy. At dawn the largest seaborne invasion in history came ashore along 80 km of coast, on beaches code-named Utah, Omaha, Gold, Juno and Sword.
+T: Allied casualties on the first day were at least 10,000, with 4,414 confirmed dead. The landings began the liberation of western Europe. The German garrison of Paris surrendered on 25 August.
+K: On 6 June 1944, called D-Day, a giant fleet carried Allied soldiers across the sea to the beaches of Normandy in France. It was the biggest invasion by sea there has ever been. Eleven weeks later, Paris was free.
+show: arrow | from=Portsmouth | to=Normandy landings | color=allies
+show: site | at=Normandy landings | label=Normandy, 6 June 1944 | ring=1
+show: arrow | from=Normandy landings | to=Liberation of Paris | color=allies | since=1944-08-01
+show: site | at=Liberation of Paris | label=Paris liberated, 25 August | since=1944-08-25
+
+@scene ww2-39
+story: world-war-two
+title: Bagration
+y: 1944-06-22
+to: 1944-08-29
+cam: 53.5, 27, 3800
+linear: 1
+res: 0.003
+weight: 2.4
+src: Operation Bagration
+src: Eastern Front (World War II)
+T: On 22 June 1944, three years to the day after the invasion and two weeks after Normandy, the Red Army attacked in Byelorussia. Germany now had to fight on two fronts at once.
+T: Minsk was taken on 3 July, trapping some 100,000 German soldiers. Twenty-eight divisions of Army Group Centre were destroyed and the front was shattered. With around 450,000 German casualties, it was the largest defeat in German military history.
+K: Two weeks after D-Day, the Soviet army launched a huge attack from the east. In two months it destroyed a whole German army group and reached the edge of Warsaw. Germany was now being squeezed from both sides.
+show: front | id=eastern-front | color=axis
+show: site | at=Minsk | label=Minsk, 3 July | since=1944-07-03 | ring=1
+show: site | at=Vitebsk | label=Vitebsk
+show: site | at=Warsaw | label=Warsaw
+
+@scene ww2-40
+story: world-war-two
+title: The camps are opened
+y: 1945-01-27
+cam: Auschwitz concentration camp | 3000
+src: Auschwitz concentration camp
+src: The Holocaust
+T: As the armies advanced they reached the camps. Soviet troops entered Auschwitz on 27 January 1945.
+T: Since 2005 that date has been commemorated as International Holocaust Remembrance Day.
+K: As the Allied armies moved forward, they reached the Nazi camps and set free the people who were still alive. Soviet soldiers reached Auschwitz on 27 January 1945. That day is now remembered every year.
+show: site | at=Auschwitz concentration camp | label=Auschwitz, 27 January 1945 | ring=1
+
+@scene ww2-41
+story: world-war-two
+title: Fire over Japan
+y: 1944-10-23
+to: 1945-06-22
+cam: 22, 132, 8500
+linear: 1
+weight: 2
+toll: 90000
+src: Battle of Leyte Gulf
+src: Battle of Iwo Jima
+src: Bombing of Tokyo (10 March 1945)
+src: Battle of Okinawa
+T: From 23 to 26 October 1944, off the Philippines, more than 200,000 sailors fought the Battle of Leyte Gulf, the largest naval battle of the war. Iwo Jima was fought over from 19 February to 26 March 1945.
+T: On the night of 9 to 10 March, 279 American B-29 bombers set eastern Tokyo on fire. More than 90,000 people were killed, most of them civilians, and a million were left homeless. It was the most destructive single air raid of the war. Okinawa was invaded on 1 April; the battle lasted 82 days.
+K: By 1945 American forces were close to Japan. In one night in March, bombers set fire to the city of Tokyo. More than 90,000 people died and a million lost their homes.
+show: site | at=Battle of Leyte Gulf | label=Leyte Gulf, 23 to 26 October 1944
+show: site | at=Battle of Iwo Jima | label=Iwo Jima, February to March 1945 | since=1945-02-19
+show: site | at=Bombing of Tokyo (10 March 1945) | label=Tokyo, 9 to 10 March 1945 | since=1945-03-09 | ring=1
+show: site | at=Battle of Okinawa | label=Okinawa, 1 April to 22 June 1945 | since=1945-04-01
+show: route | via=Guadalcanal campaign; Battle of Leyte Gulf; Battle of Okinawa | color=allies | head=1
+
+@scene ww2-42
+story: world-war-two
+title: Berlin
+img: File:Raising a flag over the Reichstag - Restoration.jpg | A Soviet soldier raises a flag over the Reichstag in Berlin. Photograph by Yevgeny Khaldei, taken on 2 May 1945.
+y: 1945-01-12
+to: 1945-05-08
+cam: 51.5, 17, 3600
+cam-to: Berlin | 2800
+linear: 1
+res: 0.003
+weight: 3
+src: Battle of Berlin
+src: Eastern Front (World War II)
+src: Allied-occupied Germany
+T: The Red Army entered the ruins of Warsaw on 17 January 1945. By February it stood on a line 60 km east of Berlin. Budapest fell on 13 February, Königsberg on 9 April, Vienna on 13 April.
+T: On 16 April two Soviet army groups attacked Berlin from the east and south. On 30 April Hitler killed himself. The city's garrison surrendered on 2 May, and Germany formally surrendered on 8 May 1945.
+K: In 1945 the Soviet army fought its way to Berlin, the German capital. On 30 April Hitler killed himself. A week later Germany surrendered. The war in Europe was over.
+show: front | id=eastern-front | color=axis
+show: site | at=Warsaw | label=Warsaw, 17 January | since=1945-01-17
+show: site | at=Budapest | label=Budapest, 13 February | since=1945-02-13
+show: site | at=Vienna | label=Vienna, 13 April | since=1945-04-13
+show: site | at=Berlin | label=Berlin surrenders, 2 May | since=1945-05-02 | ring=1
+
+@scene ww2-43
+story: world-war-two
+title: Hiroshima and Nagasaki
+img: File:Atomic bombing of Japan.jpg | The clouds over Hiroshima (left, 6 August 1945) and Nagasaki (right, 9 August 1945), photographed from American aircraft.
+y: 1945-08-06
+to: 1945-08-09
+cam: 34, 131.5, 2800
+linear: 1
+res: 0.003
+toll: 150000
+src: Atomic bombings of Hiroshima and Nagasaki
+src: Tsutomu Yamaguchi
+quote: The reason that I hate the atomic bomb is because of what it does to the dignity of human beings. | Tsutomu Yamaguchi, who survived both bombings | Wikipedia: Tsutomu Yamaguchi | https://en.wikipedia.org/wiki/Tsutomu_Yamaguchi
+T: On 6 August 1945 the United States dropped an atomic bomb on Hiroshima. Three days later it dropped another on Nagasaki. Over the following two to four months the bombings killed 90,000 to 166,000 people in Hiroshima and 60,000 to 80,000 in Nagasaki. About half of them died on the first day. Most were civilians.
+T: Tsutomu Yamaguchi, a marine engineer, was in Hiroshima that morning. He saw "a great flash in the sky, and I was blown over". He went home to Nagasaki, and was describing the bomb to his supervisor when the second one exploded.
+K: In August 1945 the United States dropped two atomic bombs on Japan, one on the city of Hiroshima and one on Nagasaki. Each bomb destroyed a whole city in a moment. Between 150,000 and 246,000 people died, and most were ordinary families. These are the only times such bombs have ever been used in war.
+show: site | at=Hiroshima | label=Hiroshima, 6 August 1945 | ring=1
+show: site | at=Nagasaki | label=Nagasaki, 9 August 1945 | since=1945-08-09 | ring=1
+note: Content note: the deaths of civilians in nuclear attack.
+
+@scene ww2-44
+story: world-war-two
+title: Surrender
+y: 1945-08-08
+to: 1945-09-02
+cam: Surrender of Japan | 6500
+linear: 1
+res: 0.003
+src: Soviet invasion of Manchuria
+src: Surrender of Japan
+T: On 8 August the Soviet Union, which had been at peace with Japan for almost six years, invaded Japanese-held Manchuria.
+T: Emperor Hirohito announced Japan's surrender on 15 August. It was formally signed on 2 September 1945. Six years and a day after it began in Poland, the war was over.
+K: Japan surrendered on 15 August 1945, and signed the papers on 2 September. After six years, the Second World War was over.
+show: site | at=Soviet invasion of Manchuria | label=Soviet invasion of Manchuria, 8 August
+show: site | at=Surrender of Japan | label=Tokyo Bay, 2 September 1945 | since=1945-09-02 | ring=1
+
+@scene ww2-45
+story: world-war-two
+title: The dead
+y: 1945-09-02
+cam: 35, 70, 22000
+look: data
+chart: ww2-deaths
+src: World War II casualties
+src: Nuremberg trials
+T: An estimated 60 to 75 million people had died. Civilian deaths, at 50 to 55 million, far outnumbered military deaths, at 21 to 25 million. Between 19 and 28 million of the dead were killed by war-related famine and disease.
+T: More than half of all the deaths were in two countries: the Soviet Union and China.
+K: Between 60 and 75 million people died in the war. Most were not soldiers. More than half of them were from just two countries: the Soviet Union and China.
+
+@scene ww2-46
+story: world-war-two
+title: A charter and two trials
+y: 1945-06-26
+to: 1948-11-12
+cam: Nuremberg trials | 9500
+src: Charter of the United Nations
+src: Nuremberg trials
+src: International Military Tribunal for the Far East
+T: On 26 June 1945, in San Francisco, 50 countries signed the Charter of the United Nations. It came into force on 24 October.
+T: From 20 November 1945 to 1 October 1946, at Nuremberg, an international tribunal tried 22 of the most important surviving leaders of Nazi Germany. In Tokyo, a tribunal convened on 29 April 1946 tried Japan's leaders; when it adjourned on 12 November 1948, seven had been sentenced to death. The charges were crimes against peace, war crimes and crimes against humanity.
+K: After the war, countries set up the United Nations to try to keep the peace. The leaders of Germany and Japan who had started the war and ordered the killing were put on trial.
+show: site | at=San Francisco | label=UN Charter, 26 June 1945
+show: site | at=Nuremberg trials | label=Nuremberg, 1945 to 1946 | ring=1
+show: site | at=Tokyo | label=Tokyo trial, 1946 to 1948
+
+@scene ww2-47
+story: world-war-two
+title: New borders, new countries
+y: 1945-08-17
+to: 1947-08-15
+cam: 20, 95, 14000
+src: Proclamation of Indonesian Independence
+src: Declaration of independence of the Democratic Republic of Vietnam
+src: Division of Korea
+src: Partition of India
+src: Flight and expulsion of Germans (1944–1950)
+T: The old empires could not be put back together. Indonesia proclaimed its independence on 17 August 1945, two days after Japan's surrender. Vietnam declared its own on 2 September. Korea was divided that same day into Soviet and American zones.
+T: In 1947 British India became two independent states, India and Pakistan. Partition displaced between 12 and 20 million people amid large-scale violence. In Europe about 12 million Germans left or were driven from the east.
+K: After the war, the countries that had been ruled by empires began to break free. Indonesia and Vietnam declared independence in 1945. India became independent in 1947, and was split into two countries, India and Pakistan. Millions of people had to leave their homes.
+show: site | at=Jakarta | label=Indonesia, 17 August 1945
+show: site | at=Hanoi | label=Vietnam, 2 September 1945 | since=1945-09-02
+show: site | at=Seoul | label=Korea divided, 2 September 1945 | since=1945-09-02
+show: site | at=New Delhi | label=India and Pakistan, August 1947 | since=1947-08-14
+
+@scene ww2-48
+story: world-war-two
+title: And then a colder war
+y: 1947-03-12
+to: 1949-05-12
+cam: Berlin | 6500
+src: Truman Doctrine
+src: Berlin Blockade
+src: Iron Curtain
+src: Cold War
+T: The alliance that won the war did not outlast it. On 12 March 1947 President Truman pledged American support to countries resisting Soviet influence. From 24 June 1948 to 12 May 1949 the Soviet Union blocked the roads, railways and canals into the western sectors of Berlin.
+T: A boundary now divided Europe, and would for more than forty years. The world that came out of the war was organised around two rivals who never fought each other directly, and around the bomb that had ended it.
+K: The winners of the war soon fell out. The United States and the Soviet Union became rivals, and Europe was split down the middle. That rivalry was called the Cold War. That story comes next.
+show: site | at=Berlin | label=Berlin Blockade, 1948 to 1949 | ring=1
+show: region | countries=USA, GBR, FRA | color=west | opacity=0.3
+show: region | countries=RUS | color=east | opacity=0.3
+
+@quiz ww2-q1
+story: world-war-two
+q: What happened on 1 September 1939?
+options: Germany invaded Poland; Japan attacked Pearl Harbor; The war ended
+a: Germany invaded Poland
+why: That invasion is counted as the start of the war. Britain and France declared war on Germany two days later.
+
+@quiz ww2-q2
+story: world-war-two
+q: Who made up most of the people who died in the war?
+options: Soldiers; People who were not soldiers
+a: People who were not soldiers
+why: Between 50 and 55 million of the dead were civilians.
+
+@quiz ww2-q3
+story: world-war-two
+q: What was set up after the war to try to keep the peace?
+options: The United Nations; The Axis; The Tripartite Pact
+a: The United Nations
+why: Fifty countries signed its Charter in San Francisco on 26 June 1945.

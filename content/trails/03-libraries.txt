@@ -1,0 +1,128 @@
+# Trail: libraries and the keeping of knowledge. Facts from the articles named in src.
+
+@trail libraries
+title: Keepers of knowledge
+kid-title: The great libraries
+theme: science
+color: #c9b8ff
+order: 3
+deck: Clay tablets in Nineveh, scrolls in Alexandria, 81,352 wooden blocks on a Korean mountain, a trillion web pages in San Francisco. Eleven attempts to keep what people know.
+kid-deck: How do you keep everything people know safe? Visit eleven great libraries, from clay tablets 2,700 years old to a library of the whole Internet.
+
+@stop lib-1
+trail: libraries
+title: A king's 30,000 tablets
+date: 650 BCE
+at: Library of Ashurbanipal
+alt: 1500
+src: Library of Ashurbanipal
+T: Ashurbanipal, the last great king of the Assyrian Empire, gathered a library at Nineveh in the 7th century BCE. More than 30,000 clay tablets and fragments survive, with texts of all kinds in several languages, among them the Epic of Gilgamesh. Austen Henry Layard's excavations found them from late 1849, and most are now in the British Museum.
+K: About 2,700 years ago a king named Ashurbanipal collected a huge library. His books were clay tablets, and more than 30,000 pieces survive. One of them holds one of the oldest stories in the world, about a hero called Gilgamesh.
+note: The date marks the 7th century BCE, which is all the source gives.
+
+@stop lib-2
+trail: libraries
+title: The Great Library
+date: 270 BCE
+at: Alexandria
+alt: 1500
+src: Library of Alexandria
+T: The Library of Alexandria was one of the largest and most significant libraries of the ancient world, part of a research institution called the Mouseion, dedicated to the Muses. It may have been planned under Ptolemy I, but was probably not built until the reign of his son Ptolemy II. It quickly acquired many papyrus scrolls.
+K: In the Egyptian city of Alexandria stood the most famous library of the ancient world. It was full of scrolls made of papyrus, and scholars came to live and study there.
+note: The date is approximate, within the reign of Ptolemy II.
+
+@stop lib-3
+trail: libraries
+title: A library to save the Greeks
+date: 357
+at: Imperial Library of Constantinople
+alt: 1500
+src: Imperial Library of Constantinople
+T: The Imperial Library of Constantinople was the last of the great libraries of the ancient world. It was founded by the emperor Constantius II, who reigned from 337 to 361 and set up a scriptorium so that surviving Greek literature could be copied. It preserved the knowledge of the Greeks and Romans for almost 1,000 years, through fires and the crusader raids of 1204.
+K: In Constantinople, an emperor set up a library where old Greek books were copied out again by hand so they would not be lost. It kept that knowledge safe for almost a thousand years.
+note: The date is approximate, within the reign of Constantius II.
+
+@stop lib-4
+trail: libraries
+title: Nalanda
+date: 427..1400
+at: Rajgir
+alt: 1500
+src: Nalanda mahavihara
+T: Nalanda was a great Buddhist monastery in Magadha, today's Bihar, near the city of Rajgir. Established by the Gupta emperor Kumaragupta I around 427 CE, it operated for almost a thousand years. It is widely considered one of the greatest centres of learning of the ancient world, and is often called the world's first residential university.
+K: Nalanda, in India, was a huge Buddhist monastery where students lived and studied. It lasted almost a thousand years. People often call it the first university in the world where students lived on the campus.
+note: The pin is on Rajgir, the city the source places Nalanda near.
+
+@stop lib-5
+trail: libraries
+title: The House of Wisdom
+date: 813..1258
+at: Baghdad
+alt: 1500
+src: House of Wisdom
+conf: debated
+T: The House of Wisdom in Baghdad was a major academy and intellectual centre of the Abbasid era. Under the caliph al-Ma'mun, who reigned from 813 to 833, it became a public academy and library. It was destroyed in 1258 during the Mongol siege of Baghdad.
+T: How much it resembled a university is disputed: recent scholarship has challenged the picture of specialised departments and organised debate.
+K: In Baghdad there was a great library and school called the House of Wisdom. Scholars gathered there to study. It was destroyed when the Mongols attacked the city in 1258.
+
+@stop lib-6
+trail: libraries
+title: The cave of manuscripts
+date: 1900
+at: Dunhuang manuscripts
+alt: 1500
+src: Dunhuang manuscripts
+src: Mogao Caves
+T: In 1900 a wandering Daoist monk, Wang Yuanlu, discovered a great store of manuscripts at the Mogao Caves near Dunhuang, an oasis on the Silk Road. They are religious and secular texts in Chinese, Tibetan and other languages, on hemp, silk and paper. Wang sold many of them to Aurel Stein and Paul Pelliot for a modest sum.
+K: In 1900 a monk found a great store of very old writings at a cave temple in China, on the old Silk Road. They were in many languages. He sold many of them to explorers from Europe.
+
+@stop lib-7
+trail: libraries
+title: 81,352 wooden blocks
+date: 1398
+at: Haeinsa
+alt: 1500
+src: Tripitaka Koreana
+src: Haeinsa
+T: The Tripitaka Koreana is the Buddhist scriptures carved onto 81,352 wooden printing blocks in the 13th century. It is the oldest intact version of the Chinese Buddhist canon. The blocks have been housed at the temple of Haeinsa, in the mountains of South Korea, since 1398.
+K: In a temple in the mountains of Korea, there is a library made of wood. The Buddhist holy books were carved onto more than 80,000 wooden blocks, ready for printing. They have been kept there since 1398.
+
+@stop lib-8
+trail: libraries
+title: Timbuktu's family libraries
+date: 1300..1900
+at: Timbuktu
+alt: 1500
+src: Timbuktu Manuscripts
+T: In Timbuktu, in northern Mali, a large number of manuscripts have been preserved for centuries in private households. They cover art, medicine, philosophy and science, along with copies of the Quran. Their dates range from the late 13th to the early 20th centuries.
+K: In the desert city of Timbuktu, families have looked after old handwritten books for hundreds of years. The books are about medicine, the stars, art and religion.
+
+@stop lib-9
+trail: libraries
+title: The Pope's library
+date: 1475-06-15
+at: Vatican Library
+alt: 900
+src: Vatican Library
+T: The Vatican Apostolic Library, the library of the Holy See, was formally established by Pope Sixtus IV on 15 June 1475.
+K: The Pope's library in Rome was officially founded in 1475. It is one of the oldest libraries in the world.
+
+@stop lib-10
+trail: libraries
+title: Oxford's Bodleian
+date: 1602
+at: Bodleian Library
+alt: 900
+src: Bodleian Library
+T: The Bodleian is the main research library of the University of Oxford. Founded in 1602 by Sir Thomas Bodley, it is one of the oldest libraries in Europe and holds over 13 million printed items. By law it is entitled to a copy of works published in the United Kingdom.
+K: This library in Oxford, England, opened in 1602 and has more than 13 million printed things in it. By law, it can get a copy of every new book published in the country.
+
+@stop lib-11
+trail: libraries
+title: A library of the Internet
+date: 1996
+at: Internet Archive
+alt: 1500
+src: Internet Archive
+T: The Internet Archive is a non-profit library founded in 1996 by Brewster Kahle. Its mission is "universal access to all knowledge". Its web archive, the Wayback Machine, holds more than one trillion captures of web pages, and has been open to the public since 2001.
+K: Web pages change and disappear. Since 1996 a library in San Francisco has been saving copies of them. It now holds more than a trillion saved pages, and anyone can look at them.

@@ -1,0 +1,216 @@
+
+
+@icell republic.power
+src: 1951–52 Indian general election
+src: States Reorganisation Act, 1956
+src: The Emergency (India)
+T: India's first general elections ran from 25 October 1951 to 21 February 1952 with 173 million registered voters, the largest election held up to that time. In 1956 the states were redrawn along linguistic lines. From 1975 to 1977 Indira Gandhi ruled by decree under a state of emergency: civil liberties were suspended and most opponents imprisoned.
+K: In 1951 and 1952, India held its first election, the biggest the world had ever seen. Later, for 21 months in the 1970s, the prime minister took emergency powers and put her opponents in prison.
+
+@icell republic.war
+src: Sino-Indian War
+src: Bangladesh Liberation War
+src: Sri Lankan civil war
+T: India fought China along the disputed Himalayan border in October and November 1962. In 1971 it joined the Bangladesh Liberation War on 3 December, after Pakistani air strikes and the flight of some 10 million refugees from East Pakistan. In Sri Lanka, civil war began on 23 July 1983.
+K: India fought a short war with China in 1962. In 1971 it helped Bangladesh to win its freedom from Pakistan. In Sri Lanka, a long civil war began in 1983.
+
+@icell republic.trade
+src: Five-Year Plans of India
+src: Licence Raj
+T: From 1951 India's economy was steered by Five-Year Plans, inspired by the Soviet model, aiming at balanced growth and less poverty. Industry operated under what C. Rajagopalachari named the "Licence Raj", a system of strict government control and regulation.
+K: The government planned the economy five years at a time. A business needed many official permits before it could make or sell anything.
+
+@icell republic.work
+src: Bhilai Steel Plant
+src: Great Bombay textile strike
+src: Self Employed Women's Association
+T: The state built heavy industry, such as the Bhilai Steel Plant, India's first and main producer of steel rails. On 18 January 1982 the mill workers of Bombay began a great strike for a bonus and higher wages. In Ahmedabad, self-employed women formed their own union, SEWA, in 1972.
+K: The government built big steelworks that gave many people jobs. In Bombay, the cloth-mill workers went on strike in 1982 for better pay.
+
+@icell republic.food
+src: Green Revolution in India
+src: White revolution (India)
+T: The Green Revolution, from the 1960s, brought high-yielding crop varieties and fertilisers; in India it was led by M. S. Swaminathan as part of Norman Borlaug's wider effort. Operation Flood, launched on 13 January 1970, was the world's largest dairy development programme and turned a milk-deficient India into the world's largest milk producer.
+K: New kinds of crops and fertilisers gave much bigger harvests. A dairy programme that began in 1970 made India the world's biggest producer of milk.
+
+@icell republic.daily
+src: Doordarshan
+src: Maruti 800
+src: 1983 Cricket World Cup
+src: Sholay
+T: Television arrived with the state broadcaster Doordarshan, established on 15 September 1959. From 1983 the small Maruti 800 city car was on sale. In June 1983 India won the Cricket World Cup in England. Films such as Sholay, released in 1975, were shared experiences.
+K: Families began to watch television, and a small car called the Maruti 800 appeared on the roads. In 1983 India won the Cricket World Cup.
+
+@icell republic.science
+src: Smiling Buddha
+src: Aryabhata (satellite)
+src: Rakesh Sharma
+src: ISRO
+T: India built national programmes in atomic energy and space. It conducted its first nuclear test at Pokhran on 18 May 1974. Its first satellite, Aryabhata, was launched on a Soviet rocket on 19 April 1975. On 3 April 1984 Rakesh Sharma became the first Indian in space, aboard Soyuz T-11.
+K: India launched its first satellite in 1975 and named it after the ancient astronomer Aryabhata. In 1984 Rakesh Sharma became the first Indian to travel into space.
+
+@icell republic.medicine
+src: All India Institute of Medical Sciences, Delhi
+src: Smallpox
+src: Bhopal disaster
+T: The All India Institute of Medical Sciences in Delhi was set up under an Act of 1956. Smallpox, which still circulated in India in 1967, was wiped out: the world's last natural case was in 1977. On 3 December 1984, gas from a pesticide plant in Bhopal reached over 500,000 people, in what is considered the world's worst industrial disaster.
+K: India built new hospitals and medical colleges, and smallpox, a terrible disease, was wiped out everywhere. But in 1984 poison gas leaked from a factory in Bhopal and harmed a huge number of people.
+
+@icell republic.technology
+src: Bhakra Dam
+src: Aryabhata (satellite)
+src: Doordarshan
+T: Big dams were the emblem of the new India. The Bhakra Dam, a concrete gravity dam 226 metres high on the Satluj, was called the "New Temple of Resurgent India" by Jawaharlal Nehru. Television had begun in 1959, and the first satellite followed in 1975.
+K: India built giant dams to store water. The Bhakra Dam is 226 metres high. The first prime minister called it a temple of the new India.
+
+@icell republic.religion
+src: Hindu code bills
+src: Dalit Buddhist movement
+src: Operation Blue Star
+T: In the 1950s the Hindu code bills codified and reformed Hindu personal law. In 1956 B. R. Ambedkar and nearly half a million Dalits converted to Navayana Buddhism. In June 1984 the army's Operation Blue Star removed armed militants from the Golden Temple complex in Amritsar.
+K: In 1956 B. R. Ambedkar and almost half a million Dalits became Buddhists.
+
+@icell republic.arts
+src: Pather Panchali
+src: Sholay
+src: Ravi Shankar
+T: Satyajit Ray's first film, Pather Panchali (1955), adapted a Bengali novel. Popular Hindi cinema produced films such as the action-adventure Sholay (1975). The sitar virtuoso Ravi Shankar made Indian classical music better known in the West in the 1960s through his teaching, performances and association with Yehudi Menuhin and George Harrison.
+K: Indian films became famous, from Satyajit Ray's Pather Panchali to the action film Sholay. The sitar player Ravi Shankar took Indian music around the world.
+
+@icell republic.language
+src: States Reorganisation Act, 1956
+src: Anti-Hindi agitations of Tamil Nadu
+src: Sinhala Only Act
+T: Language shaped the map. The States Reorganisation Act of 1956 redrew India's states along linguistic lines. Tamil Nadu saw mass protests against the imposition of Hindi. In Ceylon, the 1956 act known as "Sinhala Only" replaced English with Sinhala as the sole official language.
+K: India's states were redrawn so that people who speak the same language live in the same state. People in Tamil Nadu protested against being made to use Hindi.
+
+@icell republic.nature
+src: Project Tiger
+src: Chipko movement
+src: 1970 Bhola cyclone
+T: In 1973 the government began Project Tiger to protect the endangered tiger. In the same decade the Chipko movement's villagers hugged trees to stop commercial logging. Nature could be merciless: the Bhola cyclone of 1970 killed at least 300,000 people in the Ganges delta, the deadliest tropical cyclone on record.
+K: In the 1970s villagers hugged trees to stop them being cut down, and India began to protect its tigers. In 1970 a giant storm killed at least 300,000 people in what is now Bangladesh.
+
+@icell republic.movement
+src: Bangladesh Liberation War
+src: 1959 Tibetan uprising
+T: Refugees crossed South Asia's new borders. During the Lhasa uprising of March 1959 the Dalai Lama escaped to India. In 1971 some 10 million people fled East Pakistan into the Indian state of West Bengal and its neighbours.
+K: In 1959 the Dalai Lama escaped from Tibet to India. In 1971 about ten million people fled to India from the war in what became Bangladesh.
+
+@icell republic.women
+src: Indira Gandhi
+src: Sirimavo Bandaranaike
+src: Self Employed Women's Association
+src: Hindu Succession Act, 1956
+src: Chipko movement
+T: Sirimavo Bandaranaike of Sri Lanka became the world's first woman prime minister in 1960; Indira Gandhi led India from 1966 to 1977 and from 1980 to 1984. The Hindu Succession Act of 1956 gave a Hindu woman absolute ownership of her property. Ela Bhatt founded SEWA, a union of self-employed women, in 1972, and women were the backbone of Chipko.
+K: Sri Lanka had the world's first woman prime minister, and India soon had Indira Gandhi. Poor working women formed their own union, and village women led the fight to save forests.
+
+@icell since-1991.power
+src: Economic liberalisation in India
+src: Seventy-third Amendment of the Constitution of India
+src: Right to Information Act, 2005
+src: Fall of Kabul (2021)
+T: From 1991 India opened its economy and gave markets a larger role. The Seventy-third Amendment of 1992 gave village councils constitutional status, with elections every five years and reserved seats. The Right to Information Act of 2005 set out citizens' right to see official records. Elsewhere in the region, the Taliban captured Kabul on 15 August 2021.
+K: Since 1991 India has changed quickly. Villages elect their own councils, and citizens have the right to ask the government for information.
+
+@icell since-1991.war
+src: Kargil War
+src: Pokhran-II
+src: 2008 Mumbai attacks
+src: Sri Lankan civil war
+T: India tested five nuclear devices at Pokhran in May 1998. From May to July 1999 it fought Pakistan in the Kargil district of Ladakh. In November 2008 ten members of Lashkar-e-Taiba attacked Mumbai. Sri Lanka's 26-year civil war ended in May 2009, and the war in Afghanistan with the fall of Kabul in 2021.
+K: India and Pakistan fought a short war in the mountains at Kargil in 1999. Sri Lanka's long civil war ended in 2009.
+
+@icell since-1991.trade
+src: Economic liberalisation in India
+src: Information technology in India
+src: Goods and Services Tax (India)
+T: The reforms that began in 1991 opened India to foreign trade and investment. Information technology services became a leading export: the sector contributes about 7.5 per cent of GDP, with exports of $224 billion in the 2025 financial year. On 1 July 2017 a single Goods and Services Tax replaced several older taxes.
+K: After 1991 India began to trade much more with the world. Its computer and software companies now sell their services to customers everywhere.
+
+@icell since-1991.work
+src: Information technology in India
+src: Mahatma Gandhi National Rural Employment Guarantee Act, 2005
+src: Rana Plaza collapse
+T: New work appeared in offices: the IT sector employs nearly six million people directly. In the countryside, a 2005 act aimed to guarantee a "right to work". In Bangladesh, the Rana Plaza building, which housed five garment factories, collapsed on 24 April 2013, killing 1,134 people: the deadliest garment-factory disaster in history.
+K: Millions of Indians now work with computers. In villages, a law promises paid work to people who need it. In Bangladesh, a building full of clothing factories collapsed in 2013, and more than a thousand workers died.
+
+@icell since-1991.food
+src: National Food Security Act, 2013
+src: 2020–2021 Indian farmers' protest
+T: The National Food Security Act of 2013 aims to provide subsidised food grains to about two thirds of India's people. Farming remains political: in 2020 and 2021, tens of thousands of farmers marched towards Delhi in protest against three new farm acts.
+K: A law of 2013 says that about two out of three Indians can buy grain at a low price. In 2020 farmers marched to Delhi to protest against new farm laws.
+
+@icell since-1991.daily
+src: Unified Payments Interface
+src: Jio
+src: Indian Premier League
+src: Delhi Metro
+T: Daily life went digital. Jio's mobile network opened to the public on 5 September 2016. The Unified Payments Interface, launched the same year, handles over 250 billion transactions a year, about half the world's digital transactions. The Indian Premier League began in April 2008, and Delhi's Metro opened its first section on 25 December 2002.
+K: Today many Indians pay for things with their phones. People watch IPL cricket and ride metro trains in the big cities.
+
+@icell since-1991.science
+src: Chandrayaan-1
+src: Mars Orbiter Mission
+src: Chandrayaan-3
+T: Chandrayaan-1, India's first lunar probe, launched in October 2008, discovered water molecules widely present in lunar soil. The Mars Orbiter Mission reached Mars orbit on 24 September 2014, making India the first Asian nation to do so. On 23 August 2023 Chandrayaan-3 touched down near the Moon's south pole.
+K: India has sent spacecraft to the Moon and to Mars. In 2023 its lander touched down near the Moon's south pole.
+
+@icell since-1991.medicine
+src: Pulse Polio
+src: Covaxin
+src: Pharmaceutical industry in India
+src: COVID-19 pandemic in India
+T: The Pulse Polio campaign vaccinated all children under five; India's last wild polio cases were reported on 13 January 2011, and the WHO declared the country polio-free on 27 March 2014. India is often described as the "pharmacy of the world". In the COVID-19 pandemic it reported 45 million cases and developed its own vaccine, Covaxin.
+K: India beat polio by vaccinating every young child, and has been free of the disease since 2014. Indian factories make medicines for the whole world.
+
+@icell since-1991.technology
+src: Aadhaar
+src: Unified Payments Interface
+src: Golden Quadrilateral
+src: Delhi Metro
+T: India built digital systems at vast scale: Aadhaar, a twelve-digit identity number based on biometric and demographic data, and UPI, an instant payment system. On the ground, the Golden Quadrilateral highways link Delhi, Kolkata, Mumbai and Chennai, and construction of the Delhi Metro began in 1998.
+K: India has built new highways between its biggest cities and metro railways inside them. People can get a twelve-digit identity number called Aadhaar.
+
+@icell since-1991.religion
+src: Demolition of the Babri Masjid
+src: Buddhas of Bamiyan
+T: Religious identity has been a source of conflict in this period. On 6 December 1992 the Babri Masjid, a 16th-century mosque in Ayodhya long the subject of dispute, was destroyed by a large group of activists of the Vishva Hindu Parishad and allied organisations. In March 2001 the Taliban destroyed the two monumental Buddhas of Bamiyan in Afghanistan.
+K: Arguments about religion have sometimes turned violent. In 1992 a crowd pulled down an old mosque in Ayodhya. In 2001 the Taliban blew up two giant ancient statues of the Buddha in Afghanistan.
+
+@icell since-1991.arts
+src: A. R. Rahman
+src: The God of Small Things
+T: Indian artists reached world audiences. The composer A. R. Rahman, known for his work in Indian cinema, has won two Academy Awards and two Grammy Awards. Arundhati Roy's first novel, The God of Small Things, won the Booker Prize in 1997.
+K: The composer A. R. Rahman won two Oscars for his film music. The writer Arundhati Roy won a famous prize for her first novel.
+
+@icell since-1991.language
+src: Classical languages of India
+src: People's Linguistic Survey of India
+T: In 2004 the government created the status of "classical language"; Tamil was the first to be recognised, and by 2024 there were eleven. The People's Linguistic Survey of India, launched in 2010, identified 780 languages in the country.
+K: A survey that began in 2010 found 780 different languages in India. Eleven very old languages, starting with Tamil, have been named "classical languages".
+
+@icell since-1991.nature
+src: 2004 Indian Ocean earthquake and tsunami
+src: April 2015 Nepal earthquake
+src: 2001 Gujarat earthquake
+src: Air pollution in Delhi
+T: The plates that built the Himalaya still move. An earthquake struck Kutch in Gujarat on 26 January 2001. On 26 December 2004 a magnitude 9.2–9.3 rupture between the Burma and Indian plates sent a tsunami across the Indian Ocean. The Nepal earthquake of April 2015 killed 8,962 people. A newer danger is man-made: Delhi's air was found to be among the most lethal of 7,000 world cities.
+K: Great earthquakes struck Gujarat in 2001 and Nepal in 2015, and in 2004 an undersea earthquake sent giant waves across the Indian Ocean. Dirty air in big cities is a newer danger.
+
+@icell since-1991.movement
+src: Indian diaspora
+src: Rohingya refugees in Bangladesh
+src: Fall of Kabul (2021)
+T: By a government report of November 2024, 35.4 million non-resident Indians and people of Indian origin live outside India. The region also shelters people in flight: by the UN refugee agency's count, more than 723,000 Rohingya have fled from Myanmar to Bangladesh.
+K: More than 35 million people from Indian families now live in other countries. And hundreds of thousands of Rohingya people have fled from Myanmar to camps in Bangladesh.
+
+@icell since-1991.women
+src: Seventy-third Amendment of the Constitution of India
+src: One Hundred and Sixth Amendment of the Constitution of India
+src: Droupadi Murmu
+src: Malala Yousafzai
+src: 2012 Delhi gang rape and murder
+T: The Seventy-third Amendment reserved seats for women in village councils; an amendment of 2023 seeks to reserve 33 per cent of seats in the Lok Sabha and state assemblies. Droupadi Murmu, president since 2022, is the first from a tribal community and the second woman in the office. Malala Yousafzai of Pakistan won the Nobel Peace Prize in 2014 at 17. The gang rape and murder of a 22-year-old woman in Delhi in December 2012 is known as the Nirbhaya case.
+K: Seats are kept for women on every village council. Droupadi Murmu became India's president in 2022, the first from an Adivasi community. Malala Yousafzai of Pakistan won the Nobel Peace Prize when she was only 17, for standing up for girls' education.

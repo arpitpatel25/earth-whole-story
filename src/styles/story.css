@@ -1,0 +1,411 @@
+/* Story mode: scroll-driven cards over the globe. */
+.story {
+  position: relative;
+  z-index: 15;
+  pointer-events: none;
+  padding-top: var(--bar-h);
+}
+.story-track {
+  position: relative;
+}
+.scene {
+  min-height: calc(105vh * var(--w, 1));
+  padding: 0 0 12vh var(--s5);
+}
+.scene:first-child {
+  padding-top: 8vh;
+}
+.card {
+  position: sticky;
+  top: calc(var(--bar-h) + 56px);
+  width: min(460px, 38vw);
+  max-height: calc(100vh - var(--bar-h) - var(--tl-h, 190px) - 76px);
+  overflow: auto;
+  pointer-events: auto;
+  padding: var(--s5) var(--s5) var(--s4);
+  background: rgba(7, 17, 29, 0.9);
+  border-left: 4px solid var(--story, var(--marker));
+  box-shadow: var(--shadow);
+  scrollbar-width: thin;
+  scrollbar-color: var(--ink-3) transparent;
+  opacity: 0.38;
+  transition: opacity var(--t-mid) var(--ease);
+}
+@supports (backdrop-filter: blur(8px)) {
+  .card {
+    background: rgba(7, 17, 29, 0.8);
+    backdrop-filter: blur(14px) saturate(1.2);
+  }
+}
+.scene.on .card,
+.scene-end .card {
+  opacity: 1;
+}
+.card-count {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: var(--fs-1);
+  color: var(--silt);
+  font-feature-settings: 'tnum';
+}
+.card-kicker {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: var(--fs-3);
+  line-height: 1.4;
+  color: var(--chalk);
+  margin-bottom: var(--s3);
+}
+.card-title {
+  margin-top: 4px;
+  font-family: var(--sans);
+  font-stretch: 66%;
+  font-weight: 780;
+  font-size: clamp(1.75rem, 2.7vw, 2.45rem);
+  line-height: 1;
+  letter-spacing: -0.003em;
+  text-wrap: balance;
+}
+h1.card-title {
+  font-size: clamp(2.6rem, 5vw, 4.3rem);
+  line-height: 0.94;
+  font-weight: 820;
+  font-stretch: 62%;
+}
+.card-title mark {
+  background: linear-gradient(transparent 12%, var(--story, var(--marker)) 12%, var(--story, var(--marker)) 92%, transparent 92%);
+  color: var(--marker-ink);
+  padding: 0 0.12em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.card-p {
+  margin-top: var(--s3);
+  font-family: var(--read);
+  font-size: var(--fs-3);
+  line-height: 1.54;
+  color: #ebe7dc;
+  text-wrap: pretty;
+}
+html[data-level='kid'] .card-p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
+.card-note {
+  margin-top: var(--s3);
+  padding-left: var(--s3);
+  border-left: 2px solid var(--line-strong);
+  font-size: var(--fs-0);
+  line-height: 1.45;
+  color: var(--silt);
+}
+.card-hint {
+  margin-top: var(--s4);
+  font-size: var(--fs-1);
+  color: var(--silt);
+}
+.card .sources {
+  margin-top: var(--s3) !important;
+}
+/* archival photographs sit like prints pinned to the card: slightly off-square, with a paper edge */
+.card-img {
+  margin: var(--s4) calc(-1 * var(--s2)) var(--s2);
+  transform: rotate(-1.1deg);
+}
+.scene:nth-child(even) .card-img {
+  transform: rotate(0.9deg);
+}
+.card-img img {
+  display: block;
+  width: 100%;
+  max-height: 34vh;
+  object-fit: cover;
+  background: var(--ink-2);
+  border: 6px solid #efe9da;
+  border-bottom-width: 14px;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.55);
+  filter: saturate(0.92) contrast(1.03);
+}
+.card-img figcaption {
+  margin-top: 8px;
+  padding: 0 var(--s2);
+  font-size: var(--fs-0);
+  line-height: 1.4;
+  color: var(--silt);
+}
+.card-img .credit {
+  display: block;
+  color: var(--dim);
+}
+.card-img a {
+  color: var(--silt);
+}
+.card-quote {
+  margin: var(--s4) 0 0;
+}
+.card-quote blockquote {
+  margin: 0;
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(1.25rem, 1.9vw, 1.6rem);
+  line-height: 1.32;
+  color: var(--chalk);
+}
+.card-quote figcaption {
+  margin-top: var(--s2);
+  font-size: var(--fs-0);
+  color: var(--silt);
+}
+.card-quote a {
+  color: var(--silt);
+}
+.look-title {
+  border-left-width: 8px;
+}
+.look-quote {
+  border-left-color: var(--chalk);
+}
+.look-data {
+  width: min(520px, 42vw);
+}
+.card-sources {
+  margin-top: var(--s4);
+}
+.card-sources h3 {
+  font-size: var(--fs-1);
+  color: var(--silt);
+  margin-bottom: 6px;
+}
+.card-sources li {
+  font-size: var(--fs-0);
+  color: var(--silt);
+  line-height: 1.5;
+}
+.card-sources a {
+  color: var(--chalk);
+  text-decoration-color: var(--line-strong);
+}
+.scene-end {
+  min-height: 100vh;
+}
+
+.story-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--bar-h);
+  z-index: 45;
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  padding: 0 var(--s4);
+  pointer-events: auto;
+  background: rgba(0, 0, 0, 0.78);
+  border-bottom: 3px solid var(--story, var(--marker));
+}
+.story-bar-text {
+  display: flex;
+  align-items: baseline;
+  gap: var(--s3);
+  min-width: 0;
+  flex: 1;
+}
+.story-bar-text strong {
+  font-family: var(--sans);
+  font-stretch: 70%;
+  font-weight: 760;
+  font-size: var(--fs-4);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.story-date {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: var(--fs-2);
+  color: var(--silt);
+  white-space: nowrap;
+  font-feature-settings: 'tnum';
+}
+.story-counter {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: 1.1;
+  flex: none;
+}
+.story-counter strong {
+  font-family: var(--sans);
+  font-stretch: 70%;
+  font-weight: 760;
+  font-size: var(--fs-4);
+  font-feature-settings: 'tnum';
+  color: var(--story, var(--marker));
+}
+.story-counter span {
+  font-size: var(--fs-0);
+  color: var(--silt);
+  max-width: 220px;
+  text-align: right;
+}
+.story-resume {
+  flex: none;
+}
+.story-level button {
+  height: 30px;
+  padding: 0 10px;
+}
+.story-rail {
+  position: fixed;
+  left: 7px;
+  top: calc(var(--bar-h) + 20px);
+  bottom: calc(var(--tl-h, 190px) + 20px);
+  z-index: 16;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  pointer-events: auto;
+}
+.story-rail li {
+  flex: 1;
+  display: flex;
+}
+.story-rail button {
+  width: 8px;
+  flex: 1;
+  margin: 1px 0;
+  background: rgba(244, 241, 232, 0.2);
+  border-radius: 1px;
+  transition: background var(--t-fast) var(--ease), width var(--t-fast) var(--ease);
+}
+.story-rail button:hover {
+  background: var(--chalk);
+}
+.story-rail li.on button {
+  background: var(--story, var(--marker));
+  width: 12px;
+}
+
+/* quiz */
+.quiz {
+  margin-bottom: var(--s6);
+  padding-bottom: var(--s5);
+  border-bottom: 1px solid var(--line);
+}
+.quiz-q {
+  margin-top: var(--s4);
+}
+.quiz-text {
+  font-family: var(--kid);
+  font-size: var(--fs-3);
+  font-weight: 700;
+}
+.quiz-opts {
+  display: grid;
+  gap: 6px;
+  margin-top: var(--s2);
+}
+.quiz-opt {
+  padding: 10px var(--s3);
+  text-align: left;
+  font-family: var(--kid);
+  font-size: var(--fs-2);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  background: var(--ink-2);
+  transition: background var(--t-fast) var(--ease), border-color var(--t-fast) var(--ease);
+}
+.quiz-opt:hover {
+  border-color: var(--chalk);
+}
+.quiz-opt.right {
+  background: rgba(127, 216, 164, 0.18);
+  border-color: var(--ok);
+}
+.quiz-opt.wrong {
+  background: rgba(255, 122, 92, 0.14);
+  border-color: var(--danger);
+}
+.quiz-fb {
+  min-height: 1.4em;
+  margin-top: 6px;
+  font-family: var(--kid);
+  font-size: var(--fs-2);
+}
+.quiz-fb.ok {
+  color: var(--ok);
+}
+.quiz-fb.retry {
+  color: var(--danger);
+}
+
+body.story-on .topbar {
+  display: none;
+}
+body.story-on .era-chips {
+  visibility: hidden;
+}
+
+@media (max-width: 900px) {
+  .scene {
+    padding: 52vh var(--s2) 6vh;
+    min-height: calc(120vh * var(--w, 1));
+  }
+  .scene:first-child {
+    padding-top: 46vh;
+  }
+  .card {
+    position: relative;
+    top: auto;
+    width: auto;
+    max-height: none;
+    padding: var(--s4);
+  }
+  .story-rail {
+    display: none;
+  }
+  .story-bar {
+    padding: 0 var(--s2);
+    gap: var(--s2);
+  }
+  .story-bar-text {
+    flex-direction: column;
+    gap: 0;
+    align-items: flex-start;
+  }
+  .story-bar-text strong {
+    font-size: var(--fs-2);
+    max-width: 52vw;
+  }
+  .story-date {
+    font-size: var(--fs-0);
+  }
+  .story-counter span {
+    display: none;
+  }
+  .story-level button {
+    padding: 0 7px;
+    font-size: var(--fs-0);
+  }
+  .look-data {
+    width: auto;
+  }
+}
+
+/* Phone, inside a story: cards scroll up from under the timeline, so the timeline needs a solid floor to stand on,
+   and the story bar already carries the date. */
+@media (max-width: 720px) {
+  .story-bar {
+    background: rgba(2, 5, 10, 0.95);
+  }
+  body.story-on .timeline {
+    background: rgb(5, 11, 20);
+    border-top: 1px solid var(--line);
+    padding-top: var(--s2);
+  }
+  body.story-on .tl-head {
+    display: none;
+  }
+}

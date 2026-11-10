@@ -1,0 +1,881 @@
+# Explorable 3D scenes. Geometry lives in src/models/defs.js; every text here comes from the article named in src.
+# The models are built in code. Where a source gives a dimension it is used; other proportions are approximate
+# and each scene says so.
+
+@model earth-interior
+title: Inside the Earth
+kid: Inside our planet
+date: 4.5 bya..now
+order: 1
+lenses: geology
+src: Internal structure of Earth
+S: Earth is built in layers: a thin silicate crust, a thick mantle, and an iron-nickel core whose liquid outer part surrounds a solid inner ball. Nobody has seen these layers; they are known from seismic waves, rocks carried up by volcanoes, gravity, magnetism and laboratory experiments.
+K: If you could slice the Earth open like a peach, you would see layers: a thin skin of rock, a very thick middle, and a metal centre. Scientists worked this out by studying earthquake waves.
+note: A cutaway drawn to scale from the layer thicknesses in the sources. The crust is too thin to show at true scale and is slightly thickened.
+
+@mpart earth-interior.crust
+name: Crust
+kid: The crust
+src: Earth's crust
+T: The crust is Earth's outer shell of rock, less than one per cent of the planet's radius and volume. Oceanic crust is dense basalt; continental crust is slightly less dense granite.
+K: The crust is the thin rocky skin we live on. It reaches less than one hundredth of the way to the centre of the planet.
+
+@mpart earth-interior.mantle
+name: Mantle
+kid: The mantle
+src: Earth's mantle
+T: The mantle is a layer of silicate rock between the crust and the outer core. It is 2,900 km thick and makes up 84% of Earth's volume and 67% of its mass.
+K: The mantle is by far the biggest layer: hot rock almost 3,000 kilometres thick. Most of the Earth is mantle.
+
+@mpart earth-interior.outer-core
+name: Outer core
+kid: The outer core
+src: Earth's outer core
+src: Internal structure of Earth
+T: The outer core is a fluid layer about 2,260 km thick, mostly iron and nickel, beginning about 2,889 km beneath the surface. Its flow generates Earth's magnetic field.
+K: The outer core is a deep ocean of liquid metal. As it flows, it makes the Earth into a giant magnet.
+
+@mpart earth-interior.inner-core
+name: Inner core
+kid: The inner core
+src: Earth's inner core
+T: The inner core is the innermost layer: primarily a solid ball with a radius of about 1,230 km, about 20% of Earth's radius and 70% of the Moon's.
+K: Right at the centre is a solid metal ball, a bit smaller than the Moon.
+
+@model solar-system
+title: The Solar System
+kid: The Sun's family
+date: 4.6 bya..now
+order: 2
+lenses: cosmos
+src: Solar System
+S: The Sun holds 99.86% of the Solar System's mass. Nearest to it are four terrestrial planets; beyond the frost line, at about five astronomical units, are two gas giants and two ice giants.
+K: The Sun is so big that it holds almost all the stuff in the Solar System. Eight planets circle it: four small rocky ones close in, and four giants far out.
+note: Sizes and distances are compressed so that everything fits in one view. The order of the planets is real; the scale is not.
+
+@mpart solar-system.sun
+name: The Sun
+kid: The Sun
+src: Solar System
+T: The Sun accounts for 99.86% of the Solar System's total mass.
+K: The Sun is a star. Almost everything in the Solar System, by weight, is the Sun.
+
+@mpart solar-system.rocky
+name: Terrestrial planets
+kid: The rocky planets
+src: Solar System
+T: Closest to the Sun, in order of increasing distance, are the terrestrial planets: Mercury, Venus, Earth and Mars.
+K: The four planets nearest the Sun are small and rocky: Mercury, Venus, Earth and Mars.
+
+@mpart solar-system.habitable
+name: Earth and Mars
+kid: Earth and Mars
+src: Solar System
+T: Earth and Mars are the only planets that orbit within the Sun's habitable zone, where sunlight can keep surface water liquid under atmospheric pressure.
+K: Earth and Mars are at just the right distance from the Sun for water to stay liquid on the surface, not too hot and not too cold.
+
+@mpart solar-system.giants
+name: Giant planets
+kid: The giant planets
+src: Solar System
+T: Beyond the frost line, at about five astronomical units from the Sun, are the planets of the outer Solar System: the gas giants Jupiter and Saturn and two ice giants.
+K: Far from the Sun, where it is very cold, are the giant planets. Jupiter and Saturn are the biggest of all.
+
+@model lucy
+title: Lucy, AL 288-1
+kid: Lucy's bones
+date: 3.2 mya
+order: 3
+at: Hadar, Ethiopia
+lenses: life
+src: Lucy (hominid)
+S: Lucy is several hundred pieces of fossil bone making up 40% of the skeleton of a female Australopithecus afarensis who lived about 3.2 million years ago. She was found in 1974 at Hadar in Ethiopia.
+K: Lucy is one of the most famous fossils in the world. She lived more than three million years ago in Africa, and she walked upright on two legs.
+note: A simplified skeleton. The pale bones stand for the parts of the body the article names as found: skull and jaw pieces, vertebrae, ribs, pelvis and sacrum. The ghosted bones are not mapped: some were recovered and some are missing, and this model does not try to say which.
+
+@mpart lucy.skull
+name: Skull and jaw
+kid: Her head
+src: Lucy (hominid)
+T: The skeleton has a small skull, like that of non-hominin apes. Pieces of jaw were among the first bones found on the slope.
+K: Lucy had a small head and a small brain, about the size of an ape's.
+
+@mpart lucy.spine
+name: Vertebrae and ribs
+kid: Her back and ribs
+src: Lucy (hominid)
+T: As the team searched the slope they found more and more bones, including vertebrae and ribs. No bone was duplicated, which showed that all the pieces came from one individual.
+K: The team found bits of Lucy's backbone and ribs. No bone turned up twice, so they knew it was all one person.
+
+@mpart lucy.pelvis
+name: Pelvis and sacrum
+kid: Her hips
+src: Lucy (hominid)
+T: One complete pelvic bone and the sacrum survive. Their shape led Donald Johanson to assess the skeleton as female, and the skeleton as a whole shows an upright, bipedal walking gait.
+K: Lucy's hip bones show that she walked upright, as we do. They also told scientists that she was female.
+
+@mpart lucy.missing
+name: The rest of the skeleton
+kid: The other bones
+src: Lucy (hominid)
+T: About 60% of the skeleton was never found. Even so, the small skull together with upright walking supports the view that bipedalism came before the increase in brain size.
+K: More than half of Lucy is missing. But what was found shows that our ancestors walked on two legs long before they had big brains.
+
+@model handaxe
+title: Acheulean hand axe
+kid: A stone hand axe
+date: 1.6 mya..100000 BCE
+order: 4
+lenses: technology, work
+src: Hand axe
+S: The hand axe is a stone tool with two worked faces, and the longest-used tool in human history: made from roughly 1.6 million to about 100,000 years ago by Homo erectus and other early humans.
+K: People made stone tools like this one for one and a half million years, longer than any other tool ever.
+note: A generic almond-shaped biface built in code. It does not copy any one find.
+
+@mpart handaxe.tip
+name: Pointed end
+kid: The pointed end
+src: Hand axe
+T: The most common hand axes have a pointed end and a rounded base, which gives them their characteristic almond shape.
+K: Most hand axes are pointed at one end and round at the other, like an almond.
+
+@mpart handaxe.edge
+name: Cutting edges
+kid: The sharp edges
+src: Hand axe
+T: Hand axes are generally thought to have been used mainly as cutting tools, particularly for tasks such as butchering animals.
+K: The sharp edges were for cutting. People probably used hand axes mostly to cut up meat.
+
+@mpart handaxe.faces
+name: Two worked faces
+kid: Two chipped sides
+src: Hand axe
+T: Its technical name, biface, comes from its two wide faces. Both were knapped to remove the stone's natural cortex, and the tool tends to be symmetrical along its length.
+K: Both sides were chipped away, flake by flake, until the stone had the same shape on the left and the right.
+
+@mpart handaxe.butt
+name: Rounded base
+kid: The handle end
+src: Hand axe
+T: The wide base served as an ergonomic area for the hand to grip the tool.
+K: The wide, round end fitted into the palm of the hand.
+
+@model great-bath
+title: The Great Bath, Mohenjo-daro
+kid: The Great Bath
+date: 2600 BCE..1900 BCE
+order: 5
+at: Great Bath
+lenses: technology, religion, daily
+src: Great Bath
+S: The Great Bath of Mohenjo-daro is a brick tank about 12 metres by 7, with a maximum depth of 2.4 metres. Most scholars agree that it was used for special religious functions in which water purified and renewed the bathers.
+K: More than 4,000 years ago the people of Mohenjo-daro built a brick pool that did not leak. It was probably used for special holy baths.
+note: Built from the dimensions in the source. The surrounding rooms are simplified.
+
+@mpart great-bath.tank
+name: The tank
+kid: The pool
+src: Great Bath
+T: The tank measures approximately 12 metres by 7 metres, with a maximum depth of 2.4 metres.
+K: The pool is 12 metres long, 7 metres wide and, at its deepest, deeper than a grown-up is tall.
+
+@mpart great-bath.stairs
+name: Two staircases
+kid: The steps
+src: Great Bath
+T: Two wide staircases, one from the north and one from the south, served as the entry. A ledge 1.4 metres high runs the width of the bath at the foot of the stairs.
+K: Wide steps lead down into the water at each end.
+
+@mpart great-bath.lining
+name: Watertight lining
+kid: The waterproof lining
+src: Great Bath
+T: The floor was watertight thanks to finely fitted bricks laid on edge with gypsum plaster; the side walls were built the same way. A thick layer of bitumen, a waterproof tar, was laid along the sides and presumably under the floor.
+K: The builders fitted the bricks tightly together and sealed them with plaster and sticky black tar so that no water could leak out.
+
+@mpart great-bath.colonnade
+name: Colonnades
+kid: The rows of pillars
+src: Great Bath
+T: Brick colonnades were discovered on the eastern, northern and southern edges.
+K: Rows of brick pillars stood around three sides of the pool.
+
+@mpart great-bath.well
+name: Rooms and well
+kid: The well
+src: Great Bath
+T: A series of rooms ran along the eastern edge of the building. One held a well that may have supplied some of the water needed to fill the tank.
+K: In a room beside the pool was a well. The water for the bath may have come from it.
+
+@mpart great-bath.drain
+name: Outlet and drain
+kid: The drain
+src: Great Bath
+T: The sloping floor leads to a small outlet at the south-western corner, connected to a corbelled-arch drain that carried the used water away.
+K: The floor slopes gently to one corner, where a drain let the water out, like the plug hole in a bath.
+
+@model harappan-street
+title: A street in an Indus city
+kid: An Indus street
+date: 2600 BCE..1900 BCE
+order: 6
+at: Mohenjo-daro
+lenses: daily, technology, medicine
+src: Sanitation of the Indus Valley Civilisation
+S: The earliest evidence of urban sanitation comes from the Indus cities of Harappa, Mohenjo-daro and Rakhigarhi. Homes drew water from wells, and several courtyard houses had both a washing platform and a dedicated toilet.
+K: Indus cities had something no other cities had so early: clean water from wells, washing places, and toilets in the houses.
+note: A reconstruction of the general arrangement described in the source, not of one excavated street. Roofs are left off one house so the courtyard can be seen.
+
+@mpart harappan-street.houses
+name: Brick houses
+kid: The houses
+src: Sanitation of the Indus Valley Civilisation
+T: Most houses of the Indus Valley were made from mud, dried mud bricks, or clay bricks of a standardised size.
+K: The houses were built of bricks, and the bricks were all made to the same size.
+
+@mpart harappan-street.well
+name: Well
+kid: The well
+src: Sanitation of the Indus Valley Civilisation
+T: Within the city, individual homes or groups of homes obtained water from wells.
+K: Families fetched their water from a well, sometimes shared with the neighbours.
+
+@mpart harappan-street.bath
+name: Washing platform and toilet
+kid: The washing place
+src: Sanitation of the Indus Valley Civilisation
+T: Several courtyard houses had both a washing platform and a dedicated toilet or waste-disposal hole.
+K: Some houses had a special platform for washing and a toilet of their own.
+
+@mpart harappan-street.drain
+name: Covered drains
+kid: The drains
+src: Sanitation of the Indus Valley Civilisation
+T: The toilet was flushed by emptying a jar of water through a clay brick pipe into a shared drain. The cities had a sophisticated drainage system to carry waste out of town.
+K: Dirty water ran out of the houses through pipes into brick drains along the street, and was carried out of the town.
+
+@model stonehenge
+title: Stonehenge
+kid: Stonehenge
+date: 3100 BCE..2200 BCE
+order: 7
+at: Stonehenge
+lenses: religion, technology, science
+src: Stonehenge
+S: Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, now in ruins. Its bank and ditch date to about 3100 BC, and the whole monument is aligned to the sunrise at the summer solstice and the sunset at the winter solstice.
+K: Stonehenge is a ring of giant stones set up more than 4,000 years ago. It lines up with the rising sun on the longest day of the year.
+note: The monument is shown complete, not as the ruin that stands today, and stone positions are regularised. The five trilithons and their heights follow the cited article; the outer ring is drawn with thirty uprights as in the usual reconstruction, a count not taken from that article.
+
+@mpart stonehenge.sarsens
+name: Sarsen circle
+kid: The big ring
+src: Stonehenge
+T: The outer ring is of vertical sarsen stones, each around 4.0 metres high, 2.1 metres wide and weighing around 25 tons, topped by horizontal lintels held in place with mortise and tenon joints.
+K: The outer ring is made of stones as tall as two grown-ups, each weighing about 25 tons. Flat stones lie across their tops, held on by carved pegs and holes.
+
+@mpart stonehenge.bluestones
+name: Bluestones
+kid: The bluestones
+src: Stonehenge
+T: Inside the sarsens is a ring of smaller bluestones. Radiocarbon dating suggests they were set in their current positions between 2400 and 2200 BC.
+K: Inside the big ring stands a ring of smaller stones called bluestones.
+
+@mpart stonehenge.trilithons
+name: Trilithons
+kid: The stone doorways
+src: Stonehenge
+T: Inside the bluestone ring are free-standing trilithons: two bulkier vertical sarsens joined by a single lintel.
+K: In the middle are the biggest stones of all, set up in threes like giant doorways: two standing and one across the top.
+
+@mpart stonehenge.ditch
+name: Bank and ditch
+kid: The bank and ditch
+src: Stonehenge
+T: The surrounding circular earth bank and ditch are the earliest phase of the monument, dated to about 3100 BC. Deposits containing human bone date from as early as 3000 BC.
+K: Before any stones were raised, people dug a big circular ditch here, about 5,000 years ago.
+
+@model great-pyramid
+title: The Great Pyramid of Giza
+kid: The Great Pyramid
+date: 2600 BCE
+order: 8
+at: Great Pyramid of Giza
+lenses: technology, power, religion
+src: Great Pyramid of Giza
+S: The Great Pyramid was the tomb of the pharaoh Khufu, built about 2600 BC over a period of about 26 years. Made from an estimated 2.3 million large blocks weighing 6 million tonnes in all, it stood 146.6 metres high and was the tallest human-made structure in the world for more than 3,700 years.
+K: The Great Pyramid was built as the tomb of a king of Egypt. For nearly 4,000 years it was the tallest thing people had ever built.
+note: A cutaway. The outer form follows the source's dimensions; the positions and sizes of the inner chambers are schematic.
+
+@mpart great-pyramid.casing
+name: Casing stones
+kid: The smooth white skin
+src: Great Pyramid of Giza
+T: The pyramid was once covered in smooth white limestone brought by boat from Tura. Most of this casing was later removed, lowering the height from 146.6 metres to the present 138.5 metres.
+K: The pyramid was once covered in smooth white stone that shone in the sun. Later, people took most of it away to build other things.
+
+@mpart great-pyramid.core
+name: Core blocks
+kid: The stone blocks
+src: Great Pyramid of Giza
+T: What is seen today is the underlying core: an estimated 2.3 million large blocks. The lowest layer is 148 centimetres high, while layers near the summit barely exceed 50 centimetres.
+K: The pyramid is a mountain of about 2.3 million stone blocks. The ones at the bottom are as tall as a child.
+
+@mpart great-pyramid.kings
+name: King's Chamber
+kid: The King's Chamber
+src: Great Pyramid of Giza
+T: The King's Chamber, which contains a granite sarcophagus, is built of granite blocks from Aswan weighing up to 80 tonnes. It lies above ground, within the body of the pyramid.
+K: High inside the pyramid is a room built of giant granite blocks. In it stands a stone coffin.
+
+@mpart great-pyramid.queens
+name: Queen's Chamber
+kid: The Queen's Chamber
+src: Great Pyramid of Giza
+T: The so-called Queen's Chamber also lies above ground within the pyramid structure.
+K: There is a second room inside the pyramid. It is called the Queen's Chamber.
+
+@mpart great-pyramid.lower
+name: Lowest chamber
+kid: The room in the rock
+src: Great Pyramid of Giza
+T: The lowest chamber was cut into the bedrock on which the pyramid was built, but remained unfinished.
+K: The deepest room was dug into the solid rock under the pyramid. The builders never finished it.
+
+@model sanchi-stupa
+title: The Great Stupa at Sanchi
+kid: The Great Stupa
+date: 3rd century BCE
+order: 9
+at: Sanchi Stupa
+lenses: religion, arts
+src: Sanchi Stupa
+S: The Great Stupa at Sanchi, one of the oldest stone structures in India, was commissioned by the emperor Ashoka in the 3rd century BCE as a hemispherical brick structure over relics of the Buddha. Under the Shungas and Satavahanas it was enlarged and given a balustrade and four carved gateways.
+K: A stupa is a great dome built over holy relics. This one, in the middle of India, is one of the oldest stone buildings in the country.
+note: Proportions are approximate; the carvings on the gateways are not modelled.
+
+@mpart sanchi-stupa.dome
+name: Dome
+kid: The dome
+src: Sanchi Stupa
+T: The nucleus was a simple hemispherical brick structure built over the relics of the Buddha. The original stupa had only about half the diameter of today's, which is the result of enlargement by the Shungas.
+K: At first the dome was half this size and made of brick. Later kings made it bigger and covered it in stone.
+
+@mpart sanchi-stupa.chatra
+name: Chatra
+kid: The stone umbrella
+src: Sanchi Stupa
+T: The stupa is crowned by the chatra, a parasol-like structure symbolising high rank, intended to honour and shelter the relics. A railing surrounds it on the summit.
+K: On top is a stone umbrella. An umbrella was a sign of a very important person, and here it honours the relics below.
+
+@mpart sanchi-stupa.terrace
+name: Raised terrace
+kid: The walkway
+src: Sanchi Stupa
+T: A raised terrace encompasses the base of the dome.
+K: A raised path runs all the way around the dome.
+
+@mpart sanchi-stupa.railing
+name: Balustrade
+kid: The stone fence
+src: Sanchi Stupa
+T: In the 1st century BCE a balustrade encircling the entire structure was added.
+K: A tall stone fence runs right around the stupa.
+
+@mpart sanchi-stupa.toranas
+name: Toranas
+kid: The four gateways
+src: Sanchi Stupa
+T: Four elaborately carved toranas, ornamental gateways, were added in the 1st century BCE. An inscription on the southern one records that the ivory-workers of Vidisha did the carving.
+K: Four tall stone gateways face north, south, east and west. They are covered in carvings, some made by ivory carvers from a nearby town.
+
+@model iron-pillar
+title: The Iron Pillar of Delhi
+kid: The Iron Pillar
+date: 375..415
+order: 10
+at: Iron pillar of Delhi
+lenses: technology, science
+src: Iron pillar of Delhi
+S: The iron pillar of Delhi, made under Chandragupta II, who reigned from about 375 to 415 CE, is 7.21 metres high and 41 centimetres in diameter. Its metal has a rust-resistant composition.
+K: This iron pillar is about 1,600 years old and has hardly rusted.
+note: Built from the dimensions in the source. A person 1.7 metres tall stands beside it for scale.
+
+@mpart iron-pillar.shaft
+name: Shaft
+kid: The pillar
+src: Iron pillar of Delhi
+T: The pillar weighs more than six tonnes. It is thought to have been erected elsewhere, possibly outside the Udayagiri Caves, and moved to its present place in the 11th century.
+K: The pillar weighs more than six tonnes. It was probably made somewhere else and moved to Delhi about a thousand years ago.
+
+@mpart iron-pillar.capital
+name: Bell capital
+kid: The top
+src: Iron pillar of Delhi
+T: The pillar is topped by a capital with a bell pattern, 306 millimetres high.
+K: The top of the pillar is shaped like a bell.
+
+@mpart iron-pillar.base
+name: Buried base
+kid: The hidden part
+src: Iron pillar of Delhi
+T: Of the pillar's 7.21 metres, 1.12 metres is below ground.
+K: More than a metre of the pillar is hidden under the ground.
+
+@model brihadisvara
+title: Brihadisvara Temple, Thanjavur
+kid: The Big Temple of Thanjavur
+date: 1010
+order: 11
+at: Brihadisvara Temple
+lenses: religion, arts, technology
+src: Brihadisvara Temple
+S: The Chola emperor Rajaraja I built the Brihadisvara Temple at Thanjavur between 1003 and 1010 CE. Built of granite, its tower is one of the tallest in South India.
+K: A Chola emperor built this giant temple of granite in only seven years, more than a thousand years ago.
+note: The stepped outline of the tower is simplified, and its sculpture is not modelled.
+
+@mpart brihadisvara.vimana
+name: Vimana
+kid: The tower
+src: Brihadisvara Temple
+T: Chola architects and artisans learned to build at great scale in heavy stone to raise the vimana, the tower over the shrine, to 63.4 metres. Pilasters, piers and attached columns cover its surface.
+K: The tower over the shrine is more than 63 metres tall, as high as a 20-storey building, and built of granite.
+
+@mpart brihadisvara.crown
+name: Sikhara and finial
+kid: The crown
+src: Brihadisvara Temple
+T: Above the centre of the topmost granite block rise the griva, the sikhara and the finial, or stupi.
+K: Right at the top is a rounded stone crown with a pointed tip.
+
+@mpart brihadisvara.sanctum
+name: Sanctum
+kid: The holy room
+src: Brihadisvara Temple
+T: The sanctum beneath the tower holds one of the largest Shiva lingas in India.
+K: Under the tower is the holiest room, with a very large symbol of the god Shiva.
+
+@mpart brihadisvara.hall
+name: Halls and Nandi
+kid: The halls
+src: Brihadisvara Temple
+T: In front of the sanctum stand the community halls. The Nandi, the bull that faces them, weighs about 25 tonnes.
+K: In front of the tower are the halls where people gather. A huge stone bull, Nandi, sits facing the temple.
+
+@model qutb-minar
+title: The Qutb Minar
+kid: The Qutb Minar
+date: 1199..1220
+order: 12
+at: Qutb Minar
+lenses: arts, technology, power
+src: Qutb Minar
+S: The Qutb Minar in Delhi is a minaret and victory tower, mostly built between 1199 and 1220. At 72.5 metres it is the tallest brick minaret in the world.
+K: The Qutb Minar is a very tall tower in Delhi, built about 800 years ago. It has 399 steps inside.
+note: The fluting and the balconies are simplified.
+
+@mpart qutb-minar.shaft
+name: Tapering shaft
+kid: The tower
+src: Qutb Minar
+T: The tower tapers from a base 14.3 metres across to 2.7 metres at the top. Its shaft is fluted.
+K: The tower is wide at the bottom and narrow at the top, with ridges running up its sides.
+
+@mpart qutb-minar.first
+name: First storey
+kid: The first level
+src: Qutb Minar
+T: Qutb-ud-din Aibak began the victory tower after the defeat of Prithviraj Chauhan, but managed to finish only the first level.
+K: The ruler who started the tower only lived to see the first level finished. Others built the rest.
+
+@mpart qutb-minar.balconies
+name: Balconies
+kid: The balconies
+src: Qutb Minar
+T: The tower has five storeys. At the top of each stage is a balcony carried on stalactite bracketing.
+K: The tower has five levels, and a balcony runs around the top of each one.
+
+@mpart qutb-minar.stairs
+name: Staircase
+kid: The stairs
+src: Qutb Minar
+T: A staircase of 399 steps climbs inside the tower.
+K: Inside, 399 steps wind all the way to the top.
+
+@model samrat-yantra
+title: Samrat Yantra, Jaipur
+kid: The giant sundial of Jaipur
+date: 1734
+order: 13
+at: Jantar Mantar, Jaipur
+lenses: science, technology
+src: Jantar Mantar, Jaipur
+src: Sawai Jai Singh
+S: The Jantar Mantar at Jaipur is a collection of 19 astronomical instruments built by the Rajput king Sawai Jai Singh and completed in 1734. Its Vrihat Samrat Yantra is the world's largest stone sundial.
+K: A king who loved astronomy built this giant sundial of stone. It is the biggest in the world.
+note: The general form of a gnomon sundial with two quadrant arcs. Dimensions and inclination are approximate.
+
+@mpart samrat-yantra.gnomon
+name: Gnomon
+kid: The pointer
+src: Jantar Mantar, Jaipur
+T: The Vrihat Samrat Yantra is the world's largest gnomon sundial: the great triangular wall is the gnomon, whose shadow tells the time.
+K: The big triangular wall is the pointer of the sundial. Its shadow shows the time.
+
+@mpart samrat-yantra.quadrants
+name: Quadrants
+kid: The curved scales
+src: Jantar Mantar, Jaipur
+T: Using the shadow cast by sunlight, the instrument measures time in intervals of two seconds.
+K: As the Sun moves, the shadow creeps along a curved scale. It can show the time to within two seconds.
+
+@mpart samrat-yantra.maker
+name: The builder
+kid: Who built it
+src: Sawai Jai Singh
+T: Sawai Jai Singh II (1688–1743), ruler of Amber and founder of Jaipur, commissioned observatories at several places in India and had Euclid's "Elements" translated into Sanskrit.
+K: King Jai Singh built observatories like this one in several cities.
+
+@model taj-mahal
+title: The Taj Mahal
+kid: The Taj Mahal
+date: 1631..1653
+order: 14
+at: Taj Mahal
+lenses: arts, power
+src: Taj Mahal
+S: The Taj Mahal is an ivory-white marble mausoleum on the bank of the Yamuna at Agra, commissioned in 1631 by the Mughal emperor Shah Jahan. The mausoleum was completed in 1648 and the whole complex in 1653.
+K: The emperor Shah Jahan built the Taj Mahal as a tomb of white marble. It took about twenty years to finish.
+note: A simplified model of the mausoleum and its plinth. The inlay, calligraphy and gardens are not modelled.
+
+@mpart taj-mahal.plinth
+name: Plinth
+kid: The platform
+src: Taj Mahal
+T: The mausoleum stands on a square plinth 6 metres high, with sides 95.5 metres long.
+K: The whole building stands on a square marble platform as tall as a two-storey house.
+
+@mpart taj-mahal.tomb
+name: Mausoleum
+kid: The tomb building
+src: Taj Mahal
+T: The building has four identical sides with iwans, arch-shaped doorways. It is of white marble inlaid with semi-precious stones.
+K: The building looks the same from all four sides, each with a great arched doorway. Its white marble is set with coloured stones.
+
+@mpart taj-mahal.dome
+name: Dome and finial
+kid: The dome
+src: Taj Mahal
+T: The building is topped by a large onion-shaped dome and a finial. The dome's designer is named as Ismail Afandi and the finial's caster as Qazim Khan.
+K: On top is a great dome shaped like an onion, with a tall metal spike on its tip.
+
+@mpart taj-mahal.minarets
+name: Minarets
+kid: The four towers
+src: Taj Mahal
+T: Four minarets, each more than 40 metres tall, flank the tomb building, one at each corner of the plinth.
+K: Four towers, each more than 40 metres tall, stand at the corners of the platform.
+
+@model printing-press
+title: Gutenberg's printing press
+kid: The printing press
+date: 1440
+order: 15
+lenses: technology, language
+src: Printing press
+S: Johannes Gutenberg invented the movable-type printing press around 1440, bringing together four existing technologies: the screw press, movable type, the codex book and mechanised paper production.
+K: About 600 years ago Johannes Gutenberg built a machine that could print page after page. Before that, every book was copied by hand.
+note: A generic wooden screw press of the kind the source describes. No press of Gutenberg's own survives, so the details are approximate.
+
+@mpart printing-press.screw
+name: Screw
+kid: The screw
+src: Printing press
+T: The screw press permitted direct pressure to be applied on a flat plane.
+K: Turning the big screw pushes a flat plate down hard and evenly.
+
+@mpart printing-press.type
+name: Movable type
+kid: The metal letters
+src: Printing press
+T: Gutenberg added innovations of his own, including a hand mould for casting type.
+K: Each letter was a tiny piece of metal. They could be set in rows to make a page, then used again for another.
+
+@mpart printing-press.ink
+name: Inked page
+kid: The ink
+src: Printing press
+T: Gutenberg developed an oil-based ink suited to metal type. The press applies pressure to transfer ink onto paper, where earlier methods rubbed the paper by hand.
+K: Gutenberg made a new sticky ink that clung to metal letters. The press squeezed it onto the paper.
+
+@model steam-engine
+title: Watt's steam engine
+kid: The steam engine
+date: 1776
+order: 16
+lenses: technology, work
+src: Watt steam engine
+S: The Watt steam engine, inspired by Thomas Newcomen's atmospheric engine of 1712 and introduced commercially in 1776, has been called the first truly efficient steam engine.
+K: James Watt worked out how to make steam engines waste much less heat. Later he made them turn wheels, so that they could drive machines.
+note: A working diagram of a rotative beam engine. Press play to see the beam rock and the wheel turn. Proportions are approximate.
+
+@mpart steam-engine.cylinder
+name: Cylinder and piston
+kid: The cylinder
+src: Watt steam engine
+T: In Newcomen's engine the cylinder itself was cooled by a spray of water to condense the steam and form a partial vacuum. Watt noticed how much heat it took to warm the cylinder again for every stroke.
+K: Steam pushes a piston up and down inside this big tube. In older engines the tube was cooled and heated again at every stroke, which wasted a lot of heat.
+
+@mpart steam-engine.condenser
+name: Separate condenser
+kid: The cold chamber
+src: Watt steam engine
+T: Watt realised that the heat could be saved by adding a separate condensing cylinder. A valve let the steam flow into it and condense, which drew steam from the main cylinder and caused the power stroke.
+K: Watt's clever idea was a second, cold chamber. The steam turns back to water there, so the main cylinder can stay hot.
+
+@mpart steam-engine.gear
+name: Sun and planet gear
+kid: The turning gear
+src: Watt steam engine
+T: In 1781 Watt introduced a sun and planet gear to turn the engine's linear motion into rotary motion.
+K: This gear turns the up-and-down rocking of the engine into round-and-round turning, so that the engine can drive machines.
+
+@mpart steam-engine.beam
+name: Beam and parallel motion
+kid: The rocking beam
+src: Watt steam engine
+T: Double-acting engines required the invention of the parallel motion, a linkage that let the piston rod move in a straight line while joined to the rocking beam.
+K: The big beam rocks like a see-saw. A set of rods keeps the piston moving straight while the beam swings.
+
+@model spinning-jenny
+title: The spinning jenny
+kid: The spinning jenny
+date: 1765
+order: 17
+at: Oswaldtwistle
+lenses: technology, work
+src: Spinning jenny
+S: The spinning jenny, invented in 1764–1765 by James Hargreaves in Lancashire, is a multi-spindle spinning frame and one of the key developments in the industrialisation of textile manufacturing.
+K: With a spinning jenny, one person could spin eight threads at once instead of one. It was one of the first machines of the Industrial Revolution.
+note: A simplified eight-spindle frame following the description in the source.
+
+@mpart spinning-jenny.spindles
+name: Spindles
+kid: The spindles
+src: Spinning jenny
+T: Hargreaves developed the idea as a frame with eight wooden spindles at one end. One worker could work eight or more spools at once; this grew to 120 as the technology advanced.
+K: Eight spindles stand in a row and spin together. Later machines had as many as 120.
+
+@mpart spinning-jenny.clasp
+name: Clasp bars
+kid: The sliding bar
+src: Spinning jenny
+T: The rovings passed through two horizontal bars of wood that could be clasped together. The spinner drew these bars along the top of the frame with the left hand, extending the thread.
+K: The loose cotton passes between two wooden bars. The spinner pulls the bars back to stretch the cotton into thread.
+
+@mpart spinning-jenny.wheel
+name: Wheel
+kid: The wheel
+src: Spinning jenny
+T: With the right hand the spinner rapidly turned a wheel, which made all the spindles revolve and spun the thread.
+K: Turning this wheel by hand makes all eight spindles spin at once.
+
+@model enigma
+title: Enigma machine
+kid: The Enigma code machine
+date: 1939..1945
+order: 18
+lenses: technology, war, science
+src: Enigma machine
+S: The Enigma is a cipher device that Nazi Germany used extensively in the Second World War. It has an electromechanical rotor mechanism that scrambles the 26 letters of the Latin alphabet. Because the rotors move with every key press, every letter is encrypted with a different key.
+K: The Enigma machine turned messages into secret code. Every time a key was pressed, the code changed.
+note: A simplified three-rotor machine. The lid and case fittings are omitted.
+
+@mpart enigma.keyboard
+name: Keyboard
+kid: The keyboard
+src: Enigma machine
+T: In typical use, one person enters text on the Enigma's keyboard while another writes down which light comes on at each key press.
+K: One person typed the message on the keys, one letter at a time.
+
+@mpart enigma.lampboard
+name: Lampboard
+kid: The lights
+src: Enigma machine
+T: Above the keyboard are 26 lights, one for each letter. The light that comes on shows the encrypted letter.
+K: When a key is pressed, a different letter lights up. That is the secret letter to write down.
+
+@mpart enigma.rotors
+name: Rotors
+kid: The wheels
+src: Enigma machine
+T: The rotor mechanism changes the electrical connections between the keys and the lights with each key press.
+K: These wheels turn a little with every key press, so the same letter comes out differently each time.
+
+@mpart enigma.settings
+name: Daily settings
+kid: The secret settings
+src: Enigma machine
+T: To decrypt a message, the receiving station had to use exactly the settings of the sender. These initial settings were generally changed daily, from secret key lists distributed in advance.
+K: To read a message, the other side had to set up their machine in exactly the same way. The settings changed every day.
+
+@model saturn-v
+title: Saturn V
+kid: The Moon rocket
+date: 1967..1973
+order: 19
+at: Kennedy Space Center Launch Complex 39
+lenses: technology, science
+src: Saturn V
+S: Thirteen Saturn V rockets were launched from 1967 to 1973, all from Kennedy Space Center. Nine of them sent 24 astronauts toward the Moon, from Apollo 8 to Apollo 17.
+K: The Saturn V is the rocket that carried people to the Moon. It flew thirteen times.
+note: A simplified three-stage stack with the Apollo spacecraft on top. Stage proportions are approximate.
+
+@mpart saturn-v.first
+name: S-IC first stage
+kid: The first stage
+src: Saturn V
+T: Boeing built the S-IC first stage, burning kerosene and liquid oxygen in five F-1 engines. These remain the most powerful single-chamber liquid-fuelled engines ever built.
+K: The bottom stage has five giant engines, the most powerful of their kind ever made. They lift the whole rocket off the ground.
+
+@mpart saturn-v.second
+name: S-II second stage
+kid: The second stage
+src: Saturn V
+T: North American Aviation built the S-II second stage, which burned liquid hydrogen and liquid oxygen.
+K: The second stage has its own engines and its own fuel.
+
+@mpart saturn-v.third
+name: S-IVB third stage
+kid: The third stage
+src: Saturn V
+T: The Douglas-built S-IVB third stage, with its remaining propellant, sent the Apollo spacecraft to the Moon. The last Saturn V launched Skylab, a space station converted from this stage.
+K: The third stage gives the final push that sends the astronauts all the way to the Moon.
+
+@mpart saturn-v.apollo
+name: Apollo spacecraft
+kid: The spaceship
+src: Saturn V
+T: The Saturn V holds the record for the largest payload to low Earth orbit: 140,000 kg, including the third stage and the propellant to send the Apollo command and service module and Lunar Module to the Moon.
+K: Right at the top sits the small spaceship that carries the astronauts.
+
+@model sputnik
+title: Sputnik 1
+kid: Sputnik, the first satellite
+date: 1957-10-04
+order: 20
+lenses: technology, science
+src: Sputnik 1
+S: Sputnik 1 was the first artificial Earth satellite, launched into an elliptical low Earth orbit by the Soviet Union on 4 October 1957. Aerodynamic drag brought it back into the atmosphere on 4 January 1958.
+K: Sputnik was the first thing people ever sent into orbit around the Earth. It was a shiny metal ball that went beep.
+note: Built from the dimensions in the source. The antenna lengths are approximate.
+
+@mpart sputnik.sphere
+name: Sphere
+kid: The ball
+src: Sputnik 1
+T: Sputnik was a polished metal sphere 58 centimetres in diameter.
+K: Sputnik was a shiny metal ball about as wide as a beach ball.
+
+@mpart sputnik.antennas
+name: Antennas
+kid: The antennas
+src: Sputnik 1
+T: Four external radio antennas broadcast radio pulses. The signal was easily detected by amateur radio operators.
+K: Four long antennas sent out a radio beep that people all over the world could hear on their radios.
+
+@mpart sputnik.power
+name: Batteries
+kid: The batteries
+src: Sputnik 1
+T: Sputnik sent its radio signal back to Earth for three weeks, until its three silver-zinc batteries ran down.
+K: Inside were three batteries. They kept the beep going for three weeks.
+
+@model aryabhata
+title: Aryabhata
+kid: Aryabhata, India's first satellite
+date: 1975-04-19
+order: 21
+lenses: technology, science
+src: Aryabhata (satellite)
+S: Aryabhata was India's first satellite, named after the astronomer. It was launched on 19 April 1975 from Kapustin Yar on a Soviet Kosmos-3M rocket.
+K: Aryabhata was the first satellite built in India. It was named after a great Indian astronomer who lived about 1,500 years ago.
+note: Built from the description in the source. The arrangement of the faces is approximate.
+
+@mpart aryabhata.body
+name: Body
+kid: The body
+src: Aryabhata (satellite)
+T: The spacecraft was a 26-sided polyhedron 1.4 metres in diameter.
+K: The satellite has 26 flat sides, like a cut jewel, and is 1.4 metres across.
+
+@mpart aryabhata.cells
+name: Solar cells
+kid: The solar panels
+src: Aryabhata (satellite)
+T: All faces except the top and bottom were covered with solar cells, supported by a nickel-cadmium battery.
+K: Solar cells covered its sides and made electricity from sunlight.
+
+@mpart aryabhata.mission
+name: Experiments
+kid: What it was for
+src: Aryabhata (satellite)
+T: It was built for experiments in X-ray astronomy, aeronomics and solar physics. A power failure halted the experiments after four days and 60 orbits.
+K: It carried experiments to study the Sun and space. Sadly its power failed after only four days.
+
+@model chandrayaan-3
+title: Chandrayaan-3: Vikram and Pragyan
+kid: India's Moon lander
+date: 2023-08-23
+order: 22
+lenses: technology, science
+src: Chandrayaan-3
+S: Chandrayaan-3 consists of Vikram, a lunar lander, and Pragyan, a lunar rover. It touched down near the lunar south pole on 23 August 2023, making ISRO the fourth national space agency to land on the Moon.
+K: In 2023 India landed a spacecraft near the south pole of the Moon. Nobody had ever landed there before.
+note: A simplified lander and rover. The instruments are not individually modelled.
+
+@mpart chandrayaan-3.lander
+name: Vikram lander
+kid: The lander
+src: Chandrayaan-3
+T: The lander is box-shaped, with four landing legs and four landing thrusters. With its touchdown ISRO achieved the first soft landing near the lunar south pole.
+K: The lander is a box on four legs. Its engines slowed it down so that it touched the Moon gently.
+
+@mpart chandrayaan-3.rover
+name: Pragyan rover
+kid: The rover
+src: Chandrayaan-3
+T: Pragyan is the mission's lunar rover.
+K: A little rover called Pragyan went with the lander to explore the surface.
+
+@mpart chandrayaan-3.site
+name: Landing site
+kid: Where it landed
+src: Chandrayaan-3
+src: Chandrayaan-1
+T: Vikram touched down near the lunar south pole, at 69° south, on 23 August 2023. The Moon's polar regions are of special interest because of the chance of finding water ice.
+K: The lander came down close to the Moon's south pole. Scientists are interested in the poles because there may be frozen water there.
+
+@model mysorean-rocket
+title: Mysorean rocket
+kid: The rocket of Mysore
+date: 1780..1799
+order: 23
+lenses: technology, war
+src: Mysorean rockets
+S: Mysorean rockets were the first successful iron-cased rockets, developed in the late 18th century in the Kingdom of Mysore under Hyder Ali. Rockets also existed in Europe, but they were not iron-cased and their range was far shorter.
+K: The army of Mysore used rockets with iron cases more than 200 years ago. They flew much further than any rocket in Europe at the time.
+note: Built from the dimensions in the source, with a person for scale.
+
+@mpart mysorean-rocket.case
+name: Iron case
+kid: The iron tube
+src: Mysorean rockets
+T: A rocket usually consisted of a tube of soft hammered iron about 20 cm long and 3.8 to 7.6 cm in diameter, closed at one end. The iron tube allowed higher thrust and a range of up to 2 km.
+K: The gunpowder was packed into an iron tube about as long as a pencil case. Iron let it burn harder, so the rocket flew up to two kilometres.
+
+@mpart mysorean-rocket.shaft
+name: Bamboo shaft
+kid: The bamboo pole
+src: Mysorean rockets
+T: The iron tube was strapped to a shaft of bamboo about 1 metre long.
+K: The tube was tied to a bamboo pole about a metre long, which kept the rocket flying straight.

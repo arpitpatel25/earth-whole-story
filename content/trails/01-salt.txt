@@ -1,0 +1,113 @@
+# Trail: salt. Facts from the articles named in src.
+
+@trail salt
+title: Salt
+kid-title: The salt trail
+theme: food
+color: #e8e4d8
+order: 1
+deck: All life depends on it, and for most of history it was hard to get. Ten places where salt made towns, roads, taxes and a revolution in how to protest.
+kid-deck: Everyone needs salt, and once it was hard to find. Visit ten places where salt made people rich, built roads and even helped a country win its freedom.
+
+@stop salt-1
+trail: salt
+title: A town built on brine
+date: 5500 BCE..4200 BCE
+at: Solnitsata
+alt: 900
+src: Solnitsata
+T: Solnitsata, "the Saltworks", near today's Provadia in Bulgaria, is the oldest salt production centre in continental Europe, at work from 5500 to 4200 BC. Its population has been estimated at only 350, yet it was a fortified stone settlement. A great collection of gold found nearby, at Varna, has led archaeologists to think the salt trade made the town wealthy.
+K: More than 7,000 years ago, people in what is now Bulgaria made salt and traded it. Their little town had stone walls. Lots of gold was found nearby, so the salt probably made them rich.
+
+@stop salt-2
+trail: salt
+title: The salt miners of Hallstatt
+date: 800 BCE..450 BCE
+at: Hallstatt
+alt: 700
+src: Hallstatt
+T: Hallstatt, in the Austrian Alps, has produced salt since prehistoric times. By the Bronze Age it was a day-to-day commercial activity, carried out in large quantities and highly organised. The place gave its name to the Hallstatt culture of early Iron Age Europe, about 800 to 450 BC.
+K: In the mountains of Austria, people have dug salt out of the rock since before history was written down. The village of Hallstatt became so important that a whole period of Europe's past is named after it.
+
+@stop salt-3
+trail: salt
+title: Rome's salt road
+date: 400 BCE
+at: Via Salaria
+alt: 900
+src: Via Salaria
+T: The Via Salaria, the Salt Road, ran from Rome 242 km to the Adriatic coast. It owes its name to the Latin word for salt: it was the route by which the Sabines came to fetch salt from the marshes at the mouth of the Tiber. Some historians consider the road and its salt trade to be the origin of the settlement of Rome.
+K: One of the oldest roads out of Rome is called the Salt Road. People used it to fetch salt from the marshes by the sea. Some historians think Rome grew up where it did because of this salt trade.
+note: The date marks the era of the early road, which the source does not date precisely.
+
+@stop salt-4
+trail: salt
+title: The first salt tax
+date: 300 BCE
+at: Zigong
+alt: 2600
+src: Salt tax
+src: Zigong
+T: Salt was first taxed in China, where salt taxation dates back to 300 BC. Taxing salt became one of the longest-standing sources of revenue for governments everywhere, because nobody can do without it. The pin sits on Zigong in Sichuan, a city formed from two old towns whose names mean "self-flow well" and "offering well", and where percussion drilling was developed.
+K: Because everyone needs salt, rulers found they could make people pay a tax on it. China did this first, about 2,300 years ago. The pin is on a Chinese city famous for its deep salt wells.
+note: The source dates the tax to China as a whole. Zigong is shown as a centre of Chinese salt-making, not as the place the tax began.
+
+@stop salt-5
+trail: salt
+title: Chapels carved in salt
+date: 1250..1996
+at: Wieliczka Salt Mine
+alt: 700
+src: Wieliczka Salt Mine
+T: At Wieliczka near Kraków, salt was made from brine springs from Neolithic times. The mine itself, excavated from the 13th century, produced table salt continuously until 1996. Underground are a lake, four chapels and many statues that miners carved out of the rock salt. It is a UNESCO World Heritage Site.
+K: This salt mine in Poland was worked for about 700 years. Deep underground the miners carved whole chapels and statues out of salt. You can visit them today.
+
+@stop salt-6
+trail: salt
+title: Salt in the Sahara
+date: 1352
+at: Taghaza
+alt: 2600
+src: Taghaza
+T: Taghaza, in a salt pan in the desert of northern Mali, was an important source of rock salt for West Africa until the end of the 16th century. The traveller Ibn Battuta arrived there in 1352 after a 25-day journey from Sijilmasa, on his way to the Mali Empire. He found no trees, only sand. An earlier writer recorded that the salt was mined by enslaved people and carried south by a caravan that came once a year.
+K: In the middle of the Sahara desert there was a village where salt was dug out of the ground. The diggers were enslaved people. A caravan carried the salt south. A famous traveller, Ibn Battuta, came here in 1352.
+
+@stop salt-7
+trail: salt
+title: The hated gabelle
+date: 1350..1946
+at: Paris
+alt: 2600
+src: Gabelle
+T: In France the gabelle was a state monopoly on the salt trade, and in some regions a salt tax. It was set up in the mid-14th century and lasted, with brief lapses, until 1946. It was very unpopular: it touched every French household, which needed salt for cooking, preserving food, making cheese and raising livestock.
+K: In France, for hundreds of years, only the king's government was allowed to sell salt, and it charged a lot. People hated this rule, which was called the gabelle.
+
+@stop salt-8
+trail: salt
+title: A mountain of pink salt
+date: 326 BCE
+at: Khewra Salt Mine
+alt: 1500
+src: Khewra Salt Mine
+T: The Khewra Salt Mine in the Punjab, in today's Pakistan, is the world's second largest. Its history is said to go back to its discovery by Alexander's troops in 326 BC, though it began trading only in the Mughal era. It is famous for its pink salt.
+K: This huge salt mine in Pakistan is the second biggest in the world. The story goes that soldiers of Alexander the Great found the salt more than 2,300 years ago. The salt here is pink.
+
+@stop salt-9
+trail: salt
+title: Gandhi picks up a handful of salt
+date: 1930-03-12..1930-04-06
+at: Dandi, Navsari
+alt: 1500
+src: Salt March
+T: In colonial India the British taxed salt and controlled its making. On 12 March 1930 Mahatma Gandhi set out from Sabarmati Ashram on a 24-day march of 387 km to the sea at Dandi, where on 6 April he made salt himself. It was an act of nonviolent civil disobedience and tax resistance.
+K: When Britain ruled India, Indians were not allowed to make their own salt. In 1930 Mahatma Gandhi walked 387 kilometres to the sea, for 24 days, and made salt there. He broke the law on purpose, peacefully, to show that the law was unfair.
+
+@stop salt-10
+trail: salt
+title: The biggest salt flat on Earth
+date: now
+at: Salar de Uyuni
+alt: 2600
+src: Salar de Uyuni
+T: The Salar de Uyuni in Bolivia is the largest salt flat in the world, about 10,582 square kilometres, at 3,656 m above sea level. Its crust is a source of salt and covers a pool of brine that is exceptionally rich in lithium: a metal used in batteries.
+K: High in the mountains of Bolivia is the biggest salt flat in the world. Under the salt is salty water with lithium in it, which is used to make batteries.

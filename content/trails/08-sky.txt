@@ -1,0 +1,125 @@
+# Trail: watching the sky. Facts from the articles named in src.
+
+@trail sky
+title: Watching the sky
+kid-title: Sky watchers
+theme: science
+color: #a5b4ff
+order: 8
+deck: A ring of posts in Germany, thirteen towers in Peru, a stone sundial in Jaipur, sixty-six dishes in a Chilean desert. Eleven places built to watch the sky.
+kid-deck: People have always watched the Sun, Moon and stars. Visit eleven places they built to do it, from a wooden circle 7,000 years old to giant telescopes on mountain tops.
+
+@stop sk-1
+trail: sky
+title: A circle for the Sun
+date: 4900 BCE..4700 BCE
+at: Goseck Circle
+alt: 1500
+src: Goseck Circle
+T: The Goseck Circle in Germany is a Neolithic structure built around 4900 BC and apparently used until about 4700 BC. Its German name calls it a sun observatory. Its ditch, 75 metres across, and two rings of palisades have entrances aligned with sunrise and sunset at the winter solstice.
+K: Almost 7,000 years ago, farmers in what is now Germany built a great circle of wooden posts and ditches. Its gates line up with where the Sun rises and sets on the shortest day of the year.
+
+@stop sk-2
+trail: sky
+title: Thirteen towers
+date: 250 BCE
+at: Chanquillo
+alt: 1500
+src: Chanquillo
+T: At Chankillo, in the coastal desert of Peru, a row of thirteen towers runs along a ridge beside a hilltop fort. The Thirteen Towers have been interpreted as an astronomical observatory built in the third century BC.
+K: In the desert of Peru there is a line of thirteen stone towers on a hill. They were built about 2,250 years ago. Seen from the right spot, the Sun rises behind a different tower as the year goes by, like a giant calendar.
+note: The date is approximate, within the third century BC.
+
+@stop sk-3
+trail: sky
+title: Maragheh
+date: 1259
+at: Maragheh observatory
+alt: 1500
+src: Maragheh observatory
+T: The Maragheh observatory, in today's Iran, was established in the mid 13th century under the patronage of the Ilkhanid ruler Hulagu. Its director was Nasir al-Din al-Tusi, a Persian scientist and astronomer.
+K: In the 1200s a great observatory was built at Maragheh in Persia, now Iran. It was run by a famous Persian astronomer, Nasir al-Din al-Tusi. A Mongol ruler paid for it.
+note: The source gives only the mid 13th century. The year shown is approximate.
+
+@stop sk-4
+trail: sky
+title: Kublai Khan's observatory
+date: 1276
+at: Gaocheng Astronomical Observatory
+alt: 1500
+src: Gaocheng Astronomical Observatory
+T: Near Dengfeng in Henan, at a site with a long tradition of sky-watching, a great observatory was built in 1276 on the order of Kublai Khan. The astronomers Guo Shoujing and Wang Xun designed it to observe the movement of the Sun and the stars and to record time.
+K: In 1276 the ruler of China, Kublai Khan, ordered a big observatory to be built. Two astronomers designed it to follow the Sun and the stars and to keep track of time.
+
+@stop sk-5
+trail: sky
+title: The prince who mapped the stars
+date: 1420s
+at: Ulugh Beg Observatory
+alt: 1500
+src: Ulugh Beg Observatory
+T: In the 1420s the Timurid astronomer Ulugh Beg built an observatory at Samarkand. It was a school of astronomy, and the last of its kind from the medieval Islamic period.
+K: In the city of Samarkand, a ruler and astronomer named Ulugh Beg built an observatory in the 1420s. It was also a school for astronomers.
+
+@stop sk-6
+trail: sky
+title: The last observatory without a telescope
+date: 1576..1580
+at: Uraniborg
+alt: 1500
+src: Uraniborg
+T: Uraniborg was built about 1576 to 1580 on the island of Ven by the Danish astronomer Tycho Brahe. It was the first custom-built observatory in modern Europe, and the last to be built without a telescope as its main instrument.
+K: On a small island, the Danish astronomer Tycho Brahe built an observatory around 1580. It was the last great observatory in Europe built without a telescope.
+
+@stop sk-7
+trail: sky
+title: Where time is counted from
+date: 1675
+at: Royal Observatory, Greenwich
+alt: 900
+src: Royal Observatory, Greenwich
+T: The Royal Observatory stands on a hill in Greenwich Park in London, above the River Thames. It played a major role in the history of astronomy and navigation. Because the Prime Meridian passed through it, it gave its name to Greenwich Mean Time, the forerunner of today's Coordinated Universal Time.
+K: This observatory in London helped sailors find their way at sea. The line that divides the world's maps into east and west runs right through it, and the world's clocks were once set by its time.
+note: The year shown, 1675, is when the observatory was founded.
+
+@stop sk-8
+trail: sky
+title: Instruments of stone
+date: 1734
+at: Jantar Mantar, Jaipur
+alt: 900
+src: Jantar Mantar, Jaipur
+T: The Jantar Mantar in Jaipur is a collection of 19 astronomical instruments built by the Rajput king Sawai Jai Singh, the founder of the city. It was completed in 1734 and includes the world's largest stone sundial. It is a UNESCO World Heritage Site.
+K: In the Indian city of Jaipur, a king built 19 giant instruments out of stone. One of them is the biggest stone sundial in the world. They were finished in 1734.
+
+@stop sk-9
+trail: sky
+title: The biggest eye for thirty years
+date: 1917
+at: Mount Wilson Observatory
+alt: 1500
+src: Mount Wilson Observatory
+T: Mount Wilson Observatory sits on a 1,740-metre peak near Pasadena in California. Its 100-inch Hooker telescope was the largest in the world from its completion in 1917 until 1949.
+K: On a mountain in California stands a telescope with a mirror 2.5 metres wide. When it was finished in 1917 it was the biggest in the world, and it stayed the biggest for more than thirty years.
+
+@stop sk-10
+trail: sky
+title: A dish in a sinkhole
+date: 1963
+at: Arecibo Observatory
+alt: 1500
+src: Arecibo Observatory
+T: The main instrument of the Arecibo Observatory in Puerto Rico was a spherical reflector dish 305 metres across, built into a natural sinkhole. Its receiver hung 150 metres above the dish on cables. Completed in 1963, it was the world's largest single-aperture telescope for 53 years.
+K: In Puerto Rico, a giant dish 305 metres wide was built in a natural hollow in the hills. For 53 years it was the biggest single telescope dish in the world.
+note: The year shown is when the telescope was completed.
+
+@stop sk-11
+trail: sky
+title: Sixty-six dishes in the desert
+date: 2013-03
+at: Atacama Large Millimeter Array
+alt: 2200
+src: Atacama Large Millimeter Array
+src: Maunakea Observatories
+T: ALMA is an array of 66 radio telescopes working as one, on a plateau 5,000 metres up in the Atacama Desert of Chile. It began observing in 2011 and has been fully operational since March 2013. Like the observatories on Mauna Kea in Hawaii, at 4,207 metres, it sits high to get above most of the water vapour in the air.
+K: High in a desert in Chile, 66 radio dishes work together like one enormous telescope. They are 5,000 metres up, where the air is thin and dry and the view of space is very clear.

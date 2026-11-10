@@ -1,0 +1,152 @@
+# Trail: battles that changed the map (war). Facts from the articles named in src.
+
+@trail battles
+title: Battles that changed the map
+kid-title: Famous battles
+theme: war
+color: #ff7a6b
+order: 10
+content-note: This trail describes battles in which many people died.
+deck: Chariots at Kadesh, citizens at Marathon, cannon at Constantinople and Panipat, a mountain valley in Vietnam. Fourteen battles after which the world was arranged differently.
+kid-deck: Sadly, wars have shaped a lot of history. Visit fourteen battlefields and find out who fought there, and what changed afterwards.
+
+@stop bt-1
+trail: battles
+title: Kadesh: five thousand chariots
+date: 1274 BCE
+at: Battle of Kadesh
+alt: 2600
+src: Battle of Kadesh
+T: In the early 13th century BC, Ramesses II of Egypt attacked the Hittite Empire of Muwatalli II on the Orontes River. It is the earliest pitched battle for which details of tactics and formations are known, and is believed to be the largest chariot battle ever fought, with 5,000 to 6,000 chariots in all.
+K: More than 3,200 years ago, the armies of Egypt and the Hittites fought beside a river on what is today the border of Lebanon and Syria. Thousands of chariots took part. It is the oldest battle that we know the details of.
+note: The source gives only the early 13th century BC. The year shown is approximate.
+
+@stop bt-2
+trail: battles
+title: Marathon
+date: 490 BCE
+at: Battle of Marathon
+alt: 1500
+src: Battle of Marathon
+T: In 490 BCE the citizens of Athens, aided by Plataea, met a Persian force sent by King Darius I in his first attempt to subjugate Greece. The Greek army inflicted a crushing defeat on the more numerous Persians. It was a turning point in the Greco-Persian Wars.
+K: In 490 BCE the huge Persian Empire sent an army to conquer Greece. The citizens of Athens met it at a place called Marathon and won, even though there were more Persians.
+
+@stop bt-3
+trail: battles
+title: Gaugamela
+date: 331 BCE
+at: Battle of Gaugamela
+alt: 2200
+src: Battle of Gaugamela
+T: In 331 BC the army of Macedon under Alexander the Great met the Persian army of King Darius III. It was the second and final battle between the two kings. Alexander's decisive victory led to the fall of the Achaemenid Empire.
+K: In 331 BC Alexander the Great fought the Persian king Darius III for the last time, in what is now Iraq. Alexander won, and the great Persian Empire fell.
+
+@stop bt-4
+trail: battles
+title: Cannae
+date: 216 BCE
+at: Battle of Cannae
+alt: 1500
+src: Battle of Cannae
+T: On 2 August 216 BC, near the village of Cannae in south-east Italy, the Carthaginians and their allies under Hannibal surrounded and practically annihilated a larger Roman army. It was a key engagement of the Second Punic War between Rome and Carthage.
+K: Hannibal was a general from the city of Carthage. In 216 BC, in Italy, his army surrounded a bigger Roman army and destroyed almost all of it.
+
+@stop bt-5
+trail: battles
+title: Red Cliffs
+date: 208
+at: Battle of Red Cliffs
+alt: 2200
+src: Battle of Red Cliffs
+T: In the winter of 208 to 209 AD, at the end of the Han dynasty, a decisive naval battle was fought on the Yangtze River. The allied forces of Sun Quan, Liu Bei and Liu Qi, based south of the river, defeated the numerically superior forces of the northern warlord Cao Cao.
+K: In the winter of the year 208, warlords fought a great battle with ships on the Yangtze River in China. The smaller side won, and the northern warlord Cao Cao could not conquer the south.
+
+@stop bt-6
+trail: battles
+title: Tours
+date: 732-10-10
+at: Battle of Tours
+alt: 1500
+src: Battle of Tours
+T: On 10 October 732, during the Umayyad invasion of Gaul, Frankish and Aquitanian forces defeated the invading army. In Arabic it is remembered as the Battle of the Highway of the Martyrs.
+K: In the year 732 an army from the Umayyad Caliphate marched into what is now France. The Franks defeated it. The battle is named after the city of Tours.
+
+@stop bt-7
+trail: battles
+title: Ain Jalut
+date: 1260-09-03
+at: Battle of Ain Jalut
+alt: 1500
+src: Battle of Ain Jalut
+T: On 3 September 1260, near the spring of Ain Jalut in the Jezreel Valley, the Mamluks of Egypt fought the Mongols of the Ilkhanate. The battle marks the first major halt to the Mongol advance.
+K: In 1260 the army of Egypt, the Mamluks, fought the Mongols at a spring called Ain Jalut. It was the first time the Mongol advance was really stopped.
+
+@stop bt-8
+trail: battles
+title: The fall of Constantinople
+date: 1453-04-06..1453-05-29
+at: Fall of Constantinople
+alt: 1500
+src: Fall of Constantinople
+T: After a 53-day siege that began on 6 April, the Ottoman army of Sultan Mehmed II captured Constantinople, capital of the Byzantine Empire, on 29 May 1453. The attackers greatly outnumbered the defenders. The fall marked the effective end of the Roman Empire, a state that had lasted nearly 1,500 years.
+K: Constantinople was the capital of the last part of the old Roman Empire. In 1453 the Ottoman sultan Mehmed II surrounded the city for 53 days and then captured it. The Roman Empire, almost 1,500 years old, was over.
+
+@stop bt-9
+trail: battles
+title: Panipat
+date: 1526-04-21
+at: First Battle of Panipat
+alt: 1500
+src: First Battle of Panipat
+T: On 21 April 1526 the invading forces of Babur met the army of Ibrahim Lodi, Sultan of Delhi. Babur's forces, using gunpowder firearms and cannons, won. It was one of the earliest battles with gunpowder arms on the Indian subcontinent.
+K: In 1526 a ruler named Babur invaded northern India. At Panipat his army used guns and cannons, which were new in India, and defeated the Sultan of Delhi.
+
+@stop bt-10
+trail: battles
+title: Plassey
+date: 1757-06-23
+at: Battle of Plassey
+alt: 1500
+src: Battle of Plassey
+T: On 23 June 1757 the British East India Company under Robert Clive won a decisive victory over the Nawab of Bengal and his French allies. The victory was made possible by the betrayal of Mir Jafar, commander in chief of Nawab Siraj-ud-Daulah, and of much of the Bengal army.
+K: In 1757 a British trading company fought the ruler of Bengal, in India. The company won because the ruler's own general, Mir Jafar, betrayed him.
+
+@stop bt-11
+trail: battles
+title: Waterloo
+date: 1815-06-18
+at: Battle of Waterloo
+alt: 1500
+src: Battle of Waterloo
+T: On Sunday 18 June 1815, near Waterloo in today's Belgium, the French army of Napoleon I was defeated by two armies of the Seventh Coalition, one of them British-led under the Duke of Wellington. It was Napoleon's last engagement.
+K: On 18 June 1815, at Waterloo in Belgium, Napoleon, the emperor of France, fought his last battle and lost.
+
+@stop bt-12
+trail: battles
+title: Adwa
+date: 1896-03-01
+at: Battle of Adwa
+alt: 1500
+src: Battle of Adwa
+T: On 1 March 1896, near the town of Adwa, the Ethiopian Empire under Emperor Menelik II met an Italian colonial force. The battle ended in a decisive Ethiopian victory, and forced Italy to recognise Ethiopia's sovereignty in the Treaty of Addis Ababa.
+K: In 1896 Italy tried to take over Ethiopia. At Adwa the Ethiopian army, led by Emperor Menelik II, won a great victory. Italy had to accept that Ethiopia was a free country.
+
+@stop bt-13
+trail: battles
+title: Stalingrad
+date: 1942-08-23..1943-02-02
+at: Battle of Stalingrad
+alt: 1500
+src: Battle of Stalingrad
+T: From August 1942 Nazi Germany and its allies fought the Soviet Union for the city of Stalingrad, now Volgograd, in close-quarters combat and with heavy civilian losses under aerial bombardment. The Soviet victory, complete by 2 February 1943, is generally regarded as the pivotal turning point of the war in Europe.
+K: In the Second World War, the German and Soviet armies fought for months over the city of Stalingrad, street by street. The Soviet side won in February 1943. After that, Germany was pushed back.
+
+@stop bt-14
+trail: battles
+title: Dien Bien Phu
+date: 1954-03-13..1954-05-07
+at: Battle of Dien Bien Phu
+alt: 1500
+src: Battle of Dien Bien Phu
+T: Between 13 March and 7 May 1954 the Viet Minh besieged French forces at Điện Biên Phủ, in the north-west of Vietnam. After two months the garrison was overrun and the survivors surrendered. The defeat led to the gradual withdrawal of French forces from Indochina.
+K: In 1954 Vietnamese fighters called the Viet Minh surrounded a French army base for two months and captured it. After that, French forces gradually left the region.

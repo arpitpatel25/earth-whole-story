@@ -1,0 +1,7 @@
+{
+  "updatedAt": "2026-11-10T07:21:23.908Z",
+  "milestone": "M10 done: every acceptance test passes against the final build; FINAL.md written",
+  "percentComplete": 100,
+  "workingBuild": true,
+  "summary": "EARTH: The Whole Story is complete in site/. 67,721 events, 2 flagship and 14 shorter stories, 12 trails, India in depth (302 curated cells, 1,006 events, 229 biographies, 36 state views), 258 country baselines, 23 explorable 3D scenes, 15 lenses and 6 deep-time lenses, Kid mode, search, share links, sound. All 27 acceptance tests pass (tests/results/summary.md); the fact audit passed its second sample of 200 after a sweep of all 4,510 curated claims. Known limits and what was not verified are listed in FINAL.md."
+}

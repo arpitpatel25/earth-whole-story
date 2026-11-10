@@ -1,0 +1,117 @@
+# Trail: fighting infection. Facts from the articles named in src.
+
+@trail germs
+title: Fighting the invisible
+kid-title: The fight against germs
+theme: medicine
+color: #ff8fa3
+order: 4
+deck: An enslaved man in Boston, a country doctor, a hand-washing rule in Vienna, a water pump in Soho, a mould in London. Ten places where people learned to beat infectious disease.
+kid-deck: For most of history nobody knew what made people sick. Visit ten places where people worked it out, step by step, and wiped one terrible disease off the Earth.
+
+@stop gm-1
+trail: germs
+title: A letter from Constantinople
+date: 1716-08
+at: Istanbul
+alt: 2200
+src: Lady Mary Wortley Montagu
+src: Variolation
+T: In August 1716 Lady Mary Wortley Montagu went with her husband, the new British ambassador, to Constantinople. She is known for introducing and advocating smallpox inoculation in Britain after her return from Turkey. The method, variolation, used material taken from a smallpox patient in the hope of causing a mild but protective infection.
+K: An English lady, Lady Mary Wortley Montagu, travelled to Constantinople in 1716. When she came home she taught people in Britain a way to protect themselves from a deadly disease called smallpox, by giving them a mild case of it on purpose.
+
+@stop gm-2
+trail: germs
+title: What Onesimus knew
+date: 1721
+at: Boston
+alt: 2200
+src: Onesimus (Bostonian)
+src: Variolation
+T: Onesimus was an African man enslaved by the Boston clergyman Cotton Mather. In 1716 or shortly before, he described to Mather how he had been inoculated against smallpox in Africa. When an outbreak began in Boston in 1721, Mather used that knowledge to argue for inoculation.
+T: The method worked, at a price: 1 to 2 percent of those variolated died, against 30 percent of those who caught smallpox naturally.
+K: Onesimus was an African man who was enslaved in Boston. He explained how people in his homeland protected themselves from smallpox. When the disease struck Boston in 1721, his knowledge helped to save lives.
+
+@stop gm-3
+trail: germs
+title: The first vaccine
+date: 1798
+at: Berkeley, Gloucestershire
+alt: 1500
+src: Edward Jenner
+T: Edward Jenner, a physician born in Berkeley in Gloucestershire, created the smallpox vaccine, the world's first vaccine. The words vaccine and vaccination come from Variolae vaccinae, "pustules of the cow", his term for cowpox, which he used in the title of his Inquiry in 1798.
+K: An English doctor named Edward Jenner made the world's first vaccine. It protected people from smallpox, and it came from cowpox, a disease of cows. The word "vaccine" comes from the Latin word for cow.
+
+@stop gm-4
+trail: germs
+title: Wash your hands
+date: 1847
+at: Vienna
+alt: 1500
+src: Ignaz Semmelweis
+T: At the Vienna General Hospital, the doctors' maternity wards had three times the death rate of the midwives' wards. In 1847 Ignaz Semmelweis proposed that doctors wash their hands in a chlorinated lime solution. The death rate of mothers fell from 18 percent to less than 2 percent. He is remembered as the "saviour of mothers".
+K: In a hospital in Vienna, many mothers were dying after having their babies. A doctor named Ignaz Semmelweis told the other doctors to wash their hands before touching a patient. Far fewer mothers died.
+
+@stop gm-5
+trail: germs
+title: The pump on Broad Street
+date: 1854
+at: 1854 Broad Street cholera outbreak
+alt: 700
+src: 1854 Broad Street cholera outbreak
+src: John Snow
+T: In 1854 cholera broke out around Broad Street in Soho, London. The physician John Snow traced it to one public water pump and argued that germ-contaminated water was the cause. He is considered one of the founders of modern epidemiology.
+K: In 1854 many people in one part of London fell ill with a disease called cholera. Dr John Snow worked out that they had all drunk water from the same pump. The water was carrying the disease.
+
+@stop gm-6
+trail: germs
+title: Pasteur's institute
+date: 1887
+at: Paris
+alt: 1500
+src: Louis Pasteur
+T: Louis Pasteur, a French chemist and microbiologist, is renowned for his discoveries of the principles of vaccination, microbial fermentation and pasteurisation, which is named after him. His vaccines for rabies and anthrax are credited with saving millions of lives. In Paris in 1887 he established the Pasteur Institute, which he directed for the rest of his life.
+K: Louis Pasteur was a French scientist who studied germs. He made vaccines against two deadly diseases, rabies and anthrax. Pasteurisation is named after him.
+
+@stop gm-7
+trail: germs
+title: A mould that kills bacteria
+date: 1928
+at: St Mary's Hospital, London
+alt: 700
+src: Alexander Fleming
+T: In 1928 the Scottish physician Alexander Fleming discovered that the mould Penicillium rubens produces a substance that kills bacteria. It was later named penicillin: the first antibiotic. He shared the 1945 Nobel Prize with Howard Florey and Ernst Chain for the discovery and its curative effect.
+T: The pin is on St Mary's Hospital in Paddington, at whose medical school Fleming had trained.
+K: In 1928 a Scottish doctor, Alexander Fleming, noticed that a mould made something that killed germs. It was called penicillin, the first antibiotic.
+
+@stop gm-8
+trail: germs
+title: A vaccine given away
+date: 1955-04
+at: Pittsburgh
+alt: 2200
+src: Jonas Salk
+T: Jonas Salk, a professor at the University of Pittsburgh from 1947, developed one of the first successful polio vaccines. When its success was made public in April 1955 he was hailed as a miracle worker. He chose not to patent the vaccine or seek any profit from it, so that it could be distributed as widely as possible.
+K: Polio, once called infantile paralysis, was a feared disease. In 1955 the world learned that Dr Jonas Salk's vaccine worked. He did not try to make money from it, so that it could reach as many people as possible.
+
+@stop gm-9
+trail: germs
+title: The last case
+date: 1977-10
+at: Merca
+alt: 2200
+src: Ali Maow Maalin
+src: History of smallpox
+T: In October 1977 Ali Maow Maalin, a hospital cook in Merca, Somalia, was diagnosed with smallpox. He recovered. He was the last person known to have caught the naturally occurring disease, and none of his many contacts developed it.
+T: As recently as 1967 an estimated 15 million people a year had caught smallpox and two million had died. In May 1980 the World Health Organization certified it eradicated worldwide.
+K: In 1977 a hospital cook in Somalia named Ali Maow Maalin caught smallpox. He got better. He was the last person ever to catch it naturally. After thousands of years, vaccines had wiped smallpox off the Earth.
+
+@stop gm-10
+trail: germs
+title: A malaria cure from herbal medicine
+date: 2015
+at: Beijing
+alt: 2200
+src: Tu Youyou
+T: Tu Youyou studied in Beijing and spent her career researching Chinese herbal medicine at the China Academy of Chinese Medical Sciences. She discovered artemisinin, a treatment for malaria that has saved millions of lives in China, Southeast Asia, Africa and South America. In 2015 she shared the Nobel Prize in Physiology or Medicine.
+K: Malaria is a deadly disease. A Chinese scientist named Tu Youyou studied traditional herbal medicines and found a new cure for it. Her medicine has saved millions of lives. In 2015 she won a Nobel Prize.

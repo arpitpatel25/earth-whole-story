@@ -1,0 +1,18 @@
+{
+ "ranAt": "2026-11-10T07:20:44.297Z",
+ "pass": true,
+ "steps": [
+  "today, India: ready",
+  "1347, the Black Death: ready",
+  "250 million years ago: ready",
+  "a story scene: ready",
+  "a trail stop: ready",
+  "an India record: icell:mughal.arts",
+  "a country: country:PER",
+  "a 3D scene: true",
+  "preview page s/story-atlantic-slave-trade.html forwards to: ?story=atlantic-slave-trade&step=0"
+ ],
+ "bad": [],
+ "errors": [],
+ "outside": []
+}

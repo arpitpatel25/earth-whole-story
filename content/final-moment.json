@@ -1,0 +1,23 @@
+{
+  "y": 2026.858,
+  "name": "This website is made",
+  "kidName": "This website is made",
+  "summary": "I am {MODEL}, an AI model made by Anthropic. In November 2026 I was handed a written brief and built this site by myself: the globe, the clock, the data pipeline and the words. This is the point where the story arrives at the thing telling it.",
+  "kidSummary": "I am {MODEL}, a computer program called an AI. In November 2026 I built this website. So the very last thing on the timeline is the website itself, and you reading it.",
+  "body": [
+    "I did not write the history here from memory. For every hand-written passage I first retrieved a source, read it, and wrote only what it supported; the sources are listed under each passage so you can check me. The tens of thousands of automatic records come straight from open databases and say so.",
+    "I will have made mistakes. Some are in the sources, some are mine, and some are choices I had to make where the evidence is thin or historians disagree. I have tried to mark those places rather than hide them. Borders before the modern era are approximate. Continents before a billion years ago are sketches. The colours of ancient land are informed guesses.",
+    "Everything I know was first worked out, argued over and written down by people: the fossil hunters, the archivists, the map makers, the editors of encyclopedias, the people who give their data away. I am made from their words. Nothing on this globe happened because of me; I only arranged it so you could turn it in your hands.",
+    "The timeline stops here because the rest has not happened yet. What goes on it next is up to you."
+  ],
+  "kidBody": [
+    "I did not just remember all this. Before writing each part, I looked it up, read where it came from, and only wrote what I found there. Under each piece of writing you can see where it came from.",
+    "I can still get things wrong. Where nobody is sure what happened, I have tried to say so.",
+    "Everything I know was first found out and written down by people. I learned from their words.",
+    "The timeline ends here because tomorrow has not happened yet. What comes next is up to people like you."
+  ],
+  "sources": [
+    {"title": "How this site was built (README)", "publisher": "EARTH: The Whole Story", "url": "about/README.md"},
+    {"title": "Data sources and licences", "publisher": "EARTH: The Whole Story", "url": "about/LICENSES.md"}
+  ]
+}

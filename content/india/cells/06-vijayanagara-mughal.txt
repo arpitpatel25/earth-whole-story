@@ -1,0 +1,208 @@
+
+
+@icell vijayanagara.power
+src: Vijayanagara Empire
+src: Krishnadevaraya
+src: Hampi
+T: The Vijayanagara Empire was established in 1336 by the brothers Harihara I and Bukka Raya I and ruled much of southern India from its capital beside the Tungabhadra. It reached its political and cultural zenith under Krishnadevaraya, emperor from 1509 to 1529. The capital was abandoned in 1565.
+K: Two brothers founded the Vijayanagara Empire in 1336. It ruled most of southern India for more than 200 years. Its greatest king was Krishnadevaraya.
+
+@icell vijayanagara.war
+src: Battle of Raichur
+src: Battle of Talikota
+src: Vijayanagara Empire
+T: Vijayanagara fought repeatedly with the sultanates to its north. In 1520 it won a decisive victory over Bijapur at Raichur. On 23 January 1565 an alliance of the Deccan sultanates, with superior artillery tactics, defeated it at Talikota; a sultan's army camped in the capital for six months and the city was ruined.
+K: Vijayanagara and the sultans of the Deccan fought many wars. In 1565 the sultans joined together and won a great battle. Afterwards the capital city was destroyed.
+
+@icell vijayanagara.trade
+src: Domingo Paes
+src: Fernão Nunes
+src: Vijayanagara Empire
+T: Paes, who came with traders from Portuguese Goa about 1520, listed the kingdom's seaports on the west coast, some with Portuguese trading posts, and described a busy market of precious stones in the capital. Horses were vital imports: Krishnadevaraya made a treaty with the Portuguese to stop the supply of horses to Bijapur. Fernão Nunes was himself a horse trader.
+K: Merchants from Portugal came to Vijayanagara to trade. They sold horses to the king and saw a market full of precious stones.
+
+@icell vijayanagara.work
+src: Vijayanagara Empire
+T: Large-scale cotton production supplied the weaving centres of the empire's vibrant textile industry. Contemporary records and travellers' notes describe huge tanks constructed by labourers. Temple-building employed masons and sculptors across the south.
+K: Many people in the empire grew cotton or wove cloth. Labourers dug huge tanks to hold water, and builders raised great temples.
+
+@icell vijayanagara.food
+src: Vijayanagara Empire
+T: Wheat, sorghum, cotton and pulses grew in the semi-arid regions, while sugarcane and rice thrived where rain was plentiful. Betel leaves, areca nuts for chewing, and coconut were the principal cash crops. State-sponsored irrigation canals and reservoirs supported intense agriculture.
+K: Farmers grew rice and sugarcane in wet places and wheat and sorghum in dry ones. They also grew coconuts and betel leaves to sell.
+
+@icell vijayanagara.daily
+src: Hampi
+src: Domingo Paes
+T: Persian and European travellers describe the capital as a prosperous, wealthy and grand city with numerous temples, farms and trading markets. To Paes it seemed comparable in size to Rome, with abundant vegetation, aqueducts and artificial lakes. By one estimate it was the world's second-largest city by 1500, after Beijing.
+K: Visitors said the city of Vijayanagara was as big as Rome, full of markets, temples, gardens and lakes. It may have been the second-biggest city in the world.
+
+@icell vijayanagara.science
+src: Kerala school of astronomy and mathematics
+src: Nilakantha Somayaji
+src: Vijayanagara Empire
+T: On the Kerala coast, the school of astronomy and mathematics founded by Madhava continued. Nilakantha Somayaji (1444–1544) completed his Tantrasamgraha in 1500–1501, with a computational model in which the planets orbit the Sun and the Sun orbits the Earth. In the empire itself, court patronage encouraged writing on astronomy and mathematics.
+K: In Kerala, the astronomer Nilakantha worked out a model of the sky in which the planets circle the Sun. He finished his great book in 1501.
+
+@icell vijayanagara.medicine
+src: Vijayanagara Empire
+src: Krishnadevaraya
+T: Court patronage stimulated writing in Kannada, Telugu, Tamil and Sanskrit on topics that included medicine. Portuguese visitors described Krishnadevaraya as a commander who personally tended wounded soldiers. Beyond this, the retrieved sources give little detail of how medicine was practised in the empire.
+K: Scholars at the court wrote books about medicine. Visitors said that King Krishnadevaraya himself looked after his wounded soldiers.
+
+@icell vijayanagara.technology
+src: Vijayanagara Empire
+src: Domingo Paes
+src: Battle of Talikota
+T: Water engineering was the empire's strength: state-sponsored canals and reservoirs, and the aqueducts and artificial lakes Paes saw in the capital; he also recorded advanced irrigation technology. In war, artillery mattered more and more, and the sultanates' better-integrated guns decided the battle of 1565.
+K: Vijayanagara's engineers built canals, lakes and stone water channels to bring water to the city and its fields.
+
+@icell vijayanagara.religion
+src: Vijayanagara Empire
+src: Hampi
+src: Sāyaṇa
+src: Purandara Dasa
+T: Vijayanagara was a Hindu empire of monumental temple complexes; the Virupaksha temple at Hampi is still an active place of worship. Sayana, who died in 1387, wrote influential commentaries on the Vedas under its early kings. Purandara Dasa (c. 1470–1564) was a singer-saint of the Haridasa tradition.
+K: The kings of Vijayanagara built huge Hindu temples. One of them, at Hampi, is still used for worship today.
+
+@icell vijayanagara.arts
+src: Vijayanagara architecture
+src: Purandara Dasa
+src: Amuktamalyada
+T: Vijayanagara builders added two features to the temples of the south: large halls with intricately carved pillars, and tall entrance towers. Purandara Dasa was one of the chief founders who shaped modern Carnatic music. Krishnadevaraya himself composed the Telugu epic Amuktamalyada, considered a masterpiece.
+K: Vijayanagara's builders made temples with tall gate towers and halls of carved pillars. The singer Purandara Dasa helped to shape the music of southern India.
+
+@icell vijayanagara.language
+src: Vijayanagara Empire
+src: Krishnadevaraya
+src: Vijayanagara literature in Kannada
+T: Court patronage stimulated literature in four languages: Kannada, Telugu, Tamil and Sanskrit. Krishnadevaraya's reign is regarded as a golden age of Telugu literature, and a body of Kannada writing runs from the 14th to the 16th century.
+K: Writers at the Vijayanagara court wrote in four languages: Kannada, Telugu, Tamil and Sanskrit.
+
+@icell vijayanagara.nature
+src: Vijayanagara Empire
+src: Vijayanagara architecture
+T: The capital stood on the banks of the Tungabhadra River, and its people stored the river's water and the rain in canals and reservoirs. What was grown depended on rainfall: dry-land crops in the semi-arid regions, rice and sugarcane in the rainy ones.
+K: The capital stood beside the river Tungabhadra. Much of the land around was dry, so people saved water in big tanks.
+
+@icell vijayanagara.movement
+src: Portuguese India
+src: Abd al-Razzaq Samarqandi
+src: Madurai Nayak dynasty
+T: Visitors came by sea and land. Abd al-Razzaq, ambassador of the Timurid ruler of Persia, described Calicut and Vijayanagara. The Portuguese took Goa from Bijapur in 1510 and made it their main anchorage. Telugu-speaking Nayaks moved south to rule Madurai from about 1529.
+K: Travellers came to Vijayanagara from Persia and Portugal and wrote about what they saw. The Portuguese captured Goa in 1510.
+
+@icell vijayanagara.women
+src: Gangadevi
+src: Tirumalamba
+src: Atukuri Molla
+T: Women wrote some of the era's literature. Gangadevi was a 14th-century princess and Sanskrit poet. Tirumalamba, poet, musician and grammarian, composed a poem on the wedding of the emperor Achyuta. Molla, a potter's daughter of the 16th century, wrote a Telugu Ramayana.
+K: Women wrote famous poems in Vijayanagara times. One was a princess, Gangadevi. Another, Molla, was the daughter of a potter and retold the story of Rama in Telugu.
+
+@icell mughal.power
+src: Mughal Empire
+src: Akbar
+src: Aurangzeb
+src: Mansabdar
+T: The Mughal Empire was founded by Babur in 1526. Akbar, the third emperor, reigned from 1556 to 1605; under Aurangzeb, 1658 to 1707, it reached its greatest extent. Officers held a mansab, a numerical rank that fixed precedence and salary. By 1760 the empire was reduced to the region around Delhi, and it was formally dissolved after the Rebellion of 1857.
+K: The Mughal emperors ruled most of India for about 200 years. The greatest were Akbar and Aurangzeb. The last emperor lost his throne in 1857.
+
+@icell mughal.war
+src: First Battle of Panipat
+src: Aurangzeb
+src: Nader Shah's invasion of India
+T: Babur's firearms and cannon won the empire at Panipat in 1526. Aurangzeb carried Mughal arms across nearly the entire subcontinent. In 1739 Nader Shah of Iran easily defeated the crumbling Mughal army at Karnal and sacked Delhi.
+K: The Mughals won India with cannons and guns. Two hundred years later, when the empire was weak, the king of Iran captured Delhi and carried away its treasures.
+
+@icell mughal.trade
+src: Mughal Empire
+src: Bengal Subah
+src: Sher Shah Suri
+T: Taxes were paid in a well-regulated silver currency, which drew peasants and artisans into larger markets; Sher Shah Suri had issued the first rupiya. Growing European demand for Indian goods brought wealth to the court. Bengal was a major exporter of silk and cotton textiles, steel and saltpetre.
+K: Mughal India sold cotton cloth, silk and many other goods to the world, and was paid in silver. The rupee comes from this time.
+
+@icell mughal.work
+src: Mughal Empire
+src: Bengal Subah
+src: Taj Mahal
+T: Most people farmed, and taxes took well over half of a peasant cultivator's output. Bengal was globally prominent in textile manufacturing and shipbuilding, and its economy began to undergo proto-industrialisation. Great building projects, such as the Taj Mahal, completed between 1648 and 1653, employed craftsmen for decades.
+K: Most people were farmers, and they had to give more than half of what they grew as tax. In Bengal, many people wove cloth or built ships.
+
+@icell mughal.food
+src: Mughal Empire
+src: Mughlai cuisine
+src: Deccan famine of 1630–1632
+T: Farmers grew wheat, rice and barley, and by the mid-17th century two new crops from the Americas, maize and tobacco. In the court kitchens Indian and Persian cooking combined in Mughlai cuisine. But harvests could fail: after three failed crops, the Deccan famine of 1630–1632 killed, by a contemporary estimate, as many as 7.4 million people.
+K: Mughal cooks mixed Indian and Persian cooking and made new dishes that people still love. Farmers began to grow maize, which came from America. But when the rains failed, terrible famines followed.
+
+@icell mughal.daily
+src: Mughal Empire
+src: Mughal painting
+T: There was conspicuous consumption among the Mughal elite, who spent on painting, literature, textiles and architecture. Mughal miniatures show court life, hunting scenes and portraits. For peasants and artisans, a regulated silver currency opened the way into larger markets, though taxes were heavy.
+K: Rich Mughal nobles spent their money on paintings, fine clothes and beautiful buildings. Ordinary farmers paid heavy taxes.
+
+@icell mughal.science
+src: Jantar Mantar, Jaipur
+src: Mughal Empire
+T: Mughal astronomers made advances in observational astronomy and produced astronomical tables, though there was little concern for theory. A new curriculum for the madrasas stressed the rational sciences. At Jaipur the Rajput king Sawai Jai Singh built the Jantar Mantar, 19 astronomical instruments completed in 1734, including the world's largest stone sundial.
+K: Astronomers watched the sky carefully. A king of Jaipur built giant instruments of stone to measure the Sun and stars, including the biggest stone sundial in the world.
+
+@icell mughal.medicine
+src: Mughal Empire
+src: Fathullah Shirazi
+src: Unani medicine
+T: A new madrasa curriculum introduced medicine among its subjects, alongside geometry and mathematics. Court scholars such as Fathullah Shirazi, who died in 1588–89, counted medicine among their many fields. Unani medicine, which had arrived with Muslim scholars centuries earlier, continued to be practised.
+K: Medicine was one of the subjects taught in Mughal schools, along with mathematics.
+
+@icell mughal.technology
+src: Mughal Empire
+src: Fathullah Shirazi
+src: Sher Shah Suri
+T: Mughal India had a large shipbuilding industry, centred in Bengal. Fathullah Shirazi, a polymath at Akbar's court, was an inventor skilled in mechanics. Sher Shah Suri organised a postal system and extended the Grand Trunk Road from Chittagong in Bengal to Kabul.
+K: Mughal India built many ships. A great road with a postal service ran from Bengal all the way to Kabul.
+
+@icell mughal.religion
+src: Akbar
+src: Aurangzeb
+src: Guru Granth Sahib
+src: Tulsidas
+T: Akbar followed a policy of religious tolerance and promulgated Din-i Ilahi, a creed drawn mainly from Islam and Hinduism with elements of Zoroastrianism and Christianity. Aurangzeb imposed the Fatawa-i Alamgiri, a code of Islamic law. In these years the Sikh scripture, the Guru Granth Sahib, took shape, and Tulsidas wrote of Rama.
+K: The emperor Akbar respected many religions. A later emperor, Aurangzeb, ruled strictly by Islamic law. The holy book of the Sikhs was put together in this time.
+
+@icell mughal.arts
+src: Taj Mahal
+src: Mughal painting
+src: Fatehpur Sikri
+src: Mughal Empire
+T: Shah Jahan commissioned the Taj Mahal, an ivory-white marble mausoleum on the Yamuna at Agra, in 1631. Mughal painting, a miniature style that grew out of Persian painting, took a new interest in realistic portraits. Akbar founded Fatehpur Sikri as his capital in 1571. Hindustani classical music developed, with instruments such as the sitar.
+K: The Mughals built the Taj Mahal, one of the most beautiful buildings in the world. Their artists painted tiny, detailed pictures of people, animals and court life.
+
+@icell mughal.language
+src: Ain-i-Akbari
+src: Tulsidas
+src: Urdu
+T: Persian was the language of administration: Abu'l Fazl wrote the Ain-i-Akbari, a detailed account of Akbar's government, in Persian between 1589 and 1596. Tulsidas wrote his Ramcharitmanas in Awadhi, the speech of ordinary people. Urdu, closely related to Hindi, is today an official language in India and the national language of Pakistan.
+K: The Mughal court wrote in Persian. The poet Tulsidas retold the story of Rama in Awadhi, a language that ordinary people spoke.
+
+@icell mughal.nature
+src: Mughal garden
+src: Ustad Mansur
+src: Deccan famine of 1630–1632
+T: The Mughals built gardens on the Persian charbagh plan, meant to represent an earthly paradise in which people live in harmony with nature. The court painter Ustad Mansur, who died in 1624, excelled at plants and animals and was the earliest artist to depict the dodo in colour. Drought could still bring catastrophe, as in 1630.
+K: The Mughals loved gardens and built many of them. One court painter made careful pictures of animals and birds, including the dodo.
+
+@icell mughal.movement
+src: Mughal Empire
+src: First Battle of Panipat
+src: Gulbadan Begum
+src: Nader Shah's invasion of India
+T: Babur came as an invader in 1526; the name Mughal is the Indo-Persian form of "Mongol". European trading companies arrived by sea in growing numbers. Pilgrims left for Mecca, among them the princess Gulbadan Begum with other royal women. In 1739 Nader Shah's army came from Iran.
+K: The first Mughals came to India as invaders. In their time, traders from Europe began to arrive by ship, and pilgrims travelled from India to Mecca.
+
+@icell mughal.women
+src: Nur Jahan
+src: Gulbadan Begum
+src: Jahanara Begum
+src: Chand Bibi
+T: Nur Jahan (1577–1645), wife of Jahangir, is considered by some historians to have been the real power behind the throne for more than a decade. Gulbadan Begum, Babur's daughter, wrote the Humayun-Nama. Jahanara Begum wrote a biography of a Sufi saint. In the Deccan, Chand Bibi served as regent of both Bijapur and Ahmednagar.
+K: The empress Nur Jahan helped to rule the empire. Princess Gulbadan wrote a history of her brother, the emperor Humayun. In the south, Chand Bibi ruled two kingdoms for young kings.

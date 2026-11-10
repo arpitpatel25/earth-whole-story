@@ -1,0 +1,214 @@
+# Short story: the Industrial Revolution and coal (format: chain). Facts from the articles named in src.
+
+@story industrial-revolution
+title: Coal and the machine age
+kid-title: Coal and the age of machines
+format: chain
+order: 10
+color: #b9a58a
+deck: A black rock made of ancient forests drained mines, smelted iron, drove engines and then changed the air. One link led to the next.
+kid-deck: A black rock made from very old forests powered pumps, trains and factories. Each invention led to the next one. Follow the chain.
+led: era:climate-change | Climate change | what the burning added up to; story:mining-and-metals | Mining and metals | the longer story of digging; era:carboniferous | The Carboniferous | when the coal was made; era:new-imperialism | The new imperialism | what industrial powers did next
+
+@scene ir-01
+story: industrial-revolution
+title: Coal and the *machine age*
+y: 1760
+cam: 54, -2, 4200
+look: title
+src: Industrial Revolution
+T: Around 1760, in Great Britain, people began to make things in a new way: with machines, in factories, driven by burning coal. By about 1840 the change had spread to continental Europe and the United States.
+T: This story follows it as a chain. Each scene is a link that made the next one possible.
+K: Around 1760, people in Great Britain began to make things in a new way: with machines, in factories, powered by burning coal. This story is a chain. Each step made the next step possible.
+
+@scene ir-02
+story: industrial-revolution
+title: Sunlight stored in rock
+y: 310 mya
+cam: 54, -2, 17000
+src: Coal
+src: Carboniferous
+T: The chain starts long before people. Coal forms when plants decay into peat, and the peat is buried and changed by heat and pressure over millions of years.
+T: Vast deposits come from the swampy coal forests that covered much of the tropics in the late Carboniferous. The period's very name means coal-bearing. The camera is over the rocks that are now Britain, where the plate model places them at the time.
+K: Coal is made of very, very old plants. Long before the dinosaurs, huge swampy forests covered the warm parts of the world. When the plants died they were buried and squeezed for millions of years, until they turned into black rock.
+K: The camera is looking at the land that is now Britain. It was in a different place then.
+show: site | at=Great Britain | label=Rocks of today's Britain
+
+@scene ir-03
+story: industrial-revolution
+title: Iron without forests
+y: 1709
+cam: Coalbrookdale | 1500
+src: Abraham Darby I
+src: Coalbrookdale
+T: Iron was smelted with charcoal, made from wood, and charcoal was getting scarce. At Coalbrookdale in 1709 Abraham Darby got a blast furnace working on coke instead, which is made from coal. It was a major step forward in the production of iron.
+K: To make iron, you need a very hot fire. People used charcoal, which is made from wood, and wood was running short. In 1709 Abraham Darby found a way to use coal instead. Now iron could be made in much bigger amounts.
+show: site | at=Coalbrookdale | label=Coalbrookdale, 1709 | ring=1
+
+@scene ir-04
+story: industrial-revolution
+title: A pump for flooded mines
+y: 1712
+cam: 53.5, -2, 2400
+src: Newcomen atmospheric engine
+img: File:Newcomen6325.png | A diagram of Newcomen's engine from a 1913 physics textbook. Steam from the boiler fills the cylinder, is condensed, and the air's pressure pushes the piston down.
+T: Digging deeper for coal meant digging into water. In 1712 Thomas Newcomen invented an engine that burned coal to make steam, and used it to work a pump. It was the first practical device to harness steam to do mechanical work.
+T: Newcomen engines were used mainly to pump water out of mines. Hundreds were built during the 18th century.
+K: Deep mines fill with water. In 1712 Thomas Newcomen invented an engine that burned coal to make steam, and the steam worked a pump. It was the first useful steam engine. Hundreds were built to pump water out of mines.
+
+@scene ir-05
+story: industrial-revolution
+title: A canal built for coal
+y: 1761
+cam: Worsley | 700
+src: Bridgewater Canal
+T: Coal had to get from the mine to the people who burned it. The Duke of Bridgewater had mines at Worsley and customers in Manchester, so he commissioned a canal between them. It opened in 1761.
+K: Coal had to get from the mine to the town. A duke who owned coal mines had a canal dug to carry his coal to the town of Manchester by boat. It opened in 1761.
+show: route | via=Worsley; Manchester | color=trade
+show: site | at=Worsley | label=Worsley mines
+show: site | at=Manchester | label=Manchester
+
+@scene ir-06
+story: industrial-revolution
+title: Spinning by machine
+y: 1764
+to: 1771
+cam: Cromford Mill | 1300
+src: Spinning jenny
+src: Cromford Mill
+src: Industrial Revolution
+img: File:Cromford 1771 mill.jpg | The 1771 mill building at Cromford in Derbyshire.
+T: Cloth was the first industry to change. James Hargreaves invented the spinning jenny in 1764 to 1765: one worker could now work eight or more spools at once. In 1771 Richard Arkwright built the world's first water-powered cotton spinning mill at Cromford.
+T: The first factories ran on water wheels. Steam came to them later.
+K: Making cloth changed first. A machine called the spinning jenny let one worker spin eight threads at once instead of one. In 1771 Richard Arkwright built a big mill at Cromford where a water wheel turned the spinning machines.
+show: site | at=Cromford Mill | label=Cromford Mill, 1771 | ring=1
+
+@scene ir-07
+story: industrial-revolution
+title: Half the coal
+y: 1765
+to: 1776
+cam: Falkirk | 2600
+src: Watt steam engine
+T: Newcomen's engine worked, but it ate fuel. In 1765 James Watt had the idea of condensing the steam in a separate chamber. His engine went on sale in 1776, and the first went to the Carron ironworks near Falkirk. It used half as much coal to produce the same power.
+T: Later versions could turn a wheel, and Watt's partner Matthew Boulton developed machines to use that rotary power. Engines could now drive machinery, not only pumps.
+K: The first steam engines burned a lot of coal. James Watt made a better one. It needed only half the coal to do the same work. Later it could turn wheels, so it could run the machines in a factory.
+show: site | at=Falkirk | label=Carron ironworks, near Falkirk, 1776
+
+@scene ir-08
+story: industrial-revolution
+title: A bridge made of iron
+y: 1781
+cam: The Iron Bridge | 900
+src: The Iron Bridge
+img: File:Iron Bridge east side in February 2019 (cropped).jpg | The Iron Bridge over the River Severn in Shropshire, photographed in 2019.
+T: With coke-smelted iron there was enough metal to build with. The Iron Bridge over the River Severn opened in 1781, in the gorge where Darby had first smelted iron with coke. Another Abraham Darby, the third of that name, was responsible for the ironwork. It was the first major bridge in the world made of cast iron.
+K: Now there was plenty of iron. In 1781 a bridge made of iron opened over the River Severn, the first big iron bridge in the world.
+show: site | at=The Iron Bridge | label=The Iron Bridge, 1781
+
+@scene ir-09
+story: industrial-revolution
+title: Breaking the machines
+y: 1811-03-11
+to: 1816
+cam: Arnold, Nottinghamshire | 1500
+src: Luddites
+T: Not everyone gained. The Luddites were English textile workers who protested against certain kinds of automated machinery, out of concern for pay, child labour, working conditions and the quality of the work. They often destroyed machines in organised raids.
+T: The movement began at Arnold in Nottinghamshire on 11 March 1811 and spread to Yorkshire and Lancashire.
+K: The new machines did not make everyone happy. Some cloth workers were afraid for their pay and their jobs. They were called Luddites, and they smashed machines at night. It began near Nottingham in 1811.
+show: site | at=Arnold, Nottinghamshire | label=Arnold, 11 March 1811
+
+@scene ir-10
+story: industrial-revolution
+title: Coal on rails
+y: 1825-09-27
+to: 1830-09-15
+cam: Darlington | 1500
+cam-to: Manchester | 1500
+src: Stockton and Darlington Railway
+src: Liverpool and Manchester Railway
+T: Then the engine was put on wheels. The Stockton and Darlington Railway opened on 27 September 1825, the world's first public railway to use steam locomotives. It was built to carry coal from the collieries near Shildon to the ships.
+T: Five years later, on 15 September 1830, the Liverpool and Manchester Railway opened: the first railway between two cities, linking the port of Liverpool to Manchester's cotton mills.
+K: Next, the steam engine was put on wheels. In 1825 the first public railway with steam trains opened. Its job was to carry coal. In 1830 a railway joined two cities, Liverpool and Manchester, for the first time.
+show: route | via=Shildon; Darlington; Stockton-on-Tees | color=marker
+show: route | via=Liverpool; Manchester | color=marker | from=1830-09-15
+show: site | at=Darlington | label=Stockton and Darlington, 1825
+show: site | at=Liverpool | label=Liverpool and Manchester, 1830 | since=1830-09-15
+
+@scene ir-11
+story: industrial-revolution
+title: Children in the mills
+y: 1833
+cam: Manchester | 1700
+src: Factory Acts
+T: Young children worked in the cotton mills. From 1802 Parliament passed Factory Acts to limit their hours, but the early laws were effectively unenforced. That changed with the act of 1833, which created professional factory inspectors.
+K: Children worked long hours in the cotton mills. Laws were passed to protect them, but at first nobody checked. From 1833 there were inspectors whose job was to go and look.
+show: site | at=Manchester | label=Manchester, nicknamed Cottonopolis
+
+@scene ir-12
+story: industrial-revolution
+title: The idea travels
+y: 1800
+to: 1900
+cam: 50, -20, 14000
+cam-to: 45, 60, 22000
+src: Industrial Revolution
+T: Britain went first. The process was then exported to western Europe and the United States in the early 19th century, and to Japan in the late 19th century.
+T: Output rose enormously, and with it came a rise in population that had no precedent.
+K: Britain was first. Then the new machines and factories spread to other countries in Europe and to the United States, and later to Japan. The world could now make far more things, and the number of people grew faster than ever before.
+
+@scene ir-13
+story: industrial-revolution
+title: Five days of smog
+y: 1952-12-05
+to: 1952-12-09
+cam: Great Smog of London | 600
+src: Great Smog of London
+img: File:Nelson's Column during the Great Smog of 1952.jpg | Nelson's Column in London during the Great Smog, December 1952.
+T: Burning coal has a cost. From 5 to 9 December 1952, cold windless weather trapped smoke, mostly from coal, over London. Government reports at the time put the deaths at up to 4,000. More recent research suggests 10,000 to 12,000.
+T: The disaster led to the Clean Air Act of 1956.
+K: Burning coal makes dirty air. In December 1952 thick smoke hung over London for five days. Thousands of people died from breathing it. Afterwards, a new law was made to clean up the air.
+show: site | at=Great Smog of London | label=London, December 1952
+
+@scene ir-14
+story: industrial-revolution
+title: Counting the carbon
+y: 1958-03
+cam: Mauna Loa | 2600
+src: Keeling Curve
+img: File:Mauna Loa Observatory from air.jpg | The Mauna Loa Observatory in Hawaii, photographed from the air by NOAA.
+T: Smoke you can see. Carbon dioxide you cannot. From March 1958 Charles David Keeling measured it in the air at Mauna Loa in Hawaii, and the measurements have continued ever since. They gave the first significant evidence that carbon dioxide in the atmosphere was rising rapidly.
+K: Burning coal also makes a gas you cannot see, called carbon dioxide. In 1958 a scientist named Charles David Keeling began measuring it on a mountain in Hawaii. His numbers showed that there was more of it in the air every year.
+show: site | at=Mauna Loa | label=Mauna Loa, measuring since 1958
+
+@scene ir-15
+story: industrial-revolution
+title: Still burning
+y: 2024
+cam: 25, 80, 30000
+src: Coal
+T: The chain has not ended. In 2020 coal supplied about a quarter of the world's primary energy and over a third of its electricity. A record amount was burnt in 2024, releasing over fifteen billion tonnes of carbon dioxide.
+T: Coal is the largest single source of the carbon dioxide that is changing the climate. The forests of the Carboniferous took millions of years to bury that carbon. We are returning it to the air in a few centuries.
+K: People still burn coal today, more than ever. About a third of the world's electricity comes from it. Burning coal is the biggest cause of the gas that is warming the Earth.
+K: It took millions of years for the old forests to turn into coal. We are burning it up in a few hundred years.
+
+@quiz ir-q1
+story: industrial-revolution
+q: What is coal made from?
+options: Very old plants; Melted rock from volcanoes; Dinosaur bones
+a: Very old plants
+why: Coal forms from plants that were buried and squeezed by heat and pressure for millions of years.
+
+@quiz ir-q2
+story: industrial-revolution
+q: What were the first steam engines mostly used for?
+options: Pumping water out of mines; Pulling trains; Spinning cotton
+a: Pumping water out of mines
+why: Newcomen's engine of 1712 was used mainly to pump water out of mines. Trains came more than a hundred years later.
+
+@quiz ir-q3
+story: industrial-revolution
+q: What did the first public steam railway carry in 1825?
+options: Coal; Gold; Letters only
+a: Coal
+why: The Stockton and Darlington Railway was built to carry coal from the mines to the ships.

@@ -1,0 +1,201 @@
+# Short story: the end of the dinosaurs (format: deep time). Facts from the articles named in src.
+
+@story dinosaur-extinction
+title: The day the dinosaurs died
+kid-title: The day the dinosaurs died
+format: deep-time
+order: 9
+color: #ff8a4a
+deck: For more than 130 million years dinosaurs ruled the land. Then a rock ten kilometres wide fell out of the sky. Here is that day, and what the rocks remember of it.
+kid-deck: Dinosaurs ruled the land for a very, very long time. Then a giant rock fell from space. Here is what happened that day, and how we found out.
+led: era:paleogene | The Paleogene | who inherited the Earth; story:how-we-became-human | How we became human | where one small survivor's family ended up; era:cretaceous | The Cretaceous | the world before the impact; era:great-dying | The Great Dying | an even worse extinction
+
+@scene dino-01
+story: dinosaur-extinction
+title: The day the dinosaurs died
+y: 66 mya
+cam: 30, -95, 16000
+look: title
+src: Cretaceous–Paleogene extinction event
+T: About 66 million years ago, three-quarters of the plant and animal species on Earth died out. Among them were all the dinosaurs except the birds.
+T: The globe behind this text shows the continents where they sat at the time, moved by a plate model. The shapes are today's coastlines: the real shorelines were different.
+K: About 66 million years ago, most kinds of living things on Earth died out. All the dinosaurs died, except for one group: the birds.
+K: Look at the globe. The lands were in different places then, because the ground moves very slowly.
+
+@scene dino-02
+story: dinosaur-extinction
+title: A very long reign
+y: 201.3 mya
+to: 67 mya
+cam: 20, -40, 26000
+cam-to: 25, -80, 22000
+weight: 3
+src: Dinosaur
+T: Dinosaurs first appeared early in the Triassic period. After an extinction 201.3 million years ago they became the dominant land vertebrates, and they stayed dominant through the Jurassic and the Cretaceous.
+T: Scroll, and the continents drift through that whole reign.
+K: Dinosaurs became the biggest, most important land animals about 200 million years ago. They stayed on top for more than 130 million years. Scroll slowly and watch the lands move while they ruled.
+
+@scene dino-03
+story: dinosaur-extinction
+title: The island of giants
+y: 67 mya
+cam: Hell Creek Formation | 9000
+src: Laramidia
+src: Tyrannosaurus
+src: Triceratops
+T: In the Late Cretaceous a shallow sea, the Western Interior Seaway, split North America in two. The western half was an island continent that geologists call Laramidia.
+T: Tyrannosaurus lived there, most likely as the top predator, with the strongest estimated bite of any land animal. So did Triceratops, one of the last non-avian dinosaurs, from about 69 to 66 million years ago.
+K: Back then a shallow sea cut North America in two. On the western side lived Tyrannosaurus rex, which had the strongest bite of any land animal we know. Three-horned Triceratops lived there too.
+show: site | at=Hell Creek Formation | label=Hell Creek rocks (today's Montana)
+note: The seaway is not drawn on the globe: the map uses today's coastlines carried on their plates.
+
+@scene dino-04
+story: dinosaur-extinction
+title: Wings and sea monsters
+y: 67 mya
+cam: 28, -92, 12000
+src: Pterosaur
+src: Quetzalcoatlus
+src: Mosasaur
+T: Dinosaurs did not have the world to themselves. Pterosaurs, flying reptiles and the earliest vertebrates known to have evolved powered flight, had been in the air since the Late Triassic. Quetzalcoatlus lived in North America in the last age of the Cretaceous.
+T: In the seas swam mosasaurs, a group of large aquatic reptiles related to lizards and snakes.
+K: Dinosaurs were not alone. Flying reptiles called pterosaurs had ruled the sky for a very long time. In the sea swam mosasaurs, huge swimming reptiles related to lizards and snakes.
+
+@scene dino-05
+story: dinosaur-extinction
+title: India on fire
+y: 66.3 mya
+to: 66.05 mya
+cam: Deccan Traps | 11000
+src: Deccan Traps
+conf: debated
+T: On this globe the plate model puts India far out in the ocean, on its way north. On it, lava was pouring out in floods. The Deccan Traps erupted over 600,000 to 800,000 years, between about 66.3 and 65.6 million years ago. The layers of basalt are together more than about 2 kilometres thick and still cover about 500,000 square kilometres.
+T: Some scientists have argued that the gases from these eruptions played a major part in the extinction. Most now think the eruptions played a minor role at most.
+K: Find India on the globe. It was out in the ocean then, drifting north. Huge floods of lava were pouring out of the ground there, again and again, for hundreds of thousands of years. The lava rock is still there today, piled more than 2 kilometres thick.
+K: Some scientists think the gas from these volcanoes helped kill the dinosaurs. Most think it mattered only a little.
+show: site | at=Deccan Traps | label=Deccan Traps | color=fire | ring=1
+
+@scene dino-06
+story: dinosaur-extinction
+title: Impact
+y: 66 mya
+cam: Chicxulub crater | 5200
+src: Chicxulub crater
+img: File:Chicxulub impact - artist impression.jpg | A painting by Donald E. Davis for NASA of an asteroid striking the shallow seas of what is now the Yucatán. It is an artist's impression.
+T: Slightly over 66 million years ago an asteroid about ten kilometres across struck the shallow sea where Mexico's Yucatán Peninsula is today.
+T: It blasted a hole about 100 kilometres wide and 30 kilometres deep, which then collapsed. Winds near the centre blew at more than 1,000 kilometres per hour. The waves that followed were more than 100 metres tall.
+K: A rock from space about ten kilometres wide hit the sea near where Mexico is today.
+K: It blasted a hole 100 kilometres wide. The wind was faster than 1,000 kilometres per hour. Waves taller than 100 metres raced across the sea.
+show: site | at=Chicxulub crater | label=Chicxulub | color=fire | ring=1
+
+@scene dino-07
+story: dinosaur-extinction
+title: Minutes later, far to the north
+y: 66 mya
+cam: 31, -97, 9500
+src: Tanis (fossil site)
+conf: debated
+T: At a site called Tanis, in today's North Dakota, a research team reports a record of the first hour. By their account the earthquake waves arrived within about ten minutes and set the water surging. Fish were buried with tiny droplets of melted rock from the impact caught in their gills.
+T: Growth patterns in the fish bones suggest that it was spring. These findings rest on the Tanis team's own publications and are still being tested by others.
+K: Far to the north, in today's North Dakota, scientists found fish that seem to have died that very day. Tiny beads of melted rock from the crash were stuck in their gills.
+K: The fish bones even hint at the season. It was probably spring. Other scientists are still checking these discoveries.
+show: site | at=Chicxulub crater | label=Chicxulub | color=fire
+show: site | at=Tanis (fossil site) | label=Tanis
+show: arrow | from=Chicxulub crater | to=Tanis (fossil site) | color=fire
+
+@scene dino-08
+story: dinosaur-extinction
+title: The long dark
+y: 66 mya
+cam: 10, -60, 30000
+src: Chicxulub crater
+src: Cretaceous–Paleogene extinction event
+T: The asteroid hit rock rich in sulfur and vaporised it into the sky. Dust and soot blocked the sunlight for a decade or longer, and the surface cooled sharply.
+T: Without light, photosynthesis stopped in plants and in the plankton of the sea. Food chains collapsed from the bottom up.
+K: The crash threw so much dust and soot into the sky that sunlight could not get through for ten years or more. It got very cold.
+K: Plants need sunlight to live. When the plants died, the plant eaters starved. Then the meat eaters starved too.
+
+@scene dino-09
+story: dinosaur-extinction
+title: Who died
+y: 66 mya
+cam: 10, 10, 30000
+src: Cretaceous–Paleogene extinction event
+T: The extinction took the dinosaurs and most other four-limbed animals heavier than 25 kilograms. Every pterosaur died. So did the mosasaurs and plesiosaurs of the seas, the ammonites, and many species of plankton.
+K: Almost every land animal heavier than 25 kilograms died out. All the flying pterosaurs died. In the sea, the mosasaurs died, and so did the ammonites with their curly shells.
+
+@scene dino-10
+story: dinosaur-extinction
+title: Who lived
+y: 65.9 mya
+cam: McCone County, Montana | 9000
+src: Cretaceous–Paleogene extinction event
+src: Purgatorius
+T: The survivors were mostly small and unfussy. The mammals and birds that came through fed on insects, worms and snails, which fed in turn on dead plants and animals. Crocodilians, which can go months without food, survived in rivers and lakes.
+T: One of the earliest mammals after the impact is Purgatorius, known from teeth and jaw fragments found in Montana. It probably looked like a tree shrew, and is typically thought to be the earliest primate or a close relative: our own side of the family.
+K: The animals that lived were mostly small. They ate insects, worms and snails, which could feed on dead things in the dark. Crocodiles lived too. A crocodile can go for months without eating.
+K: One small survivor, Purgatorius, looked a bit like a tree shrew. It belongs to the same big family as monkeys, apes and you.
+show: site | at=McCone County, Montana | label=Purgatorius fossils
+
+@scene dino-11
+story: dinosaur-extinction
+title: A clue in the clay
+y: 1980
+cam: Gubbio | 2600
+src: Alvarez hypothesis
+src: Cretaceous–Paleogene boundary
+img: File:LWA with Walt.JPG | Luis Alvarez (left) and his son Walter Alvarez at the boundary layer in the Bottaccione Gorge near Gubbio, Italy.
+img: File:Cretaceous Paleogene clay at Geulhemmergroeve.jpg | The clay layer between Cretaceous and Paleogene rocks, in the Geulhemmergroeve tunnels near Geulhem in the Netherlands.
+T: For a long time nobody knew why the dinosaurs vanished. Then in 1980 a team led by the physicist Luis Alvarez, with his son the geologist Walter Alvarez and the chemists Frank Asaro and Helen Vaughn Michel, found something strange in the rocks.
+T: All over the world, the thin layer that marks the end of the Cretaceous holds hundreds of times more iridium than normal. Iridium is rare in Earth's crust and more common in asteroids. They proposed that a large asteroid had hit the Earth.
+K: For a long time nobody knew why the dinosaurs disappeared. In 1980 a father and son, Luis and Walter Alvarez, and two chemists found a clue in a thin layer of rock.
+K: The layer was full of a rare metal called iridium. There is not much iridium in Earth's rocks, but there is more in rocks from space. So they said: a giant space rock must have hit the Earth.
+show: site | at=Gubbio | label=Gubbio, Italy
+
+@scene dino-12
+story: dinosaur-extinction
+title: Finding the hole
+y: 1978
+to: 2016
+cam: Chicxulub crater | 2400
+linear: 1
+src: Chicxulub crater
+img: File:Yucatan chix crater.jpg | A shaded relief image of the Yucatán Peninsula from NASA radar data. The faint arc is the rim of the buried Chicxulub crater.
+T: The crater had already been spotted. In 1978 the geophysicists Glen Penfield and Antonio Camargo, surveying for the Mexican oil company Pemex, found signs of a huge buried structure on the edge of the Yucatán. Penfield could not prove it was a crater at the time. In 1990 he and the researcher Hildebrand secured old drill samples, and tests on them clearly showed rock shocked by an impact.
+T: The crater is about 200 kilometres across and lies under about a kilometre of younger rock. In 2016 a drilling expedition brought up the first cores from its inner ring of peaks.
+K: The hole was hiding under Mexico. Two scientists looking for oil found signs of it in 1978. It took until 1990 to show that it was the crater.
+K: The crater is about 200 kilometres wide, but you cannot see it. It is buried under a kilometre of newer rock.
+show: site | at=Chicxulub crater | label=Chicxulub crater, buried | color=fire | ring=1
+
+@scene dino-13
+story: dinosaur-extinction
+title: Dinosaurs at your window
+y: now
+cam: 20, 0, 30000
+src: Bird
+src: Cretaceous–Paleogene extinction event
+T: One line of dinosaurs survived. Birds evolved from earlier theropods, the group that includes Tyrannosaurus, and they are the only known living dinosaurs. Today there are over 11,000 living species.
+T: With the giants gone, mammals diversified into new forms: horses, whales, bats and primates. Without that day 66 million years ago, the rest of this website might have had nobody to write it.
+K: One group of dinosaurs is still alive: birds. A sparrow at your window is a living dinosaur. There are more than 11,000 kinds of bird today.
+K: With the giant dinosaurs gone, mammals had room to change and grow. In time there were horses, whales, bats, monkeys, and people.
+
+@quiz dino-q1
+story: dinosaur-extinction
+q: Which dinosaurs are still alive today?
+options: Birds; Crocodiles; Lizards
+a: Birds
+why: Birds evolved from theropod dinosaurs and are the only living dinosaurs. Crocodiles and lizards are reptiles, but not dinosaurs.
+
+@quiz dino-q2
+story: dinosaur-extinction
+q: What was the clue that a space rock hit the Earth?
+options: A layer of rock full of iridium; A giant footprint; A frozen dinosaur
+a: A layer of rock full of iridium
+why: Iridium is rare in Earth's crust but more common in asteroids. A thin layer rich in it is found all over the world.
+
+@quiz dino-q3
+story: dinosaur-extinction
+q: Why did so many plants die after the impact?
+options: Dust and soot blocked the sunlight; The sea covered the land; It never rained again
+a: Dust and soot blocked the sunlight
+why: Sunlight was blocked for a decade or longer, and plants cannot make food without light.

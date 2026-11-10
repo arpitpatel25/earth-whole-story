@@ -1,0 +1,234 @@
+# Short story: the spice trade (format: flow). Facts from the articles named in src.
+
+@story spice-trade
+title: The spice routes
+kid-title: The spice routes
+format: flow
+order: 14
+color: #ff9d5c
+content-note: One scene of this story describes a massacre.
+deck: Cloves grew on five small islands, nutmeg on a few more. For three and a half thousand years the world rearranged its sea lanes to reach them.
+kid-deck: Cloves and nutmeg once grew on only a few tiny islands. People sailed across whole oceans to get them. Follow the spices from the islands to the kitchen.
+led: era:indian-ocean-trade | Indian Ocean trade | the ocean the spices crossed; era:ocean-voyages | Ocean voyages | Europe's search for a sea route; era:colonialism | Colonialism | what the trading companies became; story:silk-roads | The Silk Roads | the land routes
+
+@scene sp-01
+story: spice-trade
+title: The *spice* routes
+y: 1500 BCE
+cam: 5, 95, 26000
+look: title
+src: Spice trade
+T: Cinnamon, cardamom, ginger, pepper, nutmeg, clove, turmeric. These spices were known and traded in the Eastern world in antiquity, and reached the Near East before the Christian era, with fantastic tales hiding where they really came from.
+T: This story follows the flow: from the islands where the plants grew, across the Indian Ocean, and at last around the whole Earth.
+K: Pepper, cinnamon, ginger, cloves and nutmeg come from plants that grew far away in Asia. Long ago, people in other lands loved these spices but had no idea where they came from.
+K: This story follows the spices across the sea.
+
+@scene sp-02
+story: spice-trade
+title: The islands where it grew
+y: 1500 BCE
+cam: Banda Islands | 4200
+src: Clove
+src: Nutmeg
+T: Until the colonial era, cloves grew only on a few islands of the Moluccas, among them Ternate and Tidore. The true nutmeg tree is native to the Banda Islands, eleven small volcanic islands to the south.
+T: People there have used nutmeg for a very long time: residues on 3,500-year-old potsherds from Pulau Ai, one of the Banda Islands, are the earliest evidence.
+K: Cloves are the flower buds of a tree. For most of history that tree grew on only a few small islands, in what is now Indonesia. Nutmeg is the seed of another tree, and it came from the tiny Banda Islands nearby.
+show: site | at=Ternate | label=Ternate and Tidore, cloves
+show: site | at=Banda Islands | label=Banda Islands, nutmeg | ring=1
+
+@scene sp-03
+story: spice-trade
+title: The first spice sailors
+y: 1500 BCE
+to: 500
+cam: 0, 100, 17000
+cam-to: -5, 75, 22000
+weight: 2
+src: Spice trade
+T: The sea trade was dominated at first by Austronesian peoples of Southeast Asia: ancient Indonesian sailors who had established routes to Sri Lanka and India by 1500 BC.
+T: By the 1st millennium AD their trade lanes reached the Middle East and East Africa, and Austronesians settled Madagascar.
+K: The first spice sailors came from the islands of Southeast Asia. By 1500 BC they were sailing to Sri Lanka and India. Later their boats crossed the whole Indian Ocean, and some of them settled on the island of Madagascar.
+show: arrow | from=Maluku Islands | to=Sri Lanka | color=trade
+show: arrow | from=Sri Lanka | to=Madagascar | color=trade | delay=0.35
+note: The arrows show the direction of the trade. The actual sea lanes are not recorded.
+
+@scene sp-04
+story: spice-trade
+title: A clove in a burned house
+y: 1720 BCE
+cam: Terqa | 6500
+src: Clove
+T: In a burned-down house at Terqa in Syria, dated to 1720 BC, the archaeologist Giorgio Buccellati found cloves. At that time cloves grew only on a few islands of the Moluccas, on the far side of Asia.
+K: In Syria, archaeologists dug up a house that burned down about 3,700 years ago. Inside they found cloves. Cloves grew only on a few islands, very far away. Somehow they had travelled all that way.
+show: site | at=Terqa | label=Terqa, cloves, 1720 BC | ring=1
+
+@scene sp-05
+story: spice-trade
+title: Pepper country
+y: 150
+cam: Kodungallur | 3800
+src: Black pepper
+src: Muziris
+T: Black pepper is indigenous to the forests of the Malabar Coast in south-western India. The region exported this "black gold" to the Middle East and the Roman Empire.
+T: Its great port was Muziris, near the mouth of the Periyar River, praised in early Tamil poems and in Greek and Roman texts. A 2nd-century papyrus records a cargo loan between merchants of Alexandria and Muziris, listing goods loaded onto a ship there.
+K: Pepper grows on a vine that comes from the south-west coast of India. People called it "black gold". Ships carried it from a busy port called Muziris all the way to the Roman Empire.
+show: site | at=Kodungallur | label=Muziris (near Kodungallur) | ring=1
+note: Muziris is marked at Kodungallur, near which the Periplus article places the lost port.
+
+@scene sp-06
+story: spice-trade
+title: Across the open sea
+y: 60
+cam: 18, 55, 9500
+src: Periplus of the Erythraean Sea
+T: A Greek sailing guide of the 1st century, the Periplus of the Erythraean Sea, describes the route from Roman Egypt's Red Sea ports such as Berenice. It credits a sailor named Hippalus with discovering the direct route across the open ocean to India.
+T: It names Muziris as a major centre of the trade in pepper and other spices with the Roman Empire.
+K: About 2,000 years ago a Greek sailor wrote a guide for ships sailing from Egypt to India. Instead of following the coast, they sailed straight across the open sea.
+show: route | via=Berenice Troglodytica; 12.6, 43.4; 12.5, 52; Kodungallur | color=trade
+show: site | at=Berenice Troglodytica | label=Berenice
+show: site | at=Kodungallur | label=Muziris
+note: The line is a sketch of the open-sea crossing the Periplus describes, not a recorded track.
+
+@scene sp-07
+story: spice-trade
+title: The middlemen
+y: 650
+to: 1453
+cam: 28, 45, 12000
+src: Spice trade
+T: By the mid-7th century, after the rise of Islam, Arab traders were sailing these routes and came to dominate the western Indian Ocean. From the 11th to the 15th centuries the Italian maritime republics of Venice and Genoa monopolised the trade between Europe and Asia.
+K: Later, Arab traders carried the spices across the western Indian Ocean. Merchants from Venice and Genoa in Italy bought them and sold them on to the rest of Europe.
+show: arrow | from=Kozhikode | to=Alexandria | color=trade
+show: arrow | from=Alexandria | to=Venice | color=trade | delay=0.35
+show: site | at=Venice | label=Venice
+note: The arrows are schematic.
+
+@scene sp-08
+story: spice-trade
+title: Around Africa
+y: 1498-03-02
+to: 1498-05-20
+cam: -8, 45, 15000
+cam-to: Kozhikode | 9000
+src: Vasco da Gama
+T: Portugal wanted to break into that trade. Vasco da Gama sailed around the Cape of Good Hope and up the African coast. He was near Mozambique Island in March 1498 and reached Malindi on 14 April. From there he crossed the Indian Ocean and landed at Kozhikode on 20 May 1498.
+T: It was the first sea route between Europe and India, and it is considered a landmark in world history.
+K: Portugal wanted a share of the spice trade. So Vasco da Gama sailed all the way around Africa. On 20 May 1498 he landed at Kozhikode in India. Nobody had sailed from Europe to India before.
+show: route | via=Lisbon; 15, -25; -20, -10; Cape of Good Hope; Island of Mozambique; Malindi; Kozhikode | color=marker
+show: site | at=Island of Mozambique | label=Mozambique Island, March 1498
+show: site | at=Malindi | label=Malindi, 14 April | since=1498-04-14
+show: site | at=Kozhikode | label=Kozhikode, 20 May 1498 | since=1498-05-20
+note: The line joins the places named in the source. Da Gama's real track swung far out into the Atlantic and is drawn only roughly.
+
+@scene sp-09
+story: spice-trade
+title: The key to the strait
+y: 1511
+cam: Malacca City | 4200
+src: Capture of Malacca (1511)
+T: In 1511 Afonso de Albuquerque, governor of Portuguese India, conquered Malacca. The port controlled the narrow strait through which all seagoing trade between China and India was concentrated.
+K: In 1511 the Portuguese captured the port of Malacca. Every ship sailing between India and China had to squeeze through the narrow strait beside it.
+show: site | at=Malacca City | label=Malacca, 1511 | ring=1
+
+@scene sp-10
+story: spice-trade
+title: The long way round
+y: 1519
+to: 1522-09-06
+cam: 10, -60, 30000
+cam-to: 0, 127, 30000
+weight: 2
+src: Magellan expedition
+T: Spain tried the other direction. The expedition led by Ferdinand Magellan left in 1519 to find a western route to the Spice Islands. Magellan died in battle in the Philippines in April 1521.
+T: One ship, the Victoria, and only about 40 men under Juan Sebastián Elcano came home on 6 September 1522. Looking for the Spice Islands, they had sailed around the world for the first time.
+K: Spain tried sailing west instead of east to reach the Spice Islands. Five ships left in 1519, led by Ferdinand Magellan. He died on the way.
+K: Only one ship came home, three years later. Its crew were the first people to sail all the way around the world.
+show: site | at=Ternate | label=The Spice Islands
+show: site | at=Mactan | label=Magellan killed, April 1521 | since=1521-04
+
+@scene sp-11
+story: spice-trade
+title: A company with a monopoly
+y: 1602-03-20
+to: 1619
+cam: Amsterdam | 5000
+cam-to: Jakarta | 7000
+src: Dutch East India Company
+T: On 20 March 1602 the Dutch state merged its rival trading companies into one, the United East India Company or VOC, with a 21-year monopoly on trade in Asia. It was one of the first joint-stock companies: any citizen could buy shares, and the trade in them grew into the Amsterdam Stock Exchange.
+T: In 1619 the VOC set up its capital at Jayakarta and renamed it Batavia: today's Jakarta. It made huge profits from its spice monopoly through most of the 17th century.
+K: In 1602 Dutch merchants formed one giant company to trade in Asia. Anyone in the country could buy a share in it.
+K: The company built its main base where Jakarta is today, and grew rich on spices.
+show: arrow | from=Amsterdam | to=Jakarta | color=marker
+show: site | at=Jakarta | label=Batavia, 1619 | since=1619
+
+@scene sp-12
+story: spice-trade
+title: Banda, 1621
+y: 1609
+to: 1621
+cam: Banda Islands | 2600
+src: Dutch conquest of the Banda Islands
+content-note: This scene describes a massacre.
+T: The Bandanese would not agree to sell their nutmeg only to the Dutch. Between 1609 and 1621 the VOC conquered the islands by force. Under Jan Pieterszoon Coen the campaign ended in a massacre in which 2,800 Bandanese were killed and 1,700 enslaved. The remaining 1,000 were expelled to Batavia.
+T: Killing, deportation, starvation and disease left the islands severely depopulated. The conquest is also referred to as the Banda genocide.
+K: The people of the Banda Islands wanted to sell their nutmeg to anyone they chose. The Dutch company wanted it all. It attacked the islands. Thousands of islanders were killed or made slaves, and the rest were sent away.
+show: site | at=Banda Islands | label=Banda Islands | ring=1
+
+@scene sp-13
+story: spice-trade
+title: An island for Manhattan
+y: 1667-07-31
+cam: Run (island) | 2000
+src: Run (island)
+src: Treaty of Breda (1667)
+T: Run is one of the smallest of the Banda Islands. In the 17th century it mattered enormously, because it grew nutmeg and mace. In 1616 its people, fearing the Dutch, had pledged their allegiance to the English.
+T: When England and the Dutch made peace at Breda on 31 July 1667, each side kept what it held. The Dutch had Run. The English kept an island they had occupied in 1664 on the other side of the world: Manhattan.
+K: Run is a tiny island where nutmeg grew. The English and the Dutch both wanted it. In 1667 they made peace. The Dutch kept Run. The English kept another island they had taken: Manhattan, where New York is today.
+show: site | at=Run (island) | label=Run | ring=1
+
+@scene sp-14
+story: spice-trade
+title: Stolen seedlings
+y: 1770
+cam: Ternate | 9000
+cam-to: Mauritius | 9000
+src: Clove
+src: Pierre Poivre
+src: Nutmeg
+T: The Dutch company sought a monopoly in cloves as it had in nutmeg. In 1770, on the instructions of Pierre Poivre, the French administrator of Mauritius, clove seedlings were stolen from Ternate. Poivre introduced the cultivation of many Southeast Asian spices to Mauritius.
+T: Today nutmeg is also grown in Malaysia, in Kerala, and in the Caribbean, especially Grenada.
+K: The Dutch tried to keep all the clove trees for themselves. But in 1770 a Frenchman named Pierre Poivre had some young clove trees stolen and planted on the island of Mauritius. Today cloves and nutmeg are grown in many countries.
+show: arrow | from=Ternate | to=Mauritius | color=life
+show: site | at=Mauritius | label=Mauritius, 1770
+
+@scene sp-15
+story: spice-trade
+title: In your kitchen
+y: now
+cam: 10, 80, 30000
+src: Clove
+src: Black pepper
+T: The spices that redrew the map are ordinary now. Cloves are in the kitchen and also in toothpaste and soap. Pepper sits on the table.
+T: Fresh cloves are now available all year round, because they are grown in various countries with different harvest seasons.
+K: Today pepper and cloves are in almost every kitchen. But once, people crossed whole oceans to find them.
+
+@quiz sp-q1
+story: spice-trade
+q: Where did cloves first grow?
+options: On a few small islands in Indonesia; In Italy; In Egypt
+a: On a few small islands in Indonesia
+why: Until a few hundred years ago, cloves grew only on a few islands of the Moluccas, such as Ternate and Tidore.
+
+@quiz sp-q2
+story: spice-trade
+q: Who first sailed from Europe to India around Africa?
+options: Vasco da Gama; Julius Caesar; Marco Polo
+a: Vasco da Gama
+why: Vasco da Gama landed at Kozhikode in India on 20 May 1498, after sailing around the Cape of Good Hope.
+
+@quiz sp-q3
+story: spice-trade
+q: Which spice was called "black gold"?
+options: Pepper; Salt; Sugar
+a: Pepper
+why: Black pepper from the Malabar Coast of India was so prized that it was called black gold.

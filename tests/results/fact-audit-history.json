@@ -1,0 +1,31 @@
+[
+  {
+    "ranAt": "2026-11-10T05:45:01.330Z",
+    "seed": 7,
+    "sampled": 200,
+    "supported": 190,
+    "readByHand": 0,
+    "failed": 10,
+    "failures": [
+      "3D scene|aryabhata|kid: not in the source: 1500",
+      "trail stop|sky/sk-3|kid: not in the source: 1200",
+      "India state|IN-DL|kid: not in the source: 800",
+      "India event|Q3595827|text: not in the source: 1970",
+      "India event|Q1785349|kid: not in the source: 1600",
+      "trail stop|building/bg-6|kid: not in the source: 1900",
+      "India event|in-ramcharitmanas|kid: not in the source: 1500",
+      "India biography|p-andal|kid: not in the source: 1200",
+      "trail stop|building/bg-2|kid: not in the source: 5000",
+      "India biography|p-fatima-sheikh|kid: not in the source: 1800"
+    ]
+  },
+  {
+    "ranAt": "2026-11-10T06:39:18.928Z",
+    "seed": 11,
+    "sampled": 200,
+    "supported": 200,
+    "readByHand": 5,
+    "failed": 0,
+    "failures": []
+  }
+]

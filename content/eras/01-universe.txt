@@ -1,0 +1,131 @@
+# Eras of the universe. Dates are written as years after the Big Bang (age) or years ago (span).
+# Every figure below is taken from the article named in src.
+
+@era first-light
+name: The first light
+kid: The first light
+level: 1
+group: universe
+age: 0..370000
+src: Big Bang
+src: Chronology of the universe
+S: The universe began expanding from an early state of very high density and temperature. For its first few hundred thousand years it was a glowing fog too hot for atoms to hold together.
+K: The universe started out tiny, hot and packed tight, and it has been spreading out ever since. At first it was a glowing fog, far too hot for atoms.
+
+@era dark-ages-first-stars
+name: Dark ages and first stars
+short: Dark ages
+kid: The long dark, then stars
+level: 1
+group: universe
+age: 370000..1000000000
+src: Chronology of the universe
+S: After the first atoms formed there were no stars yet and almost no visible light. The first stars formed within a few hundred million years, and the dark ended fully about a billion years after the beginning.
+K: For a long time there were no stars at all, so space was dark. Then the first stars lit up, and slowly the dark ended.
+
+@era age-of-galaxies
+name: Galaxies and the Milky Way
+short: Galaxies
+kid: Galaxies gather
+level: 1
+group: universe
+span: 12.8 bya..4.6 bya
+src: Galaxy formation and evolution
+src: Milky Way
+S: Gravity pulled gas and stars into galaxies, including our own. Generations of stars lived and died inside them, forging the elements that planets and people are made of.
+K: Stars gathered into huge swirling groups called galaxies. Ours is the Milky Way. Old stars made the stuff that later became planets and us.
+
+@era big-bang
+name: The Big Bang
+kid: The Big Bang
+level: 2
+group: universe
+age: 0..1
+focus-age: 0
+src: Big Bang
+src: Age of the universe
+S: The Big Bang theory describes how the universe expanded from an early state of high density and temperature. Measurements from the Planck space telescope put its age at 13.8 billion years.
+K: The Big Bang is the name for how the universe began: everything packed hot and close, then spreading out. That was 13.8 billion years ago.
+B: The theory explains several things astronomers can measure today: how much hydrogen and helium there is, the faint microwave glow that fills the sky, and the way distant galaxies are moving apart.
+B: It does not describe an explosion into empty space. Space itself has been stretching, and it still is.
+
+@era first-atoms
+name: First atoms and the cosmic microwave background
+short: First atoms
+kid: The first atoms
+level: 2
+group: universe
+age: 370000..3000000
+src: Recombination (cosmology)
+src: Cosmic microwave background
+src: Chronology of the universe
+S: About 378,000 years after the Big Bang, electrons and protons first joined into neutral hydrogen atoms. Light could then travel freely, and that light still fills the sky as the cosmic microwave background.
+K: When the universe had cooled enough, the first atoms formed and the fog cleared. The light set free then is still travelling. Radio telescopes can pick up its faint glow all over the sky.
+B: Within about 3 million years that glow had been stretched by the expansion of space out of visible light and into infrared. Today it is strongest as microwaves.
+
+@era cosmic-dark-ages
+name: Cosmic dark ages
+kid: The cosmic dark ages
+level: 2
+group: universe
+age: 3000000..300000000
+src: Chronology of the universe
+S: Once the afterglow of the first atoms had faded from visible light, nothing shone. The universe cooled from about 4,000 kelvin to about 60 kelvin while gravity slowly gathered hydrogen into denser clouds.
+K: After the first glow faded, the universe went dark. There was gas, but no stars to light it. Very slowly, gravity pulled the gas into clumps.
+
+@era first-stars
+name: First stars
+kid: The first stars switch on
+level: 2
+group: universe
+age: 300000000..400000000
+src: Chronology of the universe
+src: Reionization
+S: The first generation of stars formed within a few hundred million years of the beginning; one analysis of Planck telescope data suggests from around 300 million years. Their light began to strip electrons from hydrogen again, a change called reionization.
+K: Gas clouds squeezed tight enough to catch fire as stars. Nobody has seen these very first stars yet. Scientists work out when they formed from the marks their light left behind.
+conf: debated
+
+@era first-galaxies
+name: First galaxies
+kid: The first galaxies
+level: 2
+group: universe
+age: 380000000..1000000000
+src: Chronology of the universe
+src: Galaxy formation and evolution
+S: The earliest galaxies confirmed by 2019, such as GN-z11, date from about 380 to 400 million years after the Big Bang, sooner than many astronomers expected. Galaxies grew from tiny unevennesses left over from the beginning.
+K: Stars gathered into the first galaxies less than half a billion years after the Big Bang. That is quicker than scientists expected, and they are still working out why.
+
+@era milky-way-forms
+name: The Milky Way forms
+short: Milky Way
+kid: Our galaxy takes shape
+level: 2
+group: universe
+span: 13.4 bya..9 bya
+src: Milky Way
+S: The oldest stars in the Milky Way probably formed shortly after the dark ages. They are spread in a ball around the galaxy, which suggests it began roughly spherical before flattening into the spiral disc where later stars were born.
+K: Our galaxy, the Milky Way, began as a big ball of stars. Later it flattened into a spinning disc with spiral arms. Its oldest stars are almost as old as the universe.
+
+@era heavy-elements
+name: Heavy elements from stars
+short: Star-made elements
+kid: Stars make new ingredients
+level: 2
+group: universe
+span: 9 bya..4.6 bya
+src: Stellar nucleosynthesis
+S: The Big Bang made hydrogen, helium and a little lithium. Every heavier element was made later by nuclear reactions inside stars and in the explosions of massive stars, called supernovae, which scattered the new elements through space.
+K: The Big Bang only made the lightest ingredients. Stars cooked up the rest, like carbon, oxygen and iron, and exploding stars spread them around. The iron in your blood was made in a star.
+
+@era solar-system-forms
+name: The Sun and solar system form
+short: Solar system forms
+kid: The Sun and planets are born
+level: 2
+group: universe
+span: 4.6 bya..4.54 bya
+src: Formation and evolution of the Solar System
+src: Age of Earth
+S: About 4.6 billion years ago part of a giant cloud of gas and dust collapsed under its own gravity. Most of it became the Sun; the rest flattened into a disc in which planets, moons and asteroids grew by collision in under 100 million years.
+K: A giant cloud of gas and dust fell in on itself. The middle became the Sun. The leftovers spun into a flat disc, and bits in the disc bumped and stuck together to make the planets.

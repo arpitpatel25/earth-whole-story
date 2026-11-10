@@ -1,0 +1,103 @@
+{
+  "ranAt": "2026-11-10T07:08:47.397Z",
+  "pass": true,
+  "loads": [
+    {
+      "view": "desktop",
+      "firstFrame": 221,
+      "firstBytes": 1369301,
+      "firstCount": 23,
+      "settled": {
+        "ms": 1853,
+        "bytes": 2996887,
+        "count": 45
+      },
+      "foreign": [],
+      "intro": {
+        "intro": true,
+        "text": "13.8 billion years ago, the Big BangEverything, in a pointThe Big Bang theory describes how the universe expanded from an early state of high density and temperature.Source: Big Bang (Wikipedia)Scroll to beginJump to any momentSkip to Earth today",
+        "dark": "rgb(0, 0, 0)"
+      }
+    },
+    {
+      "view": "phone",
+      "firstFrame": 108,
+      "firstBytes": 1369301,
+      "firstCount": 23,
+      "settled": {
+        "ms": 1677,
+        "bytes": 2996887,
+        "count": 45
+      },
+      "foreign": [],
+      "intro": {
+        "intro": true,
+        "text": "13.8 billion years ago, the Big BangEverything, in a pointThe Big Bang theory describes how the universe expanded from an early state of high density and temperature.Source: Big Bang (Wikipedia)Scroll to beginJump to any momentSkip to Earth today",
+        "dark": "rgb(0, 0, 0)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "name": "Today, whole Earth",
+      "fps": 60.10274826674647,
+      "worst": 16.800000000000182,
+      "quality": "high"
+    },
+    {
+      "name": "Today, India close up",
+      "fps": 59.99100134836744,
+      "worst": 33.30000000000109,
+      "quality": "high"
+    },
+    {
+      "name": "1943, Europe, pins and borders",
+      "fps": 60.207854499697,
+      "worst": 16.80000000000291,
+      "quality": "high"
+    },
+    {
+      "name": "1347, the Black Death",
+      "fps": 60.17478152309613,
+      "worst": 16.80000000000291,
+      "quality": "high"
+    },
+    {
+      "name": "2500 BCE, the Indus",
+      "fps": 56.91604882526878,
+      "worst": 33.400000000001455,
+      "quality": "high"
+    },
+    {
+      "name": "20,000 years ago, ice sheets",
+      "fps": 60.1612621369137,
+      "worst": 16.80000000000291,
+      "quality": "high"
+    },
+    {
+      "name": "66 million years ago, moving plates",
+      "fps": 60.14474669113954,
+      "worst": 16.80000000000291,
+      "quality": "high"
+    },
+    {
+      "name": "250 million years ago, Pangaea",
+      "fps": 60.17478152094678,
+      "worst": 16.80000000000291,
+      "quality": "high"
+    },
+    {
+      "name": "4.5 billion years ago, molten Earth",
+      "fps": 60.179289335031385,
+      "worst": 16.80000000000291,
+      "quality": "high"
+    },
+    {
+      "name": "The Big Bang",
+      "fps": 60.179289335031385,
+      "worst": 16.80000000000291,
+      "quality": "high"
+    }
+  ],
+  "fails": []
+}

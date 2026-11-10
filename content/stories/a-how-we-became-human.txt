@@ -1,0 +1,639 @@
+# Flagship Story A. Every figure and date below is taken from the article named in src.
+
+@story how-we-became-human
+title: How We Became Human
+kid-title: How we became human
+format: deep-time
+flagship: 1
+order: 1
+color: #c8862a
+deck: Seven million years, a dozen kinds of human, and one that is left. Follow the fossils across the globe.
+kid-deck: Once there were many kinds of humans. Follow the fossils to find out how we became the only ones left.
+led: era:farming-origins | Independent origins of farming | what the first farmers did next; era:first-towns | First villages, towns and cities | where settled life led; era:writing | Writing | the next great invention; era:green-sahara | Green Sahara | the wet Sahara of the early farmers
+
+@scene hwbh-01
+story: how-we-became-human
+title: How We Became Human
+y: 7 mya
+cam: 4, 22, 15500
+look: title
+src: Chimpanzee–human last common ancestor
+src: Hominini
+T: Our closest living relatives are chimpanzees and bonobos. Somewhere in Africa lived the last ancestor we share with them. When? Estimates vary widely, from thirteen to five million years ago.
+T: This story follows what came after: the fossils, the tools, the fires, and the many kinds of human who are no longer here.
+K: Chimpanzees and bonobos are our closest living cousins. Long ago, in Africa, we shared the same great-great-great-(keep going)-grandparents. This story is about what happened to our side of the family.
+
+@scene hwbh-02
+story: how-we-became-human
+img: File:Sahelanthropus tchadensis - TM 266-01-060-1.jpg | A cast of the Toumaï skull, the specimen on which the species Sahelanthropus tchadensis is based.
+title: A skull in the desert
+y: 7 mya
+cam: 16.25, 17.5, 4200
+src: Sahelanthropus
+src: Djurab Desert
+T: On 19 July 2001, four researchers working in the Djurab Desert of northern Chad, three Chadians and one Frenchman, collected a partial skull at a place called Toros-Menalla. It was about 7 million years old. They nicknamed it Toumaï.
+T: Its species, Sahelanthropus tchadensis, was first described as a possible ancestor of both humans and chimpanzees. Where it really belongs in the family, and whether it walked upright, are still debated.
+K: In 2001, in the desert of Chad, fossil hunters found a skull about 7 million years old. They named it Toumaï. It might be one of our oldest relatives, but scientists are still arguing about that.
+show: site | at=16.25, 17.5 | label=Toumaï, about 7 million years old | ring=1
+
+@scene hwbh-03
+story: how-we-became-human
+title: Two legs, and trees
+y: 6 mya
+cam: Tugen Hills | 3600
+src: Orrorin
+src: Tugen Hills
+T: In the autumn of 2000 a team led by Brigitte Senut and Martin Pickford found twenty fossils in the Lukeino Formation of Kenya's Tugen Hills. They named the creature Orrorin tugenensis. Orrorin means "original man" in the Tugen language.
+T: Parts of its skeleton suggest it walked on two legs. The rest indicates that it still climbed trees. Early members of our branch seem to have done both.
+K: In Kenya, scientists found bones about 6 million years old. They show a creature that could walk on two legs and also climb trees.
+show: site | at=Tugen Hills | label=Orrorin, about 6 million years old
+
+@scene hwbh-04
+story: how-we-became-human
+title: Ardi, who lived in a forest
+y: 4.4 mya
+cam: Middle Awash | 3200
+src: Ardi
+src: Ardipithecus
+T: In 1994 a student named Yohannes Haile-Selassie spotted a piece of hand bone in the badlands near the Awash River in Ethiopia. It led to 125 pieces of one skeleton: a female Ardipithecus ramidus about 4.4 million years old, known as Ardi.
+T: Ardi is described as walking on two legs, yet she had grasping big toes for climbing, and how well she walked is still argued over. The animal bones around her came from a forest, not open grassland. Whether her kind are our ancestors is also debated.
+K: Ardi lived 4.4 million years ago in a forest in Ethiopia. She could walk on two legs, but her big toes could grip like thumbs, so she was a good climber too.
+show: site | at=Middle Awash | label=Ardi, 4.4 million years old | ring=1
+
+@scene hwbh-05
+story: how-we-became-human
+img: File:Earliest known human footprints - one set - australopithecus afarensis - Smithsonian Museum of Natural History - 2012-05-17.jpg | A cast of the Laetoli footprints, on display at the Smithsonian National Museum of Natural History.
+title: Footprints in the ash
+y: 3.7 mya
+cam: Laetoli | 2600
+src: Laetoli
+T: At Laetoli in Tanzania, 45 km south of Olduvai Gorge, a trail of footprints crosses a bed of hardened volcanic ash. Mary Leakey's team found the tracks in 1976 and had excavated them by 1978.
+T: Dated to 3.7 million years ago, they were at the time the oldest known evidence of our relatives walking upright: not bones this time, but the walk itself.
+K: In Tanzania there is a line of footprints pressed into old volcanic ash. Someone walked there on two legs 3.7 million years ago, and you can still see where they stepped.
+show: site | at=Laetoli | label=Laetoli footprints, 3.7 million years old | ring=1
+show: site | at=Olduvai Gorge | label=Olduvai Gorge
+
+@scene hwbh-06
+story: how-we-became-human
+img: File:Reconstruction of the fossil skeleton of "Lucy" the Australopithecus afarensis.jpg | A cast of Lucy's skeleton (AL 288-1) from the Muséum national d'histoire naturelle, Paris.
+title: Lucy
+y: 3.2 mya
+cam: Hadar, Ethiopia | 2400
+look: photo
+model: lucy
+src: Lucy (Australopithecus)
+T: In 1974, at Hadar in Ethiopia's Awash Valley, Donald Johanson found several hundred pieces of fossil bone from a single female Australopithecus afarensis. Together they make up 40 percent of a skeleton. She is called Lucy, and in Amharic Dinkʼinesh: "you are marvellous".
+T: Lucy lived about 3.2 million years ago. Her skull was small, like an ape's. Her skeleton shows she walked upright, like us. Upright walking came long before big brains.
+K: Lucy lived 3.2 million years ago in Ethiopia. Her head was small like an ape's, but she walked upright like you. In Ethiopia she is called Dinkʼinesh, which means "you are marvellous".
+show: site | at=Hadar, Ethiopia | label=Lucy, 3.2 million years old | ring=1
+
+@scene hwbh-07
+story: how-we-became-human
+title: Why walk on two legs?
+y: 3.2 mya
+cam: 2, 34, 6500
+src: Bipedalism
+src: Savannah hypothesis
+src: Ardi
+T: Nobody knows for certain. The old answer is the savannah hypothesis: the climate dried, forests shrank, and our ancestors adapted to open grassland by standing up. But Ardi walked on two legs in a forest.
+T: Other ideas: standing raises the head, so you see farther. Free hands can carry food to share. And over long distances a two-legged walker, though slow at first, can outlast most other animals. More than one may be true.
+K: Why did our ancestors start walking on two legs? Nobody knows for sure. Maybe to see farther. Maybe to carry food in their hands. Maybe because walking upright is good for long journeys.
+note: These are competing hypotheses; none is settled.
+
+@scene hwbh-08
+story: how-we-became-human
+title: The child from Taung
+y: 3 mya
+cam: Taung | 3000
+src: Taung Child
+src: Australopithecus
+T: In 1924 the fossil skull of a young Australopithecus africanus, about three or four years old when it died, was discovered at Taung in South Africa. Raymond Dart described it the next year.
+T: It was one of the first early hominin fossils found in Africa, and the first evidence that humanity began on that continent. Australopithecus lived across Africa, and from some of its species came our own genus, Homo.
+K: In 1924 the skull of a little child, about three or four years old, was found in South Africa. It was the first clue that the story of humans began in Africa.
+note: The clock shows the general time of Australopithecus africanus; the source used here does not date the skull itself.
+show: site | at=Taung | label=Taung Child
+
+@scene hwbh-09
+story: how-we-became-human
+title: The first stone tools
+y: 3.3 mya
+cam: Lomekwi | 2200
+src: Lomekwi
+src: Lower Paleolithic
+T: In July 2011 archaeologists from Stony Brook University came upon stone tools at Lomekwi, on the west bank of Lake Turkana in Kenya, by chance. After four years of excavation the verdict was startling: the tools are 3.3 million years old.
+T: That is the earliest evidence anywhere of hominins making stone tools, and the start of what archaeologists call the Paleolithic, the Old Stone Age.
+K: The oldest stone tools ever found are from Kenya. They are 3.3 million years old. Somebody picked up a rock and knocked sharp pieces off it on purpose.
+show: site | at=Lomekwi | label=Lomekwi tools, 3.3 million years old | ring=1
+
+@scene hwbh-10
+story: how-we-became-human
+img: File:Canto tallado 2-Guelmim-Es Semara.jpg | A chopper in the Oldowan tradition from the Atlantic Sahara, in the National Archaeological Museum, Madrid.
+title: A sharp edge, again and again
+y: 2.9 mya
+to: 1.7 mya
+cam: Olduvai Gorge | 3400
+src: Oldowan
+src: Olduvai Gorge
+T: The Oldowan was the first widespread way of making stone tools. The recipe is simple: strike one stone with another and chip off one flake, or a few. The result is a sharp edge.
+T: Oldowan tools were made from 2.9 million years ago until at least 1.7 million years ago: more than a million years of the same idea, passed from hand to hand.
+K: For more than a million years, early humans made tools the same way: hit one stone with another until a sharp flake breaks off. It was simple, and it worked.
+show: site | at=Olduvai Gorge | label=Olduvai Gorge
+
+@scene hwbh-11
+story: how-we-became-human
+title: Handy man
+y: 2.4 mya
+to: 1.65 mya
+cam: Olduvai Gorge | 5200
+src: Homo habilis
+T: Homo habilis, "handy man", lived in East and South Africa from about 2.4 to 1.65 million years ago, and is among the oldest species given the name Homo. A jawbone found in 2015 may push that back to 2.8 million years.
+T: When the species was named in 1964, many researchers disputed that it belonged in our genus at all. The line between "ape-like" and "human" has never been easy to draw.
+K: Homo habilis means "handy man". It is one of the oldest kinds of human, and lived in Africa about 2 million years ago.
+
+@scene hwbh-12
+story: how-we-became-human
+img: File:Homo-erectus Turkana-Boy (Ausschnitt) Fundort Nariokotome, Kenia, Rekonstruktion im Neanderthal Museum.jpg | A reconstruction of the Turkana Boy by Kennis & Kennis, at the Neanderthal Museum in Germany. The face is an artist's reconstruction.
+title: A body like ours
+y: 1.6 mya
+cam: Lake Turkana | 2600
+src: Homo erectus
+src: Turkana Boy
+T: Homo erectus is the first human species with a body plan and stride like our own. It lasted nearly 2 million years, far longer than we have so far.
+T: In 1984 Kamoya Kimeu found a nearly complete skeleton on the bank of the Nariokotome River near Lake Turkana: a youth who lived 1.5 to 1.6 million years ago. The Turkana Boy is the most complete Homo erectus skeleton ever found.
+K: Homo erectus was the first kind of human with a body shaped like ours. A boy of this kind lived near a lake in Kenya 1.5 million years ago. Almost his whole skeleton was found in 1984.
+show: site | at=Lake Turkana | label=Turkana Boy, about 1.5 million years old | ring=1
+
+@scene hwbh-13
+story: how-we-became-human
+img: File:Acheulean hand-axe from Egypt. Found on a hill top plateau, 1400 feet above sea level, 9 miles NNW of the city of Naqada, Egypt. Paleolithic. The Petrie Museum of Egyptian Archaeology, London.jpg | An Acheulean hand axe found near Naqada in Egypt, now in the Petrie Museum, London.
+title: The hand axe
+y: 1.5 mya
+cam: 8, 38, 5200
+model: handaxe
+src: Acheulean
+T: With Homo erectus comes a new kind of tool: the hand axe, oval or pear-shaped. The tradition is called Acheulean, after the site of Saint-Acheul.
+T: It is thought to have developed about 2 million years ago out of the older Oldowan. Hand axes from Konso in Ethiopia are dated to about 1.5 million years ago. They were made across Africa and much of Asia and Europe.
+K: Homo erectus made a new tool: the hand axe. It was shaped like a pear or a teardrop, with sharp edges all round. People went on making hand axes for more than a million years.
+
+@scene hwbh-14
+story: how-we-became-human
+title: Out of Africa, the first time
+y: 1.85 mya
+to: 0.7 mya
+cam: 25, 55, 13000
+cam-to: 28, 85, 14500
+weight: 2
+src: Dmanisi hominins
+src: Java Man
+src: Peking Man
+src: Homo erectus
+T: Homo erectus was the first human to leave Africa. At Dmanisi in Georgia, fossils and stone tools 1.85 to 1.77 million years old are the earliest well-dated hominin remains in Eurasia.
+T: On Java, a team led by Eugène Dubois dug up a tooth and other fossils in 1891 and 1892: Java Man, between 700,000 and 1,490,000 years old. In a cave 50 km south-west of Beijing lived another population, Peking Man.
+K: Homo erectus were the first humans to walk out of Africa. Their bones have been found in Georgia, on the island of Java, and in a cave near Beijing in China.
+show: route | via=Lake Turkana; 12.5, 43.3; 30, 48; Dmanisi | color=people
+show: route | via=30, 48; 27, 78; 16, 98; Trinil | color=people
+show: route | via=27, 78; 34, 105; 39.73, 115.92 | color=people
+show: site | at=Dmanisi | label=Dmanisi, 1.8 million years old
+show: site | at=Trinil | label=Java Man
+show: site | at=39.73, 115.92 | label=Peking Man
+note: The lines are schematic. Nobody knows the routes these people took; only the sites are known.
+
+@scene hwbh-15
+story: how-we-became-human
+title: Fire
+y: 1 mya
+cam: Wonderwerk Cave | 4200
+src: Control of fire by early humans
+src: Wonderwerk Cave
+note: The date of the earliest use of fire is contested. The clock here marks no single discovery.
+T: Fire gave warmth and light, kept predators away at night, helped make better hunting tools, and cooked food. When humans first controlled it is hard to pin down: claims reach back as far as 2 million years.
+T: Charred bones lie deep inside Wonderwerk Cave in South Africa, far beyond the reach of any wildfire. Using fire is one thing; making it is another. The oldest definite evidence of people lighting a new fire is about 400,000 years old, from a Neanderthal site in eastern England.
+K: Fire meant warmth, light, safety from animals at night, and cooked food. Burnt bones found deep inside a cave in South Africa show that early humans were using fire there long, long ago.
+show: site | at=Wonderwerk Cave | label=Wonderwerk Cave | ring=1 | color=fire
+
+@scene hwbh-16
+story: how-we-became-human
+title: The growing brain
+y: 0.8 mya
+cam: 5, 30, 12000
+look: data
+chart: brain-size
+src: Human evolution
+src: Homo naledi
+T: The earliest members of our branch had brains about the size of a chimpanzee's. Then, over roughly a million years, the brain grew quickly: by the time Homo erectus appears in the fossil record it had doubled, to about 850 cubic centimetres.
+T: Ours measure 1,270 to 1,330. Along the way fire, which made cooking possible, changed what and how our ancestors ate.
+K: The first walkers had brains about as big as a chimpanzee's. Over a very long time, human brains grew and grew. Ours are about one and a half times the size of a Homo erectus brain.
+
+@scene hwbh-17
+story: how-we-became-human
+title: The muddle in the middle
+y: 430 kya
+cam: Atapuerca Mountains | 4200
+src: Homo heidelbergensis
+src: Neanderthal
+src: Homo erectus
+T: In the Middle Pleistocene the human story gets tangled. Fossils from Europe and Africa vary so much that researchers call the period "the muddle in the middle". Many are filed under Homo heidelbergensis, a controversial and poorly defined species.
+T: Some populations of Homo erectus were ancestors of these people, and through them of Neanderthals, Denisovans and us. Fossils 430,000 years old from the Sima de los Huesos in Spain are already closer to Neanderthals.
+K: About half a million years ago there were several kinds of humans in Europe and Africa. Their bones are so mixed up that scientists call this time "the muddle in the middle".
+show: site | at=Atapuerca Mountains | label=Sima de los Huesos, 430,000 years old
+
+@scene hwbh-18
+story: how-we-became-human
+title: Neanderthals
+y: 120 kya
+cam: 46, 22, 7500
+src: Neanderthal
+src: Shanidar Cave
+src: Neandertal (valley)
+T: Neanderthals lived across Europe and western and central Asia. They made a toolkit known as the Mousterian, and they buried their dead, though nothing shows clearly whether they believed in a life after death. At Shanidar Cave in Iraq one man lived on after several serious injuries, possibly because others looked after him.
+T: They were not our ancestors but our cousins: a separate group of humans who shared the world with ours for a very long time.
+K: Neanderthals were another kind of human. They lived in Europe and Asia, made stone tools and buried their dead. One badly hurt man lived on for years, perhaps because his group took care of him.
+show: site | at=Neandertal (valley) | label=Neander Valley, first found 1856 | color=fire
+show: site | at=Shanidar Cave | label=Shanidar Cave | color=fire
+show: site | at=Atapuerca Mountains | label=Atapuerca | color=fire
+
+@scene hwbh-19
+story: how-we-became-human
+title: The people known from a finger bone
+y: 100 kya
+cam: Denisova Cave | 7000
+src: Denisovan
+src: Denisova Cave
+T: In 2008 excavators in Denisova Cave, in the Altai Mountains of Siberia, found a fragment of a child's finger bone. In 2010 its DNA showed it belonged to a kind of human nobody had known existed.
+T: Most of what is known about the Denisovans still comes from DNA. They ranged across Asia from roughly 200,000 to 32,000 years ago; a few more of their remains have since been identified on the Tibetan Plateau, in Laos and off Taiwan.
+K: In a cave in Siberia, scientists found a tiny piece of a child's finger bone. Its DNA showed it came from a kind of human nobody knew about. They are called the Denisovans.
+show: site | at=Denisova Cave | label=Denisova Cave | ring=1 | color=disease
+show: site | at=Baishiya Karst Cave | label=Baishiya Karst Cave | color=disease
+
+@scene hwbh-20
+story: how-we-became-human
+img: File:Homo Florensiensis-MGL 95216-P5030051-white.jpg | A skull of Homo floresiensis.
+title: The small people of Flores
+y: 80 kya
+cam: Liang Bua | 4200
+src: Homo floresiensis
+src: Liang Bua
+T: In September 2003 an Indonesian team digging in Liang Bua cave on the island of Flores found the remains of a human who stood about 1.1 metres tall. The species was named Homo floresiensis.
+T: Its small size is now generally put down to island dwarfism, common among animals cut off on islands. The bones are 60,000 to 100,000 years old, and these people lived on Flores until about 50,000 years ago, when modern humans arrived.
+K: On the island of Flores in Indonesia lived humans only about 1.1 metres tall, the height of a small child. Animals living on islands often become smaller over time, and these people did too.
+show: site | at=Liang Bua | label=Homo floresiensis, Liang Bua | ring=1 | color=life
+
+@scene hwbh-21
+story: how-we-became-human
+img: File:Homo naledi skeletal specimens.jpg | Bones of Homo naledi from the Dinaledi chamber, laid out by the research team.
+title: Deep in the Rising Star cave
+y: 300 kya
+cam: Swartkrans | 3200
+src: Homo naledi
+src: Rising Star Cave
+T: In 2013, deep in the Rising Star cave system in South Africa, a chamber was found to hold 1,550 pieces of bone from at least 15 individuals. The species, Homo naledi, lived 335,000 to 236,000 years ago.
+T: Its brain was small, 465 to 610 cubic centimetres, yet it was alive as recently as 236,000 years ago, when our own species already existed. Some researchers argue the bodies were carried in and placed there deliberately. That claim is controversial.
+K: In 2013, deep inside a cave in South Africa, explorers found hundreds of bones from a small-brained kind of human, Homo naledi. How the bones got so deep into the cave is still a puzzle.
+show: site | at=Swartkrans | label=Homo naledi, Rising Star cave | ring=1 | color=language
+note: The marker is placed at Swartkrans; the Rising Star system is about 800 metres to its south-west.
+
+@scene hwbh-22
+story: how-we-became-human
+title: And on Luzon
+y: 134 kya
+cam: Callao Cave | 4200
+src: Homo luzonensis
+T: Teeth and finger and toe bones from Callao Cave, in the north of Luzon in the Philippines, were first taken for modern human. In 2019 they were named as a separate species, Homo luzonensis.
+T: The bones were dated to more than 50,000 years ago; a 2023 study put them at about 134,000 years, give or take 14,000. Almost everything else about these people is unknown.
+K: In a cave in the Philippines, scientists found teeth and small bones from yet another kind of human. So far, those few bones are all we have of them.
+show: site | at=Callao Cave | label=Homo luzonensis, Callao Cave | ring=1 | color=idea
+
+@scene hwbh-23
+story: how-we-became-human
+title: A planet of many humans
+y: 335 kya
+to: 30 kya
+cam: 18, 60, 21000
+cam-to: 22, 82, 21000
+weight: 3.2
+src: Homo naledi
+src: Neanderthal
+src: Denisovan
+src: Homo floresiensis
+src: Homo luzonensis
+src: Homo erectus
+src: Jebel Irhoud
+T: Scroll slowly and watch the clock. Each marker is one kind of human, placed at a site where it has been found, and shown for the span its fossils or DNA are dated to.
+T: For most of the time our species has existed, we were not alone. At moments in the last 300,000 years at least five kinds of human were alive on Earth together.
+K: Scroll slowly. Each dot is a different kind of human. For most of the time our kind has been around, there were other kinds of humans living on Earth too.
+show: site | at=Jebel Irhoud | label=Homo sapiens | since=315 kya | color=marker
+show: site | at=Omo remains | label=Homo sapiens | since=233 kya | color=marker
+show: site | at=Blombos Cave | label=Homo sapiens | since=100 kya | color=marker
+show: site | at=Swartkrans | label=Homo naledi | since=335 kya | until=236 kya | color=language
+show: site | at=Neandertal (valley) | label=Neanderthals | since=430 kya | until=40 kya | color=fire
+show: site | at=Shanidar Cave | label=Neanderthals | since=430 kya | until=40 kya | color=fire
+show: site | at=Denisova Cave | label=Denisovans | since=200 kya | until=32 kya | color=disease
+show: site | at=Baishiya Karst Cave | label=Denisovans | since=200 kya | until=32 kya | color=disease
+show: site | at=Trinil | label=Homo erectus, Java | since=1.5 mya | until=108 kya | color=people
+show: site | at=Liang Bua | label=Homo floresiensis | since=100 kya | until=50 kya | color=life
+show: site | at=Callao Cave | label=Homo luzonensis | since=148 kya | until=50 kya | color=idea
+note: Spans are those given in the sources and are uncertain at both ends. A species was not confined to the one site marked. The Java marker stands for the last Homo erectus of Southeast Asia, found at Ngandong.
+
+@scene hwbh-24
+story: how-we-became-human
+img: File:Homo sapiens from Jebel Irhoud.jpg | A composite reconstruction of the earliest known Homo sapiens fossils, from Jebel Irhoud, built from scans of several original fossils.
+title: The oldest of us
+y: 315 kya
+cam: Jebel Irhoud | 3200
+src: Jebel Irhoud
+T: At Jebel Irhoud in Morocco, about 50 km south-east of the city of Safi, fossils found since the 1960s were first taken for Neanderthals. They are now assigned to our own species.
+T: In 2017 they were dated to about 315,000 years ago, by far the earliest Homo sapiens known. That is 100,000 years older than the East African fossils once thought to mark our beginning.
+K: The oldest bones of our own kind, Homo sapiens, come from Morocco. They are about 315,000 years old.
+show: site | at=Jebel Irhoud | label=Jebel Irhoud, about 315,000 years old | ring=1
+
+@scene hwbh-25
+story: how-we-became-human
+title: Omo Kibish
+y: 233 kya
+cam: Omo remains | 3200
+src: Omo remains
+T: Between 1967 and 1974 a team directed by Richard Leakey collected human bones beside the Omo River in south-western Ethiopia. For some time these were the oldest fossils classed as Homo sapiens.
+T: The layer they came from was dated to 195,000 years. A 2022 study found they are older: at least about 233,000 years.
+K: In Ethiopia, beside the Omo River, are some of the oldest bones of our kind found in East Africa. They are at least 233,000 years old.
+show: site | at=Omo remains | label=Omo Kibish, at least 233,000 years old | ring=1
+
+@scene hwbh-26
+story: how-we-became-human
+title: Not one cradle
+y: 250 kya
+cam: 2, 20, 13500
+src: Jebel Irhoud
+src: Human
+T: Morocco in the north-west, Ethiopia in the east. The Jebel Irhoud dates suggest that our species did not arise in one corner of East Africa about 200,000 years ago, as was long thought. Early Homo sapiens were present across the length of Africa 100,000 years before that.
+T: Our species emerged in Africa at least 300,000 years ago, from descendants of the Homo erectus who had stayed on the continent.
+K: Our kind of human did not start in one small spot. Very early Homo sapiens lived right across Africa, from Morocco to Ethiopia, about 300,000 years ago.
+show: site | at=Jebel Irhoud | label=Jebel Irhoud
+show: site | at=Omo remains | label=Omo Kibish
+
+@scene hwbh-27
+story: how-we-became-human
+img: File:BBC-shell-beads.jpg | Shell beads from Blombos Cave.
+title: Red ochre and seashells
+y: 170 kya
+to: 73 kya
+cam: Pinnacle Point | 2400
+cam-to: Blombos Cave | 2400
+src: Pinnacle Point
+src: Blombos Cave
+src: Cave painting
+T: On the southern coast of South Africa, caves at Pinnacle Point were lived in from 170,000 years ago. They hold the earliest evidence of people systematically gathering shellfish, and of something new: ochre scraped and ground, a sign of symbolic behaviour.
+T: Farther along the same coast, Blombos Cave has yielded engraved ochre, kits for processing it, and beads made of sea shells. A cross-hatched pattern drawn in ochre on a stone there, 73,000 years old, is the earliest known drawing.
+K: In caves by the sea in South Africa, people ground up red stone to make colour, and made beads from sea shells. One of them drew a criss-cross pattern on a stone 73,000 years ago. It is the oldest drawing we know.
+show: site | at=Pinnacle Point | label=Pinnacle Point | ring=1
+show: site | at=Blombos Cave | label=Blombos Cave | ring=1
+
+@scene hwbh-28
+story: how-we-became-human
+title: Laid in the ground
+y: 92 kya
+cam: Skhul and Qafzeh hominins | 3000
+src: Skhul and Qafzeh hominins
+T: In two caves in what is now Israel, Es-Skhul on Mount Carmel and Qafzeh near Nazareth, lie some of the earliest Homo sapiens outside Africa, dated to between about 80,000 and 100,000 years ago.
+T: At Skhul the remains of seven adults and three children were found. Some are thought to have been buried on purpose. One, known as Skhul 5, had the jawbone of a wild boar on its chest.
+K: In caves in Israel, people buried their dead about 90,000 years ago. One person was buried with the jawbone of a wild boar on their chest. We do not know why, but someone cared enough to put it there.
+show: site | at=Skhul and Qafzeh hominins | label=Skhul and Qafzeh | ring=1
+
+@scene hwbh-29
+story: how-we-became-human
+title: Leaving Africa, to stay
+y: 70 kya
+to: 50 kya
+cam: 18, 62, 15000
+cam-to: 8, 100, 15000
+weight: 2
+src: Recent African origin of modern humans
+src: Southern dispersal
+T: Present-day people outside Africa descend mainly from a single expansion of Homo sapiens out of the continent about 70,000 to 50,000 years ago. Members of our species had reached the Levant earlier, as at Skhul and Qafzeh, but it is this later expansion that most people outside Africa come from.
+T: One proposed path, the southern dispersal, hugs the coast: across to Arabia, along Persia and India, and on to Southeast Asia and Oceania.
+K: Between 70,000 and 50,000 years ago, a group of our ancestors left Africa. Nearly everyone living outside Africa today comes from that journey. One idea is that they followed the seashore all the way to Asia.
+show: route | via=11.6, 42.5; 13, 45; 22, 59; 25, 62; 21, 72; 8, 77; 15, 80; 22, 90; 16, 97; 3, 101 | color=people | head=1
+note: The coastal route is a hypothesis. The line is schematic.
+
+@scene hwbh-30
+story: how-we-became-human
+title: Across the water to Sahul
+y: 65 kya
+to: 40 kya
+cam: -10, 128, 9500
+src: Madjedbebe
+src: Sahul
+src: Lake Mungo remains
+src: Sundaland
+T: Australia, Tasmania and New Guinea were then one continent, Sahul. To reach it from Sunda, people made an ocean crossing through the islands of Wallacea.
+T: Madjedbebe, a rock shelter in Arnhem Land, was occupied at least 50,000 years ago and possibly 65,000; the older date has been questioned by some experts. At Lake Mungo, a man was buried about 40,000 years ago, and a woman's remains are one of the world's oldest known cremations.
+K: To reach Australia, people had to cross the sea. They did it at least 50,000 years ago, and maybe much earlier. Scientists do not all agree on the date.
+show: site | at=Madjedbebe | label=Madjedbebe, 50,000 to 65,000 years ago | ring=1
+show: site | at=Lake Mungo | label=Lake Mungo, about 40,000 years ago
+show: route | via=3, 101; -6, 107; -8, 117; -9, 125; -12.5, 132.9 | color=people | head=1
+conf: debated
+
+@scene hwbh-31
+story: how-we-became-human
+img: File:Loewenmensch1.jpg | The Lion-man from the Stadel cave at Hohlenstein, carved from mammoth ivory.
+title: Pictures
+y: 44 kya
+to: 35 kya
+cam: Maros Regency | 9000
+cam-to: 47, 8, 6000
+weight: 2
+src: Cave painting
+src: Venus of Hohle Fels
+src: Lion-man of Hohlenstein-Stadel
+src: Chauvet Cave
+T: In a cave in the Maros-Pangkep hills of Sulawesi, Indonesia, a painted scene shows human figures hunting pigs. Dated in 2019 to more than 43,900 years old, it is the oldest date given to any figurative cave painting.
+T: In the Swabian caves of Germany, people carved mammoth ivory: a woman's figure 42,000 to 40,000 years old, the oldest undisputed depiction of a human being, and a figure with a lion's head. In France, Chauvet Cave holds some of the best-preserved figurative cave paintings in the world.
+K: More than 43,900 years ago, someone in Indonesia painted people hunting pigs on a cave wall. In Germany, people carved little statues from mammoth tusks. One has a human body and a lion's head.
+show: site | at=Maros Regency | label=Maros-Pangkep cave art, over 43,900 years old | ring=1
+show: site | at=Hohlenstein-Stadel | label=Lion-man, 35,000 to 41,000 years old
+show: site | at=Chauvet Cave | label=Chauvet Cave
+
+@scene hwbh-32
+story: how-we-became-human
+title: Into Europe
+y: 46 kya
+cam: Bacho Kiro Cave | 5200
+src: Bacho Kiro Cave
+src: Venus of Hohle Fels
+T: Bacho Kiro Cave in Bulgaria holds human fossils about 46,000 years old: fragments of jaw, and with them the oldest known ornaments in Europe, dated to over 43,000 years ago.
+T: Europe was not empty. Neanderthals had lived there for hundreds of thousands of years.
+K: About 46,000 years ago our kind of human reached Europe. They wore ornaments. Neanderthals were already living there.
+show: site | at=Bacho Kiro Cave | label=Bacho Kiro Cave, about 46,000 years old | ring=1
+show: site | at=Neandertal (valley) | label=Neanderthals | color=fire
+
+@scene hwbh-33
+story: how-we-became-human
+title: We met, and had children
+y: 50 kya
+cam: 38, 60, 14500
+look: data
+chart: archaic-dna
+src: Interbreeding between archaic and modern humans
+src: Denisovan
+T: When different kinds of human met, they sometimes had children together. The proof is in living people. Everyone today whose ancestors lived outside Africa carries roughly 1 to 4 percent Neanderthal DNA.
+T: Denisovan DNA is most common in Oceania, where people owe about 4 to 6 percent of their genome to Denisovans. The other humans did not vanish completely. A little of them is still here, in us.
+K: When different kinds of humans met, some of them had children together. Many people alive today still carry a tiny bit of Neanderthal or Denisovan in their DNA.
+
+@scene hwbh-34
+story: how-we-became-human
+title: Then there was one
+y: 40 kya
+cam: 44, 12, 9000
+src: Neanderthal extinction
+src: Neanderthal
+src: Homo floresiensis
+T: Neanderthals became extinct around 40,000 years ago. Nobody knows exactly why. The explanations on the table include violence, diseases carried by modern humans, being out-competed, being absorbed through interbreeding, natural catastrophes, climate change and inbreeding. It was probably more than one of these.
+T: On Flores the small people were gone by about 50,000 years ago, when modern humans arrived. After millions of years of company, our species was the only human left.
+K: About 40,000 years ago the Neanderthals died out. Nobody is sure why. It may have been sickness, a changing climate, or having to share food and land with our ancestors. Probably it was several things at once.
+conf: debated
+
+@scene hwbh-35
+story: how-we-became-human
+title: The deep cold
+y: 26 kya
+to: 20 kya
+cam: 52, -40, 21000
+weight: 1.8
+src: Last Glacial Maximum
+T: Between 26,000 and 20,000 years ago the ice sheets reached their greatest extent, covering much of northern North America, northern Europe and Asia. Deserts spread.
+T: So much water was locked up in ice that the sea stood about 125 metres lower than today. Turn the globe: coastlines everywhere are in the wrong place.
+K: About 20,000 years ago it was so cold that huge sheets of ice covered the north of the world. The sea was about 125 metres lower than now, so there was dry land where there is sea today.
+
+@scene hwbh-36
+story: how-we-became-human
+title: Houses of mammoth bone
+y: 15 kya
+cam: Mezhyrich, Cherkasy Oblast | 3600
+src: Mezhyrich, Cherkasy Oblast
+src: Sewing needle
+T: In 1965 a farmer at Mezhyrich in Ukraine, widening his cellar, dug up the jawbone of a mammoth. Under his land were four huts built from 149 mammoth bones, and a mammoth skull painted with dots and lines of red ochre.
+T: People had also learned to sew. A needle of bird bone from Denisova Cave is about 50,000 years old, and it was made by Denisovans.
+K: To live through the cold, people built huts out of mammoth bones and sewed warm clothes with needles made of bone. A farmer in Ukraine found four of those bone huts under his cellar.
+show: site | at=Mezhyrich, Cherkasy Oblast | label=Mezhyrich mammoth-bone huts | ring=1
+note: The clock shows the late Ice Age in general; the source used here does not date the huts.
+
+@scene hwbh-37
+story: how-we-became-human
+title: The first friend
+y: 14.5 kya
+cam: Bonn | 3600
+src: Domestication of the dog
+T: Before any farm animal, there were dogs: the first species humans domesticated, and the only large carnivore. Genetic studies suggest that every dog, ancient and modern, descends from one population of wolves that no longer exists.
+T: The oldest dog remains come from western Europe. At Bonn-Oberkassel in Germany, 14,500 years ago, a dog was buried in the same grave as people: the oldest known burial of humans and a dog together.
+K: Dogs were the first animals to live with people. In Germany, 14,500 years ago, a dog was buried in the same grave as its humans.
+show: site | at=Bonn | label=Bonn-Oberkassel dog, 14,500 years ago | ring=1
+
+@scene hwbh-38
+story: how-we-became-human
+title: The road to America
+y: 23 kya
+to: 12.8 kya
+cam: 62, -170, 11500
+cam-to: 20, -100, 17500
+weight: 2.4
+src: Peopling of the Americas
+src: Beringia
+src: White Sands footprints
+src: Monte Verde
+src: Clovis culture
+T: With the sea low, Siberia and Alaska were joined by land up to 1,000 km wide. People entered North America across it, spread south of the ice by sea or by land, and occupied both American continents no later than 14,000 years ago, possibly before 20,000.
+T: When exactly is fiercely argued. Footprints at White Sands, New Mexico, were dated in 2021 to between 21,000 and 23,000 years ago; that date is disputed. Monte Verde in Chile, at 14,500 years, is largely accepted. The Clovis hunters, once thought the first Americans, came later.
+K: People walked from Asia into America when the sea was low and the two were joined by land. Scientists argue about when. Human footprints in New Mexico may be more than 21,000 years old.
+show: site | at=Bering Strait | label=Bering land bridge
+show: site | at=White Sands National Park | label=White Sands footprints, 21,000 to 23,000 years ago (disputed) | since=23 kya
+show: site | at=Monte Verde | label=Monte Verde, 14,500 years ago | since=14.5 kya
+show: site | at=Blackwater Draw | label=Clovis, about 13,000 years ago | since=13.05 kya
+show: route | via=64, 172; 65.75, -168.98; 60, -148; 50, -128; 36, -122; 20, -105; 5, -78; -20, -71; -41.5, -73.2 | color=people | head=1
+conf: debated
+note: The route line is schematic; a coastal path and an inland path have both been proposed.
+
+@scene hwbh-39
+story: how-we-became-human
+title: The seas come back
+y: 10000 BCE
+to: 5000 BCE
+cam: Doggerland | 4200
+weight: 2
+src: Doggerland
+src: Sundaland
+T: As the ice melted, the plains people had hunted on went under. Between Britain and the continent lay Doggerland, perhaps the richest hunting ground in Europe. Between 10,000 and 7,000 years ago the rising sea broke it into low islands and then covered it.
+T: In 1931 a fishing trawler east of the Wash dragged up a barbed point carved from antler: a hunter's tool, lost on dry land that is now the floor of the North Sea.
+K: When the ice melted, the sea rose and covered land where people had lived and hunted. You could once walk from Britain to Europe. In 1931 a fishing boat pulled up a hunter's spear point from the bottom of the sea.
+show: site | at=Doggerland | label=Doggerland, now under the North Sea | ring=1 | color=ice
+
+@scene hwbh-40
+story: how-we-became-human
+img: File:Göbekli Tepe, Urfa.jpg | Göbekli Tepe, near Şanlıurfa in Turkey.
+title: Seeds
+y: 9500 BCE
+to: 7500 BCE
+cam: Fertile Crescent | 3800
+weight: 1.8
+src: Founder crops
+src: Fertile Crescent
+src: Göbekli Tepe
+T: In the Fertile Crescent, the arc of land from the eastern Mediterranean to western Iran, people who had long gathered wild grain began to grow it. Three cereals and four pulses, among them emmer wheat, einkorn, barley, lentils, peas and chickpeas, were domesticated there between 10,500 and 7,500 years ago.
+T: Around 9500 BCE, people at Göbekli Tepe were raising great stone pillars in large circles, among the oldest megaliths in the world.
+K: In the Middle East, people began to plant the seeds of wild wheat, barley, peas and lentils and to look after the plants. They had become farmers.
+show: site | at=Göbekli Tepe | label=Göbekli Tepe, from about 9500 BCE | ring=1
+show: site | at=Tell Abu Hureyra | label=Tell Abu Hureyra
+
+@scene hwbh-41
+story: how-we-became-human
+title: Again, and again, and again
+y: 7000 BCE
+to: 3000 BCE
+cam: 10, 60, 21000
+cam-to: 5, -80, 21000
+weight: 2.6
+src: Rice
+src: Maize
+src: Potato
+src: Kuk Swamp
+src: Sorghum
+T: Farming was not invented once. In China, rice was domesticated between about 13,500 and 8,200 years ago. In southern Mexico, people turned a wild grass called teosinte into maize about 9,000 years ago. In the highlands of southern Peru and Bolivia, others bred the potato 7,000 to 10,000 years ago.
+T: In New Guinea, farmers at Kuk Swamp were digging drainage channels 9,000 years ago and growing taro. In eastern Sudan, sorghum was domesticated more than 5,000 years ago. None of these people knew about the others.
+K: Farming was invented many times, by people who had never met. In China it was rice. In Mexico, maize. In the Andes mountains, potatoes. In New Guinea, taro. In Sudan, sorghum.
+show: site | at=China | label=Rice, China
+show: site | at=Balsas River | label=Maize, southern Mexico
+show: site | at=Lake Titicaca | label=Potato, southern Peru and Bolivia
+show: site | at=Kuk Swamp | label=Taro, Kuk Swamp
+show: site | at=Kassala | label=Sorghum, eastern Sudan
+show: site | at=Göbekli Tepe | label=Wheat and barley, Fertile Crescent
+note: The marker for rice is placed in the middle of China; the source says only "what is now China".
+
+@scene hwbh-42
+story: how-we-became-human
+title: What is left
+y: 3000 BCE
+cam: 15, 40, 22000
+src: Interbreeding between archaic and modern humans
+src: Human
+T: One species, spread across every continent but Antarctica, and in many places now growing its own food. Seven million years of walking, toolmaking, fire, drawing, burying and wandering led here.
+T: The other humans are gone, and not quite gone. Their tools lie in the ground, and in most people alive a little of their DNA is still being copied, cell by cell.
+K: After seven million years, one kind of human was left: ours. But the others are not completely gone. A tiny bit of them lives on inside many of us.
+
+@quiz hwbh-q1
+story: how-we-became-human
+q: Which came first?
+options: Walking on two legs; Big brains; Farming
+a: Walking on two legs
+why: Lucy walked upright 3.2 million years ago, with a brain still about the size of an ape's.
+
+@quiz hwbh-q2
+story: how-we-became-human
+q: Where are the oldest bones of our own kind from?
+options: Morocco; France; Australia
+a: Morocco
+why: The Jebel Irhoud fossils in Morocco are about 315,000 years old.
+
+@quiz hwbh-q3
+story: how-we-became-human
+q: Was farming invented once or many times?
+options: Once, and everyone copied it; Many times, in different places
+a: Many times, in different places
+why: People in the Middle East, China, Mexico, the Andes, New Guinea and Africa each worked it out for themselves.

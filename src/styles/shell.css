@@ -1,0 +1,216 @@
+/* Top bar, intro and fallback. */
+.topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  height: var(--bar-h);
+  padding: 0 var(--s4);
+  padding-top: env(safe-area-inset-top);
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0));
+}
+.topbar > * {
+  pointer-events: auto;
+}
+.wordmark {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+  text-decoration: none;
+  flex: none;
+}
+.wordmark-name {
+  font-family: var(--sans);
+  font-stretch: 62%;
+  font-weight: 800;
+  font-size: 1.55rem;
+  letter-spacing: 0.01em;
+  line-height: 1;
+}
+.wordmark-tag {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: var(--fs-2);
+  color: var(--silt);
+}
+
+/* Intro */
+.intro {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  grid-template-rows: 1fr auto auto;
+  justify-items: center;
+  padding: calc(var(--bar-h) + var(--s5)) var(--s5) calc(var(--s6) + env(safe-area-inset-bottom));
+  pointer-events: none;
+  text-align: center;
+}
+.intro > * {
+  pointer-events: auto;
+}
+.intro-copy {
+  align-self: end;
+  max-width: 34rem;
+  margin-bottom: var(--s6);
+  pointer-events: none;
+  text-shadow: 0 1px 18px rgba(0, 0, 0, 0.95), 0 0 3px rgba(0, 0, 0, 0.9);
+}
+.intro-when {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: var(--fs-3);
+  color: var(--silt);
+  font-feature-settings: 'lnum', 'tnum';
+}
+.intro-title {
+  margin-top: var(--s2);
+  font-family: var(--sans);
+  font-stretch: 68%;
+  font-weight: 760;
+  font-size: clamp(2.1rem, 6vw, 4.2rem);
+  line-height: 0.98;
+  letter-spacing: -0.005em;
+  text-wrap: balance;
+}
+.intro-text {
+  margin-top: var(--s3);
+  font-family: var(--read);
+  font-size: var(--fs-3);
+  line-height: 1.5;
+  color: var(--chalk);
+  text-wrap: pretty;
+}
+.intro-text:empty {
+  display: none;
+}
+.intro.beat-in .intro-title,
+.intro.beat-in .intro-text {
+  animation: beat-in var(--t-slow) var(--ease) both;
+}
+@keyframes beat-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+.intro-hint {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: var(--fs-4);
+  color: var(--chalk);
+  margin-bottom: var(--s5);
+  transition: opacity var(--t-slow) var(--ease);
+  pointer-events: none;
+}
+.intro-hint::after {
+  content: '';
+  display: block;
+  width: 1px;
+  height: 34px;
+  margin: var(--s3) auto 0;
+  background: linear-gradient(var(--chalk), transparent);
+  animation: hint-drop 2.2s var(--ease) infinite;
+  transform-origin: top;
+}
+@keyframes hint-drop {
+  0% {
+    transform: scaleY(0);
+    opacity: 0;
+  }
+  35% {
+    transform: scaleY(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scaleY(1);
+    opacity: 0;
+  }
+}
+.intro-hint.gone {
+  opacity: 0;
+}
+.intro-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--s2);
+}
+.intro-progress {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 3px;
+  background: rgba(244, 241, 232, 0.12);
+}
+.intro-progress span {
+  display: block;
+  height: 100%;
+  background: var(--marker);
+  transform-origin: left;
+  transform: scaleX(0);
+}
+
+/* No-WebGL fallback: the story as a readable page. */
+html[data-fallback] body {
+  overflow: auto;
+}
+html[data-fallback] #globe {
+  display: none;
+}
+.fallback {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: var(--s7) var(--s5);
+  font-family: var(--serif);
+}
+.fallback h1 {
+  font-family: var(--sans);
+  font-stretch: 68%;
+  font-weight: 780;
+  font-size: var(--fs-6);
+}
+.fallback-lead {
+  margin-top: var(--s4);
+  font-size: var(--fs-3);
+  color: var(--silt);
+}
+.fallback-list {
+  margin-top: var(--s6);
+  display: grid;
+  gap: var(--s4);
+}
+.fallback-list li {
+  position: relative;
+  padding-left: var(--s5);
+}
+.fallback-band {
+  position: absolute;
+  left: 0;
+  top: 4px;
+  bottom: 4px;
+  width: 6px;
+}
+.fallback-list strong {
+  font-family: var(--sans);
+  font-size: var(--fs-4);
+}
+.fallback-help {
+  margin-top: var(--s6);
+  color: var(--silt);
+}
+
+.intro-src {
+  margin-top: var(--s2);
+  font-size: var(--fs-0);
+  color: var(--dim);
+}
+.intro-src a {
+  color: var(--silt);
+}

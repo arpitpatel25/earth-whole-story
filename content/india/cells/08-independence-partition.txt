@@ -1,0 +1,206 @@
+
+
+@icell independence.power
+src: Indian National Congress
+src: All-India Muslim League
+src: Non-cooperation movement (1919–1922)
+src: Government of India Act 1935
+T: The Indian National Congress, founded on 28 December 1885, was the first modern nationalist movement of its kind; the All-India Muslim League, active from 1906, spoke for Muslim interests. Gandhi launched the non-cooperation movement on 4 September 1920. The Government of India Act 1935 gave the provinces a greater measure of autonomy.
+K: Indians formed political parties to ask for a say in their own government, and then for freedom. Under Gandhi's leadership, many people refused to cooperate with British rule.
+
+@icell independence.war
+src: Jallianwala Bagh massacre
+src: Chittagong armoury raid
+src: Indian National Army
+T: On 13 April 1919 Brigadier-General Dyer blocked the exit of the Jallianwala Bagh in Amritsar and ordered his troops to fire on the crowd. Some nationalists took up arms: revolutionaries raided the Chittagong armoury on 18 April 1930, and during the Second World War the Indian National Army, allied with Japan, joined an invasion that was halted at Imphal.
+K: In 1919 soldiers under a British general fired on a large crowd gathered in a garden in Amritsar. Most Indians followed Gandhi's peaceful way, but some took up weapons to fight for freedom.
+
+@icell independence.trade
+src: Swadeshi movement
+src: Salt March
+src: Khadi
+T: Buying and selling became weapons. The Swadeshi movement, formally launched at Calcutta's Town Hall on 7 August 1905, aimed to curb foreign goods by relying on domestic production, and the boycott of foreign cloth stayed prominent. In 1930 Gandhi's Salt March challenged the British monopoly on salt.
+K: Indians stopped buying British cloth and made their own instead. In 1930 Gandhi walked to the sea to make salt, because the British would not let Indians make or sell it freely.
+
+@icell independence.work
+src: Champaran Satyagraha
+src: All India Trade Union Congress
+src: Khadi
+T: Workers and peasants entered politics. At Champaran in 1917, Gandhi's first satyagraha in India backed farmers forced to grow indigo for barely any payment. The All India Trade Union Congress was founded on 31 October 1920 with Lala Lajpat Rai as its first president. Gandhi urged Indians to spin their own yarn on the charkha.
+K: Gandhi's first big protest in India was for poor farmers who were forced to grow indigo for almost no pay. Factory workers formed trade unions to ask for fair treatment.
+
+@icell independence.food
+src: Salt March
+src: Kheda Satyagraha of 1918
+src: Champaran Satyagraha
+T: Food and tax were bound together. At Kheda in 1918, Gandhi organised support for peasants who could not pay land revenue because of famine and plague. The Salt March of 1930 was a campaign of tax resistance against the British salt monopoly: 24 days and 387 kilometres on foot from Sabarmati Ashram to Dandi.
+K: Everyone needs salt, and the British taxed it. So in 1930 Gandhi walked 387 kilometres to the sea in protest. Earlier, he had helped farmers who could not pay their taxes after a famine.
+
+@icell independence.daily
+src: Khadi
+src: Vande Mataram
+src: Inquilab Zindabad
+T: Nationalism reached into everyday life. Gandhi promoted khadi, hand-spun and hand-woven cloth, as swadeshi, of the homeland. "Vande Mataram", adopted by the Congress in 1905, became a salutation to the motherland. Crowds shouted "Inquilab Zindabad", Hindustani for "Long live the revolution".
+K: People showed they wanted freedom in their daily lives. They wore khadi, cloth spun and woven by hand at home. They sang "Vande Mataram" and shouted "Long live the revolution!"
+
+@icell independence.science
+src: Bose Institute
+src: Satyendra Nath Bose
+src: Meghnad Saha
+T: Indian science grew in these same decades. Jagadish Chandra Bose founded the Bose Institute on 30 November 1917. In the early 1920s Satyendra Nath Bose laid the foundation of Bose–Einstein statistics; the particles called bosons are named after him. Meghnad Saha's ionisation equation let astronomers relate the spectra of stars to their temperatures.
+K: Indian scientists made great discoveries in these years. A whole family of tiny particles, the bosons, is named after the physicist Satyendra Nath Bose.
+
+@icell independence.medicine
+src: Bengal Chemicals and Pharmaceuticals
+src: Bhore Committee
+T: The chemist Prafulla Chandra Ray founded Bengal Chemical in Calcutta in 1901 to make chemicals and medicines in India; it survives as a government-owned pharmaceutical maker. In 1943 the government set up the Bhore Committee to survey the country's health conditions and health organisation; its report came in 1946.
+K: An Indian chemist, Prafulla Chandra Ray, started a company in 1901 to make medicines in India. Just before independence, a committee studied the health of the whole country.
+
+@icell independence.technology
+src: Congress Radio
+src: All India Radio
+src: Hind Swaraj or Indian Home Rule
+T: Old and new technologies both served the cause. Gandhi made the hand spinning wheel a symbol, and in Hind Swaraj set out his doubts about mechanisation. Yet during the Quit India Movement an underground station, Congress Radio, organised by the 22-year-old student Usha Mehta, broadcast from 27 August to 12 November 1942.
+K: Gandhi chose the simple spinning wheel as the sign of freedom. But a young student named Usha Mehta used a secret radio station to spread news of the freedom struggle in 1942.
+
+@icell independence.religion
+src: Khilafat Movement
+src: Vaikom Satyagraha
+src: Mahad Satyagraha
+src: Poona Pact
+T: Religion and caste ran through the freedom struggle. The Khilafat movement of 1919–1922 mobilised Muslims over the fate of the Ottoman caliphate. At Vaikom in 1924–25, protesters demanded access to the roads around a temple; at Mahad on 20 March 1927, B. R. Ambedkar led Dalits to drink from a public tank. The Poona Pact of 1932 raised the political representation of the depressed classes.
+K: The freedom movement was also a fight for fairness between Indians. B. R. Ambedkar led people who were called "untouchable" to drink from a public water tank that had been forbidden to them.
+
+@icell independence.arts
+src: Bharat Mata (painting)
+src: Vande Mataram
+src: Sarojini Naidu
+T: Artists gave the nation a face and a voice. Abanindranath Tagore painted Bharat Mata, "Mother India", in watercolour in 1905; he had first called it "Mother Bengal". Bankim Chandra Chatterjee's poem "Vande Mataram", published in his novel Anandamath in 1882, was sung as an ode to the motherland. Sarojini Naidu was both poet and political leader.
+K: An artist painted India as a mother, and a poem called "Vande Mataram" praised the motherland. Songs, poems and pictures helped people to feel they belonged to one country.
+
+@icell independence.language
+src: Hind Swaraj or Indian Home Rule
+src: Inquilab Zindabad
+src: Vande Mataram
+T: The movement spoke in India's own languages. Gandhi wrote Hind Swaraj in 1909 in Gujarati, his mother tongue; the government banned it in 1910 as seditious. "Vande Mataram" was written in Bengali. The slogan "Inquilab Zindabad" is Hindustani.
+K: Gandhi wrote his ideas about freedom in his own language, Gujarati, and the British banned the book. Songs and slogans in Bengali and Hindustani spread across the country.
+
+@icell independence.nature
+src: Kheda Satyagraha of 1918
+src: Meghnad Saha
+src: Salt March
+T: Famine and plague stood behind the peasants' protest at Kheda in 1918. Nationalists began to plan for the land itself: the astrophysicist Meghnad Saha campaigned for river valley development and flood control. And the Salt March ended on the shore at Dandi.
+K: Floods, droughts and disease made life hard for farmers, and helped to push them to protest. Indian scientists began to plan how to control the rivers.
+
+@icell independence.movement
+src: Champaran Satyagraha
+src: Komagata Maru incident
+src: Ghadar movement
+src: Indian National Army
+T: The struggle was carried by Indians abroad as well as at home. Gandhi returned from South Africa in 1915. Expatriate Indians founded the Ghadar movement to overthrow British rule. On 23 May 1914 the passengers of the steamship Komagata Maru were denied entry at Vancouver. The Indian National Army was formed in Southeast Asia.
+K: Indians living in other countries joined the fight for freedom too. Gandhi himself came home from South Africa in 1915 with new ideas about peaceful protest.
+
+@icell independence.women
+src: Sarojini Naidu
+src: Aruna Asaf Ali
+src: Rani Gaidinliu
+src: Matangini Hazra
+src: Congress Radio
+T: Women were leaders of the movement. Sarojini Naidu was a poet and political activist. Aruna Asaf Ali hoisted the national flag at Gowalia Tank Maidan in Bombay in 1942. Rani Gaidinliu, a Naga leader, was arrested in 1932 at 16 and sentenced to life imprisonment. Matangini Hazra, born in 1870, died on 29 September 1942 while leading a batch of volunteers.
+K: Many women were leaders in the freedom struggle. Aruna Asaf Ali raised the Indian flag in Bombay in 1942. Rani Gaidinliu led a revolt in the Naga hills when she was only a teenager.
+
+@icell partition.power
+src: Indian Independence Act 1947
+src: Political integration of India
+src: Constitution of India
+T: The Indian Independence Act 1947 partitioned British India into two dominions, India and Pakistan. The 562 princely states then had to be brought in; Vallabhbhai Patel and V. P. Menon carried out their integration into India. The Constituent Assembly adopted the constitution on 26 November 1949, and it came into force on 26 January 1950.
+K: In August 1947 British rule ended and two new countries were born: India and Pakistan. Hundreds of small kingdoms joined them. India then wrote its own constitution.
+
+@icell partition.war
+src: Direct Action Day
+src: India–Pakistan war of 1947–1948
+src: Indian annexation of Hyderabad
+T: Violence came before and after the border. Direct Action Day, 16 August 1946, led to the great Calcutta riots. From 1947 to 1948 India and Pakistan fought their first war, over the princely state of Jammu and Kashmir. In September 1948 a military operation called a "police action" annexed Hyderabad to India.
+K: The new countries were born in fighting. There were terrible riots, and India and Pakistan went to war over Kashmir in their very first year.
+
+@icell partition.trade
+src: Partition of Bengal (1947)
+T: The new border cut through working economies. In Bengal the fertile east had produced food and raw materials for the industrial west, which sent back manufactured goods. Partition left all the coal mines and all but two of the jute mills on the western side, a division foreseen as economically disastrous for East Bengal.
+K: The new border cut across old trade routes. In Bengal, the farms that grew raw materials ended up in one country and almost all the jute mills in the other.
+
+@icell partition.work
+src: Faridabad
+src: Guru Tegh Bahadur Nagar, Delhi
+T: Millions of refugees had to rebuild their working lives. After 1947, under the leadership of Kamaladevi Chattopadhyay, over 50,000 refugees were resettled at Faridabad near Delhi, reviving the city's economy and social life.
+K: People who had lost their homes and jobs had to start again. More than 50,000 refugees were given a new start in the town of Faridabad, near Delhi.
+
+@icell partition.food
+src: Partition of Bengal (1947)
+T: Partition separated people from their food supply. After 1947 West Bengal suffered a substantial food shortage, because the fertile rice-growing districts had gone to East Bengal.
+K: After the border was drawn, West Bengal did not have enough food, because the best rice fields were now on the other side.
+
+@icell partition.daily
+src: Guru Tegh Bahadur Nagar, Delhi
+src: Partition of India
+T: For millions, daily life became life in a camp. Kingsway Camp in north Delhi became the city's largest refugee camp, sheltering 300,000 people. In all, Partition displaced between 12 and 20 million people along religious lines.
+K: Millions of families had to leave their homes and live in camps. One camp in Delhi held 300,000 people.
+
+@icell partition.science
+src: Council of Scientific and Industrial Research
+src: Tata Institute of Fundamental Research
+src: Atomic Energy Commission of India
+T: Even amid the upheaval, the foundations of national science were laid. The Council of Scientific and Industrial Research had been set up in 1942, and the Tata Institute of Fundamental Research, proposed by Homi Bhabha, was founded in 1945. The Atomic Energy Commission was established on 3 August 1948.
+K: Even in these hard years, India set up new places for science. In 1948 it created a commission to study the energy inside atoms.
+
+@icell partition.medicine
+src: Amrit Kaur
+src: Bhore Committee
+T: Rajkumari Amrit Kaur became independent India's first Health Minister in 1947 and held the post until 1957. The new government inherited the Bhore Committee's 1946 survey of the country's health conditions.
+K: India's first Health Minister was a woman, Rajkumari Amrit Kaur. She looked after the country's health for ten years.
+
+@icell partition.technology
+src: Damodar Valley Corporation
+src: Tryst with Destiny
+T: The new state turned at once to large projects. The Damodar Valley Project, begun after the devastating flood of 1943 in a flood-prone valley, was the first multipurpose river valley project of independent India; the astrophysicist Meghnad Saha was a pioneer in conceiving and advocating it.
+K: One of free India's first big projects was to tame the river Damodar with dams, to stop floods and make electricity.
+
+@icell partition.religion
+src: Partition of India
+src: Noakhali riots
+src: Assassination of Mahatma Gandhi
+T: Partition divided people along religious lines, with large-scale violence between communities, as at Noakhali in Bengal in 1946, where Hindus were massacred. On 30 January 1948 Mahatma Gandhi, aged 78, was shot dead in New Delhi by Nathuram Godse, a Hindu nationalist.
+K: The border was drawn by religion, and people of different religions attacked one another. In January 1948 Gandhi was shot dead in New Delhi.
+
+@icell partition.arts
+src: Toba Tek Singh (short story)
+src: Train to Pakistan
+src: Amrita Pritam
+T: Writers recorded what official papers could not. Amrita Pritam's poem "Ajj aakhaan Waris Shah nu" voiced her anguish at the massacres. Saadat Hasan Manto's story "Toba Tek Singh", published in 1955, follows the inmates of a Lahore asylum who are to be divided between the two countries. Khushwant Singh's novel Train to Pakistan, 1956, sees Partition from one border village.
+K: Writers told the story of Partition in poems, stories and novels. They showed how ordinary people suffered when the border was drawn.
+
+@icell partition.language
+src: Bengali language movement
+src: Toba Tek Singh (short story)
+src: Amrita Pritam
+T: Language soon became a new fault line. In 1948 the government of Pakistan ordained that Urdu would be the sole federal language. In East Bengal a movement arose for the recognition of Bengali, reaching its height in 1952. Partition's own literature was written in several languages: Manto wrote in Urdu, Amrita Pritam in Punjabi and Hindi.
+K: Pakistan's leaders said that Urdu would be the only national language. But people in East Bengal spoke Bengali, and they protested to defend their language.
+
+@icell partition.nature
+src: Radcliffe Line
+src: Indus Waters Treaty
+T: The Radcliffe Line divided 175,000 square miles of land, and with it rivers and canals. In the first years after Partition the waters of the Indus system were shared out under an Inter-Dominion Accord of 4 May 1948, until the Indus Waters Treaty of 1960.
+K: The new border cut across rivers and canals. India and Pakistan had to agree how to share the water of the river Indus.
+
+@icell partition.movement
+src: Partition of India
+src: Chandigarh
+src: Faridabad
+T: Partition displaced between 12 and 20 million people and created overwhelming refugee crises. New towns grew to hold them. With Lahore lost to Pakistan, East Punjab needed a new capital, and Chandigarh was founded in the aftermath.
+K: Between 12 and 20 million people left their homes and crossed the new border. New towns were built for them.
+
+@icell partition.women
+src: Violence against women during the Partition of India
+src: Liaquat–Nehru Pact
+src: Amrit Kaur
+T: Women suffered Partition's violence in particular ways: it is estimated that between 75,000 and 100,000 women were kidnapped and raped. The Liaquat–Nehru Pact later provided that abducted women were to be returned. Women also helped to found the republic: Amrit Kaur sat in the Constituent Assembly and became a minister.
+K: Partition was especially cruel to women, and many thousands were kidnapped. Women also helped to build the new country: some helped to write India's constitution.

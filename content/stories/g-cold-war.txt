@@ -1,0 +1,213 @@
+# Short story: the Cold War (format: rivalry). Facts from the articles named in src.
+
+@story cold-war
+title: The Cold War
+kid-title: The Cold War
+format: rivalry
+order: 7
+color: #5aa9ff
+deck: Two superpowers, two blocs, and forty-four years in which they never fought each other directly. Visit the places where they nearly did.
+kid-deck: For more than forty years two powerful countries were rivals. They never fought each other directly. Visit the places where things nearly went wrong.
+led: era:internet | Internet | a network born in the Cold War; era:globalization | Globalization | the world after 1991; story:world-war-two | World War II | the war that came before; era:space-age | Space Age | the race to orbit and the Moon
+
+@scene cw-01
+story: cold-war
+title: The Cold War
+y: 1947
+cam: 55, -10, 22000
+look: title
+src: Cold War
+T: The Cold War was a rivalry between the United States and the Soviet Union, each with its allies: a capitalist Western Bloc and a communist Eastern Bloc. It began in the aftermath of the Second World War and ended when the Soviet Union dissolved in 1991.
+T: It is called cold because the two superpowers never fought each other directly. Other people's countries were where it turned hot.
+K: After the Second World War, the United States and the Soviet Union became rivals. Each had friends on its side. They never fought each other directly, which is why it is called a "cold" war. But wars were fought in other countries because of it.
+show: region | countries=USA | color=west
+show: region | countries=RUS | color=east
+note: The two superpowers are tinted using today's borders; the Soviet Union was larger than today's Russia.
+
+@scene cw-02
+story: cold-war
+title: A line across Europe
+y: 1946
+cam: 50, 14, 5600
+src: Iron Curtain
+T: From the end of the war in 1945 a political and physical boundary divided Europe in two. It was known as the Iron Curtain, and it stood until the Cold War ended in 1990 and 1991. East of it lay many small states aligned with the Soviet Union.
+K: A line was drawn across the middle of Europe. Countries on the east side were tied to the Soviet Union. People called the line the Iron Curtain.
+show: route | via=Lübeck; Magdeburg; Plzeň; Vienna; Trieste | color=east | dash=1 | still=1
+note: The dashed line is a schematic of the divide through central Europe.
+
+@scene cw-03
+story: cold-war
+title: Dollars for Europe
+y: 1948
+cam: 49, 6, 6500
+src: Marshall Plan
+T: In 1948 the United States enacted the Marshall Plan, officially the European Recovery Program. It transferred 13.3 billion dollars to seventeen countries of western Europe to rebuild their economies after the war.
+K: In 1948 the United States gave 17 countries in western Europe a huge amount of money to help them rebuild after the war.
+show: arrow | from=Washington, D.C. | to=Paris | color=west
+
+@scene cw-04
+story: cold-war
+title: Berlin, blockaded
+y: 1948-06-24
+to: 1949-05-12
+cam: Berlin | 3600
+linear: 1
+src: Berlin Blockade
+T: Berlin lay deep inside the Soviet zone of occupied Germany, but the city itself was shared. From 24 June 1948 to 12 May 1949 the Soviet Union blocked the Western Allies' railway, road and canal access to the sectors of Berlin under Western control. It was one of the first major crises of the Cold War.
+K: The city of Berlin was shared between the two sides. In 1948 the Soviet Union blocked all the roads, railways and canals into the western part of the city. The blockade lasted almost a year.
+show: site | at=Berlin | label=Berlin Blockade, 1948 to 1949 | ring=1
+
+@scene cw-05
+story: cold-war
+title: Two alliances
+y: 1949
+to: 1955-05
+cam: 52, 10, 9500
+src: NATO
+src: Warsaw Pact
+T: In 1949 the North Atlantic Treaty created NATO, a military alliance whose members agreed to defend one another if any was attacked. In May 1955, in Warsaw, the Soviet Union and seven other Eastern Bloc states signed a defence treaty of their own: the Warsaw Pact.
+K: Each side made a club of countries that promised to protect one another. The western club was called NATO. The eastern one was called the Warsaw Pact.
+show: site | at=Washington, D.C. | label=North Atlantic Treaty, 1949 | color=west
+show: site | at=Warsaw | label=Warsaw Pact, May 1955 | color=east | since=1955-05
+show: region | countries=USA | color=west
+show: region | countries=RUS | color=east
+
+@scene cw-06
+story: cold-war
+title: Korea
+y: 1950-06-25
+to: 1953-07-27
+cam: 38, 127, 4600
+linear: 1
+src: Korean War
+src: Division of Korea
+T: Korea had been divided in 1945 into a Soviet zone in the north and an American zone in the south, and they had become two governments. On 25 June 1950 war broke out between them.
+T: North Korea was supported by China and the Soviet Union. South Korea was supported by the United Nations, led by the United States. The fighting stopped on 27 July 1953. The country is still divided.
+K: Korea had been split into two countries, North and South. In 1950 they went to war. China and the Soviet Union helped the North. The United States and others helped the South. The fighting stopped in 1953, and Korea is still split today.
+show: site | at=Seoul | label=Korean War, 1950 to 1953 | ring=1
+show: region | countries=PRK | color=east
+show: region | countries=KOR | color=west
+
+@scene cw-07
+story: cold-war
+title: Neither side
+y: 1955-04-18
+cam: Bandung | 9500
+src: Bandung Conference
+src: Non-Aligned Movement
+T: Not everyone chose a bloc. From 18 to 24 April 1955, twenty-nine Asian and African states, most of them newly independent, met at Bandung in Indonesia. Together they represented 1.5 billion people, 54 percent of the world.
+T: Out of that mood grew the Non-Aligned Movement, a forum of countries not formally aligned with or against any major power bloc. It now has 120 members.
+K: Many countries did not want to pick a side. In 1955, 29 countries from Asia and Africa met in Indonesia to stand together. More than half the people in the world lived in those countries.
+show: site | at=Bandung | label=Bandung Conference, April 1955 | ring=1 | color=nonaligned
+
+@scene cw-08
+story: cold-war
+title: The race into space
+y: 1957-10-04
+to: 1969-07-20
+cam: 45, -40, 22000
+src: Sputnik 1
+src: Apollo 11
+model: saturn-v
+T: On 4 October 1957 the Soviet Union launched Sputnik 1, the first artificial satellite of the Earth. It sent a radio signal for three weeks.
+T: The rivalry moved into orbit and beyond. In July 1969 the American mission Apollo 11, launched on a Saturn V rocket from Florida, landed the first humans on the Moon: Neil Armstrong and Buzz Aldrin, with Michael Collins in orbit above.
+K: In 1957 the Soviet Union launched the first satellite, called Sputnik. The two countries raced each other into space. In 1969 American astronauts became the first people to walk on the Moon.
+show: site | at=Baikonur Cosmodrome | label=Sputnik 1, 4 October 1957 | color=east | ring=1
+show: site | at=Kennedy Space Center | label=Apollo 11, July 1969 | color=west | since=1969-07-16
+
+@scene cw-09
+story: cold-war
+title: A wall through a city
+y: 1961-08-13
+cam: Berlin Wall | 2600
+src: Berlin Wall
+T: On 13 August 1961 the government of East Germany began building a wall. The Berlin Wall was a guarded concrete barrier with watchtowers that encircled West Berlin, cutting it off from East Berlin and the rest of East Germany. It stood until 1989.
+K: In 1961 East Germany built a wall right round the western part of Berlin, with guards and watchtowers, so that people could not cross. Families and friends were cut off from one another for 28 years.
+show: site | at=Berlin Wall | label=Berlin Wall, from 13 August 1961 | ring=1
+note: The Kid text's last sentence follows from the dates: 1961 to 1989.
+
+@scene cw-10
+story: cold-war
+title: Thirteen days
+y: 1962-10-16
+to: 1962-10-28
+cam: 24, -82, 6500
+linear: 1
+res: 0.003
+src: Cuban Missile Crisis
+T: From 16 to 28 October 1962 the Cold War came closer to full-scale nuclear war than at any other time. The United States had placed nuclear missiles in Britain, Italy and Turkey. The Soviet Union matched them with missiles in Cuba. The confrontation between the two governments lasted thirteen days.
+K: In 1962 the Soviet Union put nuclear missiles on the island of Cuba, close to the United States. For thirteen days the world was afraid a nuclear war would start. In the end, the two sides backed down.
+show: site | at=Havana | label=Cuba, October 1962 | ring=1 | color=east
+show: arrow | from=Moscow | to=Havana | color=east
+note: The crisis lasted from 16 to 28 October 1962 and is widely considered the closest the Cold War came to full-scale nuclear war.
+
+@scene cw-11
+story: cold-war
+title: Vietnam
+y: 1955
+to: 1975-04-30
+cam: 16, 107, 5200
+src: Vietnam War
+T: From about 1955 to 30 April 1975 war was fought in Vietnam, Laos and Cambodia. North Vietnam was supported by the Soviet Union and China, South Vietnam by the United States and other anti-communist countries. It was a proxy war of the Cold War, fought with the superpowers' weapons on other people's land.
+K: For twenty years there was a war in Vietnam. The Soviet Union and China helped one side, and the United States helped the other. It ended in 1975.
+show: site | at=Hanoi | label=North Vietnam | color=east
+show: site | at=Ho Chi Minh City | label=South Vietnam (Saigon) | color=west
+show: region | countries=VNM | color=neutral | opacity=0.3
+
+@scene cw-12
+story: cold-war
+title: Afghanistan
+y: 1979-12
+to: 1989-02
+cam: Kabul | 5200
+src: Soviet–Afghan War
+T: From December 1979 to February 1989 the Soviet Union and the Afghan communist government fought the Afghan mujahideen, who were backed by Pakistan, the United States and others. It was the beginning of a conflict in Afghanistan that would last 48 years.
+K: In 1979 the Soviet army went into Afghanistan to fight on the government's side. The war lasted ten years.
+show: site | at=Kabul | label=Soviet–Afghan War, 1979 to 1989 | ring=1
+show: arrow | from=Tashkent | to=Kabul | color=east
+note: The arrow is schematic.
+
+@scene cw-13
+story: cold-war
+title: 9 November 1989
+y: 1989-11-09
+cam: Berlin Wall | 2600
+src: Fall of the Berlin Wall
+T: On the evening of 9 November 1989 an East German official announced at a press conference, prematurely, that citizens could travel without restrictions. People gathered at the crossing points in Berlin, citing the news. The Wall, at which hundreds had been killed over the decades, was open.
+K: On 9 November 1989 East Germany said its people could travel freely. Crowds rushed to the Berlin Wall, and the gates were opened. People from both sides climbed on top of it and celebrated.
+show: site | at=Berlin Wall | label=The Wall opens, 9 November 1989 | ring=1 | color=marker
+note: The celebration in the Kid text is widely documented but not described in the cited lead.
+
+@scene cw-14
+story: cold-war
+title: 26 December 1991
+y: 1991-12-26
+cam: Moscow | 12000
+src: Dissolution of the Soviet Union
+T: On 26 December 1991 the Soviet Union was formally dissolved and ceased to exist as a state. Mikhail Gorbachev's attempts to reform its political and economic system, and to end a long stagnation, had not saved it.
+T: The Cold War was over. Most of what it built is still with us: the alliances, the weapons, the satellites overhead.
+K: On 26 December 1991 the Soviet Union came to an end and split into separate countries. The Cold War was over.
+show: region | countries=RUS, UKR, BLR, KAZ, UZB, TKM, KGZ, TJK, GEO, ARM, AZE, MDA, LTU, LVA, EST | color=neutral | opacity=0.3
+show: site | at=Moscow | label=Soviet Union dissolved, 26 December 1991 | ring=1
+note: The fifteen tinted countries are the former Soviet republics, shown with today's borders.
+
+@quiz cw-q1
+story: cold-war
+q: Why is it called the "Cold" War?
+options: The two superpowers never fought each other directly; It was fought in winter; It happened at the North Pole
+a: The two superpowers never fought each other directly
+why: The United States and the Soviet Union were rivals, but they did not go to war with each other.
+
+@quiz cw-q2
+story: cold-war
+q: What was Sputnik 1?
+options: The first satellite; A wall; A treaty
+a: The first satellite
+why: The Soviet Union launched it on 4 October 1957.
+
+@quiz cw-q3
+story: cold-war
+q: What happened in Berlin on 9 November 1989?
+options: The Wall was opened; The Wall was built; A war began
+a: The Wall was opened
+why: After 28 years, people could cross between East and West Berlin again.

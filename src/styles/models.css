@@ -1,0 +1,253 @@
+/* The 3D viewer and its gallery. See DESIGN.md, "Objects". */
+.mgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: var(--s2);
+}
+.mcard {
+  display: grid;
+  gap: 3px;
+  width: 100%;
+  min-height: 84px;
+  padding: 10px 12px 11px;
+  text-align: left;
+  background: var(--ink-2);
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--c);
+  border-radius: var(--radius);
+  transition: background var(--t-fast) var(--ease), border-color var(--t-fast) var(--ease);
+}
+.mcard:hover,
+.mcard:focus-visible {
+  background: var(--ink-3);
+  border-color: var(--line-strong);
+  border-top-color: var(--c);
+}
+.mcard-when {
+  font-size: var(--fs-0);
+  color: var(--silt);
+}
+.mcard strong {
+  font-family: var(--sans);
+  font-stretch: 78%;
+  font-weight: 700;
+  font-size: var(--fs-3);
+  line-height: 1.15;
+}
+.mcard em {
+  font-style: normal;
+  font-size: var(--fs-0);
+  color: var(--dim);
+}
+
+.mv {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) min(400px, 38vw);
+  background: radial-gradient(ellipse at 38% 46%, #1b3049 0%, #0b1826 46%, #03070c 100%);
+}
+.mv[hidden] {
+  display: none;
+}
+.mv-stage {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+}
+.mv-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+  touch-action: none;
+  outline: none;
+}
+.mv-canvas:active {
+  cursor: grabbing;
+}
+.mv-canvas:focus-visible {
+  box-shadow: inset 0 0 0 2px var(--marker);
+}
+.mv-dots {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.mv-dot {
+  position: absolute;
+  left: -13px;
+  top: -13px;
+  width: 26px;
+  height: 26px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: rgba(7, 17, 29, 0.86);
+  border: 1.5px solid var(--chalk);
+  color: var(--chalk);
+  font-size: var(--fs-0);
+  font-weight: 700;
+  pointer-events: auto;
+  will-change: transform;
+}
+.mv-dot:hover {
+  border-color: var(--marker);
+  color: var(--marker);
+}
+.mv-dot[aria-pressed='true'] {
+  background: var(--marker);
+  border-color: var(--marker);
+  color: var(--marker-ink);
+}
+.mv-hint {
+  position: absolute;
+  left: var(--s4);
+  bottom: var(--s4);
+  margin: 0;
+  font-size: var(--fs-1);
+  color: var(--silt);
+  pointer-events: none;
+}
+.mv-tools {
+  position: absolute;
+  right: var(--s4);
+  bottom: var(--s3);
+  display: flex;
+  gap: var(--s2);
+}
+.mv-panel {
+  position: relative;
+  overflow: auto;
+  padding: var(--s5) var(--s5) var(--s6);
+  background: rgba(7, 17, 29, 0.92);
+  border-left: 1px solid var(--line);
+  scrollbar-width: thin;
+  scrollbar-color: var(--ink-3) transparent;
+  outline: none;
+}
+.mv-close {
+  position: absolute;
+  top: var(--s3);
+  right: var(--s3);
+}
+.mv-kicker {
+  font-size: var(--fs-1);
+  color: var(--silt);
+  padding-right: 44px;
+}
+.mv-title {
+  margin: 4px 0 var(--s3);
+  font-family: var(--sans);
+  font-stretch: 70%;
+  font-weight: 780;
+  font-size: var(--fs-5);
+  line-height: 1.05;
+}
+.mv-lead,
+.mv-text {
+  font-family: var(--read);
+  font-size: var(--fs-3);
+  line-height: 1.5;
+  text-wrap: pretty;
+}
+.mv-parts {
+  display: grid;
+  gap: 2px;
+  margin: var(--s4) 0 var(--s3);
+  padding: 0;
+  list-style: none;
+}
+.mv-parts button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 6px 8px 6px 6px;
+  margin-left: -6px;
+  text-align: left;
+  font-size: var(--fs-2);
+  font-weight: 560;
+  border-radius: 2px;
+}
+.mv-parts button:hover {
+  background: var(--ink-3);
+}
+.mv-parts b {
+  flex: none;
+  width: 24px;
+  height: 24px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1.5px solid var(--silt);
+  font-size: var(--fs-0);
+  font-weight: 700;
+}
+.mv-parts button[aria-pressed='true'] b {
+  background: var(--marker);
+  border-color: var(--marker);
+  color: var(--marker-ink);
+}
+.mv-part {
+  min-height: 132px;
+  padding: var(--s3) 0 var(--s3) var(--s3);
+  border-left: 2px solid var(--marker);
+}
+.mv-part h3 {
+  font-size: var(--fs-3);
+  font-weight: 680;
+  margin-bottom: 4px;
+}
+.mv-empty {
+  font-size: var(--fs-2);
+  color: var(--silt);
+}
+.mv-note {
+  margin: var(--s4) 0 var(--s2);
+  font-size: var(--fs-1);
+  line-height: 1.45;
+  color: var(--silt);
+}
+.mv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s2);
+  margin-top: var(--s4);
+}
+
+@media (max-width: 800px) {
+  .mv {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: 46vh minmax(0, 1fr);
+  }
+  .mv-panel {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding: var(--s4) var(--s4) var(--s6);
+  }
+  .mv-hint {
+    display: none;
+  }
+  .mv-title {
+    font-size: var(--fs-4);
+  }
+  .mgrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* offered only when the globe is zoomed all the way out */
+.solar-btn {
+  position: fixed;
+  right: var(--s4);
+  bottom: calc(var(--tl-h, 190px) + var(--s4));
+  z-index: 30;
+  gap: 8px;
+  background: rgba(7, 17, 29, 0.86);
+}
+.solar-btn[hidden] {
+  display: none;
+}

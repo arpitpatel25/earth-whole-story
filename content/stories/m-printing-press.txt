@@ -1,0 +1,211 @@
+# Short story: the printing press (format: spread). Facts from the articles named in src.
+
+@story printing-press
+title: The printing press
+kid-title: The printing press
+format: spread
+order: 13
+color: #f2c14e
+deck: One workshop in Mainz in the 1450s. Presses in 236 European towns by 1500. Watch a machine for copying words spread across the map.
+kid-deck: Before printing, every book was copied by hand. Then one workshop in Germany found a faster way. Watch the idea spread from town to town.
+led: era:scientific-revolution | The Scientific Revolution | what printed books made possible; story:zero | The story of nothing | the numerals that print carried; era:enlightenment | The Enlightenment | ideas in print; era:song-china | Song China | where movable type began
+
+@scene pp-01
+story: printing-press
+title: The *printing press*
+y: 1440
+cam: Mainz | 7000
+look: title
+src: Printing press
+T: Around 1440 the German goldsmith Johannes Gutenberg invented the movable-type printing press. Its spread brought an era of mass communication. Printed texts became cheaper and easier to find, and more adults learned to read.
+T: This story first goes back to where printing began, far to the east. Then it follows the press out of one workshop in Mainz.
+K: Around 1440 a German goldsmith named Johannes Gutenberg invented a machine for printing books. Books became cheaper, and many more people learned to read.
+K: But printing itself began much earlier, far away in Asia. Let us start there.
+
+@scene pp-02
+story: printing-press
+title: A page carved in wood
+y: 868-05-11
+cam: Dunhuang | 5200
+src: Woodblock printing
+src: Diamond Sutra
+T: Printing began in China, with woodblocks: a whole page carved into one block, inked, and pressed onto paper.
+T: A copy of the Diamond Sutra found among the manuscripts of Dunhuang carries a date, 11 May 868. It is broadly considered the oldest printed book that survives, though earlier printed material exists.
+K: Printing began in China. A printer carved a whole page into a block of wood, covered it in ink and pressed paper onto it.
+K: A printed Buddhist text found at Dunhuang in China has a date on it: the year 868. It is the oldest dated printed book in the world.
+show: site | at=Dunhuang | label=Dunhuang, Diamond Sutra, 868 | ring=1
+
+@scene pp-03
+story: printing-press
+title: One piece for each character
+y: 1039
+to: 1048
+cam: 34, 112, 6500
+src: Bi Sheng
+T: Between 1039 and 1048 a Chinese artisan, Bi Sheng, invented the world's first movable type: small tiles of fired clay, one for each character, that could be set, printed and used again.
+T: Bi Sheng was a commoner, and almost nothing is known of his life. His invention was recorded only in the Dream Pool Essays of the scholar-official Shen Kuo.
+K: About a thousand years ago, a Chinese craftsman named Bi Sheng had a clever idea. Instead of carving a whole page, he made a small clay piece for each character. The pieces could be put together to make a page, then taken apart and used again.
+
+@scene pp-04
+story: printing-press
+title: Metal type in Korea
+y: 1377-07
+cam: Heungdeoksa | 4200
+src: Jikji
+T: In July 1377, at Heungdeok Temple in Cheongju in Korea, a Buddhist anthology known as the Jikji was printed with metal type. It is the world's oldest surviving book printed with movable metal type, 78 years older than Gutenberg's Bible.
+T: Only the second volume of the metal printing survives. It is kept in the National Library of France.
+K: In 1377, at a temple in Korea, a book was printed using pieces of type made of metal. It is the oldest book of its kind that still exists, and it is older than Gutenberg's famous Bible.
+show: site | at=Heungdeoksa | label=Heungdeok Temple, 1377 | ring=1
+
+@scene pp-05
+story: printing-press
+title: A goldsmith in Mainz
+y: 1440
+to: 1454
+cam: Mainz | 1600
+src: Johannes Gutenberg
+src: Printing press
+T: Gutenberg's achievement was to make a system. He found a way to mass-produce metal type, casting it from an alloy of lead, tin and antimony. He used oil-based ink. And he built a wooden press similar to the agricultural screw presses of the time.
+T: Movable type was already in use in East Asia. What Gutenberg's press brought was a much faster rate of printing.
+K: Gutenberg put several ideas together. He found a quick way to make lots of little metal letters. He used a thick, oily ink. And he built a wooden press that squeezed the paper down onto the letters.
+show: site | at=Mainz | label=Mainz | ring=1
+
+@scene pp-06
+story: printing-press
+title: The Bible, about 180 times
+y: 1454-10-22
+to: 1455
+cam: Mainz | 1100
+src: Gutenberg Bible
+T: The first printing from the workshop that can be dated precisely is a church indulgence that existed by 22 October 1454. The first finished copies of the Bible were available in 1454 or 1455.
+T: Either 158 or 180 copies were printed. Forty-nine survive at least in substantial part. It was the earliest major book printed in Europe with mass-produced metal movable type.
+K: Gutenberg's most famous book is a Bible in Latin, finished around 1455. He printed about 180 copies. Forty-nine of them still exist today.
+
+@scene pp-07
+story: printing-press
+title: Out of one workshop
+y: 1454
+to: 1500
+cam: 48, 9, 4600
+cam-to: 47, 12, 6500
+linear: 1
+weight: 4
+src: Global spread of the printing press
+T: At first Gutenberg's shop was the only one. Then the craft spread, with major towns as the centres: Cologne in 1466, Rome in 1467, Venice in 1469, Paris in 1470, Buda and Kraków in 1473.
+T: By 1481 Italy and Germany each had print shops in about 40 towns. By 1500, 236 towns in Europe had presses, and an estimated twenty million books had been printed, for a population of perhaps seventy million.
+K: At first there was only one print shop. Then printers carried the idea from town to town. Watch the dots appear as you scroll.
+K: By the year 1500, there were presses in 236 towns in Europe. They had printed about twenty million books.
+show: spread | id=printing-press | color=marker | labels=all
+note: Only towns named in the source are marked. Hundreds more had presses by 1500.
+
+@scene pp-08
+story: printing-press
+title: Books that fit in a pocket
+y: 1500
+cam: Venice | 1500
+src: Aldus Manutius
+T: In Venice the printer and humanist Aldus Manutius founded the Aldine Press, devoted to publishing rare texts, among them Greek manuscripts. He introduced a small, portable book format, a forerunner of the modern paperback, and commissioned the typefaces that were the first known precursor of italic.
+K: In Venice, a printer named Aldus Manutius began to make small books that were easy to carry around. He also had a new slanted style of letters made, the first step towards the italics we use today.
+show: site | at=Venice | label=Venice, the Aldine Press
+
+@scene pp-09
+story: printing-press
+title: Print and the Reformation
+y: 1517
+to: 1522-09
+cam: Wittenberg | 2600
+src: Ninety-five Theses
+src: Luther Bible
+src: Printing press
+T: In 1517 Martin Luther, a professor at Wittenberg, wrote ninety-five theses against the sale of indulgences. They are seen in retrospect as the start of the Protestant Reformation. In September 1522 his German translation of the New Testament was published.
+T: Printing let information move quickly across Europe, and it contributed to the Reformation and to the Scientific Revolution.
+K: In 1517 a teacher named Martin Luther wrote down his disagreements with the Church. Later he translated the Bible into German. Printing let new ideas travel fast.
+show: site | at=Wittenberg | label=Wittenberg, 1517
+
+@scene pp-10
+story: printing-press
+title: The Earth moves, in print
+y: 1543
+cam: Nuremberg | 2600
+src: De revolutionibus orbium coelestium
+T: In 1543 a press in Nuremberg printed On the Revolutions of the Heavenly Spheres by Nicolaus Copernicus. It set out a model of the universe with the Sun at the centre, against the Earth-centred system that had been accepted since ancient times.
+K: In 1543 a book was printed in Nuremberg that changed how people saw the sky. Its writer, Copernicus, said that the Earth goes around the Sun, and not the Sun around the Earth.
+show: site | at=Nuremberg | label=Nuremberg, 1543
+
+@scene pp-11
+story: printing-press
+title: Across the oceans
+y: 1539
+to: 1640
+cam: 25, -40, 24000
+cam-to: 25, 20, 26000
+linear: 1
+weight: 2.5
+src: Global spread of the printing press
+src: Juan Pablos
+src: Printing in Goa
+src: Bay Psalm Book
+T: The press sailed with Europe's ships. Juan Pablos, a native of Lombardy, was the first documented printer in the Americas when he began printing in Mexico in 1539.
+T: In 1556 Jesuits set up the first movable-type press in Asia at Goa. It had been meant for Abyssinia. In 1640 the Bay Psalm Book, the first book printed in British North America, came off a press in Cambridge, Massachusetts.
+K: Ships carried the printing press across the oceans. Printing began in Mexico in 1539 and in Goa, in India, in 1556. The press in Goa was supposed to go to Africa, but it never left India.
+K: In 1640 the first book was printed in the English colonies of North America.
+show: spread | id=printing-press | color=marker | labels=all
+
+@scene pp-12
+story: printing-press
+title: Where the press was not welcome
+y: 1483
+to: 1729
+cam: Istanbul | 5200
+src: Global spread of the printing press
+src: Ibrahim Muteferrika
+conf: debated
+T: The press did not spread everywhere at the same speed. According to some sources, printing in the Arabic script met strong opposition from legal scholars and manuscript scribes and stayed formally or informally prohibited in the Ottoman Empire between 1483 and 1729. Hebrew presses, meanwhile, worked in Constantinople as early as 1493.
+T: Ibrahim Muteferrika, born in Hungary, was the first Muslim to run a press with movable Arabic type. He was given permission to publish non-religious books, and his first, an Arabic–Turkish dictionary, appeared in 1729.
+K: Not everyone wanted the press. In the Ottoman Empire, printing in Arabic letters was not allowed for a very long time. The people who copied books by hand were against it.
+K: In 1729 a man named Ibrahim Muteferrika printed the first book there in Arabic letters. It was a dictionary.
+show: site | at=Istanbul | label=Constantinople, 1729
+
+@scene pp-13
+story: printing-press
+title: The first newspaper
+y: 1605
+cam: Strasbourg | 2400
+src: Johann Carolus
+T: In 1605 Johann Carolus of Strasbourg began to publish the Relation, an "account of all distinguished and commemorable stories". The World Association of Newspapers recognises it as the world's first newspaper.
+K: In 1605 a man in Strasbourg named Johann Carolus began to publish the world's first newspaper.
+show: site | at=Strasbourg | label=Strasbourg, 1605
+
+@scene pp-14
+story: printing-press
+title: Faster and faster
+y: 1600
+to: 1900
+cam: 30, 20, 30000
+src: Printing press
+src: Global spread of the printing press
+T: Around 1600 a European press could make between 1,500 and 3,600 impressions in a working day. By then Europe's presses had produced an estimated 150 to 200 million copies.
+T: In 1843 Hoe's rotary press allowed much higher output, and later rotary presses could print millions of pages a day. By the end of the 19th century, Western printing technology had been adopted all over the world.
+K: Presses kept getting faster. Around 1600 one press could print a few thousand pages in a day. Later machines could print millions.
+K: By about 1900, printing presses were at work all over the world.
+
+@quiz pp-q1
+story: printing-press
+q: Where did printing begin?
+options: China; Germany; Egypt
+a: China
+why: Woodblock printing began in China. The oldest dated printed book, from the year 868, was found at Dunhuang.
+
+@quiz pp-q2
+story: printing-press
+q: What were the first movable type pieces made of?
+options: Fired clay; Gold; Paper
+a: Fired clay
+why: Bi Sheng made the first movable type from fired clay in China between 1039 and 1048.
+
+@quiz pp-q3
+story: printing-press
+q: By 1500, how many towns in Europe had printing presses?
+options: 236; 12; 3
+a: 236
+why: From one workshop in the 1450s, printing spread to 236 European towns by the year 1500.

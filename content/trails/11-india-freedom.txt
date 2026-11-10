@@ -1,0 +1,126 @@
+# Trail: India's road to independence (politics). Facts from the articles named in src.
+
+@trail india-freedom
+title: India's road to freedom
+kid-title: How India became free
+theme: power
+color: #ff9933
+order: 11
+content-note: One stop on this trail describes a massacre.
+deck: From a mutiny in Meerut in 1857 to a midnight speech in Delhi in 1947. Eleven places on the ninety-year road to Indian independence.
+kid-deck: For a long time Britain ruled India. Follow eleven steps on the road to freedom, from a soldiers' revolt in 1857 to the midnight when India became independent.
+
+@stop if-1
+trail: india-freedom
+title: The rebellion begins
+date: 1857-05-10
+at: Meerut
+alt: 1500
+src: Indian Rebellion of 1857
+T: On 10 May 1857 the sepoys, the Indian soldiers, of the East India Company's garrison at Meerut mutinied. It was the start of a major uprising in 1857 and 1858 against the Company, which ruled India as a sovereign power on behalf of the British Crown.
+K: A British company ruled most of India, using Indian soldiers. On 10 May 1857 the soldiers at Meerut rebelled. The revolt spread and lasted more than a year.
+
+@stop if-2
+trail: india-freedom
+title: A congress is founded
+date: 1885-12-28
+at: Mumbai
+alt: 1500
+src: Indian National Congress
+T: The Indian National Congress was founded on 28 December 1885 and held its first session that year in Bombay, today's Mumbai. It was the first modern nationalist movement to emerge in the non-European British Empire.
+K: In December 1885 the Indian National Congress was founded. It held its first meeting in Bombay. It was the first modern movement of its kind in the British Empire outside Europe.
+
+@stop if-3
+trail: india-freedom
+title: Gandhi's first satyagraha
+date: 1917
+at: East Champaran district
+alt: 2200
+src: Champaran Satyagraha
+T: In 1917, in the Champaran district of Bihar, farmers rose in protest at being made to grow indigo for barely any payment. It was the first satyagraha movement led by Mahatma Gandhi in British India. He had returned from South Africa in 1915.
+K: Farmers in Champaran were forced to grow a plant called indigo, and were paid almost nothing. In 1917 Mahatma Gandhi came to help them. It was his first peaceful protest in India.
+
+@stop if-4
+trail: india-freedom
+title: Jallianwala Bagh
+date: 1919-04-13
+at: Jallianwala Bagh massacre
+alt: 900
+src: Jallianwala Bagh massacre
+T: On 13 April 1919 a large crowd gathered at the Jallianwala Bagh in Amritsar, during the Baisakhi fair, to protest against the Rowlatt Act and the arrest of independence activists. Brigadier-General Reginald Dyer blocked the exit with his troops and ordered them to shoot at the crowd. Estimates of those killed vary from 379 to 1,500 or more, and over 1,200 others were injured.
+K: On 13 April 1919 a big crowd met in a garden in Amritsar to protest. A British general blocked the way out and ordered his soldiers to shoot. Between 379 and 1,500 people, or more, were killed.
+
+@stop if-5
+trail: india-freedom
+title: Chauri Chaura
+date: 1922-02-04
+at: Chauri Chaura incident
+alt: 1500
+src: Chauri Chaura incident
+T: On 4 February 1922 at Chauri Chaura, police fired on a large group of protesters taking part in the non-cooperation movement. In retaliation the demonstrators attacked and set fire to a police station. Three civilians and 22 policemen died. Gandhi halted the movement.
+K: In 1922 a protest turned violent. Police shot at the protesters, and the protesters burned down a police station. People died on both sides. After this, Gandhi stopped the whole campaign.
+
+@stop if-6
+trail: india-freedom
+title: The Kakori train action
+date: 1925-08-09
+at: Kakori
+alt: 1500
+src: Kakori conspiracy
+T: On 9 August 1925, at Kakori, a village near Lucknow, revolutionaries of the Hindustan Socialist Republican Association robbed a train.
+K: In 1925 a group of revolutionaries robbed a train at Kakori, near Lucknow, as part of the struggle against British rule.
+
+@stop if-7
+trail: india-freedom
+title: The Salt March
+date: 1930-03-12..1930-04-06
+at: Dandi, Navsari
+alt: 1500
+src: Salt March
+src: Purna Swaraj
+T: In 1930 the Indian National Congress passed the Purna Swaraj resolution, a declaration of complete independence. That spring Gandhi led the 24-day Salt March, 387 km from Sabarmati Ashram to the sea at Dandi, where on 6 April he broke the British salt laws. Millions of Indians followed with civil disobedience of their own.
+K: In 1930 Gandhi walked 387 kilometres to the sea and made salt, which was against British law. Millions of Indians then broke the salt law too.
+
+@stop if-8
+trail: india-freedom
+title: Quit India
+date: 1942-08-08
+at: Mumbai
+alt: 900
+src: Quit India Movement
+T: On 8 August 1942, during the Second World War, Gandhi launched the Quit India Movement at the Bombay session of the All India Congress Committee. In his speech at the Gowalia Tank Maidan he made a call to "Do or Die", demanding an end to British rule.
+K: On 8 August 1942, in Bombay, Gandhi told the British it was time to leave India. "Do or die," he told the crowd.
+
+@stop if-9
+trail: india-freedom
+title: The navy rises
+date: 1946-02
+at: Mumbai
+alt: 1500
+src: Royal Indian Navy mutiny
+T: In February 1946 Indian sailors of the Royal Indian Navy rose against the British government in India. From its flashpoint in Bombay the revolt spread from Karachi to Calcutta, and came to involve over 10,000 sailors in 56 ships and shore establishments. It failed, but it found support across British India.
+K: In February 1946 Indian sailors in the navy refused to obey their British officers. It began in Bombay and spread to 56 ships and bases. The revolt was put down, but people all over India supported it.
+
+@stop if-10
+trail: india-freedom
+title: Midnight
+date: 1947-08-15
+at: New Delhi
+alt: 900
+src: Tryst with Destiny
+src: Partition of India
+content-note: This stop mentions the displacement of millions of people.
+T: India and Pakistan legally came into existence at midnight on 14–15 August 1947. Towards midnight Jawaharlal Nehru, the first Prime Minister of India, gave his "Tryst with Destiny" speech to the Constituent Assembly in Parliament House.
+T: British India had been divided in two. The partition displaced between 12 and 20 million people along religious lines.
+K: At midnight on 14 August 1947, India became a free country. Its first Prime Minister, Jawaharlal Nehru, gave a famous speech in Delhi.
+K: But British India was split into two countries, India and Pakistan. Between 12 and 20 million people had to leave their homes.
+
+@stop if-11
+trail: india-freedom
+title: A constitution
+date: 1950-01-26
+at: New Delhi
+alt: 1500
+src: Constitution of India
+T: The Constitution of India is the supreme legal document of India, and the longest written national constitution in the world. The Constituent Assembly of India adopted it on 26 November 1949, and it became effective on 26 January 1950. It sets out the framework of government along with fundamental rights and directive principles.
+K: A free country needs rules that everyone, even the government, must follow. India's rule book is called the Constitution. It is the longest written constitution of any country in the world.

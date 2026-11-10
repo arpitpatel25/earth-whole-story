@@ -1,0 +1,124 @@
+# Trail: writing systems. Facts from the articles named in src.
+
+@trail writing
+title: Inventing writing
+kid-title: How people invented writing
+theme: language
+color: #f0c987
+order: 2
+deck: Wedges in clay, cracks in bone, an alphabet of 22 letters, a script designed by a king and one by a man who could not read. Ten places where people worked out how to make speech visible.
+kid-deck: How do you draw a word? People in different parts of the world found different answers. Visit ten places where writing was invented, lost, or read again.
+
+@stop wr-1
+trail: writing
+title: Wedges in clay
+date: 3300 BCE
+at: Uruk
+alt: 2600
+src: Cuneiform
+src: Uruk
+T: Cuneiform is the earliest known writing system. It was developed to write Sumerian, the language of southern Mesopotamia, and is named for the wedge-shaped marks that form its signs. Before it, clay tokens had been used to record amounts of livestock and goods. The script stayed in use until the 1st century BC.
+T: The pin is on Uruk, one of the ancient cities of southern Mesopotamia.
+K: The oldest writing we know was made by pressing little wedge shapes into wet clay. It began in the land that is now Iraq, where people first used clay tokens to count their sheep and grain.
+note: The date is approximate. The source gives the early Bronze Age.
+
+@stop wr-2
+trail: writing
+title: Labels for a king's tomb
+date: 3250 BCE
+at: Abydos, Egypt
+alt: 2600
+src: Egyptian hieroglyphs
+T: In 1998, clay labels from the time of a ruler called Scorpion I, of about the 33rd century BC, were recovered at Abydos. They belong to the beginnings of Egyptian writing. Hieroglyphs grew into a formal system with more than 1,000 distinct characters, mixing signs for ideas, words and sounds.
+K: In Egypt, some of the earliest writing was found on little clay labels in a king's tomb. Later, Egyptian writing had more than a thousand different picture signs, called hieroglyphs.
+
+@stop wr-3
+trail: writing
+title: Questions carved on bone
+date: 1250 BCE..1046 BCE
+at: Yinxu
+alt: 2200
+src: Oracle bone script
+src: Yinxu
+T: The oldest attested form of written Chinese dates to the late 2nd millennium BC. At Yin, the last Shang capital, diviners heated ox shoulder blades and turtle shells until they cracked, then read the cracks. The question and the interpretation were carved on the same bone.
+K: The oldest Chinese writing is carved on ox bones and turtle shells. Kings asked a question, the bone was heated until it cracked, and the answer was read from the cracks. Then the question was carved on the bone.
+
+@stop wr-4
+trail: writing
+title: Twenty-two letters
+date: 1000 BCE
+at: Phoenicia
+alt: 3000
+src: Phoenician alphabet
+src: Phoenicia
+T: The Phoenicians, a seafaring people of city-states along the coast of today's Lebanon, wrote with one of the first alphabets: 22 letters, all consonants. It was the first script with a fixed writing direction. Its direct descendants include the Aramaic and the early Greek alphabets.
+K: The Phoenicians were sailors and traders. Instead of hundreds of signs, they wrote with just 22 letters. The Greek alphabet came from theirs, and many other alphabets too.
+note: The source dates the script's use to most of the 1st millennium BC.
+
+@stop wr-5
+trail: writing
+title: A king's boast in three languages
+date: 520 BCE
+at: Behistun inscription
+alt: 1500
+src: Behistun inscription
+T: On a cliff at Mount Behistun in western Iran, Darius the Great, who ruled from 522 to 486 BC, had a huge relief and a multilingual royal inscription carved. Because it says the same thing in several languages, it was important to the decipherment of cuneiform.
+K: A Persian king named Darius had his story carved high on a cliff, in more than one language. Much later, this helped scholars work out how to read the old wedge-shaped writing.
+note: The date is approximate, within the reign of Darius.
+
+@stop wr-6
+trail: writing
+title: The stone that unlocked Egypt
+date: 1799-07
+at: Rosetta
+alt: 1500
+src: Rosetta Stone
+src: Egyptian hieroglyphs
+T: The Rosetta Stone carries a decree issued in 196 BC, written three times: in hieroglyphs, in Demotic script and in Ancient Greek. A French army officer, Pierre-François Bouchard, found it in July 1799, built into a fort near Rashid. With its help Jean-François Champollion deciphered hieroglyphs in the 1820s.
+K: Nobody could read Egyptian hieroglyphs any more. Then in 1799 a stone was found with the same message written in three ways, one of them in Greek, which people could still read. Using it, a Frenchman named Champollion cracked the code.
+
+@stop wr-7
+trail: writing
+title: Glyphs in the rainforest
+date: 250 BCE
+at: Tikal
+alt: 2600
+src: Maya script
+src: San Bartolo (Maya site)
+T: The earliest inscriptions that are identifiably Maya date to the 3rd century BCE, at sites such as San Bartolo, north-east of Tikal in Guatemala. Maya writing stayed in use until the Spanish conquest. It is the only writing system of Mesoamerica that has been substantially deciphered.
+K: The Maya of Central America invented their own writing, made of detailed picture signs called glyphs. People used it for nearly two thousand years. Today experts can read much of it again.
+note: The pin is on Tikal. San Bartolo lies to its north-east.
+
+@stop wr-8
+trail: writing
+title: An alphabet made by a king
+date: 1443..1446
+at: Seoul
+alt: 2200
+src: Hangul
+src: Sejong the Great
+T: Korea had written with Chinese characters since antiquity, though they suited the Korean language poorly. King Sejong, who ruled Joseon from 1418 to 1450, is remembered for creating a native alphabet. It was announced around the end of 1443 and published in 1446 under the name Hunminjeongeum, "Correct Sounds for the Instruction of the People".
+K: Korean was hard to write with Chinese characters. So King Sejong had a new alphabet made, just for Korean. It was published in 1446 and Koreans still use it today. The pin is on Seoul, the capital of South Korea.
+
+@stop wr-9
+trail: writing
+title: Sequoyah's 85 signs
+date: 1821..1825
+at: New Echota
+alt: 2200
+src: Cherokee syllabary
+src: Sequoyah
+src: New Echota
+T: Sequoyah, of the Cherokee Nation, could not read or write when he began. In 1821 he completed a syllabary for the Cherokee language, in which each of 85 symbols stands for a syllable. By 1825 the majority of Cherokees could read and write in it. That year New Echota, in today's Georgia, became the Cherokee capital.
+K: Sequoyah was a Cherokee man who had never learned to read. He invented a way to write his own language all by himself, with 85 signs, one for each sound. Within a few years most Cherokee people could read and write.
+
+@stop wr-10
+trail: writing
+title: The tablets nobody can read
+date: 1864
+at: Easter Island
+alt: 2600
+src: Rongorongo
+T: On Easter Island, in the 19th century, outsiders came upon a system of glyphs called rongorongo that looks like writing. About two dozen inscribed wooden objects survive, scattered in museums. Many people have tried to decipher them. None has succeeded, and it is not even certain that it is true writing.
+K: On Easter Island, far out in the Pacific Ocean, people carved rows of little signs into wooden boards. Only about two dozen of these boards are left. Nobody alive can read them.
+note: The source dates the discovery to the 19th century; the year shown is approximate.

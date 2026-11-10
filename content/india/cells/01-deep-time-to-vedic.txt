@@ -1,0 +1,400 @@
+# India matrix cells: deep time, early humans, Neolithic, Indus, Vedic. Facts from the articles named in src.
+# A cell marked "thin: 1" is an honest statement that the record is too thin to say more.
+
+@icell deep-time.geology
+src: Indian plate
+src: Geology of the Himalayas
+T: The Indian plate was part of Gondwana until it broke away about 100 million years ago and moved north at about 20 cm a year. Its collision with Asia, from as early as 55 million years ago, built the Himalayas, which still rise by up to nearly 10 mm a year at Nanga Parbat.
+K: India used to be joined to lands far to the south. It broke off, drifted north and crashed into Asia. The crash pushed up the Himalayas, and they are still getting higher.
+
+@icell deep-time.climate
+src: Indian plate
+src: Monsoon of South Asia
+T: As it drifted, India crossed from far southern latitudes to the tropics; today the plate straddles the equator. The monsoon that now rules its climate, from June to September each year, is one of the oldest weather patterns known, yet is still only partly understood.
+K: As India drifted north it passed through hot and cool parts of the world. Today its weather is ruled by the monsoon, the great rains that come every year from June to September.
+
+@icell deep-time.life
+src: Rajasaurus
+src: Vasuki indicus
+src: Indohyus
+src: Sivapithecus
+T: Rocks of the subcontinent record its passengers. Rajasaurus, a meat-eating dinosaur, lived in the Narmada region in the Late Cretaceous. Vasuki, a snake 11 to 15 metres long, and Indohyus, a fox-sized relative of whales, lived in the Eocene. Apes called Sivapithecus lived here 12 million years ago.
+K: Amazing animals once lived in India: a meat-eating dinosaur called Rajasaurus, a giant snake as long as a bus, a little animal related to whales, and later some early apes.
+
+@icell deep-time.extinctions
+src: Deccan Traps
+src: Cretaceous–Paleogene extinction event
+conf: debated
+T: The Deccan Traps erupted between about 66.3 and 65.6 million years ago, across the time of the mass extinction that ended the age of dinosaurs. Some scientists have argued the eruptions' gases played a major part. Most now hold that the Chicxulub asteroid impact was the primary cause.
+K: When the dinosaurs died out, huge volcanoes were erupting in India. Some scientists think the volcanoes helped to kill them. Most think a giant rock from space was the main cause.
+
+@icell deep-time.oceans
+src: Tethys Ocean
+src: Insular India
+T: North of drifting India lay the Tethys Ocean, the predecessor of the modern Indian Ocean. India's separation from Madagascar began 88 million years ago, and for a long time it was an island continent surrounded by sea.
+K: While India drifted north it was an island with ocean all around it. The sea ahead of it was called the Tethys. It closed up as India reached Asia.
+
+@icell deep-time.cosmos
+src: Lonar Lake
+src: Dhala impact structure
+T: The subcontinent carries scars from space. Lonar Lake in Maharashtra fills a crater made by a meteorite, dated to about 52,000 years ago by some analyses and 570,000 by a disputed one. The much larger Dhala structure in Madhya Pradesh was formed by an asteroid impact.
+K: Rocks from space have hit India. One made the round hole that Lonar Lake now fills. Another, much bigger and much older, left a mark in Madhya Pradesh.
+
+@icell early-humans.power
+thin: 1
+src: South Asian Stone Age
+T: Nothing survives to show how the small bands of the Old and Middle Stone Age organised themselves, who led them or how decisions were made. Stone tools and bones do not record it.
+K: We do not know who was in charge in the Stone Age, or whether anyone was. Stone tools cannot tell us.
+
+@icell early-humans.war
+thin: 1
+src: South Asian Stone Age
+T: There is no clear evidence of organised fighting between groups in the South Asian Stone Age. The later paintings at Bhimbetka that show warriors on horseback come from a much later time.
+K: We have no sign that Stone Age people in India fought wars. Pictures of warriors on horses were painted much later.
+
+@icell early-humans.trade
+thin: 1
+src: South Asian Stone Age
+T: The retrieved record says nothing reliable about exchange between Stone Age groups in South Asia. Any trade there was has left too little trace to describe.
+K: We do not know if Stone Age people here swapped things with other groups. Too little is left to tell.
+
+@icell early-humans.work
+src: South Asian Stone Age
+src: Madrasian culture
+T: Work meant making tools and finding food. From about 2.5 million to 300,000 years ago people here made stone tools of the Acheulean and Soanian industries. The oldest tools at Attirampakkam, near Chennai, are dated to 1.5 million years ago.
+K: The main jobs in the Stone Age were finding food and making tools from stone. Stone tools found near Chennai are one and a half million years old.
+
+@icell early-humans.food
+src: South Asian Stone Age
+T: For almost all of this era people lived as hunter-gatherers. Cut marks on fossil bone from the Himalayan foothills, 2.6 million years old, suggest very early scavenging of meat. Farming and settled life came only with the Neolithic, from about 7000 BCE.
+K: Stone Age people did not farm. They hunted animals and gathered wild plants. Farming began only about 9,000 years ago.
+
+@icell early-humans.daily
+src: Bhimbetka rock shelters
+src: South Asian Stone Age
+T: People sheltered under rock overhangs such as those at Bhimbetka in central India, which hold the earliest traces of human life in India and were used across the Old and Middle Stone Ages.
+K: Many Stone Age people lived in the shelter of overhanging rocks. At Bhimbetka in central India, people used the same rock shelters for thousands and thousands of years.
+
+@icell early-humans.science
+thin: 1
+src: South Asian Stone Age
+T: Stone Age people must have known their plants, animals, seasons and stone, but nothing they knew was written down, and the retrieved record does not let us describe it.
+K: Stone Age people knew a great deal about animals, plants and stone. But they did not write, so we cannot say exactly what they knew.
+
+@icell early-humans.medicine
+thin: 1
+src: South Asian Stone Age
+T: No evidence in the retrieved record shows how the sick and injured were cared for in the South Asian Stone Age.
+K: We do not know how Stone Age people here looked after the sick. No evidence has been found.
+
+@icell early-humans.technology
+src: South Asian Stone Age
+src: Madrasian culture
+src: Jwalapuram
+T: Technology is the one thing that survives. Heavy Acheulean tools give way over time to smaller ones. At Jwalapuram in Andhra Pradesh, stone tools lie both under and over the ash of the Toba eruption of about 74,000 BC, showing that tool-makers lived there before and after it.
+K: Stone tools are almost all that is left of these people. At one place in southern India, tools lie both under and on top of a layer of ash from a giant volcano that erupted 76,000 years ago.
+
+@icell early-humans.religion
+thin: 1
+src: Bhimbetka rock shelters
+T: What Stone Age people believed is unknown. The paintings at Bhimbetka show animals, dancing and hunting, but what they meant to their makers cannot be recovered.
+K: We do not know what Stone Age people believed. Their paintings show animals and dancing, but we cannot ask the painters what they meant.
+
+@icell early-humans.arts
+src: Bhimbetka rock shelters
+src: Edakkal caves
+T: The earliest cave paintings at Bhimbetka are dated to 10,000 BCE. They show animals and early evidence of dance and hunting. In the Edakkal caves of Kerala, rock carvings are believed to date to at least 6,000 BCE.
+K: About 12,000 years ago people painted animals, hunters and dancers on the rock walls at Bhimbetka. In Kerala, others carved pictures into cave walls.
+
+@icell early-humans.language
+thin: 1
+src: South Asian Stone Age
+T: Nothing is known of the languages spoken in South Asia in the Stone Age. Speech leaves no trace until writing, which lay many thousands of years in the future.
+K: Stone Age people talked to each other, but we have no idea what their languages sounded like. Nobody could write yet.
+
+@icell early-humans.nature
+src: Jwalapuram
+src: South Asian Stone Age
+T: These people lived through the ice ages of the Pleistocene, which ended 11,700 years ago, and through the Toba eruption of about 74,000 BC, whose ash fell across the subcontinent. A Middle Stone Age followed the end of the last glacial period.
+K: Stone Age people in India lived through ice ages and a giant volcanic eruption that covered the land in ash.
+
+@icell early-humans.movement
+src: South Asian Stone Age
+T: South Asia was reached early: signs of hominin activity in the Siwalik Hills go back 2.6 million years, which places the region closer to the centre of early human evolution than was once thought.
+K: Very early humans reached South Asia a very long time ago. Signs of them in the hills below the Himalaya are 2.6 million years old.
+
+@icell early-humans.women
+thin: 1
+src: South Asian Stone Age
+T: The retrieved record cannot tell us how the lives of women and men differed in the Stone Age of South Asia. Tools and bones rarely show who used them.
+K: We cannot tell how the lives of women and men were different in the Stone Age. Stone tools do not say who used them.
+
+@icell neolithic.power
+thin: 1
+src: Mehrgarh
+T: Early farming villages such as Mehrgarh have left no sign of kings or governments. How these communities ran their affairs is not known.
+K: The first farming villages had no kings that we know of. We cannot say how people made decisions together.
+
+@icell neolithic.war
+thin: 1
+src: Mehrgarh
+T: The retrieved record gives no evidence of warfare among the first farmers of South Asia.
+K: We have found no signs of war among India's first farmers.
+
+@icell neolithic.trade
+src: Mehrgarh
+src: Shortugai
+T: Mehrgarh stood near the Bolan Pass, a natural route between the Indus plain and the highlands to the west, and its farming shows links with the Near East. Long-distance exchange in stones such as lapis lazuli is clear by the time of the later Indus colony at Shortugai.
+K: The first farmers lived near a mountain pass that travellers used. Later, the Indus people fetched a blue stone called lapis lazuli from far away in Afghanistan.
+
+@icell neolithic.work
+src: Mehrgarh
+src: Lahuradewa
+T: Work changed completely: fields to tend, herds to keep, pots to make. Mehrgarh is one of the earliest sites in South Asia with evidence of farming and herding. At Lahuradewa in the Ganges plain is the oldest evidence of ceramics in the subcontinent.
+K: When people began to farm, they had new jobs: sowing and harvesting, looking after animals and making clay pots.
+
+@icell neolithic.food
+src: Mehrgarh
+src: Burzahom archaeological site
+src: Chirand
+T: At Mehrgarh, from about 7000 BCE, people grew domesticated wheat and kept herd animals; the earliest evidence of cattle herding in South Asia comes from there. Wheat was also found at Burzahom in Kashmir and at Chirand on the Ganga.
+K: The first farmers grew wheat and kept cattle. Now people could store food instead of searching for it every day.
+
+@icell neolithic.daily
+src: Mehrgarh
+src: Chirand
+src: South Asian Stone Age
+T: Farming brought settled life. The earliest settlement at Mehrgarh was a small farming village. At Chirand in Bihar, villages were built one on top of another from 2500 BC, through the Neolithic, Chalcolithic and Iron Ages.
+K: Farmers stayed in one place and built villages. Some villages were lived in for so long that they slowly grew into mounds.
+
+@icell neolithic.science
+thin: 1
+src: Mehrgarh
+T: Breeding crops and animals took generations of close observation, but the first farmers left no record of how they understood what they were doing.
+K: The first farmers learned by careful watching which seeds and animals were best. But they left nothing written to tell us how they thought about it.
+
+@icell neolithic.medicine
+src: Mehrgarh
+T: Early Neolithic Mehrgarh has the oldest evidence anywhere for the drilling of human teeth in a living person, announced in the journal Nature in 2006. Archaeologists studying remains from the site concluded that its people practised a form of early dentistry.
+K: The oldest signs of dentistry anywhere come from Mehrgarh. In the early farming age, someone there drilled holes in the teeth of living people.
+
+@icell neolithic.technology
+src: Lahuradewa
+src: Mehrgarh
+src: Ahar–Banas culture
+T: Pottery is the era's new technology: Lahuradewa has the oldest in the subcontinent. Later came metal. The Ahar–Banas culture of Rajasthan, from about 3000 BCE, was Chalcolithic, a culture of the Copper Age.
+K: Farmers invented pottery to store and cook food. Later, people in Rajasthan learned to make things from copper.
+
+@icell neolithic.religion
+thin: 1
+src: Mehrgarh
+T: What the first farmers believed is unknown. Without writing, their ideas about the world cannot be recovered from the retrieved evidence.
+K: We do not know what the first farmers believed about the world.
+
+@icell neolithic.arts
+src: Edakkal caves
+src: Kupgal petroglyphs
+T: Rock art continued into the farming age. The Edakkal caves in Kerala hold carvings believed to date to at least 6,000 BCE. At Kupgal in Karnataka, thousands of petroglyphs date to the Neolithic or even earlier, some on rocks that ring when struck.
+K: People went on carving pictures into rock. At one place in Karnataka there are thousands of carvings, and some of the rocks ring like gongs when you hit them.
+
+@icell neolithic.language
+thin: 1
+src: Mehrgarh
+T: Nothing is known of the languages of South Asia's first farmers. They left no writing.
+K: We do not know what languages the first farmers spoke.
+
+@icell neolithic.nature
+src: South Asian Stone Age
+src: Sanganakallu
+T: The Neolithic began after the last glacial period had ended and the climate had warmed. Farmers began to reshape the land with fields and herds.
+K: After the last ice age the weather grew warmer. Farmers began to change the land by clearing fields and grazing animals.
+
+@icell neolithic.movement
+src: Mehrgarh
+conf: debated
+T: How farming reached South Asia is debated. Mehrgarh's wheat, pottery and herd animals resemble those of the Near Eastern Neolithic, and some scholars see a "cultural continuum" from eastern Mesopotamia to the western Indus valley.
+K: Did farming arrive from the west, or begin here too? Experts still argue. The wheat and animals at Mehrgarh look like those of the first farmers of the Near East.
+
+@icell neolithic.women
+src: Mehrgarh
+T: The oldest ceramic figurines in South Asia come from Mehrgarh. Many are of women; later ones were painted and given varied hairstyles and ornaments. What they meant is unknown, and they cannot tell us how farming changed women's lives.
+K: The people of Mehrgarh made little clay figures of women, with fancy hairstyles and ornaments. We do not know what the figures were for.
+
+@icell indus.power
+src: Indus Valley Civilisation
+src: Mohenjo-daro
+conf: debated
+T: The Indus cities were planned on grids with shared drains, which implies authority. Yet there is no conclusive evidence of palaces or temples, and the cities are remarkable for their apparent, if relative, egalitarianism. Who governed them is unknown.
+K: Somebody planned the Indus cities very carefully. But no king's palace has been found. Nobody knows who was in charge.
+
+@icell indus.war
+thin: 1
+src: Indus Valley Civilisation
+T: The retrieved record offers no clear account of warfare in the Indus cities. Unlike Egypt and Mesopotamia, they have left no monuments boasting of conquest.
+K: We know very little about fighting in the Indus cities. They left no pictures of kings winning battles.
+
+@icell indus.trade
+src: Indus Valley Civilisation
+src: Shortugai
+src: Lothal
+src: Indus script
+T: Trade networks tied a huge area together. Copper came from Rajasthan and from as far as Oman; lapis lazuli from near the trading colony of Shortugai on the Oxus. Inscribed Indus objects have been found as far away as Mesopotamia.
+K: The Indus people were great traders. They fetched copper and blue stones from far away, and their seals have been found in Mesopotamia, in today's Iraq.
+
+@icell indus.work
+src: Indus Valley Civilisation
+src: Indus script
+T: Indus craftspeople made beads from imported stones and used standardised weights and stamp seals, most only two or three centimetres across. Goods probably moved in bullock carts and small flat-bottomed river boats.
+K: Indus craftspeople made beads, weights and little seals. Goods were probably carried in ox carts and river boats.
+
+@icell indus.food
+src: Indus Valley Civilisation
+T: Before the cities rose, villagers of the region had already domesticated peas, sesame, dates and cotton, and the water buffalo. The civilisation flourished on the alluvial plain of the Indus and along rivers fed by the monsoon.
+K: Indus farmers grew peas, sesame and dates, and kept water buffalo. Their fields lay on rich river mud.
+
+@icell indus.daily
+src: Mohenjo-daro
+src: Sanitation of the Indus Valley Civilisation
+T: Most houses at Mohenjo-daro were of fired brick around a courtyard, with water from wells. Several had a washing platform and a toilet flushed with a jar of water into a shared brick drain. Children played with terracotta animals and people with dice.
+K: Indus families lived in brick houses with wells and even toilets. Children had toy animals made of clay, and people played with dice.
+
+@icell indus.science
+src: Mohenjo-daro
+src: Indus script
+T: The cities were laid out on a grid, their bricks fired, their weights standardised. That takes measurement and shared rules, though no Indus text explaining them can be read.
+K: The Indus people measured carefully. Their streets were straight and their weights were the same in every city.
+
+@icell indus.medicine
+thin: 1
+src: Sanitation of the Indus Valley Civilisation
+T: The Indus cities had the first known urban sanitation, which must have protected health. But nothing in the retrieved record describes Indus healing or medicine.
+K: Clean water and drains kept the Indus cities healthier. But we know nothing about their doctors or medicines.
+
+@icell indus.technology
+src: Sanitation of the Indus Valley Civilisation
+src: Great Bath
+T: The Indus cities had water supply and sanitation devices that are the first known of their kind: wells, covered drains with inspection holes, and at Mohenjo-daro a brick bath 12 metres long made watertight with gypsum plaster and bitumen.
+K: The Indus people were brilliant with water. They built wells, covered drains, and a big brick pool sealed with tar so that it did not leak.
+
+@icell indus.religion
+src: Great Bath
+src: Pashupati seal
+src: Indus Valley Civilisation
+conf: debated
+T: With no readable texts, Indus religion is guesswork. Most scholars think the Great Bath was used for rites of purification. A seal from Mohenjo-daro shows a seated figure, possibly three-headed. There is no conclusive evidence of temples.
+K: We cannot read what the Indus people wrote, so we can only guess at their religion. A big pool may have been used for holy bathing.
+
+@icell indus.arts
+src: Dancing Girl (prehistoric sculpture)
+src: Priest-King (sculpture)
+T: Two small sculptures are famous. The Dancing Girl, a bronze 10.5 cm tall, was made by lost-wax casting between about 2300 and 1750 BC. The Priest-King, in steatite, dates to around 2000–1900 BC and is the best-known stone sculpture of the civilisation.
+K: Indus artists made small, lively sculptures. The most famous are a bronze girl with bangles up her arm and a stone man with a beard.
+
+@icell indus.language
+src: Indus script
+T: The Indus script has not been deciphered. Over 400 distinct signs are known from about 4,000 inscribed objects, but most inscriptions are extremely short and there is no bilingual text. Whether the signs record a language at all is still argued.
+K: The Indus people left signs on seals and pots. More than 400 different signs are known, but nobody can read them.
+
+@icell indus.nature
+src: Dholavira
+src: Mohenjo-daro
+src: Indus Valley Civilisation
+T: The cities depended on rivers and rain. Mohenjo-daro stood on a ridge in the flood plain of the Indus. Earthquakes repeatedly struck Dholavira, including a severe one around 2600 BCE. From about 1900 BCE the civilisation declined.
+K: The Indus cities needed their rivers. Floods and earthquakes were always a danger. After about 1900 BCE the cities slowly emptied.
+
+@icell indus.movement
+src: Indus Valley Civilisation
+src: Sutkagan Dor
+src: Shortugai
+T: The civilisation spread over an area larger than ancient Egypt and Mesopotamia combined: from Sutkagan Dor near the Iranian border to Shortugai in northern Afghanistan and Lothal in Gujarat.
+K: Indus towns were spread over a huge area, from the border of Iran to Afghanistan and Gujarat.
+
+@icell indus.women
+src: Dancing Girl (prehistoric sculpture)
+src: Indus Valley Civilisation
+T: Women appear in Indus art: the bronze Dancing Girl, standing with one hand on her hip, and many terracotta female figurines. What these images meant, and what women's lives were like, the unread script cannot tell us.
+K: Indus artists often made figures of women, like the famous Dancing Girl. But we cannot read their writing, so we know little about women's lives.
+
+@icell vedic.power
+src: Vedic period
+src: Kuru kingdom
+T: Early Vedic society, centred in the Punjab, was organised into tribes, not kingdoms. In the Middle Vedic period, about 1200 to 900 BCE, the Kuru kingdom emerged as a union of tribes, and the Brahmanical ideology took shape there.
+K: At first the Vedic people lived in tribes. Later some tribes joined together and formed the first kingdoms of northern India.
+
+@icell vedic.war
+src: Vedic period
+src: Kuru kingdom
+T: The Kuru kingdom was a union of the Bharata and Puru tribes. Tribal unions and rivalries shaped the age, though the Vedic texts are religious poetry, not chronicles, and battles in them are hard to date.
+K: Vedic tribes sometimes fought and sometimes joined together. The old poems mention battles, but it is hard to know exactly when they happened.
+
+@icell vedic.trade
+thin: 1
+src: Vedic period
+T: The retrieved record has little to say about trade in the Vedic period. Wealth was counted mainly in cattle, and cities, markets and coins came later.
+K: We know little about trade in Vedic times. People counted their wealth in cows, and there were no coins yet.
+
+@icell vedic.work
+src: Vedic period
+T: The early Vedic people lived mainly by herding. After about 1200–1000 BCE, as they spread to the western Ganges Plain, iron tools allowed forests to be cleared and a more settled, farming way of life took over.
+K: The Vedic people began as herders of cattle. Later, with iron tools, they cleared forests and became farmers.
+
+@icell vedic.food
+src: Vedic period
+T: A pastoral way of life sustained the early Vedic tribes. With iron tools and cleared land, agriculture became the main source of food on the Ganges Plain.
+K: At first the Vedic people lived mostly on what their cattle gave them. Later they grew crops in new fields.
+
+@icell vedic.daily
+src: Vedic period
+src: Painted Grey Ware culture
+T: Life moved from the camps of herders to farming villages. The villages of the western Ganges plain in the Iron Age are known to archaeologists by their Painted Grey Ware pottery, dated from about 1200 to 600 BCE.
+K: Vedic families settled down in farming villages. Archaeologists recognise these villages by their grey pots with painted patterns.
+
+@icell vedic.science
+src: Aṣṭādhyāyī
+src: Vedic period
+T: Keeping long sacred texts exact without writing demanded a science of sound and grammar. At the end of the period, between the 6th and 4th centuries BCE, Panini's Ashtadhyayi described the Sanskrit language in a rigorous grammar.
+K: To remember their long poems perfectly, Vedic scholars studied sounds and words very carefully. One of them, Panini, wrote a famous book of grammar.
+
+@icell vedic.medicine
+src: Atharvaveda
+T: The Atharvaveda, the fourth Veda and a late addition to the others, has been called "the procedures for everyday life". Its first books include poems for healing: spells against illnesses thought to be caused by demons, and potions made from herbs used as medicine.
+K: One of the Vedas, the Atharvaveda, contains healing spells and tells of medicines made from herbs.
+
+@icell vedic.technology
+src: Vedic period
+src: Sinauli
+T: Iron is the era's great change: iron tools let farmers clear the forests of the Ganges Plain. Wheeled vehicles were already old. At Sinauli, Bronze Age vehicles with solid disk wheels have been excavated.
+K: The big new thing in Vedic times was iron. Iron axes and ploughs helped people to clear forests and farm.
+
+@icell vedic.religion
+src: Vedic period
+T: The Vedas, composed between about 1500 and 900 BCE, are liturgical texts: hymns and formulas for ritual. They formed the basis of the Brahmanical ideology that developed in the Kuru kingdom.
+K: The Vedas are very old hymns and prayers used in religious ceremonies. They are the oldest holy texts of Hinduism.
+
+@icell vedic.arts
+src: Vedic period
+T: The art of this age was verbal. The Vedas are poetry, composed and passed on by voice with great precision for centuries before they were written down.
+K: The great art of Vedic times was poetry, spoken and sung from memory.
+
+@icell vedic.language
+src: Vedic period
+src: Aṣṭādhyāyī
+T: The Vedas were composed in an Old Indo-Aryan language and transmitted orally with precision. Panini's grammar, the Ashtadhyayi, later described a form of the Sanskrit language.
+K: The Vedas were made in an old form of Sanskrit and learned by heart, word for word, for hundreds of years.
+
+@icell vedic.nature
+src: Vedic period
+T: The Vedic age reshaped the land. From about 1200–1000 BCE, with iron tools, the forests of the western Ganges Plain were cleared for fields.
+K: In Vedic times people cut down great forests along the river Ganges to make fields.
+
+@icell vedic.movement
+src: Vedic period
+conf: debated
+T: Speakers of an Old Indo-Aryan language migrated into the north-west of the subcontinent early in this period. Around 1200–1000 BCE their culture spread east to the western Ganges Plain. Further east, Greater Magadha had a related but non-Vedic culture.
+K: The people who composed the Vedas came into north-western India and later moved east along the river Ganges.
+
+@icell vedic.women
+src: Gārgī Vāchaknavī
+src: Vedic period
+T: The Vedic texts were composed and passed on by priests, yet women thinkers appear in them. In the Brihadaranyaka Upanishad, Gargi Vachaknavi takes part in a philosophical debate held by King Janaka of Videha and challenges the sage Yajnavalkya with questions about the soul.
+K: One old text tells of a wise woman, Gargi, who took part in a great debate at a king's court and asked the hardest questions.

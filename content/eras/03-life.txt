@@ -1,0 +1,194 @@
+# Life: the Phanerozoic before humans.
+
+@era paleozoic
+name: Paleozoic
+kid: Old life: seas, forests and the first land animals
+level: 1
+group: life
+span: 538.8 mya..251.902 mya
+src: Paleozoic
+S: The Paleozoic era began 538.8 million years ago and ended 251.902 million years ago. It has six periods: Cambrian, Ordovician, Silurian, Devonian, Carboniferous and Permian.
+K: In the Paleozoic, animals filled the seas, plants and animals moved onto land, and the first forests grew. It ended with the worst die-off ever.
+
+@era mesozoic
+name: Mesozoic
+kid: The age of dinosaurs
+level: 1
+group: life
+span: 251.902 mya..66 mya
+src: Mesozoic
+S: The Mesozoic era lasted from about 252 to 66 million years ago, through the Triassic, Jurassic and Cretaceous periods. It had a hot greenhouse climate, the supercontinent Pangaea broke up, and dinosaurs and their relatives dominated the land.
+K: The Mesozoic was the time of the dinosaurs. The world was hot, and the giant continent Pangaea slowly split into pieces.
+
+@era cenozoic
+name: Cenozoic
+kid: The age of mammals
+level: 1
+group: life
+span: 66 mya..7 mya
+src: Cenozoic
+S: The Cenozoic is Earth's current era, covering the last 66 million years. It is marked by the dominance of mammals, insects, birds and flowering plants.
+K: After the dinosaurs, mammals took over. So did birds, insects and flowering plants. We still live in this era today.
+
+@era cambrian
+name: Cambrian
+kid: Cambrian: animals burst out
+level: 2
+group: life
+span: 538.8 mya..486.85 mya
+src: Cambrian
+src: Cambrian explosion
+S: The Cambrian period lasted from 538.8 to 486.85 million years ago. It opened with the Cambrian explosion, a sudden diversification of complex animal life in the fossil record. Most continents lay in the southern hemisphere, surrounded by the Panthalassa Ocean.
+K: In the Cambrian, the seas suddenly filled with new kinds of animals, many with shells, legs and eyes. Scientists call it the Cambrian explosion.
+
+@era ordovician
+name: Ordovician
+kid: Ordovician: sea life booms, then crashes
+level: 2
+group: life
+span: 486.85 mya..443.1 mya
+src: Ordovician
+src: Great Ordovician Biodiversification Event
+src: Late Ordovician mass extinction
+S: The Ordovician ran from 486.85 to 443.1 million years ago. Marine animal life diversified enormously, then was cut down about 445 million years ago by the first of the five great mass extinctions, often ranked the second largest known.
+K: Sea animals of many new kinds spread through the oceans. Then the first of five great die-offs wiped out a huge share of them.
+
+@era silurian
+name: Silurian
+kid: Silurian: life creeps ashore
+level: 2
+group: life
+span: 443.1 mya..419.62 mya
+src: Silurian
+S: The Silurian, from 443.1 to 419.62 million years ago, is the shortest period of the Paleozoic. Life was establishing itself on land: plants with internal plumbing emerged from simpler ones, moss-like miniature forests lined lakes and streams, and millipede, spider and insect relatives became true land animals.
+K: The Silurian was short, as these things go. Tiny moss-like forests grew beside lakes and streams, and small creepy-crawlies became the first true land animals.
+
+@era devonian
+name: Devonian
+kid: Devonian: fish with legs and first forests
+level: 2
+group: life
+span: 419.62 mya..358.86 mya
+src: Devonian
+src: Tiktaalik
+src: Late Devonian mass extinction
+S: The Devonian lasted from 419.62 to 358.86 million years ago. The first forests took shape on land late in the period. Tiktaalik, a lobe-finned fish from about 375 million years ago, had many features of four-legged animals. A mass extinction about 372 million years ago killed perhaps 40 percent of marine species.
+K: In the Devonian the first real forests grew. Some fish had sturdy fins a little like legs. One of them was Tiktaalik. Then another great die-off hit the seas.
+
+@era carboniferous
+name: Carboniferous
+kid: Carboniferous: the coal forests
+level: 2
+group: life
+span: 358.86 mya..298.9 mya
+src: Carboniferous
+src: Late Paleozoic icehouse
+S: The Carboniferous spans 358.86 to 298.9 million years ago. Its name means coal-bearing, after the many coal beds formed around the world at that time. A long ice age that began late in the Devonian kept large ice sheets on the land.
+K: The name Carboniferous means "coal-bearing". Much of the world's coal formed then. It was also an ice age, with great ice sheets on the land.
+
+@era permian
+name: Permian
+kid: Permian: one giant continent
+level: 2
+group: life
+span: 298.9 mya..251.902 mya
+src: Permian
+src: Pangaea
+S: The Permian lasted from 298.9 to 251.902 million years ago, the last period of the Paleozoic. Nearly all land was joined in the C-shaped supercontinent Pangaea, which had assembled about 335 million years ago.
+K: By the Permian almost all the land on Earth was stuck together in one giant continent called Pangaea, shaped a bit like the letter C.
+
+@era great-dying
+name: The Great Dying
+kid: The Great Dying
+level: 2
+group: life
+span: 252.1 mya..251.7 mya
+focus: -251900000
+src: Permian–Triassic extinction event
+S: The Permian–Triassic extinction, at the boundary of the two periods, is the most severe extinction known. It ended 57 percent of biological families, 81 percent of marine species and 70 percent of land vertebrate species.
+K: About 252 million years ago, most kinds of living things died out, in the sea and on land. It is the worst die-off Earth has ever had. Life took a very long time to recover.
+
+@era triassic
+name: Triassic
+kid: Triassic: dinosaurs appear
+level: 2
+group: life
+span: 251.902 mya..201.4 mya
+src: Triassic
+src: Dinosaur
+src: Triassic–Jurassic extinction event
+S: The Triassic spans 251.902 to 201.4 million years ago. Dinosaurs first appeared early in the period. It closed with another mass extinction, after which dinosaurs became the dominant land vertebrates.
+K: The first dinosaurs appeared in the Triassic, though they were not yet in charge. Another die-off at the end cleared the way for them.
+
+@era jurassic
+name: Jurassic
+kid: Jurassic: giants, and Pangaea splits
+level: 2
+group: life
+span: 201.4 mya..143.1 mya
+src: Jurassic
+src: Pangaea
+S: The Jurassic lasted from 201.4 to 143.1 million years ago and is named after the Jura Mountains. Pangaea began to break apart about 175 million years ago, early in the period, while dinosaurs dominated the land.
+K: In the Jurassic, dinosaurs ruled the land. The giant continent Pangaea started to crack apart, and new seas opened between the pieces.
+
+@era cretaceous
+name: Cretaceous
+kid: Cretaceous: flowers and the last dinosaurs
+level: 2
+group: life
+span: 143.1 mya..66 mya
+src: Cretaceous
+src: Flowering plant
+S: The Cretaceous, from about 143.1 to 66 million years ago, is the longest geological period of the Phanerozoic eon, at around 77.1 million years. Its name comes from the Latin for chalk. Flowering plants appeared early in the period and were the dominant plants on Earth by its end.
+K: The Cretaceous was the last and longest time of the dinosaurs. Flowers appeared and spread. Thick layers of chalk built up on the sea floor.
+
+@era chicxulub
+name: Chicxulub impact
+kid: The asteroid that ended the dinosaurs
+level: 2
+group: life
+span: 66.05 mya..65.95 mya
+focus: -66000000
+place: Chicxulub crater
+src: Chicxulub crater
+src: Cretaceous–Paleogene extinction event
+S: Slightly over 66 million years ago an asteroid about ten kilometres across struck what is now the Yucatán Peninsula in Mexico, leaving a crater about 200 kilometres wide. The extinction that followed removed three-quarters of plant and animal species, including all dinosaurs except birds.
+K: An asteroid about ten kilometres wide slammed into what is now Mexico. Three out of every four kinds of plants and animals died out, including every dinosaur except the birds.
+
+@era paleogene
+name: Paleogene
+kid: Paleogene: mammals spread out
+level: 2
+group: life
+span: 66 mya..23.04 mya
+src: Paleogene
+src: Primate
+src: Paleocene–Eocene thermal maximum
+S: The Paleogene spans 66 to 23.04 million years ago. Primates had arisen 74 to 63 million years ago from small ground-living mammals that adapted to tropical forests. About 56 million years ago a massive release of carbon warmed the globe by 5 to 8 °C for about 200,000 years.
+K: With the big dinosaurs gone, mammals spread into every kind of home. The first primates, our distant relatives, lived in warm forests.
+
+@era india-asia-collision
+name: India meets Asia; the Himalayas rise
+short: India meets Asia
+kid: India crashes into Asia
+level: 2
+group: life
+span: 55 mya..23 mya
+place: Himalayas
+src: Indian plate
+src: Himalayas
+S: The Indian plate broke away from the other fragments of Gondwana about 100 million years ago and moved north. Its collision with Asia raised the Himalayas, the range that now separates the Indian subcontinent from the Tibetan Plateau and holds Earth's highest peaks.
+K: India was once an island continent drifting north. When it ran into Asia, the land between them crumpled up into the Himalayas, the highest mountains on Earth.
+note: The start of the collision is debated; estimates in the literature range from about 55 to 35 million years ago.
+conf: debated
+
+@era neogene
+name: Neogene
+kid: Neogene: grasslands and apes
+level: 2
+group: life
+span: 23.04 mya..7 mya
+src: Neogene
+src: Ape
+S: The Neogene runs from 23.04 to 2.58 million years ago and is divided into the Miocene and Pliocene epochs. Apes had split from the Old World monkeys about 25 million years ago, and in prehistory they ranged more widely across Africa, Asia and Europe than they do now.
+K: Apes had branched off from monkeys shortly before the Neogene began. Back then apes lived across Africa, Asia and Europe.

@@ -1,0 +1,383 @@
+/* India in depth: the era-by-lens matrix, filters and lists. See DESIGN.md, "The matrix". */
+.sheet.india.wide {
+  width: min(880px, calc(100vw - 16px));
+}
+.seg {
+  display: flex;
+  gap: 2px;
+  margin-bottom: var(--s3);
+  border-bottom: 1px solid var(--line);
+}
+.seg button {
+  padding: 8px 12px 9px;
+  font-size: var(--fs-1);
+  font-weight: 620;
+  color: var(--silt);
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  white-space: nowrap;
+}
+.seg button:hover {
+  color: var(--chalk);
+}
+.seg button[aria-selected='true'] {
+  color: var(--chalk);
+  border-bottom-color: var(--marker);
+}
+
+/* ---- the matrix: rows are eras (oldest at the top, like strata read downwards), columns are lenses ---- */
+.imx-wrap {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 264px;
+  gap: var(--s4);
+  align-items: start;
+}
+.imx {
+  --cell: 20px;
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+.imx-row {
+  display: grid;
+  grid-template-columns: minmax(120px, 1fr) repeat(15, var(--cell));
+  gap: 3px;
+  align-items: center;
+}
+.imx-head {
+  align-items: end;
+  height: 70px;
+  margin-top: var(--s2);
+}
+.imx-col {
+  position: relative;
+  width: var(--cell);
+  height: 100%;
+}
+.imx-col b {
+  position: absolute;
+  left: 50%;
+  bottom: 4px;
+  transform-origin: left bottom;
+  transform: rotate(-58deg) translateX(-2px);
+  white-space: nowrap;
+  font-size: var(--fs-0);
+  font-weight: 560;
+  color: var(--silt);
+}
+.imx-era {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1px 6px 1px 0;
+  text-align: left;
+  line-height: 1.15;
+  border-radius: 2px;
+}
+.imx-era strong {
+  font-size: var(--fs-1);
+  font-weight: 620;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.imx-era em {
+  font-style: normal;
+  font-size: 0.6875rem;
+  color: var(--dim);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.imx-era:hover strong {
+  color: var(--marker);
+}
+.imx-cell {
+  width: var(--cell);
+  height: var(--cell);
+  border-radius: 2px;
+  background: var(--c);
+  opacity: 0.86;
+  transition: transform var(--t-fast) var(--ease), opacity var(--t-fast) var(--ease);
+}
+.imx-cell[data-s='t'] {
+  background: transparent;
+  box-shadow: inset 0 0 0 1.5px var(--c);
+  opacity: 0.6;
+}
+.imx-cell:hover {
+  opacity: 1;
+  transform: scale(1.18);
+}
+.imx-cell[aria-pressed='true'] {
+  opacity: 1;
+  outline: 2px solid var(--marker);
+  outline-offset: 2px;
+}
+.imx-deep {
+  display: grid;
+  grid-template-columns: minmax(120px, 1fr) auto;
+  gap: 3px;
+  align-items: center;
+  padding-bottom: var(--s2);
+  border-bottom: 1px solid var(--line);
+}
+.imx-deep-cells {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.imx-deep-cell {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+.imx-deep-cell b {
+  font-size: var(--fs-0);
+  font-weight: 560;
+  color: var(--silt);
+}
+.imx-reader {
+  position: sticky;
+  top: 0;
+  padding: var(--s3) 0 var(--s3) var(--s4);
+  border-left: 1px solid var(--line);
+  min-height: 240px;
+}
+.imx-kicker {
+  font-size: var(--fs-0);
+  color: var(--silt);
+}
+.imx-title {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin: 2px 0 var(--s2);
+  font-family: var(--sans);
+  font-stretch: 78%;
+  font-weight: 720;
+  font-size: var(--fs-4);
+  line-height: 1.12;
+}
+.imx-lens {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-stretch: 100%;
+  font-weight: 600;
+  font-size: var(--fs-1);
+  color: var(--silt);
+}
+.imx-lens::before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  background: var(--c);
+}
+.imx-text {
+  font-family: var(--read);
+  font-size: var(--fs-3);
+  line-height: 1.5;
+  text-wrap: pretty;
+}
+.imx-thin {
+  margin-bottom: var(--s2);
+  padding-left: 9px;
+  border-left: 2px solid var(--silt);
+  font-size: var(--fs-1);
+  color: var(--silt);
+}
+.imx-key {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin-top: var(--s3);
+  font-size: var(--fs-0);
+  color: var(--silt);
+}
+.imx-key i {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+}
+.imx-key .k-full {
+  background: var(--silt);
+}
+.imx-key .k-thin {
+  margin-left: var(--s3);
+  box-shadow: inset 0 0 0 1.5px var(--silt);
+}
+.imx-reader .sources {
+  margin-top: var(--s2);
+}
+
+/* phone: an accordion, one era open at a time is not enforced; lenses become a list */
+.imx-acc {
+  display: grid;
+  gap: 2px;
+}
+.imx-acc summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--s3);
+  padding: 11px 2px;
+  border-bottom: 1px solid var(--line);
+  cursor: pointer;
+  list-style: none;
+}
+.imx-acc summary::-webkit-details-marker {
+  display: none;
+}
+.imx-acc summary strong {
+  font-size: var(--fs-2);
+  font-weight: 620;
+}
+.imx-acc summary em {
+  flex: 0 1 46%;
+  text-align: right;
+  font-style: normal;
+  font-size: var(--fs-0);
+  color: var(--dim);
+}
+.imx-acc details[open] summary strong {
+  color: var(--marker);
+}
+.imx-lenses {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: var(--s3) 0;
+}
+.imx-acc .imx-cell {
+  width: auto;
+  height: 34px;
+  padding: 0 10px;
+  display: inline-flex;
+  align-items: center;
+  background: transparent;
+  box-shadow: inset 0 0 0 1.5px var(--c);
+  opacity: 1;
+  font-size: var(--fs-1);
+  font-weight: 560;
+}
+.imx-acc .imx-cell[data-s='t'] {
+  box-shadow: inset 0 0 0 1px var(--line-strong);
+  color: var(--silt);
+}
+.imx-acc .imx-cell[aria-pressed='true'] {
+  background: var(--chalk);
+  color: var(--ink);
+  outline: none;
+}
+.imx-acc .imx-cell:hover {
+  transform: none;
+}
+.imx-acc .imx-reader {
+  position: static;
+  border-left: 0;
+  padding: var(--s2) 0 var(--s4);
+  min-height: 0;
+}
+
+/* ---- filters and lists ---- */
+.ifilters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s3);
+  margin-bottom: var(--s2);
+}
+.ifilter {
+  display: grid;
+  gap: 4px;
+  font-size: var(--fs-0);
+  font-weight: 600;
+  color: var(--silt);
+}
+.ifilter.grow {
+  flex: 1 1 200px;
+}
+.ifilter select {
+  height: 40px;
+  max-width: 220px;
+  padding: 0 var(--s2);
+  background: var(--ink-2);
+  color: var(--chalk);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  font: inherit;
+  font-size: var(--fs-2);
+  font-weight: 400;
+}
+.ifilter select:focus-visible {
+  border-color: var(--marker);
+  outline: none;
+}
+.ifilter-count {
+  margin: var(--s3) 0 var(--s1);
+  font-size: var(--fs-1);
+  color: var(--silt);
+}
+.ichips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: var(--s3);
+}
+.ichip {
+  height: 30px;
+  padding: 0 11px;
+  border: 1px solid var(--line-strong);
+  border-radius: 15px;
+  font-size: var(--fs-1);
+  font-weight: 560;
+  color: var(--silt);
+}
+.ichip:hover {
+  color: var(--chalk);
+  border-color: var(--chalk);
+}
+.ichip[aria-pressed='true'] {
+  background: var(--chalk);
+  border-color: var(--chalk);
+  color: var(--ink);
+}
+.india .ev-list.two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: var(--s5);
+}
+.india .ev-list + .btn {
+  margin-top: var(--s3);
+}
+
+@media (max-width: 900px) {
+  .imx-wrap {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .imx-reader {
+    position: static;
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding: var(--s3) 0;
+  }
+  .india .ev-list.two {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .seg {
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .ifilter select {
+    max-width: none;
+  }
+  .ifilters .ifilter {
+    flex: 1 1 140px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .imx-cell {
+    transition: none;
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "eastern-front",
+  "note": "An approximate reconstruction of the German-Soviet front, drawn through places named in dated battles and captures. Seven control points per frame, north to south. The line is schematic between the dated anchors.",
+  "sources": ["Eastern Front (World War II)", "Operation Barbarossa", "Battle of Kiev (1943)", "Operation Bagration", "Battle of Berlin"],
+  "base": ["Klaipėda", "Suwałki", "Brest, Belarus", "Volodymyr, Volyn Oblast", "Przemyśl", "Chernivtsi", "Izmail"],
+  "frames": [
+    {"date": "1941-06-22", "via": ["Klaipėda", "Suwałki", "Brest, Belarus", "Volodymyr, Volyn Oblast", "Przemyśl", "Chernivtsi", "Izmail"]},
+    {"date": "1941-07-16", "via": ["Pskov", "Velikiye Luki", "Smolensk", "Mogilev", "Korosten", "Bila Tserkva", "Chișinău"]},
+    {"date": "1941-09-19", "via": ["Saint Petersburg", "Veliky Novgorod", "Yelninsky District", "Roslavl", "Konotop", "Lokhvytsia", "Kherson"]},
+    {"date": "1941-12-05", "via": ["Saint Petersburg", "Tikhvin", "Khimki", "Tula, Russia", "Kursk", "Izium", "Taganrog"]},
+    {"date": "1942-05-01", "via": ["Saint Petersburg", "Staraya Russa", "Rzhev", "Mtsensk", "Stary Oskol", "Izium", "Taganrog"]},
+    {"date": "1942-11-18", "via": ["Saint Petersburg", "Staraya Russa", "Rzhev", "Mtsensk", "Voronezh", "Volgograd", "Vladikavkaz"]},
+    {"date": "1943-03-25", "via": ["Saint Petersburg", "Staraya Russa", "Vyazma", "Mtsensk", "Rylsk, Russia", "Belgorod", "Taganrog"]},
+    {"date": "1943-08-23", "via": ["Saint Petersburg", "Staraya Russa", "Spas-Demensk", "Karachev", "Sumy", "Kharkiv", "Taganrog"]},
+    {"date": "1943-12-24", "via": ["Saint Petersburg", "Staraya Russa", "Nevel (town)", "Gomel", "Zhytomyr", "Zaporizhzhia", "Kherson"]},
+    {"date": "1944-06-22", "via": ["Narva", "Pskov", "Vitebsk", "Babruysk", "Kovel", "Brody", "Târgu Frumos"]},
+    {"date": "1944-08-29", "via": ["Tartu", "Šiauliai", "Suwałki", "Radzymin", "Sandomierz", "Dukla", "Bucharest"]},
+    {"date": "1945-01-12", "via": ["Klaipėda", "Gusev, Kaliningrad Oblast", "Warsaw", "Sandomierz", "Dukla", "Budapest", "Lake Balaton"]},
+    {"date": "1945-02-13", "via": ["Kaliningrad", "Piła", "Kostrzyn nad Odrą", "Wrocław", "Katowice", "Budapest", "Lake Balaton"]},
+    {"date": "1945-05-08", "via": ["Wismar", "Wittenberge", "Torgau", "Dresden", "Prague", "Linz", "Ljubljana"]}
+  ]
+}

@@ -1,0 +1,309 @@
+
+
+@icell regional-powers.power
+src: Maratha Empire
+src: Peshwa
+src: Sikh Empire
+src: Nawabs of Bengal
+T: As Mughal power faded, regional states took its place. The Maratha Empire (1674–1818) became a confederacy: the Peshwa's realm and four major Maratha states under the nominal leadership of the Chhatrapati. The Nawabs of Bengal were independent in all but name. In the Punjab, Ranjit Singh captured Lahore in 1799 and founded the Sikh Empire.
+K: When the Mughal empire grew weak, new kingdoms rose: the Marathas in the west, the Sikhs in the Punjab, and others in Bengal, Mysore and Hyderabad.
+
+@icell regional-powers.war
+src: Third Battle of Panipat
+src: Battle of Colachel
+src: Third Anglo-Maratha War
+src: Second Anglo-Sikh War
+T: On 14 January 1761 the Marathas met the invading Durrani army at Panipat, in the largest battle of the 18th century. In 1741 Travancore defeated the Dutch East India Company at Colachel. The Third Anglo-Maratha War of 1817–1819 left the British company in control of most of India; the Sikh Empire fell in 1849.
+K: These kingdoms fought each other and invaders from Afghanistan. In the end the British East India Company beat them one by one: the Marathas by 1819 and the Sikhs in 1849.
+
+@icell regional-powers.trade
+src: Chauth
+src: Kanhoji Angre
+src: Nawabs of Bengal
+T: The Marathas levied chauth, an annual tribute nominally of a quarter of revenue, on lands under nominal Mughal rule; it worked as protection money against their raids. At sea, the Maratha admiral Kanhoji Angre captured European East Indiamen and collected tolls. In Bengal, European trading posts multiplied at Murshidabad, Dhaka, Patna and Hugli.
+K: The Marathas made other states pay them a quarter of their income to be left in peace. On the coast, a Maratha admiral stopped European ships and made them pay tolls.
+
+@icell regional-powers.work
+src: Pindari
+src: Ranjit Singh
+src: Tipu Sultan
+T: War was a livelihood. Pindaris, irregular plunderers and foragers, followed the Mughal and then the Maratha armies. Ranjit Singh's army and government employed Sikhs, Muslims, Hindus and Europeans. In Mysore, Tipu Sultan's new land revenue system began the growth of the Mysore silk industry.
+K: Many men earned their living as soldiers. Ranjit Singh's army had Sikhs, Muslims, Hindus and Europeans in it. In Mysore, people began to make silk.
+
+@icell regional-powers.food
+src: Awadhi cuisine
+src: Golden Temple
+T: The chefs and gourmet cooks of the Nawabs of Awadh invented the dum style of cooking over a slow fire, still strongly associated with Lucknow. At the Golden Temple in Amritsar, the langar, a free kitchen run by the Sikh community, offers a vegetarian meal to every visitor without discrimination.
+K: Cooks in Lucknow invented a way of cooking food very slowly over a low fire. At the Golden Temple, a free kitchen feeds everyone who comes.
+
+@icell regional-powers.daily
+src: Lavani
+src: Ahilyabai Holkar
+T: Lavani, a combination of song and dance performed to the beat of the dholki drum, was popular in Maharashtra. Rulers such as Ahilyabai Holkar paid for the public spaces of daily life: bathing ghats on rivers, schools, and rest houses for travellers and pilgrims.
+K: People in Maharashtra enjoyed lavani, lively songs and dances to the beat of a drum. Good rulers built riverside steps, schools and rest houses for travellers.
+
+@icell regional-powers.science
+src: Sawai Jai Singh
+src: Jantar Mantar, Jaipur
+T: Sawai Jai Singh II (1688–1743), ruler of Amber and founder of Jaipur, commissioned observatories at several places in India and had Euclid's "Elements" translated into Sanskrit. His Jaipur observatory, completed in 1734, has 19 instruments.
+K: King Jai Singh of Jaipur loved astronomy. He built observatories in several cities and had a famous Greek book of geometry translated into Sanskrit.
+
+@icell regional-powers.medicine
+src: Serfoji II
+T: Serfoji II, the last sovereign Maratha ruler of Thanjavur, who died in 1832, is remembered for his contributions to ophthalmology. Manuscripts record eye operations believed to have been performed by the king himself, and he is known to have carried a surgical kit.
+K: King Serfoji of Thanjavur was also an eye doctor. Records tell of eye operations that he is believed to have done himself.
+
+@icell regional-powers.technology
+src: Mysorean rockets
+src: Tipu Sultan
+src: Maratha Navy
+T: Mysore developed the first successful iron-cased rockets in the late 18th century under Hyder Ali, and his son Tipu Sultan was a pioneer of rocket artillery. The Maratha navy used small, manoeuvrable vessels called gallivats and grabs, suited to shallow coastal waters.
+K: The army of Mysore used rockets with iron cases, the first of their kind in the world. The Marathas built small, fast warships for fighting near the coast.
+
+@icell regional-powers.religion
+src: Khalsa
+src: Golden Temple
+src: Ahilyabai Holkar
+T: Guru Gobind Singh, the tenth Sikh Guru, initiated the Khalsa in 1699, with its code of conduct and dress. The Golden Temple at Amritsar is Sikhism's holiest site; Ranjit Singh paid homage there after taking the city in 1802. Ahilyabai Holkar commissioned temples and pilgrim rest houses.
+K: The tenth Sikh Guru founded the Khalsa, a community of Sikhs with its own rules and dress. The Golden Temple in Amritsar is the holiest place of the Sikhs.
+
+@icell regional-powers.arts
+src: Pahari painting
+src: Kangra painting
+src: Tyagaraja
+src: Lavani
+T: In the hill kingdoms of the lower Himalaya, Pahari miniature painting flourished from the early 17th to the mid 19th century; the Kangra style became prevalent from the mid 18th. In the south, Tyagaraja (1767–1847) and his contemporaries Syama Sastri and Muthuswami Dikshitar composed the core of Carnatic music.
+K: Painters in the Himalayan hill kingdoms made delicate little paintings. In the south, the composer Tyagaraja wrote songs that musicians still perform.
+
+@icell regional-powers.language
+src: Modi script
+src: Bakhar
+T: Marathi was a language of government and history. It was written in the cursive Modi script as well as Devanagari. More than 200 bakhars, historical narratives in Marathi prose, were written between the 17th and 19th centuries, the most important chronicling the deeds of rulers.
+K: The Marathas wrote their letters and records in Marathi, in a fast joined-up script called Modi. They also wrote more than 200 histories in Marathi.
+
+@icell regional-powers.nature
+src: Lal Bagh
+T: In 1760 Hyder Ali of Mysore commissioned the garden at Bengaluru now called Lalbagh. It became a botanical garden responsible for introducing and propagating many ornamental plants and plants of economic value.
+K: The ruler of Mysore made a great garden in Bengaluru in 1760. Many new plants were first grown in India there. You can still visit it.
+
+@icell regional-powers.movement
+src: Third Battle of Panipat
+src: Maratha Empire
+src: Tipu Sultan
+T: The Marathas, a Marathi-speaking warrior group from the western Deccan, carried their power far to the north, where in 1761 they met an army invading from Afghanistan. Europeans moved in too: French officers trained the army of Mysore, and Europeans served Ranjit Singh.
+K: Maratha armies marched far from their home in western India. Soldiers from Afghanistan and officers from France also came to fight in India's wars.
+
+@icell regional-powers.women
+src: Tarabai
+src: Ahilyabai Holkar
+src: Kittur Chennamma
+src: Begum Samru
+T: Tarabai, daughter-in-law of Shivaji, was regent of the Maratha state from 1700 to 1708. Ahilyabai Holkar (1725–1795) ruled Indore. Chennamma, queen of Kittur, led armed resistance to the East India Company. Begum Samru, who began as a dancing girl, became ruler of the small principality of Sardhana.
+K: Several women ruled in these years. Tarabai led the Marathas, Ahilyabai Holkar ruled Indore, and Queen Chennamma of Kittur fought the British.
+
+@icell company.power
+src: East India Company
+src: Company rule in India
+src: Battle of Plassey
+src: Doctrine of lapse
+T: The East India Company, a joint-stock company founded in 1600 for Indian Ocean trade, became a ruler. Its rule is usually dated from 1757, when Robert Clive defeated the Nawab of Bengal at Plassey, helped by the betrayal of Mir Jafar. It took the right to collect Bengal's revenue, and later annexed princely states under the Doctrine of Lapse.
+K: A British trading company slowly took over India. It began as a group of merchants, but after winning a battle in Bengal in 1757 it became a government with its own army.
+
+@icell company.war
+src: Battle of Plassey
+src: Vellore Mutiny
+src: Santhal rebellion
+src: Indian Rebellion of 1857
+T: The Company's conquests met resistance from the start. Indian sepoys mutinied at Vellore on 10 July 1806. The Santals rose against the Company and the zamindari system on 30 June 1855. On 10 May 1857 a mutiny of sepoys at Meerut began the great rebellion of 1857–58.
+K: Many Indians fought against the Company. In 1857 Indian soldiers in its army rebelled, and a great uprising spread across northern India.
+
+@icell company.trade
+src: East India Company
+src: Economy of India under Company rule
+T: The Company came for trade and stayed to tax. The capital amassed from Bengal after its conquest in 1757 helped to finance British industries such as textile manufacture. A number of historians point to colonisation as a major factor both in India's deindustrialisation and in Britain's Industrial Revolution.
+K: The Company grew rich from India. Money from Bengal helped to pay for new factories in Britain, while many Indian craft workers lost their work.
+
+@icell company.work
+src: Permanent Settlement
+src: Indian indenture system
+T: Under the Permanent Settlement of 1793, land revenue in Bengal was fixed and collected by zamindars, who were treated as landlords. From 1834 the indenture system carried Indian workers to overseas colonies, more than 1.6 million in all; on the early voyages over 17 per cent died.
+K: In Bengal, farmers now had to pay rent to landlords called zamindars. Many poor workers were shipped across the sea to work on farms in faraway British colonies.
+
+@icell company.food
+src: Great Bengal famine of 1770
+src: Ganges Canal
+T: The Great Bengal famine struck Bengal and Bihar in 1769–70, soon after the Company gained the right to collect revenue there; it affected some 30 million people, about a third of the population. Later the Company built the Ganges Canal, from 1842 to 1854, to irrigate the land between the Ganges and the Yamuna.
+K: A terrible famine struck Bengal in 1770, soon after the Company took control. Later, a great canal was dug to bring water from the Ganges to farmers' fields.
+
+@icell company.daily
+src: Rail transport in India
+src: Indian Telegraph Act, 1885
+src: Company style
+T: New things entered daily life. In 1853 the first passenger train carried 400 people in 14 carriages over the 34 kilometres from Bombay to Thane. The telegraph was first installed in 1851. Indian artists working for European patrons painted the plants and birds around them in the hybrid "Company style".
+K: In 1853 the first passenger train in India ran from Bombay to Thane with 400 people on board. Messages began to travel by telegraph wire.
+
+@icell company.science
+src: The Asiatic Society
+src: Great Trigonometrical Survey
+src: Hortus Malabaricus
+T: William Jones founded the Asiatic Society in Calcutta on 15 January 1784 for research into India and its neighbours. The Great Trigonometrical Survey, begun in 1802 by William Lambton and continued by George Everest, measured the subcontinent with scientific precision. Earlier, the 12-volume Hortus Malabaricus had recorded Kerala's plants, drawing on the herbalist Itty Achudan.
+K: Scientists measured the whole of India with great care, in a survey that took almost seventy years. Others studied its plants, languages and history.
+
+@icell company.medicine
+src: Medical College & Hospital, Kolkata
+src: 1817–1824 cholera pandemic
+T: The first cholera pandemic began near Calcutta in 1817 and spread across Asia to the Mediterranean; millions died. In 1835 the Medical College was founded in Calcutta, one of the oldest in Asia teaching modern medicine. Its teacher Madhusudan Gupta is remembered as the first Indian to perform a dissection there.
+K: A deadly disease called cholera spread from Bengal across the world in 1817. In 1835 a college opened in Calcutta to train doctors in modern medicine.
+
+@icell company.technology
+src: Rail transport in India
+src: Indian Telegraph Act, 1885
+src: Ganges Canal
+T: Steam and wire arrived in the Company's last years. The telegraph was first installed in 1851 and a line across India was completed three years later. The first passenger railway opened in 1853, its train hauled by three steam locomotives. The Ganges Canal was finished in 1854.
+K: In just a few years India got its first telegraph line, its first railway and a giant canal.
+
+@icell company.religion
+src: Bengal Sati Regulation, 1829
+src: Serampore Mission Press
+src: Inquisition of Goa
+T: Religion became a field of contest and reform. In Portuguese Goa an Inquisition enforced Catholic orthodoxy. At Danish Serampore, Baptist missionaries printed Bible translations in twenty-five Indian languages. In 1829 the Governor-General, Lord William Bentinck, made sati, the burning of a Hindu widow, illegal.
+K: Christian missionaries came to India and printed the Bible in many Indian languages. In 1829 the cruel custom of burning widows was banned.
+
+@icell company.arts
+src: Company style
+src: Bengal Renaissance
+T: Indian artists, many working for European patrons, created the Company style, a hybrid of Indian miniature tradition and European taste that began in Murshidabad and spread to Calcutta, Madras, Delhi and Lucknow. From the late 18th century the Bengal Renaissance brought a cultural, social, intellectual and artistic movement.
+K: Indian painters mixed Indian and European ways of painting to make a new style. In Bengal, writers, artists and thinkers began an exciting movement of new ideas.
+
+@icell company.language
+src: Fort William College
+src: Serampore Mission Press
+src: English Education Act, 1835
+T: Fort William College, founded in Calcutta on 18 August 1800, was an academy of oriental studies. The Serampore press published a Bengali Gospel in 1800 and went on to print in many Indian languages. In 1835 the English Education Act moved the Company's education funds away from the limited support it had given to Sanskrit and Persian learning.
+K: Printing presses began to print books in Bengali and other Indian languages. In 1835 the government decided to spend its school money in a new way, and less on the old Sanskrit and Persian schools.
+
+@icell company.nature
+src: Acharya Jagadish Chandra Bose Indian Botanic Garden
+src: Hortus Malabaricus
+src: Ganges Canal
+T: Nature was studied and put to work. Robert Kyd proposed a botanic garden at Calcutta in 1786, matching the Company's interest in raising farm output and cash crops. The Hortus Malabaricus described the flora of the Malabar coast and its medicinal uses. Canals turned the Ganges onto the fields of the Doab.
+K: The Company set up a botanic garden near Calcutta to find useful plants to grow and sell. A river was turned into a canal to water the fields.
+
+@icell company.movement
+src: Portuguese India
+src: Indian indenture system
+src: Serampore Mission Press
+T: Europeans came by sea: the Portuguese founded their State of India seven years after Vasco da Gama found the sea route, and the Danes held Serampore. Indians were carried outward: indentured labour created a large Indian diaspora in the Caribbean, Natal, Réunion and elsewhere.
+K: People from Portugal, Britain and other parts of Europe sailed to India. And many Indians were taken across the oceans to work, which is why Indian families live in the Caribbean and South Africa today.
+
+@icell company.women
+src: Savitribai Phule
+src: Bengal Sati Regulation, 1829
+T: Savitribai Phule (1831–1897) is widely regarded as the first Indian woman teacher. In 1848, with Jyotirao Phule and Sagunabai Kshirsagar, she opened the first school for girls at Bhide Wada in Pune, teaching mathematics, science and social studies despite strong opposition. Sati had been outlawed in 1829.
+K: Savitribai Phule became India's first woman teacher. In 1848 she helped to open a school for girls in Pune, even though many people were against it.
+
+@icell raj.power
+src: British Raj
+src: Delhi Durbar
+src: Census of India
+T: From 1858 to 1947 the British Crown ruled India directly. The region included British India, administered by Britain, and the princely states, ruled by Indian princes under British paramountcy. Imperial assemblies called Delhi Durbars marked the accession of an Emperor or Empress of India. A census began in 1872.
+K: After 1858, India was ruled by the British king or queen. Some parts were governed directly by the British, and others by Indian princes who had to obey them.
+
+@icell raj.war
+src: Indian Army during World War I
+src: Indian Army during World War II
+T: Indian soldiers fought Britain's wars. In the First World War more than one million Indian troops served overseas and more than 60,000 died. In the Second, the Indian Army grew from under 200,000 men in 1939 to over 2.5 million, the largest volunteer army in history, fighting in Africa, Europe and Asia.
+K: More than a million Indian soldiers fought in the First World War. In the Second World War, two and a half million joined up, the biggest volunteer army ever.
+
+@icell raj.trade
+src: British Raj
+src: Dadabhai Naoroji
+T: Railways, roads, canals and telegraph lines were built rapidly so that raw materials such as cotton could be carried from India's hinterland to its ports more efficiently. Dadabhai Naoroji, elected to the British House of Commons in 1892, formulated the "drain theory": that economic exploitation under British rule transferred wealth from India to Britain.
+K: The British built railways to carry cotton and other goods to the ports. An Indian leader, Dadabhai Naoroji, argued that India's wealth was being drained away to Britain.
+
+@icell raj.work
+src: Tata Steel
+src: Punjab Canal Colonies
+T: New kinds of work appeared. The Tata Iron and Steel Company was established at Jamshedpur in 1907 and began producing steel in 1912. In western Punjab, canals opened arid land to farming, and over one million Punjabis settled in the new canal colonies.
+K: India's first big steelworks opened at Jamshedpur. In the Punjab, more than a million people moved to farm new land watered by canals.
+
+@icell raj.food
+src: British Raj
+src: Great Famine of 1876–1878
+src: Bengal famine of 1943
+T: The later 19th century saw a rise in large-scale famines, together causing deaths in the tens of millions. The Great Famine of 1876–1878 began with drought in the Deccan; a careful recent estimate puts its toll at 8.2 million. In the Bengal famine of 1943, an estimated 800,000 to 3.8 million people died.
+K: Terrible famines struck India under British rule. Millions of people died in the famine of 1876 to 1878, and millions more in Bengal in 1943.
+
+@icell raj.daily
+src: Cricket in India
+src: Raja Harishchandra
+src: Rail transport in India
+T: Cricket, first recorded in India in 1721, took root: the first first-class match was played in 1864 between Calcutta and Madras. In 1913 Dadasaheb Phalke made Raja Harishchandra, often considered the first full-length Indian feature film. Passenger railways spread from 1853 onward.
+K: People began to play and watch cricket, to travel by train and, from 1913, to go to the cinema to see Indian films.
+
+@icell raj.science
+src: C. V. Raman
+src: Jagadish Chandra Bose
+src: Srinivasa Ramanujan
+src: Indian Institute of Science
+T: Indian scientists won world standing. C. V. Raman received the Nobel Prize in Physics in 1930 for his work on the scattering of light. Jagadish Chandra Bose pioneered the study of radio microwaves and made major contributions to botany. Srinivasa Ramanujan (1887–1920) made substantial contributions to number theory and infinite series. The Indian Institute of Science opened in 1909.
+K: The physicist C. V. Raman won a Nobel Prize in 1930 for discovering something new about light. Ramanujan, a brilliant mathematician, did great work with numbers in his short life.
+
+@icell raj.medicine
+src: Bombay plague epidemic
+src: Waldemar Haffkine
+src: Ronald Ross
+src: Upendranath Brahmachari
+T: Bubonic plague reached Bombay in 1896, part of the third plague pandemic; the bacteriologist Waldemar Haffkine did pioneering work on vaccines. In 1897 Ronald Ross found the malaria parasite in a mosquito, proving how the disease spreads. In 1922 Upendranath Brahmachari synthesised urea-stibamine, an effective treatment for kala-azar.
+K: In India in 1897, a doctor proved that mosquitoes spread malaria. An Indian scientist, Upendranath Brahmachari, discovered a medicine for a deadly fever called kala-azar.
+
+@icell raj.technology
+src: British Raj
+src: Tata Steel
+src: Rail transport in India
+T: Railways, roads, canals, bridges and telegraph links were rapidly built across India in the decades after 1858. Heavy industry followed: the Tata works began making pig iron in 1911 and steel in 1912.
+K: Railways, bridges, canals and telegraph lines spread across India. In 1912 India began to make its own steel.
+
+@icell raj.religion
+src: Arya Samaj
+src: Swami Vivekananda
+src: Aligarh Movement
+T: Reform movements reshaped the religions. Dayananda Saraswati founded the Arya Samaj in the 1870s, grounded in the authority of the Vedas. Swami Vivekananda spoke at the Parliament of the World's Religions in Chicago in 1893. The Aligarh Movement, around the college founded in 1875, promoted modern scientific education for Muslims.
+K: Religious teachers tried to renew their faiths. Swami Vivekananda travelled to America in 1893 and gave a famous speech about Hinduism. At Aligarh, a new college taught modern science to Muslim students.
+
+@icell raj.arts
+src: Raja Ravi Varma
+src: Bengal School of Art
+src: Rabindranath Tagore
+src: Raja Harishchandra
+T: Raja Ravi Varma (1848–1906) fused European academic painting with Indian subjects. The Bengal School of Art began in Calcutta and Shantiniketan and spread across the subcontinent. In 1913 Rabindranath Tagore became the first non-European to win a Nobel Prize, and the first Indian feature film was released.
+K: The poet Rabindranath Tagore won the Nobel Prize in 1913. The painter Raja Ravi Varma mixed European and Indian ways of painting, and the first Indian films were made.
+
+@icell raj.language
+src: Linguistic Survey of India
+src: Rabindranath Tagore
+T: The Linguistic Survey of India, proposed by George Grierson, formally began in 1894 and published its last results in 1928; it described 364 languages and dialects of British India. Writers such as Tagore, who wrote in Bengali, built modern literatures in the Indian languages.
+K: A great survey counted and described 364 languages and dialects spoken in India. Writers like Tagore wrote wonderful books in their own languages.
+
+@icell raj.nature
+src: Kaziranga National Park
+src: Punjab Canal Colonies
+src: Great Famine of 1876–1878
+T: The land was transformed and, here and there, protected. Canals brought arid western Punjab under cultivation. Kaziranga in Assam, beside the Brahmaputra and home to the Indian rhinoceros, was first set aside in 1905. Drought remained deadly: the famine of 1876 followed an intense drought in the Deccan.
+K: Canals turned dry land in the Punjab into farms. In Assam, land that is home to the Indian rhinoceros was first protected in 1905. It is now Kaziranga National Park.
+
+@icell raj.movement
+src: Punjab Canal Colonies
+src: Indian Army during World War I
+src: Swami Vivekananda
+src: Anandi Gopal Joshi
+T: People moved in great numbers: over a million Punjabis to the canal colonies, and more than a million soldiers overseas in the First World War. Others travelled to learn and to teach, like Anandibai Joshi, who went abroad to study medicine, and Vivekananda, who went to the United States in 1893.
+K: Millions of Indians moved to new farms, sailed abroad as soldiers, or travelled to study in other countries.
+
+@icell raj.women
+src: Pandita Ramabai
+src: Anandi Gopal Joshi
+src: Begum Rokeya
+src: Age of Consent Act, 1891
+T: Pandita Ramabai (1858–1922) founded Sharada Sadan, a home of learning for child widows. Anandibai Joshi (1865–1887) became the first certified Indian woman doctor of western medicine, and Kadambini Ganguly the first to practise. Begum Rokeya wrote and taught for women's education in Bengal. In 1891 the age of consent was raised from ten to twelve.
+K: Brave women opened new doors. Anandibai Joshi became one of India's first women doctors. Pandita Ramabai opened a home and school for young widows, and Begum Rokeya fought for girls' education.

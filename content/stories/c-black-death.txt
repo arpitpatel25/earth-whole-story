@@ -1,0 +1,186 @@
+# Short story: the Black Death (format: spread). Facts from the articles named in src.
+
+@story black-death
+title: The Black Death
+kid-title: The Black Death
+format: spread
+order: 3
+color: #c79bff
+content-note: This story describes a pandemic and the persecution that followed it.
+deck: In seven years a bacterium carried by fleas killed up to 50 million people. Follow it from port to port.
+kid-deck: A tiny germ, carried by fleas, spread from town to town along the trade routes. Follow it across the map.
+led: era:ocean-voyages | Ocean voyages | Europe after the plague looks outward; story:silk-roads | The Silk Roads | the routes the plague travelled; story:mongol-empire | The Mongol Empire | the empire it crossed
+
+@scene bd-01
+story: black-death
+title: The Black Death
+y: 1346
+cam: 44, 22, 9500
+look: title
+src: Black Death
+T: Between 1346 and 1353 a plague pandemic swept Europe. It was one of the most fatal in human history, killing up to 50 million people: 30 to 60 percent of Europe's population, and about a third of the Middle East's.
+K: Between 1346 and 1353 a terrible sickness swept across Europe and the Middle East. It killed up to 50 million people. In some places more than half of everyone died.
+
+@scene bd-02
+story: black-death
+title: A germ and a flea
+y: 1346
+cam: 44, 40, 12000
+src: Black Death
+T: The cause was a bacterium, Yersinia pestis. It spreads mainly through the bites of fleas, and sometimes through contact with infected tissue. In its pneumonic form it passes from person to person on the breath.
+T: Nobody at the time knew any of this. Where the pandemic began is still disputed.
+K: The sickness was caused by a tiny germ. Fleas carried it, and when a flea bit a person, the person fell ill. Nobody knew that back then. People had no idea what was killing them.
+conf: debated
+
+@scene bd-03
+story: black-death
+title: Along the trade routes
+y: 1340
+to: 1346
+cam: 42, 62, 11000
+src: Black Death
+src: Silk Road
+T: Trade moved more than goods. Diseases such as plague also spread along the Silk Road, and epidemics killed an estimated 25 million people across Asia during the fifteen years before the Black Death reached Constantinople.
+T: No account of the disease survives from east of the Black Sea before the outbreak in Crimea in 1346.
+K: Traders carried silk and spices along the roads between Asia and Europe. Without knowing it, they carried sickness too.
+show: route | via=Chang'an; Dunhuang; Kashgar; Samarkand; Merv; Feodosia | color=disease | dash=1
+note: The line follows Silk Road cities schematically; the plague's actual path across Asia is not known.
+
+@scene bd-04
+story: black-death
+title: Caffa
+y: 1346
+to: 1347-06
+cam: Feodosia | 3200
+src: Black Death
+T: Caffa, in Crimea, was a Genoese trading port. In 1347 it was under siege by the Golden Horde army of Jani Beg. The pandemic was reportedly first introduced to Europe during that siege.
+T: As the disease took hold, Genoese traders fled across the Black Sea.
+K: Caffa was a busy port on the Black Sea, run by traders from the Italian city of Genoa. In 1347, while an army was camped outside its walls, the sickness broke out. The traders sailed away, and the germ went with them.
+show: site | at=Feodosia | label=Caffa, 1347 | ring=1 | color=disease
+
+@scene bd-05
+story: black-death
+title: By ship
+y: 1347-06
+to: 1347-12
+cam: 39, 24, 4600
+linear: 1
+res: 0.02
+src: Black Death
+T: The traders reached Constantinople in the summer of 1347, and the disease arrived in Europe with them. In October twelve Genoese galleys carried it to Sicily, where it spread rapidly across the whole island.
+K: The ships reached the great city of Constantinople in the summer of 1347. By October twelve ships had carried the sickness to the island of Sicily.
+show: spread | id=black-death | color=disease | labels=all
+show: route | via=Feodosia; Istanbul; Messina | color=disease
+
+@scene bd-06
+story: black-death
+title: Italy
+y: 1348-01
+to: 1348-06
+cam: Florence | 3000
+linear: 1
+res: 0.02
+src: Black Death
+T: Galleys from Caffa reached Genoa and Venice in January 1348. A few weeks later an outbreak at Pisa opened the way into northern Italy.
+T: Florence had between 110,000 and 120,000 inhabitants in 1338. In 1351 it had 50,000. The city's tax records suggest most of its people died within four months of 1348.
+K: In January 1348 the sickness reached the Italian cities of Genoa and Venice. The city of Florence lost more than half of its people.
+show: spread | id=black-death | color=disease | labels=all
+
+@scene bd-07
+story: black-death
+title: Across a continent
+y: 1348-06
+to: 1350-12
+cam: 50, 6, 6500
+linear: 1
+res: 0.03
+weight: 2.6
+src: Black Death
+T: From Italy the disease spread north-west, striking France, Spain, Portugal and England by June 1348. Then it moved east and north, through Germany, Scotland and Scandinavia, between 1348 and 1350.
+T: At least 60 percent of the people of Hamburg and Bremen died. A similar share of Londoners may have died too, about 62,000 people.
+K: By June 1348 the sickness was in France, Spain, Portugal and England. Then it spread to Germany, Scotland and the far north. In some cities six out of every ten people died.
+show: spread | id=black-death | color=disease | labels=all
+
+@scene bd-08
+story: black-death
+title: A ship lands in Norway
+y: 1349
+to: 1353-06
+cam: 60, 22, 7500
+linear: 1
+res: 0.03
+weight: 1.8
+src: Black Death
+T: In 1349 a ship landed at Askøy in Norway, and the plague spread from there to Bjørgvin, today's Bergen. It reached northern Russia in 1352 and Moscow in 1353.
+K: In 1349 a ship brought the sickness to Norway. By 1353 it had reached Moscow.
+show: spread | id=black-death | color=disease | labels=all
+
+@scene bd-09
+story: black-death
+title: South and east
+y: 1348-04
+to: 1348-12
+cam: 28, 25, 9500
+src: Black Death
+T: The pandemic was not only Europe's. It spread west from Alexandria along the African coast. In April 1348 a ship from Sicily infected Tunis; an army that had been besieging the city scattered and took the disease to Morocco.
+T: Mecca was infected in 1348 by pilgrims performing the Hajj. Four centuries later Cairo still had only half the people it had had in 1347.
+K: The sickness also spread across North Africa and the Middle East. Pilgrims carried it to the holy city of Mecca in 1348.
+show: spread | id=black-death | color=disease | labels=all
+show: site | at=Alexandria | label=Alexandria | color=disease
+show: site | at=Cairo | label=Cairo | color=disease
+
+@scene bd-10
+story: black-death
+title: Someone to blame
+y: 1349-02
+cam: Strasbourg | 3600
+src: Black Death
+T: Healers and governments could neither explain the disease nor stop it. People looked to the stars, to earthquakes, and to their neighbours. Jews, friars, foreigners, beggars, pilgrims, lepers and Roma were all accused of causing it; Jews in particular were charged with poisoning wells.
+T: In Strasbourg in February 1349 about 2,000 Jews were murdered. Many Jewish families moved east to Poland, where King Casimir made them welcome.
+K: Nobody knew what caused the sickness, and frightened people looked for someone to blame. They blamed strangers, beggars and above all Jewish people, who had done nothing. In the city of Strasbourg about 2,000 Jewish people were killed.
+show: site | at=Strasbourg | label=Strasbourg, February 1349 | ring=1
+note: Content note: persecution and massacre.
+
+@scene bd-11
+story: black-death
+title: A world with fewer hands
+y: 1353
+to: 1430
+cam: 49, 8, 9500
+src: Black Death
+src: Consequences of the Black Death
+T: Historians estimate the plague cut the world's population from 475 million to between 350 and 375 million. In most of Europe it took nearly 80 years for numbers to recover, and in some places more than 150.
+T: With so few workers left, wages soared. Landowners began accepting money rents in place of labour to keep their tenants. Not everyone gained: for many who lived on wages alone, runaway prices swallowed the rise.
+K: So many people had died that there were not enough workers. Those who were left could ask for better pay. It took Europe about 80 years to have as many people again as before.
+
+@scene bd-12
+story: black-death
+title: One theory about what it changed
+y: 1400
+cam: Florence | 4200
+src: Black Death
+T: Florence was devastated between 1348 and 1350. One theory holds that the shock changed how people in 14th-century Italy saw the world, and that this shift ultimately led to the Renaissance.
+T: It is a theory. What is certain is that survivors lived in a different world from their parents.
+K: Some historians think the shock of the plague changed the way people in Italy thought about life, and helped lead to a great time of art and learning called the Renaissance. It is one idea among several.
+conf: debated
+
+@quiz bd-q1
+story: black-death
+q: What carried the plague germ from person to person?
+options: Fleas; Bad air; Poisoned wells
+a: Fleas
+why: The germ, Yersinia pestis, spreads mainly through flea bites. People at the time did not know this.
+
+@quiz bd-q2
+story: black-death
+q: How did the plague get from the Black Sea to Italy?
+options: By ship; By camel; By river
+a: By ship
+why: Trading ships from the port of Caffa carried it to Constantinople, Sicily, Genoa and Venice.
+
+@quiz bd-q3
+story: black-death
+q: Were the people who got blamed for the plague really responsible?
+options: No; Yes
+a: No
+why: Jewish people, strangers and beggars were blamed unfairly. The real cause was a germ nobody could see.

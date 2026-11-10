@@ -1,0 +1,62 @@
+{
+ "coverage": {
+  "result": "pass",
+  "seconds": 0,
+  "ranAt": "2026-11-10T06:54:43.867Z",
+  "build": "c68998551b"
+ },
+ "placeholders": {
+  "result": "pass",
+  "seconds": 1,
+  "ranAt": "2026-11-10T07:21:24.638Z",
+  "build": "ca1653e85d"
+ },
+ "size": {
+  "result": "pass",
+  "seconds": 2,
+  "ranAt": "2026-11-10T07:21:26.268Z",
+  "build": "ca1653e85d"
+ },
+ "acceptance": {
+  "result": "pass",
+  "seconds": 778,
+  "ranAt": "2026-11-10T07:07:44.286Z",
+  "build": "ca1653e85d"
+ },
+ "perf": {
+  "result": "pass",
+  "seconds": 63,
+  "ranAt": "2026-11-10T07:08:47.404Z",
+  "build": "ca1653e85d"
+ },
+ "facts": {
+  "result": "pass",
+  "seconds": 1417,
+  "ranAt": "2026-11-10T06:39:19.848Z",
+  "build": "c68998551b"
+ },
+ "links": {
+  "result": "pass",
+  "seconds": 184,
+  "ranAt": "2026-11-10T06:43:18.142Z",
+  "build": "c68998551b"
+ },
+ "screens": {
+  "result": "pass",
+  "seconds": 113,
+  "ranAt": "2026-11-10T07:10:40.358Z",
+  "build": "ca1653e85d"
+ },
+ "explore": {
+  "result": "pass",
+  "seconds": 601,
+  "ranAt": "2026-11-10T07:20:41.568Z",
+  "build": "ca1653e85d"
+ },
+ "subpath": {
+  "result": "pass",
+  "seconds": 3,
+  "ranAt": "2026-11-10T07:20:44.304Z",
+  "build": "ca1653e85d"
+ }
+}

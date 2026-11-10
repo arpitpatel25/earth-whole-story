@@ -1,0 +1,27 @@
+{
+  "human": [
+    {"id": "power", "name": "Power and government", "short": "Power", "kid": "Who was in charge", "color": "#f5a742", "about": "States, rulers, laws, revolutions and the work of running things."},
+    {"id": "war", "name": "War and conflict", "short": "War", "kid": "Wars and fighting", "color": "#ff5d52", "about": "Battles, sieges, uprisings and the people caught in them."},
+    {"id": "trade", "name": "Money and trade", "short": "Trade", "kid": "Money and trading", "color": "#e7d04a", "about": "Currencies, markets, routes, banks and taxes."},
+    {"id": "work", "name": "Work and industry", "short": "Work", "kid": "Jobs and making things", "color": "#c98b4b", "about": "Farming, crafts, mining and resources, factories, labour, slavery and forced labour."},
+    {"id": "food", "name": "Food", "short": "Food", "kid": "What people ate", "color": "#9bd15b", "about": "Crops, cooking, famine and what people actually ate."},
+    {"id": "daily", "name": "Daily life", "short": "Daily life", "kid": "Everyday life", "color": "#5fd0c0", "about": "Homes, clothing, childhood, family, school and play."},
+    {"id": "science", "name": "Science and mathematics", "short": "Science", "kid": "Science and maths", "color": "#5aa9ff", "about": "How people worked out the rules of the world."},
+    {"id": "medicine", "name": "Medicine and disease", "short": "Medicine", "kid": "Sickness and healing", "color": "#4fe0a0", "about": "Epidemics, healers, hospitals and public health."},
+    {"id": "technology", "name": "Technology and invention", "short": "Technology", "kid": "Inventions", "color": "#b8c4d6", "about": "Tools, machines, bridges, engines and networks."},
+    {"id": "religion", "name": "Religion and belief", "short": "Belief", "kid": "Beliefs", "color": "#c79bff", "about": "Faiths, myths and philosophies, and the places built for them."},
+    {"id": "arts", "name": "Arts and culture", "short": "Arts", "kid": "Art, music and games", "color": "#ff8f6b", "about": "Art, architecture, music, literature, theatre, games and sport."},
+    {"id": "language", "name": "Language and writing", "short": "Language", "kid": "Words and writing", "color": "#f0e6c8", "about": "Scripts, inscriptions, books, libraries and the press."},
+    {"id": "nature", "name": "Nature and climate", "short": "Nature", "kid": "Nature and weather", "color": "#57c785", "about": "Climate shifts, volcanoes, earthquakes, floods, animals, forests and rivers."},
+    {"id": "movement", "name": "Movement of people", "short": "Movement", "kid": "People on the move", "color": "#7fb2ff", "about": "Migration, exploration, settlement, diaspora and displacement."},
+    {"id": "women", "name": "Women", "short": "Women", "kid": "Women and girls", "color": "#ff8acb", "about": "Women's lives, work, power and movements, in their own right."}
+  ],
+  "deep": [
+    {"id": "geology", "name": "Geology", "short": "Geology", "kid": "Rocks and continents", "color": "#d08a5b", "about": "Plates, mountains, volcanoes and the making of continents."},
+    {"id": "climate", "name": "Climate", "short": "Climate", "kid": "Hot and cold", "color": "#7fc8f8", "about": "Greenhouse and icehouse worlds, sea level and ice."},
+    {"id": "life", "name": "Life", "short": "Life", "kid": "Living things", "color": "#7bd389", "about": "What lived where, from the fossil record."},
+    {"id": "extinctions", "name": "Extinctions", "short": "Extinctions", "kid": "Great dyings", "color": "#ff6b6b", "about": "Mass extinctions and what caused them."},
+    {"id": "oceans", "name": "Oceans", "short": "Oceans", "kid": "Seas", "color": "#4f9dde", "about": "Vanished oceans, seaways and reefs."},
+    {"id": "cosmos", "name": "Cosmos", "short": "Cosmos", "kid": "Space", "color": "#b9a7ff", "about": "Stars, galaxies, the Sun and its planets."}
+  ]
+}

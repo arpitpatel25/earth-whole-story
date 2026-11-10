@@ -1,0 +1,96 @@
+/* The music control: one button, on screen in every mode.
+   In the main view and in stories it sits at the right end of the timeline's bottom row, which keeps that much
+   room free. In the opening there is no timeline yet, so it sits in the top right corner. It stays above every
+   panel, sheet and the 3D viewer. */
+.music-btn {
+  position: fixed;
+  right: var(--s4);
+  bottom: calc(var(--s2) + env(safe-area-inset-bottom));
+  z-index: 70;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 28px;
+  padding: 0 10px 0 7px;
+  font-size: var(--fs-0);
+  font-weight: 620;
+  white-space: nowrap;
+  color: var(--chalk);
+  background: rgba(7, 17, 29, 0.9);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  transition: background var(--t-fast) var(--ease), border-color var(--t-fast) var(--ease), color var(--t-fast) var(--ease);
+}
+.music-btn:hover {
+  background: var(--ink-3);
+}
+.music-glyph {
+  display: inline-grid;
+  place-items: center;
+}
+.music-btn[data-state='playing'] .music-glyph {
+  color: var(--marker);
+}
+.music-btn[data-state='off'] {
+  color: var(--silt);
+  border-color: var(--line);
+}
+/* the browser refused to start sound from a scroll: the control asks for the click that will */
+.music-btn[data-state='asked'] {
+  color: var(--ink);
+  background: var(--marker);
+  border-color: var(--marker);
+  animation: music-ask 1.6s var(--ease) 3;
+}
+@keyframes music-ask {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(255, 210, 63, 0); }
+  50% { box-shadow: 0 0 0 6px rgba(255, 210, 63, 0.28); }
+}
+.music-btn[aria-disabled='true'] {
+  cursor: default;
+}
+/* room for it in the timeline's bottom row */
+.tl-foot {
+  padding-right: calc(var(--music-w, 96px) + var(--s2));
+}
+html[data-intro] .music-btn {
+  top: calc(var(--s3) + env(safe-area-inset-top));
+  bottom: auto;
+  height: 34px;
+}
+@media (max-width: 720px) {
+  .music-btn {
+    right: var(--s2);
+    bottom: calc(6px + env(safe-area-inset-bottom));
+    height: 36px;
+    min-width: 36px;
+    justify-content: center;
+    padding: 0 8px;
+  }
+  /* on a phone the note itself says on or off; the words appear only when a tap is needed */
+  .music-label {
+    display: none;
+  }
+  .music-btn[data-state='asked'] .music-label,
+  .music-btn.say .music-label {
+    display: inline;
+  }
+  .music-btn.say,
+  .music-btn[data-state='asked'] {
+    gap: 6px;
+    padding: 0 10px 0 8px;
+  }
+  html[data-intro] .music-btn {
+    top: calc(var(--s2) + env(safe-area-inset-top));
+    height: 36px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .music-btn[data-state='asked'] {
+    animation: none;
+  }
+}
+/* the 3D viewer fills the screen: keep its last lines clear of the control */
+.mv-panel {
+  padding-bottom: 52px;
+}

@@ -1,0 +1,25 @@
+{
+  "id": "black-death",
+  "note": "Arrival dates of the Black Death as given in the Wikipedia article. Where the source names a country rather than a city, the marker sits at the country's centre.",
+  "sources": ["Black Death"],
+  "points": [
+    {"at": "Feodosia", "date": "1347", "label": "Caffa"},
+    {"at": "Istanbul", "date": "1347-07", "label": "Constantinople"},
+    {"at": "Messina", "date": "1347-10", "label": "Sicily"},
+    {"at": "Genoa", "date": "1348-01", "label": "Genoa"},
+    {"at": "Venice", "date": "1348-01", "label": "Venice"},
+    {"at": "Pisa", "date": "1348-02", "label": "Pisa"},
+    {"at": "Florence", "date": "1348", "label": "Florence"},
+    {"at": "Tunis", "date": "1348-04", "label": "Tunis"},
+    {"at": "France", "date": "1348-06", "label": "France"},
+    {"at": "Spain", "date": "1348-06", "label": "Spain"},
+    {"at": "Portugal", "date": "1348-06", "label": "Portugal"},
+    {"at": "England", "date": "1348-06", "label": "England"},
+    {"at": "Mecca", "date": "1348", "label": "Mecca"},
+    {"at": "Germany", "date": "1349", "label": "Germany"},
+    {"at": "Bergen", "date": "1349", "label": "Bergen"},
+    {"at": "Scotland", "date": "1349", "label": "Scotland"},
+    {"at": "Veliky Novgorod", "date": "1352", "label": "Northern Russia"},
+    {"at": "Moscow", "date": "1353", "label": "Moscow"}
+  ]
+}

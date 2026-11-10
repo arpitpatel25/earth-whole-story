@@ -1,0 +1,114 @@
+# Trail: flight and space. Facts from the articles named in src.
+
+@trail flight
+title: Leaving the ground
+kid-title: Up, up and away
+theme: technology
+color: #8fd3ff
+order: 5
+deck: A paper-maker's balloon in 1783, 852 feet over the sand in 1903, a metal ball in orbit in 1957, footprints on the Moon in 1969. Ten places where people left the ground.
+kid-deck: People dreamed of flying for thousands of years. Then, in less than 200 years, they went from a paper balloon to the Moon. Visit ten places where it happened.
+
+@stop fl-1
+trail: flight
+title: A balloon made by paper-makers
+date: 1783-06-04
+at: Annonay
+alt: 1500
+src: Montgolfier brothers
+T: Joseph-Michel and Jacques-Étienne Montgolfier were paper manufacturers from Annonay in France. They invented the hot air balloon, and on 4 June 1783 flew one at Annonay in front of a group of local dignitaries. Later that year their balloon made the first confirmed piloted ascent by humans.
+K: Two brothers who made paper invented the hot air balloon. They showed it off in their home town in France on 4 June 1783. A few months later, people went up in one for the first time.
+
+@stop fl-2
+trail: flight
+title: The flying man
+date: 1896-08-09
+at: Berlin
+alt: 2200
+src: Otto Lilienthal
+T: Otto Lilienthal was the first person to make well-documented, repeated, successful flights with gliders, from an artificial hill he built near Berlin and from the Rhinow Hills. He showed that heavier-than-air flight was real. On 9 August 1896 his glider stalled and he could not regain control.
+K: Otto Lilienthal built gliders, wings with no engine, and flew them again and again from hills near Berlin. People called him "the flying man". In 1896 one of his gliders crashed.
+
+@stop fl-3
+trail: flight
+title: Four flights on one morning
+date: 1903-12-17
+at: Kitty Hawk, North Carolina
+alt: 1500
+src: Wright Flyer
+T: On 17 December 1903, about four miles south of Kitty Hawk in North Carolina, Orville and Wilbur Wright made the first sustained flights in a powered, controlled, heavier-than-air aircraft. They flew four times. The last flight covered 852 feet, 260 metres. Minutes later a gust wrecked the machine.
+K: On 17 December 1903 the brothers Orville and Wilbur Wright flew the first real aeroplane, one with an engine that the pilot could steer. They flew it four times that day. The longest flight went 260 metres.
+
+@stop fl-4
+trail: flight
+title: Across the Channel
+date: 1909
+at: Strait of Dover
+alt: 1500
+src: Louis Blériot
+T: In 1909 the French aviator Louis Blériot became world-famous by making the first aeroplane flight across the English Channel. It won him a prize of 1,000 pounds offered by the Daily Mail newspaper. He had paid for his aircraft with money made from manufacturing car headlamps.
+K: In 1909 a Frenchman, Louis Blériot, flew an aeroplane across the sea between France and England. Nobody had done that before. A newspaper gave him a big prize.
+
+@stop fl-5
+trail: flight
+title: New York to Paris, alone
+date: 1927-05-21
+at: Paris–Le Bourget Airport
+alt: 1500
+src: Spirit of St. Louis
+src: Amelia Earhart
+T: On 20 May 1927 Charles Lindbergh took off from Long Island, New York, in the single-engine Spirit of St. Louis. He landed at Le Bourget in Paris 33 hours and 30 minutes later, after about 5,800 km: the first solo nonstop flight across the Atlantic. In 1932 Amelia Earhart became the first woman to fly the Atlantic solo and nonstop.
+K: In 1927 Charles Lindbergh flew alone from New York to Paris without stopping. It took him 33 and a half hours. Five years later Amelia Earhart became the first woman to fly across the Atlantic Ocean alone.
+
+@stop fl-6
+trail: flight
+title: A ball that went beep
+date: 1957-10-04
+at: Baikonur Cosmodrome
+alt: 3000
+src: Sputnik 1
+T: On 4 October 1957 the Soviet Union launched Sputnik 1, the first artificial Earth satellite, from the range now known as the Baikonur Cosmodrome. It was a polished metal sphere 58 cm across with four radio antennas. It sent a radio signal back to Earth for three weeks, until its batteries ran down.
+K: On 4 October 1957 a rocket carried a shiny metal ball, 58 centimetres across, into space. It was called Sputnik, and it was the first thing people ever put in orbit around the Earth. It sent radio signals for three weeks.
+
+@stop fl-7
+trail: flight
+title: The first people in orbit
+date: 1961-04-12
+at: Baikonur Cosmodrome
+alt: 2200
+src: Vostok 1
+src: Valentina Tereshkova
+T: On 12 April 1961 the capsule Vostok 1 was launched from Baikonur with the Soviet cosmonaut Yuri Gagarin aboard. It was the first human orbital spaceflight in history. On 16 June 1963 Valentina Tereshkova became the first woman in space. She orbited the Earth 48 times and spent almost three days in space, alone.
+K: On 12 April 1961 Yuri Gagarin became the first person to fly around the Earth in space. Two years later Valentina Tereshkova became the first woman in space. She went around the Earth 48 times, all by herself.
+
+@stop fl-8
+trail: flight
+title: To the Moon
+date: 1969-07-16..1969-07-24
+at: Kennedy Space Center
+alt: 2200
+src: Apollo 11
+src: Kennedy Space Center
+T: Apollo 11 was the American spaceflight that first landed humans on the Moon. Neil Armstrong and Buzz Aldrin landed in the Sea of Tranquility on 20 July 1969 and spent more than 21 hours on the surface, while Michael Collins stayed in lunar orbit. Launch operations for the Apollo programme were carried out at the Kennedy Space Center in Florida.
+K: In July 1969 three astronauts flew from Florida to the Moon. Neil Armstrong and Buzz Aldrin landed and walked on it. Michael Collins waited for them in the spaceship, circling the Moon. Then they flew back to Earth.
+
+@stop fl-9
+trail: flight
+title: A telescope a million and a half kilometres away
+date: 2021-12-25
+at: Guiana Space Centre
+alt: 2200
+src: James Webb Space Telescope
+T: On 25 December 2021 the James Webb Space Telescope was launched on an Ariane 5 rocket from Kourou in French Guiana. In January 2022 it arrived about 1.5 million kilometres from Earth. It is the largest telescope in space and observes in infrared, so it can see objects too old, distant or faint for the Hubble Space Telescope.
+K: On Christmas Day 2021 a rocket launched the biggest telescope ever sent into space. It flew 1.5 million kilometres from Earth. It can see things that are too far away and too faint for any telescope before it.
+
+@stop fl-10
+trail: flight
+title: India lands near the Moon's south pole
+date: 2023-07-14..2023-08-23
+at: Satish Dhawan Space Centre
+alt: 2200
+src: Chandrayaan-3
+src: Satish Dhawan Space Centre
+T: Chandrayaan-3, built by India's space agency ISRO, was launched on 14 July 2023 from the Satish Dhawan Space Centre at Sriharikota, an island off India's east coast. It carried a lander, Vikram, and a rover, Pragyan. On 23 August 2023 it touched down near the lunar south pole, at 69 degrees south.
+K: In July 2023 India launched a spacecraft to the Moon from an island on its east coast. On 23 August it landed near the Moon's south pole, carrying a little rover called Pragyan.

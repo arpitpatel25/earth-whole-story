@@ -1,0 +1,14 @@
+data-raw/
+node_modules/
+orch/
+logs/
+.cache/
+.venv/
+camera.out
+supervisor.out
+*.log
+.DS_Store
+
+# full-size review screenshots (the contact sheets tests/screenshots/sheet-NN.jpg are kept; node tests/screens.mjs remakes these)
+tests/screenshots/review/
+tests/results/_*.log

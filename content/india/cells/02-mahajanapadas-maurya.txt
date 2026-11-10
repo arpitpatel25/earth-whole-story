@@ -1,0 +1,179 @@
+
+
+@icell mahajanapadas.power
+src: Mahajanapadas
+src: Magadha
+src: Nanda Empire
+T: From the sixth to the fourth century BCE, sixteen great states stretched across northern India, from Gandhara in the north-west to Anga in the east. Most were monarchies; two were most probably aristocratic republics. Magadha overshadowed, conquered and absorbed the others, and under the Nandas built a more centralised administration.
+K: Northern India was divided into sixteen big states. Most had kings, but a few were run by councils of nobles. One state, Magadha, grew stronger and swallowed up the rest.
+
+@icell mahajanapadas.war
+src: Ajatashatru
+src: Magadha
+src: Indian campaign of Alexander the Great
+T: Magadha grew by conquest: King Ajatashatru fought a war against the Vajjika League, and Magadha came to include most of Bihar and Bengal. In the north-west, Alexander the Great invaded in 327 BC and defeated King Porus at the Hydaspes in 326 BC, possibly the Macedonians' most costly battle.
+K: Magadha conquered its neighbours one by one. Far to the north-west, Alexander the Great marched in and beat King Porus in a hard battle beside a river.
+
+@icell mahajanapadas.trade
+src: Punch-marked coins
+src: Kosambi
+src: Grand Trunk Road
+T: Coins appear: punch-marked pieces of irregular shape, dating from about the 6th century BC and found over most of the subcontinent. Cities such as Kosambi were trading centres on the Ganges Plain, and the route now called the Grand Trunk Road has linked South and Central Asia for at least 2,500 years.
+K: People began to use coins, little pieces of metal stamped with marks. Traders travelled a great road that ran right across northern India.
+
+@icell mahajanapadas.work
+src: Shreni
+T: In ancient India, traders, merchants and artisans formed associations called shreni, usually one for each occupation. A shreni was largely self-governing, acted as an economic body and, within limits, as a first court for its own members. The word is commonly translated as "guild".
+K: People who did the same job, such as merchants or craft workers, joined together in groups called shreni. A shreni made its own rules and settled its members' quarrels.
+
+@icell mahajanapadas.daily
+src: History of India
+src: Northern Black Polished Ware
+src: Cyclopean Wall of Rajgir
+T: After about 500 BCE new towns and cities arose on the Ganges plain: the "second urbanisation", long after the Indus cities. Their elites used a glossy black luxury pottery. Rajgir, capital of Magadha before Pataliputra, was ringed by a stone wall 40 kilometres long.
+K: Cities grew up again in India, this time along the river Ganges. One of them, Rajgir, was guarded by a stone wall 40 kilometres long.
+
+@icell mahajanapadas.medicine
+src: Jīvaka
+T: Jivaka, personal physician to the Buddha and to King Bimbisara, lived at Rajagriha, today's Rajgir, in the 5th century BCE. Accounts of him in early Buddhist texts made him a model healer, still honoured by traditional healers in several Asian countries.
+K: Jivaka was a famous doctor who lived about 2,500 years ago. He was the doctor of the Buddha and of a king. Healers in several Asian countries still honour him.
+
+@icell mahajanapadas.technology
+src: Northern Black Polished Ware
+src: Punch-marked coins
+src: Cyclopean Wall of Rajgir
+T: This was an urban Iron Age. Potters made Northern Black Polished Ware, a burnished luxury ware that peaked about 500–300 BCE. Coins were stamped with punches. Builders raised long stone fortifications such as the wall of Rajgir, one of the few surviving structures in India older than the Mauryas.
+K: People of this time used iron tools, made shiny black pottery, stamped the first coins and built huge stone walls around their cities.
+
+@icell mahajanapadas.religion
+src: The Buddha
+src: Mahavira
+src: Śramaṇa
+src: Ājīvika
+src: Upanishads
+T: An age of seekers. Wandering ascetics called shramanas formed new spiritual movements. The Buddha, who lived in the eastern Ganges plain in the 6th or 5th century BCE, founded Buddhism; Mahavira is honoured by Jains as the 24th Tirthankara; the Ajivikas taught absolute fate. The Upanishads turned Vedic thought towards meditation and philosophy.
+K: Many people at this time asked big questions about life. Two great teachers, the Buddha and Mahavira, lived then. Buddhism and Jainism grew from their teaching.
+
+@icell mahajanapadas.arts
+src: Jataka tales
+src: Therīgāthā
+T: The age is remembered in stories and verse. The Jatakas are a huge body of tales about the earlier births of the Buddha, in human and animal form; they were later carved on the railings and gateways of stupas. The Therigatha collects short poems said to be by early Buddhist nuns.
+K: The Jataka tales tell of the Buddha's earlier lives, sometimes as a person and sometimes as an animal. Later, artists carved them in stone.
+
+@icell mahajanapadas.language
+src: Aṣṭādhyāyī
+src: Pali
+src: Kharosthi
+T: Panini described Sanskrit in a rigorous grammar between the 6th and 4th centuries BCE. Speech was changing: Pali, later the sacred language of Theravada Buddhism, is a Middle Indo-Aryan language. In Gandhara, the Kharosthi script developed between the 5th and 3rd centuries BCE.
+K: The scholar Panini wrote down the rules of Sanskrit. Ordinary people spoke newer languages such as Pali. In the north-west, people began to use a script called Kharosthi.
+
+@icell mahajanapadas.nature
+src: Magadha
+src: Pataliputra
+T: Rivers decided where power sat. Magadha was based in the eastern Ganges Plain. Its later capital, Pataliputra, began as a small fort near the Ganges about 490 BCE and grew at the meeting of the Son and the Ganges, chosen for its central position.
+K: The strongest kingdom, Magadha, lay along the river Ganges. Its capital was built where two big rivers meet.
+
+@icell mahajanapadas.movement
+src: Achaemenid conquest of the Indus Valley
+src: Indian campaign of Alexander the Great
+T: The north-west was drawn into empires from the west. Around 535 BCE Cyrus the Great of Persia annexed a large region west of the Indus, and Darius continued the campaign. In 327–325 BC Alexander's Macedonians took Gandhara and the Indus Valley, going beyond the old Persian frontier.
+K: Armies from the west marched into north-western India: first the Persians, and two hundred years later the army of Alexander the Great.
+
+@icell mahajanapadas.women
+src: Mahāprajāpatī Gautamī
+src: Therīgāthā
+T: In Buddhist tradition, Mahapajapati Gotami, the Buddha's foster-mother, was the first woman to seek ordination and became the first Buddhist nun. The Therigatha, "Verses of the Elder Nuns", collects 73 poems said to have been spoken by early nuns, some dating to the late third century BCE.
+K: The Buddha's foster-mother asked to become a nun, and tradition says she was the first. Poems said to be by early Buddhist nuns still survive.
+
+@icell maurya.power
+src: Maurya Empire
+src: Ashoka
+T: Chandragupta Maurya founded the empire around 320 BCE from its base in Magadha; it lasted, in loose-knit fashion, until 185 BCE. Ashoka, the third ruler, reigned from about 268 to 232 BCE over a large part of the subcontinent.
+K: Chandragupta Maurya built an empire that covered a large part of India. The third emperor, Ashoka, is one of the most famous rulers in Indian history.
+
+@icell maurya.war
+src: Seleucid–Mauryan War
+src: Kalinga War
+T: Between 305 and 303 BCE Chandragupta faced Seleucus I, who had crossed the Indus; it ended in a marriage alliance, with territory for Chandragupta and war elephants for Seleucus. About 261 BCE Ashoka conquered Kalinga. His own edict records 100,000 killed and 150,000 deported, and his deep remorse.
+K: Ashoka conquered the kingdom of Kalinga in a terrible war. Afterwards he wrote that 100,000 people had been killed, and that he felt deep sorrow for it.
+
+@icell maurya.trade
+src: Maurya Empire
+src: Grand Trunk Road
+src: Megasthenes
+T: The Mauryan economy was helped by coinage and by the use of writing, which may have made more intricate business dealings possible. The route now called the Grand Trunk Road linked the Ganges plain with Central Asia, and Greek envoys such as Megasthenes travelled to the capital.
+K: Coins and writing made buying and selling easier in the Mauryan empire. A great road joined the east of India to the north-west and the lands beyond.
+
+@icell maurya.work
+src: Maurya Empire
+src: Pillars of Ashoka
+T: According to Tim Dyson, the Mauryan period saw the consolidation of caste among the Indo-Aryan people settled in the Gangetic plain. It was also an age of skilled stone-workers, who cut and raised monolithic pillars, and of the scribes and carvers who set the emperor's edicts on rock.
+K: Under the Mauryas, caste, the sorting of people into groups by birth, grew stronger. Skilled stone workers carved huge pillars, each from a single piece of rock.
+
+@icell maurya.food
+src: Maurya Empire
+src: Sohgaura copper plate inscription
+T: Settled agriculture in the fertile eastern Gangetic plain was profitable. There was planning for bad years: the Sohgaura copper plate, written in Brahmi of the Mauryan period, describes three granaries set up for the public in times of famine and scarcity.
+K: Farms along the Ganges grew plenty of food. Storehouses of grain were set up to feed people when there was a famine.
+
+@icell maurya.daily
+src: Pataliputra
+src: Megasthenes
+T: The capital, Pataliputra, beside modern Patna, was one of the largest cities in the world in Ashoka's reign, with perhaps 150,000 to 400,000 people. Megasthenes reported it as ten miles long and one and three-quarter miles wide. Excavations found large fortification walls reinforced with timber.
+K: The capital city, Pataliputra, was one of the biggest cities in the world. A Greek visitor said it was ten miles long, and it had walls strengthened with wood.
+
+@icell maurya.science
+src: Pingala
+src: Brahmi script
+T: Pingala, a scholar, grammarian and mathematician of about the 3rd or 2nd century BCE, wrote the Chandahshastra, a treatise on prosody, the metres of verse. Writing itself comes into view: Brahmi appears as a fully developed script in the 3rd century BCE.
+K: A scholar named Pingala studied the rhythms of poetry and was a mathematician too. And from this time we can see Indian writing, in a script called Brahmi.
+
+@icell maurya.medicine
+src: Edicts of Ashoka
+T: One of Ashoka's edicts states that he established two kinds of medical treatment, for people and for cattle, everywhere in his dominions and among his neighbours, from the Cholas and Pandyas in the south to the lands of the Greek king it calls Antiyoka.
+K: Ashoka had his orders carved on rocks. One says that he set up medical care for people and for animals all across his empire and beyond.
+
+@icell maurya.technology
+src: Mauryan polish
+src: Pillars of Ashoka
+src: Sudarshana Lake
+T: Mauryan masons gave sandstone and granite a very smooth, shiny surface, the "Mauryan polish" seen on Ashoka's pillars and in the Barabar caves. The pillars are monoliths. In semi-arid Kathiawar, Chandragupta commissioned an artificial lake, Sudarshana, which later kings renovated.
+K: Mauryan stone workers could polish stone until it was smooth and shiny. They cut tall pillars from single blocks of stone, and made a lake to store water in a dry land.
+
+@icell maurya.religion
+src: Edicts of Ashoka
+src: Barabar Caves
+src: Mahinda (Buddhist monk)
+T: Ashoka's edicts provide the first tangible evidence of Buddhism. They tell of his conversion, his efforts to spread dhamma, and his moral precepts. The oldest surviving rock-cut caves in India, in the Barabar hills, date from this empire. Tradition says the monk Mahinda carried Buddhism to Sri Lanka.
+K: Ashoka became a Buddhist and tried to spread good behaviour, which he called dhamma. He had his messages carved on rocks and pillars for everyone to see.
+
+@icell maurya.arts
+src: Lion Capital of Ashoka
+src: Didarganj Yakshi
+T: The Lion Capital, set up at Sarnath about 250 BCE, has four life-sized lions back to back above a drum carved with wheels, a lion, an elephant, a bull and a galloping horse. In 1947 it became the model for India's state emblem. The Didarganj Yakshi is one of the finest very early Indian stone statues, though its date is debated.
+K: The most famous Mauryan sculpture shows four lions standing back to back. It once sat on top of a pillar at Sarnath. Today it is the model for India's state emblem.
+
+@icell maurya.language
+src: Edicts of Ashoka
+src: Brahmi script
+T: Ashoka's edicts in central and eastern India were written in Magadhi Prakrit in the Brahmi script; in the north-west he used Prakrit in the Kharoshthi script, and also Greek and Aramaic. Brahmi's descendants, the Brahmic scripts, are still used across South and Southeast Asia.
+K: Ashoka's messages were written in the languages people spoke, and even in Greek in the far north-west. The script he used, Brahmi, is the ancestor of many scripts used in Asia today.
+
+@icell maurya.nature
+src: Maurya Empire
+src: Edicts of Ashoka
+T: Ashoka's edicts forbade the killing of wild animals and the destruction of forests; one lists protected creatures from parrots and wild geese to tortoises, porcupines and the rhinoceros. Some modern environmental historians see him as an early embodiment of that ethos.
+K: Ashoka made rules to protect animals. His list included parrots, geese, tortoises, bats and the rhinoceros. He also told people not to destroy forests.
+
+@icell maurya.movement
+src: Megasthenes
+src: Mahinda (Buddhist monk)
+src: Sanghamitta
+T: People and ideas moved along the empire's routes. Megasthenes came from the Seleucid court to Pataliputra as ambassador and left the first Western written description of India. According to Sri Lankan tradition, Mahinda and his sister Sanghamitta carried Buddhism to Sri Lanka.
+K: A Greek ambassador, Megasthenes, came to the Mauryan court and wrote a book about India. Buddhist monks and nuns travelled from India to Sri Lanka.
+
+@icell maurya.women
+src: Maurya Empire
+src: Sanghamitta
+T: The Mauryan period saw declining rights for women in the mainstream Indo-Aryan-speaking regions of India, alongside the consolidation of caste. One woman remembered from the age is Sanghamitta, a Buddhist nun believed in Sri Lankan tradition to be Ashoka's daughter, who went to Sri Lanka to spread the Buddha's teaching.
+K: Many women had fewer rights in this time than before. One famous woman was Sanghamitta, a Buddhist nun who travelled to Sri Lanka to teach.

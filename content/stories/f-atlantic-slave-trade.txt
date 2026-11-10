@@ -1,0 +1,181 @@
+# Short story: the Atlantic slave trade (format: flow). Facts from the articles named in src.
+
+@story atlantic-slave-trade
+title: The Atlantic Slave Trade
+kid-title: The Atlantic slave trade
+format: flow
+order: 6
+color: #c98b4b
+content-note: This story is about the enslavement of millions of people, and about those who resisted it. It includes deaths at sea and a massacre.
+deck: For more than three hundred years ships carried enslaved Africans across the Atlantic. This is the route, the people on it, and the people who ended it.
+kid-deck: For more than 300 years, millions of African people were taken from their homes by force and shipped across the ocean. This is the story of that terrible trade, and of the people who fought to stop it.
+led: era:abolition | Abolition | the movement to end slavery; story:columbian-exchange | The Columbian Exchange | the crops they were made to grow; era:age-of-revolution | Age of Revolution | Haiti among the revolutions
+
+@scene ast-01
+story: atlantic-slave-trade
+title: The Atlantic Slave Trade
+y: 1526
+cam: 8, -25, 15000
+look: title
+src: Atlantic slave trade
+src: Middle Passage
+T: From the 16th century well into the 19th, slave traders shipped enslaved African people to the Americas. Most historians estimate that between 9.4 and 12.6 million people were taken. An estimated two million died at sea.
+T: Each of those numbers was a person with a name, a family and a home.
+K: For more than 300 years, traders took African people from their homes by force and shipped them across the Atlantic Ocean to be sold. Between 9 and 13 million people were taken. Every one of them was a person with a name and a family.
+show: arrow | from=Elmina Castle | to=Salvador, Bahia | color=#c98b4b | still=1
+show: arrow | from=House of Slaves | to=Barbados | color=#c98b4b | still=1
+note: Arrows are schematic. The clock's starting year is nominal for "the 16th century".
+
+@scene ast-02
+story: atlantic-slave-trade
+title: A castle on the Gold Coast
+y: 1482
+cam: Elmina Castle | 3200
+src: Elmina Castle
+src: Atlantic slave trade
+T: In 1482 the Portuguese built a fortified trading post, São Jorge da Mina, at Elmina in what is now Ghana. It was the first trading post on the Gulf of Guinea, and it is the oldest European building still standing in sub-Saharan Africa.
+T: Europeans set up a coastal slave trade in the 15th century. The trade to the Americas began in the 16th.
+K: In 1482, Portuguese sailors built a castle on the coast of West Africa, at a place called Elmina. It is still standing. Europeans first came to trade, and soon they were trading in people.
+show: site | at=Elmina Castle | label=Elmina Castle, built 1482 | ring=1
+
+@scene ast-03
+story: atlantic-slave-trade
+title: Sugar
+y: 1450
+to: 1550
+cam: 25, -30, 9500
+src: Atlantic slave trade
+T: Around 1450 the sugar plantations of Madeira and the Canary Islands were being worked by enslaved people brought from sub-Saharan Africa. When plantations were planted across the Atlantic, the planters reached for the same solution.
+T: In the Americas enslaved Africans were sold to work on coffee, tobacco, cocoa, sugar and cotton plantations.
+K: Growing sugar needed many workers. On islands near Africa, plantation owners forced enslaved African people to do the work. When plantations were started in America, the owners did the same thing there.
+show: site | at=Madeira | label=Madeira
+show: site | at=Canary Islands | label=Canary Islands
+
+@scene ast-04
+story: atlantic-slave-trade
+title: The triangle
+y: 1700
+cam: 22, -30, 14500
+src: Middle Passage
+src: Triangular trade
+T: Many voyages followed three sides of a triangle. Ships left Europe for African markets carrying manufactured goods, and traded them for captives. They carried the captives across the Atlantic. The proceeds from selling them bought products that were shipped back to Europe.
+K: Ships often sailed in a triangle. From Europe they carried goods to Africa and swapped them for captured people. They carried the people to America and sold them. Then they carried other goods back to Europe.
+show: arrow | from=Liverpool | to=Elmina Castle | color=trade
+show: arrow | from=Elmina Castle | to=Barbados | color=#c98b4b
+show: arrow | from=Barbados | to=Liverpool | color=trade
+note: The triangle is schematic. Liverpool is one example of a European slave-trading port.
+
+@scene ast-05
+story: atlantic-slave-trade
+title: The Middle Passage
+y: 1750
+cam: 10, -35, 9500
+src: Middle Passage
+T: The crossing itself, the second side of the triangle, was called the Middle Passage. Millions of people were forcibly transported this way. About 14 percent of them, an estimated two million people, died before they reached land.
+K: The journey across the ocean was called the Middle Passage. About one in every seven people died on the way.
+show: arrow | from=House of Slaves | to=Barbados | color=#c98b4b
+show: arrow | from=Elmina Castle | to=Salvador, Bahia | color=#c98b4b
+show: arrow | from=Luanda | to=Rio de Janeiro | color=#c98b4b
+note: Arrows are schematic examples of crossings, not measured flows.
+
+@scene ast-06
+story: atlantic-slave-trade
+title: Brazil
+y: 1550
+to: 1850
+cam: Salvador, Bahia | 6500
+src: Slavery in Brazil
+T: The importation of enslaved Africans into Brazil began around the middle of the 16th century. Over the whole era of the Atlantic trade, Brazil imported more enslaved Africans than any other country.
+T: The enslavement of indigenous people, on whom the first colonists had depended, went on well into the 17th and 18th centuries.
+K: More enslaved Africans were taken to Brazil than to any other country. The people who had lived in Brazil before the Europeans came were enslaved too.
+show: site | at=Salvador, Bahia | label=Brazil | ring=1
+
+@scene ast-07
+story: atlantic-slave-trade
+title: The Zong
+y: 1781-11-29
+cam: Zong massacre | 5200
+src: Zong massacre
+T: Over several days from 29 November 1781 the crew of the British slave ship Zong killed more than 130 enslaved African people. According to the crew, the ship had run low on drinking water after navigational errors, and they threw people overboard.
+T: The ship's owners, a Liverpool syndicate, had insured the lives of the people on board as cargo, as was common business practice.
+K: In 1781 the crew of a British slave ship called the Zong killed more than 130 of the enslaved people on board. The ship's owners had insurance on those people, as if they were goods.
+show: site | at=Zong massacre | label=The Zong, 29 November 1781 | ring=1
+note: Content note: mass killing.
+
+@scene ast-08
+story: atlantic-slave-trade
+title: Olaudah Equiano
+y: 1789
+cam: London | 5200
+src: Olaudah Equiano
+T: Olaudah Equiano, born around 1745, wrote that he was kidnapped from his home in what is now southern Nigeria and shipped to Barbados and then Virginia. He was known for most of his life as Gustavus Vassa.
+T: Drawing on what he had lived through as an enslaved African, he became a writer and a celebrated figure in the movement to abolish the trade in Britain and Ireland.
+K: Olaudah Equiano wrote that he was kidnapped as a boy in West Africa and sold into slavery. Later he wrote a book about his life. It helped many people understand why the slave trade had to end.
+note: The clock shows a year within his lifetime, c. 1745 to 1797.
+
+@scene ast-09
+story: atlantic-slave-trade
+title: Haiti
+y: 1791-08-21
+cam: Port-au-Prince | 4200
+src: Haitian Revolution
+T: On 21 August 1791, in the French colony of Saint-Domingue, enslaved Africans rose against colonial rule. Their revolution is one of the only slave rebellions in history that led to a new state: one free from slavery and ruled by people who had been enslaved. It is called Haiti.
+K: On the island colony of Saint-Domingue, enslaved people rose up against their French rulers and won. They made their own free country, called Haiti.
+show: site | at=Port-au-Prince | label=Saint-Domingue becomes Haiti | ring=1
+
+@scene ast-10
+story: atlantic-slave-trade
+title: The trade is banned
+y: 1807-05-01
+cam: London | 4200
+src: Slave Trade Act 1807
+T: After eighteen years of attempts, the British Parliament passed an act prohibiting the Atlantic slave trade in the British Empire. It took effect on 1 May 1807.
+T: It did not free anyone already enslaved. It did push Britain to press other countries to abolish their own slave trades.
+K: In 1807, after 18 years of trying, Britain's parliament made the slave trade against the law. But people who were already enslaved were still not free.
+show: site | at=London | label=Slave Trade Act, 1 May 1807 | ring=1
+
+@scene ast-11
+story: atlantic-slave-trade
+title: Emancipation
+y: 1865-12-06
+to: 1888-05-13
+cam: 5, -60, 14500
+src: Thirteenth Amendment to the United States Constitution
+src: Lei Áurea
+T: Ending the trade was not ending slavery. In the United States the Thirteenth Amendment, which made slavery illegal except as punishment for a crime, was ratified on 6 December 1865.
+T: In Brazil the Golden Law, the Lei Áurea, abolished slavery on 13 May 1888. It was signed by Princess Isabel, an opponent of slavery, acting as regent.
+K: Slavery itself took much longer to end. It was banned in the United States in 1865 and in Brazil in 1888.
+show: site | at=Washington, D.C. | label=United States, 1865
+show: site | at=Rio de Janeiro | label=Brazil, 13 May 1888 | since=1888-05-13
+
+@scene ast-12
+story: atlantic-slave-trade
+title: A door on Gorée Island
+y: 1962
+cam: House of Slaves | 3200
+src: House of Slaves
+T: On Gorée Island, 3 km off Dakar in Senegal, stands the House of Slaves with its Door of No Return, a museum and memorial to the victims of the Atlantic slave trade. It opened in 1962.
+T: Historians differ on how many people were actually held in the building, and on how important Gorée was as a point of departure. What it commemorates is not in doubt.
+K: On a small island off the coast of Senegal there is a museum called the House of Slaves. People visit it to remember everyone who was taken across the ocean.
+show: site | at=House of Slaves | label=House of Slaves, Gorée | ring=1
+
+@quiz ast-q1
+story: atlantic-slave-trade
+q: Where were the enslaved people taken from?
+options: Africa; Europe; Australia
+a: Africa
+why: Millions of African people were taken by force and shipped to the Americas.
+
+@quiz ast-q2
+story: atlantic-slave-trade
+q: Which country did the people of Saint-Domingue create when they won their freedom?
+options: Haiti; Brazil; Ghana
+a: Haiti
+why: Enslaved people rose up against French rule and founded Haiti.
+
+@quiz ast-q3
+story: atlantic-slave-trade
+q: When Britain banned the slave trade in 1807, were enslaved people set free at once?
+options: No; Yes
+a: No
+why: The 1807 law stopped the trade, but it did not free people who were already enslaved.

@@ -1,0 +1,33 @@
+{
+  "name": "earth-the-whole-story",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EARTH: The Whole Story. One globe, one clock, from the Big Bang to today.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node pipeline/build-site.mjs",
+    "dev": "node pipeline/build-site.mjs --watch",
+    "serve": "node pipeline/serve.mjs",
+    "test": "node tests/run-all.mjs",
+    "audit:coverage": "node tests/coverage-audit.mjs",
+    "audit:facts": "node tests/fact-audit.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
+    "@fontsource-variable/source-serif-4": "^5.3.1",
+    "@fontsource/andika": "^5.3.0",
+    "d3-geo": "^3.1.2",
+    "d3-geo-projection": "^4.0.0",
+    "earcut": "^3.2.4",
+    "esbuild": "^0.28.2",
+    "fflate": "^0.8.3",
+    "mapshaper": "^0.7.101",
+    "playwright": "^1.65.0",
+    "shapefile": "^0.6.6",
+    "sharp": "^0.35.5",
+    "three": "^0.170.0",
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1"
+  }
+}

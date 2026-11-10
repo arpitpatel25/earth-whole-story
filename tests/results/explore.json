@@ -1,0 +1,43 @@
+{
+  "ranAt": "2026-11-10T07:20:41.551Z",
+  "pass": true,
+  "minutes": 10,
+  "actions": 445,
+  "counts": {
+    "leaveStory": 20,
+    "pin": 51,
+    "closeDeep": 21,
+    "drag": 34,
+    "lens": 17,
+    "time": 42,
+    "story": 19,
+    "follow": 23,
+    "india": 23,
+    "trail": 12,
+    "resize": 8,
+    "zoom": 28,
+    "leaveTrail": 6,
+    "escape": 9,
+    "country": 14,
+    "fly": 22,
+    "closeSheet": 22,
+    "scrub": 13,
+    "search": 11,
+    "sheet": 15,
+    "model": 6,
+    "level": 5,
+    "wide": 6,
+    "keys": 5,
+    "surprise": 7
+  },
+  "errors": [],
+  "foreign": [],
+  "harness": [
+    "search: page.fill: Timeout 30000ms exceeded.",
+    "search: page.fill: Timeout 30000ms exceeded.",
+    "search: page.fill: Timeout 30000ms exceeded.",
+    "search: page.fill: Timeout 30000ms exceeded.",
+    "sheet: page.evaluate: TypeError: Cannot read properties of undefined (reading 'click')",
+    "search: page.fill: Timeout 30000ms exceeded."
+  ]
+}

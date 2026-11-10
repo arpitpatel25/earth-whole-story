@@ -1,0 +1,92 @@
+# Humans: from the first hominins to the eve of farming.
+
+@era early-hominins
+name: Early hominins
+kid: Walking apes
+level: 1
+group: humans
+span: 7 mya..3.3 mya
+src: Sahelanthropus
+src: Lower Paleolithic
+S: The oldest candidates for the human branch of the ape family are about 7 million years old. Sahelanthropus, known mainly from a skull found in northern Chad and nicknamed Toumaï, is one; its exact place in the family is uncertain.
+K: About 7 million years ago our branch of the family split from the other apes. One of the oldest skulls from near that split was found in Chad. Its nickname is Toumaï.
+conf: debated
+
+@era lower-paleolithic
+name: Lower Paleolithic
+kid: The first stone tools
+level: 1
+group: humans
+span: 3.3 mya..300 kya
+src: Lower Paleolithic
+src: Paleolithic
+S: The Lower Paleolithic is the earliest part of the Old Stone Age. It runs from about 3.3 million years ago, when the first evidence of stone tools appears, to about 300,000 years ago, and covers the Oldowan and Acheulean toolmaking traditions.
+K: The Old Stone Age began when early humans first shaped stones into tools, about 3.3 million years ago. This first part of it lasted three million years.
+
+@era middle-paleolithic
+name: Middle Paleolithic
+kid: Many kinds of humans
+level: 1
+group: humans
+span: 300 kya..50 kya
+src: Middle Paleolithic
+src: Upper Paleolithic
+S: The Middle Paleolithic broadly spans 300,000 to 50,000 years ago, with considerable differences in dating between regions. In African archaeology the same stretch is usually called the Middle Stone Age. Our own species is believed to have emerged in Africa around 300,000 years ago.
+K: In the middle of the Old Stone Age, our own kind of human appeared in Africa. Other kinds, such as the Neanderthals, were living at the same time.
+
+@era upper-paleolithic
+name: Upper Paleolithic
+kid: Art, needles and long journeys
+level: 1
+group: humans
+span: 50 kya..12 kya
+src: Upper Paleolithic
+S: The Upper Paleolithic is the last part of the Old Stone Age, very broadly from 50,000 to 12,000 years ago. Around its start there was a marked increase in the variety of things people made, which some theories link to the appearance of fully modern behaviour.
+K: About 50,000 years ago, people began making many more kinds of things than ever before. This last part of the Old Stone Age ended when the ice age did.
+
+@era quaternary-ice-ages
+name: The Quaternary ice ages
+short: Ice ages
+kid: The ice ages
+level: 2
+group: humans
+span: 2.58 mya..11.7 kya
+src: Quaternary glaciation
+src: Pleistocene
+S: Since about 2.58 million years ago Earth has swung between cold glacial periods and warmer interglacials. Geologists count the whole stretch, up to the present, as one ice age; the Pleistocene epoch, to 11,700 years ago, covers its repeated glaciations.
+K: For the last two and a half million years, great sheets of ice have grown and melted back again and again. We are living in one of the warm gaps.
+
+@era last-glacial-maximum
+name: Last Glacial Maximum
+short: Glacial maximum
+kid: The coldest time
+level: 2
+group: humans
+span: 26 kya..20 kya
+src: Last Glacial Maximum
+S: Between 26,000 and 20,000 years ago the ice sheets of the last glacial period reached their greatest extent, covering much of northern North America, northern Europe and Asia. Deserts expanded and sea level stood about 125 metres lower than today.
+K: About 20,000 years ago, ice covered much of North America, northern Europe and Asia. So much water was locked up in ice that the sea was about 125 metres lower.
+
+@era lost-lands
+name: Rising seas and lost lands
+short: Lost lands
+kid: Lands the sea swallowed
+level: 2
+group: humans
+span: 20 kya..7 kya
+src: Doggerland
+src: Sundaland
+src: Beringia
+S: As the ice melted the sea rose and drowned wide plains. Doggerland, between Britain and the continent, was inundated between 10,000 and 7,000 years ago. The Bering land bridge, up to 1,000 km wide, had joined Asia to North America, and Sundaland had joined Borneo, Java and Sumatra to mainland Asia.
+K: When the ice melted, the sea rose and covered land where people and animals had lived. You could once walk from Britain to Europe, and from Asia to America.
+
+@era green-sahara
+name: Green Sahara
+kid: When the Sahara was green
+level: 2
+group: humans
+span: 14.6 kya..5.5 kya
+place: Sahara
+src: African humid period
+S: During the African humid period much of the Sahara was covered by grasses, trees and lakes. It began about 14,600 to 14,500 years ago and ended 6,000 to 5,000 years ago, driven by changes in Earth's tilt that strengthened the African monsoon.
+K: The Sahara was not always a desert. For thousands of years it had grass, trees, lakes and rivers, and people lived and herded animals there.

@@ -1,0 +1,13 @@
+{
+  "ranAt": "2026-11-10T07:21:26.265Z",
+  "pass": true,
+  "siteBytes": 209236365,
+  "files": 8546,
+  "biggest": {
+    "size": 4998684,
+    "file": "site/data/borders/cshapes/1914.bin"
+  },
+  "folderBytes": 5279281152,
+  "firstBytes": 215670,
+  "found": []
+}

@@ -1,0 +1,143 @@
+# Trail: building big. Facts from the articles named in src.
+
+@trail building
+title: Building big
+kid-title: Giant buildings
+theme: technology
+color: #e6b98a
+order: 9
+deck: Stone pillars raised by people who did not farm, a tomb that took 26 years, a dome that was the world's largest room, a canal that cut a continent in two. Thirteen things people built to last.
+kid-deck: People have always loved to build something huge. Visit thirteen giant buildings, from stone circles made before farming to the tallest tower in the world.
+
+@stop bg-1
+trail: building
+title: The oldest great stones
+date: 9500 BCE..8000 BCE
+at: Göbekli Tepe
+alt: 1500
+src: Göbekli Tepe
+T: Göbekli Tepe, in today's Turkey, was inhabited from around 9500 BCE to at least 8000 BCE. It is known for large circular structures holding massive stone pillars, among the world's oldest known megaliths. Many pillars carry reliefs of wild animals.
+K: More than 11,000 years ago, people raised rings of giant stone pillars on a hill in what is now Turkey, and carved wild animals on them. They are some of the oldest big stone monuments in the world.
+
+@stop bg-2
+trail: building
+title: Stonehenge
+date: 3100 BCE
+at: Stonehenge
+alt: 900
+src: Stonehenge
+T: Stonehenge, on Salisbury Plain in England, was built in several phases beginning about 3100 BC. Its outer ring is of standing stones about four metres high, each weighing around 25 tons. The whole monument is aligned towards sunrise on the summer solstice and sunset on the winter solstice.
+K: Stonehenge is a ring of huge standing stones in England, begun about 5,000 years ago. Each big stone weighs about 25 tons. The stones line up with the sunrise on the longest day of the year.
+
+@stop bg-3
+trail: building
+title: The Great Pyramid
+date: 2600 BCE
+at: Great Pyramid of Giza
+alt: 900
+src: Great Pyramid of Giza
+T: The Great Pyramid of Giza is the largest of the Egyptian pyramids, built about 2600 BC over a period of about 26 years as the tomb of the pharaoh Khufu. It first stood 146.6 metres high. It is the oldest of the Seven Wonders of the Ancient World, and the only one that remains largely intact.
+K: The Great Pyramid in Egypt was built about 4,600 years ago as a tomb for a king named Khufu. It took about 26 years to build and was 146 metres tall. It is the only one of the seven wonders of the ancient world still standing.
+
+@stop bg-4
+trail: building
+title: The first walls of the Great Wall
+date: 7th century BCE
+at: Great Wall of China
+alt: 2600
+src: Great Wall of China
+T: The Great Wall of China is not one wall but a series of fortifications, built across the northern borders of Chinese states and empires as protection against nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC. Later rulers joined them together.
+K: The Great Wall of China is really many walls, built over a very long time to keep out raiders from the north. The first parts were built about 2,700 years ago.
+
+@stop bg-5
+trail: building
+title: Water over a river
+date: 50
+at: Pont du Gard
+alt: 900
+src: Pont du Gard
+T: The Pont du Gard is a Roman aqueduct bridge in southern France, built in the first century AD. It was part of a channel that carried water more than 50 km to the Roman town of Nemausus, today's Nîmes. It is one of the best preserved Roman aqueduct bridges.
+K: The Romans built this tall bridge in France almost 2,000 years ago. It carried water, in a channel more than 50 kilometres long, to a Roman town.
+note: The source gives only the first century AD. The year shown is approximate.
+
+@stop bg-6
+trail: building
+title: The Pantheon
+date: 117..138
+at: Pantheon, Rome
+alt: 700
+src: Pantheon, Rome
+T: The Pantheon in Rome was a temple "of all the gods", first built under the emperor Augustus and reconstructed under Hadrian, who reigned from 117 to 138. Since AD 609 it has served as a church.
+K: The Pantheon in Rome was built as a temple to all the Roman gods. The building you can see today was rebuilt by the emperor Hadrian almost 1,900 years ago. Today it is used as a church.
+
+@stop bg-7
+trail: building
+title: The largest room in the world
+date: 537
+at: Hagia Sophia
+alt: 700
+src: Hagia Sophia
+T: Hagia Sophia in Istanbul was completed in AD 537, the last of three churches built on the site by the Eastern Roman Empire. It became the world's largest interior space, and was among the first buildings to use a fully pendentive dome. It was a church until 1453, later a museum, and is now a mosque.
+K: When Hagia Sophia was finished in the year 537, it was the biggest indoor space in the world, under a giant dome. It was a church for centuries, later a museum, and is a mosque today.
+
+@stop bg-8
+trail: building
+title: The temple city of Angkor
+date: 1113..1150
+at: Angkor Wat
+alt: 900
+src: Angkor Wat
+T: Angkor Wat in Cambodia was constructed between 1113 and 1150 during the reign of the Khmer king Suryavarman II, as a Hindu temple dedicated to Vishnu. It later became a Buddhist temple. Its site covers 162.6 hectares, and it is the largest religious complex in the world.
+K: Angkor Wat in Cambodia is the biggest religious building in the world. A Khmer king had it built about 900 years ago as a Hindu temple. Later it became a Buddhist temple.
+
+@stop bg-9
+trail: building
+title: Great Zimbabwe: walls without mortar
+date: 1250
+at: Great Zimbabwe
+alt: 900
+src: Great Zimbabwe
+T: Great Zimbabwe, in the south-eastern hills of today's Zimbabwe, was settled from around 1000 AD and was the capital of a kingdom from the 13th century. It is the largest stone structure in precolonial Southern Africa. The dry stone walls of its Great Enclosure, 11 metres high, were built without mortar in the 13th and 14th centuries.
+K: Great Zimbabwe was a city of stone in southern Africa, the capital of a kingdom about 800 years ago. Its great walls, 11 metres high, were built of stone without any mortar to hold them together.
+note: The date marks the 13th century, when the source says the city served as a capital.
+
+@stop bg-10
+trail: building
+title: A citadel in the clouds
+date: 1450
+at: Machu Picchu
+alt: 900
+src: Machu Picchu
+T: Machu Picchu is an Inca citadel on a mountain ridge 2,430 metres up in the Andes of Peru. It is estimated to have been built around 1450 and is believed to have been an estate of the Inca emperor Pachacuti, though no written record of the time confirms it. It was abandoned roughly a century later.
+K: High on a mountain ridge in Peru, the Inca built a town of stone around the year 1450. It was probably a home for the emperor. About a hundred years later it was left empty.
+
+@stop bg-11
+trail: building
+title: The Taj Mahal
+date: 1631..1648
+at: Taj Mahal
+alt: 700
+src: Taj Mahal
+T: The Taj Mahal is an ivory-white marble mausoleum on the bank of the river Yamuna in Agra. The Mughal emperor Shah Jahan commissioned it in 1631 to house the tomb of his late wife, Mumtaz Mahal. The mausoleum was completed in 1648. It also holds the tomb of Shah Jahan himself.
+K: The emperor Shah Jahan built the Taj Mahal in India as a tomb for his wife, Mumtaz Mahal. It is made of white marble and was finished in 1648. The emperor is buried there too.
+
+@stop bg-12
+trail: building
+title: A shortcut between two seas
+date: 1859..1869-11-17
+at: Suez Canal
+alt: 2600
+src: Suez Canal
+T: The Suez Canal is an artificial sea-level waterway through Egypt, joining the Mediterranean to the Red Sea. The French diplomat Ferdinand de Lesseps formed a company to build it in 1858. Construction lasted from 1859 to 1869, and the canal officially opened on 17 November 1869.
+K: In 1869 a canal was opened through Egypt, joining two seas. It gave ships a direct route between Europe and Asia. It took ten years to dig.
+
+@stop bg-13
+trail: building
+title: The tallest tower
+date: 2004..2011
+at: Burj Khalifa
+alt: 900
+src: Burj Khalifa
+src: Eiffel Tower
+T: The Burj Khalifa in Dubai is the world's tallest structure, with a total height of 829.8 metres. Construction began in 2004, and it has been the tallest building in the world since its inauguration. The iron Eiffel Tower in Paris, for comparison, was built by Gustave Eiffel's company from 1887 to 1889.
+K: The Burj Khalifa in Dubai is the tallest building in the world: almost 830 metres high. Work on it started in 2004.

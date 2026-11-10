@@ -1,0 +1,192 @@
+# Short story: the Silk Roads (format: flow). Facts from the articles named in src.
+
+@story silk-roads
+title: The Silk Roads
+kid-title: The Silk Roads
+format: flow
+order: 4
+color: #e7d04a
+deck: For sixteen centuries goods, gods and germs moved between China and the Mediterranean, one oasis at a time.
+kid-deck: For 1,600 years, traders carried silk, paper and ideas between China and the West, from one desert town to the next.
+led: story:black-death | The Black Death | what else travelled the roads; story:mongol-empire | The Mongol Empire | the empire that joined the roads up; era:indian-ocean-trade | Indian Ocean trade | the sea route; era:ocean-voyages | Ocean voyages | why Europe went looking for another way
+
+@scene sr-01
+story: silk-roads
+title: The Silk Roads
+y: 130 BCE
+cam: 38, 75, 14000
+look: title
+src: Silk Road
+T: The Silk Road was not a road. It was a network of trade routes across Asia, more than 6,400 km of it on land, active from the second century BCE until the middle of the fifteenth century CE.
+T: Nobody who used it called it that. The name was coined in the late 19th century, and some historians now prefer "Silk Routes".
+K: The Silk Road was not one road. It was a whole web of paths across Asia, used by traders for about 1,600 years. The name only became well known about 150 years ago.
+show: route | via=Chang'an; Dunhuang; Kashgar; Samarkand; Merv; Palmyra | color=trade | still=1
+note: The line joins well-known stops schematically. There were many branches.
+
+@scene sr-02
+story: silk-roads
+title: The thread
+y: 3500 BCE
+to: 200 BCE
+cam: 34, 110, 6500
+src: History of silk
+T: Silk came first, by thousands of years. Its production began in Neolithic China, within the Yangshao culture of the fourth millennium BCE. The art stayed inside China until the routes opened, and China kept a virtual monopoly on making silk for another thousand years after that.
+K: People in China learned to make silk more than 5,000 years ago. For a very long time, nobody outside China knew how it was done.
+show: site | at=Chang'an | label=China, home of silk
+
+@scene sr-03
+story: silk-roads
+title: An envoy goes west
+y: 125 BCE
+to: 114 BCE
+cam: 39, 85, 9500
+src: Zhang Qian
+src: Silk Road
+T: In the late second century BCE the Han court sent an envoy, Zhang Qian, into the world beyond China. He was one of the first official diplomats to bring back valuable information about Central Asia.
+T: The network began with the expansion of the Han dynasty into Central Asia around 114 BCE, through his missions and explorations.
+K: About 2,100 years ago the emperor of China sent a man named Zhang Qian to find out what lay to the west. What he learned opened the way for traders.
+show: arrow | from=Chang'an | to=Samarkand | color=trade
+note: The arrow is schematic; the dates of the clock span the general period of Zhang Qian's missions, which the source gives only as the late 2nd century BC.
+
+@scene sr-04
+story: silk-roads
+title: Chang'an
+y: 100 BCE
+cam: Chang'an | 3200
+src: Chang'an
+T: At the eastern end stood Chang'an, capital of several Chinese dynasties, the Western Han and the Tang among them, from 202 BCE to 907 CE. At various times it was the largest city in the world. Today it is called Xi'an.
+K: The roads began at Chang'an, the capital of China. At times it was the biggest city in the whole world. Today it is called Xi'an.
+show: site | at=Chang'an | label=Chang'an | ring=1 | color=trade
+
+@scene sr-05
+story: silk-roads
+title: Dunhuang
+y: 400
+cam: Dunhuang | 3200
+src: Dunhuang
+T: Dunhuang, in what is now Gansu province in north-western China, was a major stop on the ancient Silk Road. It is best known for the nearby Mogao Caves.
+K: Dunhuang was an important stopping place on the road. Near it are the famous Mogao Caves.
+show: site | at=Dunhuang | label=Dunhuang | ring=1 | color=trade
+show: route | via=Chang'an; Dunhuang | color=trade
+
+@scene sr-06
+story: silk-roads
+title: Kashgar
+y: 500
+cam: Kashgar | 3600
+src: Kashgar
+T: Kashgar sits in the Tarim Basin, near where China meets Kyrgyzstan and Tajikistan today. For more than 2,000 years it has been a strategically important oasis on the Silk Road.
+K: Kashgar is an oasis, a place with water in the middle of dry land. Traders have been stopping there for more than 2,000 years.
+show: site | at=Kashgar | label=Kashgar | ring=1 | color=trade
+show: route | via=Dunhuang; Kashgar | color=trade
+
+@scene sr-07
+story: silk-roads
+title: Samarkand and the Sogdians
+y: 600
+cam: Samarkand | 3600
+src: Samarkand
+src: Sogdia
+T: Between the Amu Darya and Syr Darya rivers lay Sogdia, an ancient Iranian civilisation spread across what is now Uzbekistan, Tajikistan and their neighbours. The Sogdian city-states were never politically united, but they centred on Samarkand, among the oldest continuously inhabited cities in Central Asia.
+K: Samarkand is one of the oldest cities in Central Asia where people have never stopped living. It stood in a land called Sogdia.
+show: site | at=Samarkand | label=Samarkand | ring=1 | color=trade
+show: route | via=Kashgar; Samarkand | color=trade
+
+@scene sr-08
+story: silk-roads
+title: Merv
+y: 800
+cam: Merv | 3600
+src: Merv
+T: Merv, near today's Mary in Turkmenistan, was a major Iranian city on the route. People lived on the site from the third millennium BCE until the 18th century CE, and it changed hands again and again.
+K: Merv was a great city on the road, in what is now Turkmenistan. People lived there for around 4,000 years.
+show: site | at=Merv | label=Merv | ring=1 | color=trade
+show: route | via=Samarkand; Merv | color=trade
+
+@scene sr-09
+story: silk-roads
+title: Palmyra
+y: 100
+cam: Palmyra | 3600
+src: Palmyra
+T: Palmyra, in central Syria, is first mentioned in documents of the early second millennium BCE. It passed between empires before becoming subject to Rome in the first century CE.
+K: Palmyra was a city in the Syrian desert. It came under the rule of the Roman Empire about 2,000 years ago.
+show: site | at=Palmyra | label=Palmyra | ring=1 | color=trade
+show: route | via=Merv; Palmyra | color=trade
+
+@scene sr-10
+story: silk-roads
+title: Rome wants silk
+y: 50
+cam: 38, 30, 9000
+src: Silk Road
+T: By the first century CE Chinese silk was widely sought after in Rome, Egypt and Greece.
+K: Two thousand years ago, rich people in Rome, Egypt and Greece all wanted Chinese silk.
+show: arrow | from=Palmyra | to=Rome | color=trade
+show: route | via=Chang'an; Dunhuang; Kashgar; Samarkand; Merv; Palmyra | color=trade | still=1
+
+@scene sr-11
+story: silk-roads
+title: Ideas travel lighter than silk
+y: 640
+cam: 30, 85, 9500
+src: Silk Road
+src: Xuanzang
+src: History of paper
+T: The routes carried religious, philosophical and scientific thought as well as goods, above all Buddhism. Xuanzang, a Chinese Buddhist monk, scholar and translator of the 7th century, is remembered for the record of his travels.
+T: So did inventions. The first true papermaking process was documented in China under the Eastern Han (25 to 220 CE). Paper and gunpowder, moving along these routes, changed the history of several regions of Eurasia.
+K: Ideas travelled along the roads too, especially the teachings of the Buddha. So did inventions such as paper, which was first made in China.
+note: The clock shows a year within Xuanzang's lifetime (602 to 664).
+
+@scene sr-12
+story: silk-roads
+title: A Venetian on the road
+y: 1271
+to: 1295
+cam: 40, 70, 15000
+src: Marco Polo
+T: Marco Polo, a merchant from Venice, travelled through Asia along the Silk Road between 1271 and 1295. His book, written around 1300, described to Europeans the culture and workings of an East that was then a mystery to them.
+K: Marco Polo, a trader from Venice, travelled across Asia from 1271 to 1295 and wrote a famous book about what he saw.
+show: arrow | from=Venice | to=Yuan dynasty | color=people
+
+@scene sr-13
+story: silk-roads
+title: Germs travel too
+y: 1346
+cam: 43, 55, 11000
+src: Silk Road
+src: Black Death
+T: Diseases also spread along the Silk Road. Plague was among them, and it possibly contributed to the Black Death, which reached Crimea in 1346 and Constantinople the following year.
+T: A network that joins people joins everything they carry.
+K: Sickness travelled along the roads as well. A terrible plague may have reached Europe this way.
+show: route | via=Chang'an; Dunhuang; Kashgar; Samarkand; Merv; Feodosia | color=disease | dash=1
+
+@scene sr-14
+story: silk-roads
+title: The roads go quiet
+y: 1453
+cam: 38, 60, 16000
+src: Silk Road
+T: The network was active until the mid-15th century. From 1453 the Ottoman Empire began competing with other powers for control of the overland routes, and that prompted European states to look for alternatives.
+K: After about the year 1450 the old roads were used less and less. Traders began to go by sea instead.
+
+@quiz sr-q1
+story: silk-roads
+q: Was the Silk Road one single road?
+options: No, it was a network of many routes; Yes, one long road
+a: No, it was a network of many routes
+why: It was a web of routes across Asia, more than 6,400 km long.
+
+@quiz sr-q2
+story: silk-roads
+q: Where was silk first made?
+options: China; Rome; Egypt
+a: China
+why: Silk making began in China more than 5,000 years ago and stayed a Chinese secret for a very long time.
+
+@quiz sr-q3
+story: silk-roads
+q: What travelled along the Silk Roads besides silk?
+options: Ideas, religions, paper and even diseases; Nothing else
+a: Ideas, religions, paper and even diseases
+why: Buddhism, paper, gunpowder and plague all moved along the same routes.

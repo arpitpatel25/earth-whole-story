@@ -1,0 +1,201 @@
+
+
+@icell mahajanapadas.food
+src: History of India
+T: The Central Ganges Plain, where Magadha gained prominence, was the area of the earliest known cultivation of rice in South Asia. After 500 BCE the same plain carried the era's new states and their large fortified cities.
+K: The land along the middle Ganges is where rice was first grown in South Asia. In this era, big new cities grew up on that same rich land.
+
+@icell mahajanapadas.science
+src: Shulba Sutras
+src: Aṣṭādhyāyī
+T: Ritual drove early mathematics. The Shulba Sutras, named after the measuring cord, contain the geometry needed to build fire altars; the oldest were possibly compiled between about 800 and 500 BCE. Panini's grammar of Sanskrit, from between the 6th and 4th centuries BCE, is as rigorous in its own field.
+K: To build altars of exactly the right shape, priests worked out rules of geometry using stretched cords. These rules are some of India's oldest mathematics.
+
+@icell post-maurya.power
+src: Shunga Empire
+src: Satavahana dynasty
+src: Kushan Empire
+src: Kanishka
+T: After the Mauryas, power was shared out. Pushyamitra took the throne of Magadha and founded the Shunga Empire, about 187 to 75 BCE. The Satavahanas ruled from the late 2nd century BCE to the early 3rd century CE. The Kushan Empire, about 30 to 375 CE, reached its height under Kanishka.
+K: When the Mauryan empire ended, India split into many kingdoms. Among them were the Shungas, the Satavahanas and the Kushans, whose greatest emperor was Kanishka.
+
+@icell post-maurya.war
+src: Shunga Empire
+src: Satavahana dynasty
+src: Western Satraps
+T: Kingdoms were won by force. Pushyamitra took the throne of Magadha from the Mauryas. In western India the Saka rulers called Western Satraps and the Satavahanas fought over territory: the satrap Nahapana ruled former Satavahana lands, and Gautamiputra Satakarni appears to have defeated him, since Nahapana's coins were overstruck with his name.
+K: Kings fought over land. In western India, the Satavahana king Gautamiputra beat a rival ruler and stamped his own name over the loser's coins.
+
+@icell post-maurya.trade
+src: Indo-Roman trade relations
+src: Periplus of the Erythraean Sea
+src: Naneghat
+T: Sea trade with the Roman world grew after Augustus conquered Egypt in 30 BC. The Periplus of the Erythraean Sea, written in Greek in the first century by a merchant of Roman Egypt, describes the Indian port of Barygaza at length. Inland, traders crossing the Western Ghats paid tolls at the Naneghat pass.
+K: Ships sailed between India and the Roman Empire. A Greek-speaking merchant wrote a guide for sailors that describes Indian ports. Traders crossing the mountains had to pay a toll.
+
+@icell post-maurya.work
+src: Sanchi Stupa
+src: Shreni
+T: Craft workers organised in guilds and left their names in stone. An inscription on the Southern Gateway of the Great Stupa at Sanchi records that the ivory-workers of nearby Vidisha did the carving, a dedication by their guild. It has been suggested that ivory carvers made the gateway's stone reliefs.
+K: Craft workers belonged to guilds. On a gateway at Sanchi, a carved message says that the ivory carvers of a nearby town did the work.
+
+@icell post-maurya.food
+src: Periplus of the Erythraean Sea
+src: Charaka Samhita
+T: A first-century Greek sailing guide describes the country behind the port of Barygaza as fertile, "yielding wheat and rice and sesame oil and clarified butter", and cotton. The medical compendium of Charaka, of about the same age, has sections on the importance of diet.
+K: A visitor 2,000 years ago wrote that western India grew wheat, rice and sesame, and made ghee and cotton cloth.
+
+@icell post-maurya.daily
+src: Gaha Sattasai
+T: Everyday feeling survives in the Gaha Sattasai, a collection of love poems in Maharashtri Prakrit attributed to a king named Hala, though probably by many hands. Most are frank monologues by a married woman or an unmarried girl, telling her longings to a friend, her mother or a relative.
+K: A book of short love poems from this time lets us hear ordinary voices. In most of them a woman or a girl tells a friend or her mother how she feels.
+
+@icell post-maurya.science
+src: Naneghat
+T: The Naneghat inscriptions, attributed to a Satavahana queen, include the world's oldest numeration symbols for 2, 4, 6, 7 and 9 that resemble modern numerals, closest to those of the modern Nagari and Hindu-Arabic scripts.
+K: In a cave by a mountain pass, an old carving has number signs for 2, 4, 6, 7 and 9 that look like the numbers we use today. They are the oldest such signs known.
+
+@icell post-maurya.medicine
+src: Charaka Samhita
+T: The Charaka Samhita, a Sanskrit text of Ayurveda attributed to Charaka of about the 1st–2nd century CE, sets out theories of physiology, diagnosis, anatomy and the three humours of the body. It stresses diet, hygiene, prevention and medical education, and the teamwork of physician, nurse and patient.
+K: A famous book of Indian medicine, the Charaka Samhita, comes from this time. It says that good food, cleanliness and preventing illness matter, and that doctor, nurse and patient must work together.
+
+@icell post-maurya.technology
+src: Junagadh rock inscription of Rudradaman
+src: Sudarshana Lake
+src: Karla Caves
+T: Around 150 CE the Saka ruler Rudradaman had a rock near Junagadh inscribed with the history of the Sudarshana Lake: its water management and irrigation conduits from the time of Chandragupta Maurya to his own. In Maharashtra, builders cut Buddhist shrines out of the living rock, as at Karla.
+K: A ruler named Rudradaman had the story of a great lake carved on a rock: who made it and who kept it working for more than 400 years. Other builders carved whole halls out of solid rock.
+
+@icell post-maurya.religion
+src: Heliodorus pillar
+src: Milinda Panha
+src: Hathigumpha inscription
+src: Nagarjuna
+T: Faiths multiplied and mixed. Around 113 BCE a Greek ambassador, Heliodorus, set up a pillar at Vidisha venerating Vasudeva, among the first archaeological evidence of Vaishnavism. A Buddhist text records a dialogue between the sage Nagasena and the Indo-Greek king Menander. Kharavela of Kalinga was a Jain king. Nagarjuna, about 150–250 CE, founded the Madhyamaka school of Mahayana Buddhism.
+K: Many religions lived side by side. A Greek ambassador put up a pillar to an Indian god. A Greek king is said to have questioned a Buddhist monk. And a great Buddhist thinker, Nagarjuna, lived in southern India.
+
+@icell post-maurya.arts
+src: Greco-Buddhist art
+src: Art of Mathura
+src: Sanchi Stupa
+src: Natya Shastra
+T: Sculpture flourished. Gandhara's Greco-Buddhist art is believed to have produced the first images of the Buddha in human form, and it flowered under the Kushans; Mathura was another great centre from the 2nd century BCE. At Sanchi, four carved gateways were added in the 1st century BCE. The Natya Shastra, a treatise on the performing arts, took shape.
+K: Artists began to make statues of the Buddha as a person for the first time. At Sanchi, carvers covered four stone gateways with pictures. A book called the Natya Shastra set out the rules for performing on stage.
+
+@icell post-maurya.language
+src: Indo-Greek Kingdom
+src: Kushan Empire
+src: Hathigumpha inscription
+src: Junagadh rock inscription of Rudradaman
+T: Languages met on coins and rocks. Indo-Greek kings combined Greek and Indian languages on their coins, and the Kushans at first used Greek for administration. Prakrit was the language of the Hathigumpha inscription and of the Gaha Sattasai's poems, while Rudradaman's inscription of about 150 CE is in Sanskrit prose.
+K: Some coins of this time carry both Greek and an Indian language. Kings had messages carved in Prakrit, the everyday speech, and later in Sanskrit too.
+
+@icell post-maurya.nature
+src: Naneghat
+src: Sudarshana Lake
+src: Indo-Roman trade relations
+T: Geography shaped the age's routes. The Western Ghats stand between the Konkan coast and the Deccan plateau, and trade funnelled through passes such as Naneghat. In semi-arid Kathiawar, rulers kept up an artificial lake across the centuries. Sailors chose the favourable times of year that the Periplus records.
+K: Mountains, dry lands and winds shaped life. Traders crossed the Western Ghats by mountain passes. In dry Kathiawar, rulers looked after a lake. Sailors waited for the right season to cross the sea.
+
+@icell post-maurya.movement
+src: Kushan Empire
+src: Silk Road transmission of Buddhism
+T: Peoples and ideas crossed the north-west in both directions. The Yuezhi, at first based in Bactria, formed the Kushan Empire, which spread over much of today's Afghanistan, Pakistan and northern India. By way of the Kushans, Mahayana Buddhism entered Han China along the Silk Road in the 1st or 2nd century CE.
+K: New peoples came into India from Central Asia and built the Kushan empire. Going the other way, Buddhist monks carried their religion along the Silk Road to China.
+
+@icell post-maurya.women
+src: Naneghat
+src: Gaha Sattasai
+T: The Naneghat cave inscriptions are attributed to a queen of the Satavahana dynasty, likely the queen mother, who sponsored the cave after her husband's death; they tell of their life together and of her son, the new king. Women's voices also fill the love poems of the Gaha Sattasai.
+K: A Satavahana queen had a long message carved in a cave by a mountain pass, telling about her husband and her son, the new king.
+
+@icell sangam.power
+src: Three Crowned Kings
+src: Avvaiyar (Sangam poet)
+T: Three dynasties, the Chera, Chola and Pandya, dominated the politics of Tamilakam, the ancient Tamil country; they are remembered as the Three Crowned Kings. Around them were lesser chieftains such as Vel Pari and Athiyaman, known through the poets they befriended.
+K: Three royal families, the Cheras, Cholas and Pandyas, ruled the Tamil lands of the far south. They are called the Three Crowned Kings.
+
+@icell sangam.war
+src: Purananuru
+src: Karikala
+src: Hero stone
+T: The Purananuru gathers 400 heroic poems about kings, wars and public life. The Chola king Karikala is credited with conquests across Tamilakam. Hero stones, memorials to those who died honourably in battle, were set up in India from the second half of the first millennium BCE.
+K: Many Sangam poems are about brave kings and battles. People set up carved stones to remember heroes who died fighting.
+
+@icell sangam.trade
+src: Muziris
+src: Arikamedu
+src: Kodumanal
+T: The south traded with Rome. Muziris, a port on the Malabar Coast near the mouth of the Periyar, is celebrated in Tamil poems and Graeco-Roman texts. At Arikamedu near Pondicherry, digs found amphorae, Roman lamps and glassware. Inland, Kodumanal lay midway on the route between Muziris and the port of Puhar.
+K: Ships from the Roman world came to ports in southern India. At one port, archaeologists have dug up Roman jars, lamps and glass.
+
+@icell sangam.work
+src: Kodumanal
+src: Purananuru
+T: At Kodumanal, in today's Erode district, people were highly skilled craft workers who specialised in making beads and high-quality iron. Poetry was a craft too: the Purananuru alone preserves the work of 157 poets.
+K: In the town of Kodumanal, skilled workers made beads and very good iron. Poets were important people, and the names of more than a hundred of them are remembered.
+
+@icell sangam.food
+src: Kallanai Dam
+src: Karikala
+T: Farming in the Chola country depended on the Kaveri. Karikala is credited with building flood banks along the river, and the Kallanai, a stone dam, was built across it to divert water to the delta and boost irrigation. It is the oldest water-regulating structure in India still in use.
+K: Farmers in the south needed river water for their fields. A stone dam built across the river Kaveri in ancient times still sends water to farms today.
+
+@icell sangam.daily
+src: Keezhadi excavation site
+src: Sangam literature
+T: Keezhadi, in Sivaganga district of Tamil Nadu, is a settlement of the Sangam period now being excavated. One expert dated its remains to between the 6th and 3rd centuries BCE, though some of the dating has been questioned. The Sangam poems, too, offer a window into ancient Tamil life.
+K: At Keezhadi in Tamil Nadu, archaeologists are digging up a settlement from this time. The old Tamil poems also tell us how people lived.
+
+@icell sangam.science
+thin: 1
+src: Sangam literature
+T: The Sangam poems are about love and war, and the retrieved sources do not describe the scientific knowledge of the early Tamil kingdoms. What can be shown from the ground, such as steel-making, is described under technology.
+K: The old Tamil poems are about love and war, not science. So we cannot say much about what people then knew of numbers or the stars.
+
+@icell sangam.medicine
+thin: 1
+src: Siddha medicine
+T: Siddha medicine of South India is described as one of the oldest systems of medicine in India, but the retrieved sources give no dated evidence for how the sick were treated in the Sangam age itself.
+K: Southern India has a very old kind of medicine called Siddha. But we have no dated record of how doctors worked in Sangam times.
+
+@icell sangam.technology
+src: Wootz steel
+src: Kodumanal
+T: Wootz steel, a crucible steel with a high carbon content, was a pioneering alloy developed in southern India in the mid-1st millennium BC. It was produced in ancient Tamil Nadu, exported as cakes of steel, traded westward, and later associated with the making of Damascus steel.
+K: Smiths in southern India invented a very good steel called wootz. It was sold to faraway lands.
+
+@icell sangam.religion
+src: Sangam literature
+T: Most Sangam poetry is about love and war, but shorter poems such as those of the Paripaatal are more religious and praise Vishnu and Murugan. Tamil tradition links the literature's legendary beginnings to Shiva and his son Murugan.
+K: Most of the old Tamil poems are about love and war. But some are hymns of praise to gods such as Murugan and Vishnu.
+
+@icell sangam.arts
+src: Sangam literature
+src: Sangam landscape
+T: Sangam literature is the earliest known literature of South India: poems of love (akam) and war (puram), which most scholars place between about 300 BCE and 300 CE. Love poems were sorted into modes tied to landscapes, such as mountains for union and forests for waiting.
+K: The oldest poems of southern India were composed in Tamil about 2,000 years ago. Some are about love and some about war. In the love poems, each kind of landscape stands for a feeling.
+
+@icell sangam.language
+src: Tolkāppiyam
+src: Tamil-Brahmi
+T: The Tolkappiyam is the oldest surviving Tamil grammar and the oldest surviving long work of Tamil literature. Tamil was written in Tamil-Brahmi, a variant of the Brahmi script dated between the third century BCE and the first century CE, found on cave entrances, potsherds, coins, seals and rings.
+K: The oldest book of Tamil grammar comes from this age. People wrote Tamil in a script called Tamil-Brahmi, on pots, coins, rings and cave walls.
+
+@icell sangam.nature
+src: Sangam landscape
+T: Sangam poets read feeling into the land. Their love poetry is divided into seven modes, five of them tied to particular landscapes: among them kurinji, the mountains, linked with union, and mullai, the forests, linked with waiting.
+K: Tamil poets loved the land. They gave each kind of country its own kind of love poem: mountains for lovers meeting, forests for waiting.
+
+@icell sangam.movement
+src: Ellalan
+src: Arikamedu
+T: The sea joined the Tamil country to its neighbours. Ellalan (235–161 BCE), of the Tamil Chola dynasty, captured the throne of Anuradhapura in Sri Lanka. At Arikamedu, the excavator Mortimer Wheeler concluded that Greek (Yavana) traders dealing with Rome kept a trading post for about two hundred years.
+K: People crossed the sea in both directions. A Tamil ruler from the Chola family became king in Sri Lanka, and traders from the Roman world lived at a port in southern India.
+
+@icell sangam.women
+src: Avvaiyar (Sangam poet)
+src: Purananuru
+T: Women were among the Sangam poets. At least 10 of the 157 poets of the Purananuru were women. One, Avvaiyar, wrote 59 of its poems and is said to have been on cordial terms with the chieftains Vel Pari and Athiyaman.
+K: Some Sangam poets were women. One of them, Avvaiyar, wrote 59 poems in one famous collection and was a friend of chiefs.

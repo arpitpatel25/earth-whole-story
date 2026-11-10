@@ -1,0 +1,226 @@
+# Short story: mining and metals (format: chain). Facts from the articles named in src.
+
+@story mining-and-metals
+title: Out of the ground
+kid-title: Out of the ground
+format: chain
+order: 11
+color: #e0a060
+deck: Ochre, flint, copper, tin, iron, silver, steel, lithium. Forty thousand years of digging, and what each new material made possible.
+kid-deck: Red paint, sharp flint, copper, iron, silver, steel. People have been digging things out of the ground for 40,000 years. Each new material changed what they could make.
+led: story:industrial-revolution | Coal and the machine age | what coal and iron did together; era:bronze-age | The Bronze Age | the age named after an alloy; era:resource-rushes | Resource rushes | gold, diamonds and rubber; story:columbian-exchange | The Columbian Exchange | where Potosí's silver went
+
+@scene mm-01
+story: mining-and-metals
+title: Out of the *ground*
+y: 43 kya
+cam: -10, 25, 26000
+look: title
+src: Mining
+T: Almost everything that cannot be grown has to be dug up. Mining is how people get metals, coal, salt, stone and clay.
+T: This story follows the digging from the oldest known mine to the batteries in a phone. Each material in the chain opened the way to the next.
+K: Some things grow, like wood and wool. Everything else has to be dug out of the ground: metal, salt, stone, coal. This story follows people digging, from the oldest mine in the world to the battery in a phone.
+
+@scene mm-02
+story: mining-and-metals
+title: The oldest mine: red paint
+y: 43 kya
+to: 41 kya
+cam: Ngwenya Mine | 3800
+src: Ngwenya Mine
+T: The Ngwenya Mine in Eswatini is considered the world's oldest. Radiocarbon dating puts its earliest mining at 41,000 to 43,000 years ago.
+T: The miners were not after metal. They dug haematite to make red ochre, a pigment. Ochre from here was used by the ancestors of the San in rock paintings. Much later, the same deposit was mined for iron.
+K: The oldest mine we know is in Eswatini, in southern Africa. People dug there more than 40,000 years ago. They were not looking for metal. They wanted a red rock to grind into paint.
+show: site | at=Ngwenya Mine | label=Ngwenya, red ochre | ring=1
+
+@scene mm-03
+story: mining-and-metals
+title: Shafts for flint
+y: 2600 BCE
+to: 2300 BCE
+cam: Grime's Graves | 2200
+src: Grime's Graves
+T: Stone itself was worth digging for. At Grime's Graves in Norfolk, Neolithic miners sank at least 433 shafts through the chalk to reach seams of flint, which was much in demand for polished stone axes. The site was worked between about 2600 and 2300 BC.
+T: The largest shafts are more than 14 metres deep. Opening one meant moving more than 2,000 tonnes of chalk, work calculated at five months for twenty men.
+K: Good stone was worth digging for too. In England, people dug more than 400 deep holes through the chalk to reach flint, a stone that makes sharp axes. The biggest holes are more than 14 metres deep.
+show: site | at=Grime's Graves | label=Grime's Graves, flint
+
+@scene mm-04
+story: mining-and-metals
+title: Fire turns rock into copper
+y: 5000 BCE
+cam: 43.6, 22, 2600
+src: Chalcolithic
+src: Pločnik (archaeological site)
+src: Timna Valley
+conf: debated
+T: Then someone learned to smelt: to heat the right rock until metal runs out of it. The site of Belovode in Serbia has the world's oldest securely dated evidence of copper smelting at high temperature, from about 5000 BC.
+T: Nearby Pločnik has a copper workshop with a furnace that may be older still: a preliminary dating put it at 5500 BCE. In the Timna Valley, far to the south-east, copper has been mined since the 5th millennium BCE.
+K: Then someone made a great discovery. If you heat the right kind of rock in a very hot fire, metal runs out of it. The oldest sure signs of this come from Serbia, about 7,000 years ago. The metal was copper.
+show: site | at=Rudnik (mountain) | label=Belovode, c. 5000 BC
+show: site | at=Pločnik (archaeological site) | label=Pločnik
+note: The Pločnik date of 5500 BCE was reported as preliminary.
+
+@scene mm-05
+story: mining-and-metals
+title: Gold for the dead
+y: 4600 BCE
+to: 4200 BCE
+cam: Varna Necropolis | 2400
+src: Varna Necropolis
+img: File:Or de Varna - Nécropole.jpg | Gold objects from the Varna Necropolis in Bulgaria.
+T: Gold was worked almost as early as copper. In a cemetery at Varna on the Black Sea, people were buried with what is most often called the oldest gold treasure in the world, dating from 4600 to 4200 BC. It was found by accident in 1972.
+K: People soon worked gold as well. At Varna in Bulgaria, people were buried with the oldest gold treasure in the world, more than 6,000 years old.
+show: site | at=Varna Necropolis | label=Varna, the oldest gold treasure | ring=1
+
+@scene mm-06
+story: mining-and-metals
+title: Tin, and the first long supply chain
+y: 1320 BCE
+cam: Uluburun shipwreck | 5200
+src: Tin sources and trade during antiquity
+src: Uluburun shipwreck
+T: Copper mixed with tin makes bronze. But tin is rare: about two parts per million of the Earth's crust, against 70 for copper. Ancient sources were far apart: Afghanistan, Cornwall and Devon, Brittany, Spain. Getting hold of it was an important concern from the Bronze Age onward.
+T: A ship that sank off Uluburun, on the coast of today's Turkey, in the late 14th century BC shows that trade in mid-voyage. Its main cargoes were ingots of copper and tin, with resin, ceramics and raw glass: more than 20 tons in all.
+K: Mix copper with tin and you get bronze. But tin is rare, and the places where it was found were far apart.
+K: One of those ships sank near Turkey about 3,300 years ago. Divers found it full of copper and tin.
+show: site | at=Uluburun shipwreck | label=Uluburun wreck | ring=1
+
+@scene mm-07
+story: mining-and-metals
+title: Iron, the common metal
+y: 1100 BCE
+cam: 30, 50, 12000
+src: Ferrous metallurgy
+src: Tin sources and trade during antiquity
+T: The earliest iron objects, from 4th-millennium BC Egypt, were hammered from meteorites. Nobody knows when or where people first smelted iron from ore. But by the end of the 2nd millennium BC iron was being made from ores across the region from Greece to India.
+T: Iron ore is everywhere: iron makes up about 50,000 parts per million of the crust. The raw material was no longer rare.
+K: The first iron that people used fell from the sky, in meteorites. Later they learned to get iron out of rock. Iron is far more common in the Earth's rocks than copper or tin.
+show: arrow | from=Athens | to=Delhi | color=marker | still=1
+note: The arrow only marks the span "from Greece to India" given in the source. It is not a route.
+
+@scene mm-08
+story: mining-and-metals
+title: Steel from southern India
+y: 400 BCE
+cam: 12, 78, 4200
+src: Wootz steel
+src: Ferrous metallurgy
+T: Steel is iron with some carbon in it: more than wrought iron, less than pig iron. Wootz steel, made in crucibles, was developed in southern India in the middle of the 1st millennium BC. It was made in today's Telangana, Karnataka, Tamil Nadu and Sri Lanka.
+T: By the 4th century BC southern India was exporting it to China, Africa, the Middle East and Europe.
+K: Iron with a little carbon in it is called steel. Smiths in southern India worked out how to make very good steel in small clay pots about 2,500 years ago. It was sold as far away as China and Europe.
+show: region | countries=IND; LKA | color=marker | opacity=0.25
+
+@scene mm-09
+story: mining-and-metals
+title: Silver buys a navy
+y: 483 BCE
+cam: Lavrio | 1800
+src: Lavrio
+T: Mines could change the fate of states. Laurium, in Attica, was known for its silver mines, one of the chief sources of revenue of Athens.
+T: After a major new vein was struck around 483 BC, Themistocles persuaded the Athenians to spend the money on expanding their fleet to 200 warships. That was the foundation of Athenian sea power.
+K: A mine could make a city powerful. Near Athens there were rich silver mines. When the miners struck a big new vein of silver, the Athenians used the money to build 200 warships.
+show: site | at=Lavrio | label=Laurium silver mines
+
+@scene mm-10
+story: mining-and-metals
+title: Wrecking mountains
+y: 77
+cam: Las Médulas | 1600
+src: Las Médulas
+img: File:Panorámica de Las Médulas.jpg | The landscape of Las Médulas in north-west Spain, left by Roman gold mining.
+T: Las Médulas in Spain was the most important gold mine in the Roman Empire, and its largest open pit. The method, described by Pliny the Elder in 77 AD, was called ruina montium, the wrecking of mountains: water brought by at least seven long aqueducts was used to undermine the hillsides.
+T: The spectacular landscape it left is still there.
+K: The Romans dug for gold in Spain in a huge way. They brought water along long channels and used it to wash whole hillsides away. The strange hills they left behind are still there.
+show: site | at=Las Médulas | label=Las Médulas
+
+@scene mm-11
+story: mining-and-metals
+title: The mountain of silver
+y: 1545
+to: 1650
+cam: Cerro Rico | 2600
+src: Cerro Rico
+src: Potosí
+src: Mit'a
+img: File:Cerro ricco.jpg | Cerro Rico, the mountain above the city of Potosí in Bolivia.
+content-note: This scene describes forced labour.
+T: In 1545 silver was found in a mountain in the Andes, a find traditionally credited to the indigenous prospector Diego Huallpa. The Cerro Rico of Potosí became the richest source of silver in history. Most of it was shipped to Spain.
+T: The work was done under forced labour. Viceroy Francisco de Toledo expanded the mit'a, an Inca labour duty, to raise silver output: communities had to provide one seventh of their men at any given time.
+K: In 1545 silver was found in a mountain in South America. It became the richest silver mine in history, and most of the silver was shipped to Spain.
+K: The people who dug it had no choice. Spanish rulers forced villages to send their men to work in the mine.
+show: site | at=Cerro Rico | label=Cerro Rico, Potosí | ring=1
+
+@scene mm-12
+story: mining-and-metals
+title: Cheap steel
+y: 1856
+cam: 53.5, -1.5, 3000
+src: Bessemer process
+T: Steel stayed expensive until 1856, when the Englishman Henry Bessemer patented a new process. Air blown through molten pig iron burned out the excess carbon. It was the first inexpensive industrial process for mass-producing steel.
+K: For a long time steel was costly and made in small amounts. In 1856 Henry Bessemer found a way to make a lot of it cheaply, by blowing air through melted iron.
+
+@scene mm-13
+story: mining-and-metals
+title: Gold fever
+y: 1848-01-24
+to: 1886
+cam: Sutter's Mill | 5000
+cam-to: Johannesburg | 5000
+src: California gold rush
+src: Witwatersrand Gold Rush
+T: On 24 January 1848 James W. Marshall found gold at Sutter's Mill in California. The news brought about 300,000 people. It also had severe effects on Native Californians, whose numbers fell faster through disease, starvation and violence.
+T: In 1886 gold was found on the Witwatersrand in South Africa. That rush founded the city of Johannesburg.
+K: In 1848 a man found gold at a place called Sutter's Mill in California. About 300,000 people rushed there hoping to get rich. For the Native people who already lived there, it was a disaster.
+K: In 1886 gold was found in South Africa too. The city of Johannesburg grew up around the mines.
+show: site | at=Sutter's Mill | label=Sutter's Mill, 1848
+show: site | at=Johannesburg | label=Johannesburg, 1886 | since=1886
+
+@scene mm-14
+story: mining-and-metals
+title: A metal made with electricity
+y: 1886
+cam: 45, -30, 20000
+src: Aluminium
+src: Hall–Héroult process
+T: Aluminium is the third most abundant element in the Earth's crust, but it is virtually never found as a free metal. In 1886 the French engineer Paul Héroult and the American engineer Charles Martin Hall independently developed a way to win it from its oxide with electric current.
+T: The process still uses a great deal of electrical energy. It is the reason aluminium became an everyday metal.
+K: Aluminium is one of the most common things in the Earth's rocks, but it is very hard to get out. In 1886 two engineers, one French and one American, each found the same way to do it, using electricity. Now aluminium is used everywhere in everyday life.
+
+@scene mm-15
+story: mining-and-metals
+title: The metals in your pocket
+y: 2024
+cam: Salar de Uyuni | 9000
+cam-to: Kolwezi | 9000
+src: Lithium
+src: Salar de Uyuni
+src: Cobalt
+src: Kolwezi
+T: The chain reaches the present in a battery. Batteries alone consume more than three-quarters of the lithium produced. Under the salt crust of the Salar de Uyuni in Bolivia lies brine exceptionally rich in it.
+T: Cobalt is also used primarily in lithium-ion batteries. In 2024 more than 80 percent of it came from the Democratic Republic of the Congo, where Kolwezi is an important centre of copper and cobalt mining.
+K: Today the chain ends in a battery. Batteries need a light metal called lithium. A lot of it lies in salty water under a giant salt flat in Bolivia.
+K: Batteries also use a metal called cobalt. Most of it comes from one country in Africa, the Democratic Republic of the Congo.
+show: site | at=Salar de Uyuni | label=Salar de Uyuni, lithium
+show: site | at=Kolwezi | label=Kolwezi, cobalt
+
+@quiz mm-q1
+story: mining-and-metals
+q: What did people dig for at the oldest known mine?
+options: Red rock to make paint; Gold; Coal
+a: Red rock to make paint
+why: At Ngwenya in Eswatini people dug haematite for red ochre more than 40,000 years ago.
+
+@quiz mm-q2
+story: mining-and-metals
+q: Which two metals make bronze?
+options: Copper and tin; Iron and gold; Silver and lead
+a: Copper and tin
+why: Bronze is copper mixed with tin. Tin is rare, so it was traded over long distances.
+
+@quiz mm-q3
+story: mining-and-metals
+q: Where did the very first iron that people used come from?
+options: Meteorites; Volcanoes; The sea
+a: Meteorites
+why: The earliest iron objects, from Egypt, were made from iron that fell from space in meteorites.

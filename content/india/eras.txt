@@ -1,0 +1,252 @@
+# India in depth: the eras of the subcontinent. Spans and summaries from the articles named in src.
+# "India" here means the Indian subcontinent; today's Pakistan, Bangladesh, Nepal, Bhutan, Sri Lanka and
+# Afghanistan share much of this history.
+
+@iera deep-time
+name: Deep time: Gondwana to the Himalaya
+kid: When India was an island
+span: 100 mya..2.6 mya
+deep: 1
+order: 1
+focus: 5, 78, 30000
+src: Indian plate
+src: Deccan Traps
+src: Geology of the Himalayas
+S: The Indian plate was once part of the ancient continent of Gondwana. It broke away about 100 million years ago and moved north at about 20 cm a year, while the Deccan Traps erupted on it around 66 million years ago. It is believed to have begun colliding with Asia as early as 55 million years ago. The Himalayas are the result of that collision, which is still going on.
+K: Long ago, India was joined to other lands far to the south. It broke off and drifted north across the ocean like a giant raft. When it crashed into Asia, the ground crumpled up and made the Himalayas, the highest mountains on Earth. They are still rising.
+
+@iera early-humans
+name: Early humans in South Asia
+kid: The first people in South Asia
+span: 2.6 mya..7000 BCE
+order: 2
+focus: 20, 79, 7500
+src: South Asian Stone Age
+src: Madrasian culture
+S: The Old Stone Age in South Asia began as early as 2.6 million years ago, judging by the earliest sites with signs of hominin activity, in the Siwalik Hills of the north-west. The oldest tools at Attirampakkam near Chennai are dated to 1.5 million years ago. A Middle Stone Age followed the end of the last glacial period, from around 10000 BCE.
+K: People, and earlier kinds of humans, have lived in South Asia for a very, very long time. Stone tools found near Chennai are one and a half million years old. For almost all of that time, people lived by hunting animals and gathering wild plants.
+
+@iera neolithic
+name: Neolithic: Mehrgarh and early farming
+kid: The first farmers
+span: 7000 BCE..3300 BCE
+order: 3
+focus: 28, 70, 5200
+src: Mehrgarh
+src: South Asian Stone Age
+S: Farming, herding and pottery mark the New Stone Age. At Mehrgarh, on the Kacchi Plain of Balochistan near the Bolan Pass, a small farming village began around 7000 BCE. Its wheat, pottery and herd animals resemble those of the Near Eastern Neolithic, and the culture is thought to have fed into the later Indus Valley Civilisation.
+K: About 9,000 years ago, people at a place called Mehrgarh, in today's Pakistan, began to grow wheat and keep animals instead of only hunting. It is one of the oldest farming villages in South Asia.
+note: The start date of Mehrgarh is given by the source as 7000 BCE or 5250 BCE.
+
+@iera indus
+name: Indus Valley Civilisation
+kid: The cities of the Indus
+span: 3300 BCE..1300 BCE
+order: 4
+focus: 27, 71, 5200
+src: Indus Valley Civilisation
+src: Mohenjo-daro
+S: A Bronze Age civilisation in the north-west of South Asia, lasting from 3300 to 1300 BCE and in its mature form from 2600 to 1900 BCE. It spanned much of today's Pakistan, north-western India and north-east Afghanistan, an area larger than ancient Egypt and Mesopotamia combined. Its cities had planned streets and drains. Its script has not been deciphered.
+K: More than 4,000 years ago, people along the Indus River built some of the world's first big cities, with straight streets, brick houses and drains. We still cannot read their writing.
+
+@iera vedic
+name: Vedic period
+kid: The time of the Vedas
+span: 1500 BCE..500 BCE
+order: 5
+focus: 28, 77, 5200
+src: Vedic period
+S: The Vedic period, about 1500 to 500 BCE, is the late Bronze Age and early Iron Age of northern India, when the Vedas were composed. It lies between the end of the Indus cities and a second wave of city-building that began in the central Indo-Gangetic Plain around 600 BCE.
+K: After the Indus cities faded, people in northern India composed long poems and prayers called the Vedas. They were not written down at first. People learned them by heart and passed them on.
+regions: north, northwest, gangetic
+
+@iera mahajanapadas
+name: Mahajanapadas, the Buddha and Mahavira
+kid: Sixteen kingdoms and two great teachers
+span: 600 BCE..321 BCE
+order: 6
+focus: 26, 83, 4200
+src: Mahajanapadas
+src: Magadha
+S: From the sixth to the fourth centuries BCE, sixteen kingdoms and aristocratic republics, the Mahajanapadas, existed in ancient India during a second period of city-building. Magadha, in the eastern Ganges Plain, was one of them and became the base of later empires.
+K: About 2,500 years ago northern India was divided into sixteen states. Some had kings. Some were run by councils of nobles. New cities grew up, and two famous teachers, the Buddha and Mahavira, lived at this time.
+
+@iera maurya
+name: Maurya Empire
+kid: The empire of Ashoka
+span: 320 BCE..185 BCE
+order: 7
+focus: 23, 80, 6000
+src: Maurya Empire
+src: Edicts of Ashoka
+S: Founded by Chandragupta Maurya around 320 BCE with its power base in Magadha, the Maurya Empire lasted, loosely knit, until 185 BCE. The main written records of it are fragments of the Greek envoy Megasthenes and the Edicts of Ashoka, more than thirty inscriptions on pillars, boulders and cave walls from Afghanistan to Bangladesh.
+K: About 2,300 years ago a king named Chandragupta Maurya built the first great empire to cover most of India. His grandson Ashoka had messages carved on rocks and stone pillars all over the land. You can still read them today.
+
+@iera post-maurya
+name: After the Mauryas: Shunga, Indo-Greek, Kushan and Satavahana
+kid: Many kingdoms after the Mauryas
+span: 185 BCE..320
+order: 8
+focus: 26, 76, 6500
+src: Shunga Empire
+src: Kushan Empire
+src: Indo-Greek Kingdom
+src: Satavahana dynasty
+S: After the Mauryas, power was shared. The Shungas ruled from Magadha from about 187 to 75 BCE. Greek kingdoms held the north-west from capitals such as Taxila. The Kushans, from about 30 to 375 CE, ruled from Bactria across much of northern India at least as far as Sarnath. The Satavahanas held the Deccan.
+K: After the Maurya Empire ended, India had many kingdoms at once. Greek kings ruled in the north-west. The Kushans came from Central Asia. Other kings ruled the middle and the south.
+
+@iera sangam
+name: Tamil Sangam kingdoms
+kid: The poets and kings of the Tamil south
+span: 300 BCE..300
+order: 9
+focus: 10.5, 78.5, 2600
+src: Sangam literature
+src: Pandya dynasty
+S: The Sangam literature is the early classical Tamil literature, the earliest known literature of South India. Most scholars place the Sangam period from about 300 BCE to 300 CE. It was the time of the three great kingdoms of the Tamil country: the Cholas, the Pandyas of Madurai and the Cheras.
+K: In the far south of India, Tamil poets wrote thousands of poems about love, war, kings and everyday life. Three royal families ruled there: the Cholas, the Pandyas and the Cheras.
+regions: south
+
+@iera gupta
+name: Gupta Empire and its contemporaries
+kid: The Gupta Empire
+span: 320..550
+order: 10
+focus: 25, 80, 5200
+src: Gupta Empire
+S: The Gupta Empire existed from the mid 3rd to the mid 6th century CE and at its peak covered much of the northern subcontinent. Some historians have called the period a Golden Age of India, a description that others dispute.
+K: The Gupta kings ruled much of northern India about 1,600 years ago. It was a great time for mathematics, astronomy, poetry and art. Some historians call it India's golden age, and others say that is too simple.
+note: The dates shown, 320 to 550 CE, are the conventional span of the imperial Guptas within the source's "mid 3rd to mid 6th century".
+
+@iera early-medieval
+name: Early medieval kingdoms: Harsha, Pala, Rashtrakuta, Pratihara, Chalukya, Pallava
+kid: Kingdoms of the early Middle Ages
+span: 550..1200
+order: 11
+focus: 21, 79, 6500
+src: Medieval India
+src: Harsha
+src: Pala Empire
+src: Rashtrakuta Empire
+S: The medieval period is usually taken to start with the break-up of the Gupta Empire in the 6th century. Harsha ruled a large realm in the north from Kannauj from 606 to 647. From the late 8th century the Palas held Bengal and Bihar. The Rashtrakutas of the Deccan, between the 6th and 10th centuries, at their peak reached from the Ganges–Yamuna plain to Kanyakumari.
+K: After the Guptas, no single empire ruled India. Strong kingdoms rose in different regions: Harsha in the north, the Palas in Bengal, the Rashtrakutas and Chalukyas in the Deccan, and the Pallavas in the south. They built some of India's most famous temples.
+
+@iera chola
+name: Chola Empire and the Indian Ocean
+kid: The Chola Empire and the sea
+span: 848..1279
+order: 12
+focus: 11, 80, 4200
+src: Chola Empire
+S: Vijayalaya founded the medieval Chola Empire in 848 CE, taking Thanjavur around 850. It became a sea power based in southern India, with overseas dominions and spheres of influence in Southeast Asia. Around 1070 it began to lose its overseas territories. The later Cholas ruled parts of the south until 1279.
+K: The Chola kings ruled southern India for about 400 years. They had a strong navy and sailed across the sea to Southeast Asia. They built giant stone temples and made beautiful bronze statues.
+regions: south, srilanka, abroad
+
+@iera delhi-sultanate
+name: Delhi Sultanate
+kid: The sultans of Delhi
+span: 1206..1526
+order: 13
+focus: 26, 78, 5200
+src: Delhi Sultanate
+S: The Delhi Sultanate was established in 1206 in former Ghurid territory and lasted for more than three centuries, at times stretching over large parts of the subcontinent. Its history is divided into five periods: Mamluk (1206–1290), Khalji (1290–1320), Tughlaq (1320–1414), Sayyid (1414–1451) and Lodi (1451–1526).
+K: From 1206, rulers called sultans governed a large kingdom from the city of Delhi. Five families of sultans ruled one after another, for more than 300 years.
+
+@iera vijayanagara
+name: Vijayanagara and the Bahmani Sultanate
+kid: Vijayanagara and the Deccan sultans
+span: 1336..1646
+order: 14
+focus: 15.5, 76.5, 3200
+src: Vijayanagara Empire
+src: Bahmani Kingdom
+S: The Vijayanagara Empire was established in 1336 by the brothers Harihara I and Bukka Raya I and ruled much of southern India, reaching its territorial peak under Krishnadevaraya, who reigned from 1509 to 1529. To its north, the Bahmani Kingdom, the first independent Muslim sultanate of the Deccan, came to power in 1347 in a rebellion against the Sultan of Delhi.
+K: In 1336 two brothers founded a new kingdom in southern India called Vijayanagara. It grew into a rich empire. Just to the north were the Bahmani sultans. The two were neighbours and rivals.
+regions: south, deccan
+
+@iera mughal
+name: Mughal Empire
+kid: The Mughal Empire
+span: 1526..1857
+order: 15
+focus: 26, 78, 6000
+src: Mughal Empire
+S: The Mughal Empire is conventionally said to have been founded in 1526 by Babur. At its peak it stretched from the Indus basin and northern Afghanistan to the highlands of Assam and Bangladesh and south into the Deccan. Its imperial structure lasted until 1720, shortly after the death of Aurangzeb. Reduced to the region of Old Delhi by 1760, it was formally dissolved after the rebellion of 1857.
+K: In 1526 a ruler named Babur founded the Mughal Empire. His family ruled most of India for about 200 years and built wonders like the Taj Mahal. After that the empire shrank, and it ended in 1857.
+
+@iera regional-powers
+name: Marathas, Sikhs and regional powers
+kid: Marathas, Sikhs and other kingdoms
+span: 1674..1849
+order: 16
+focus: 22, 76, 6000
+src: Maratha Empire
+src: Sikh Empire
+S: Shivaji was crowned sovereign of a new Maratha kingdom in 1674. The Maratha Confederacy that grew from it, led by the Peshwa and four major Maratha states, was destroyed by the East India Company by 1818. In the Punjab, the Sikh Empire lasted from 1799, when Ranjit Singh captured Lahore, until its annexation by the Company in 1849.
+K: As the Mughal Empire grew weak, new powers rose. The Marathas, from western India, built a kingdom that spread across the country. In the Punjab, Maharaja Ranjit Singh founded a Sikh empire.
+
+@iera company
+name: European arrival and East India Company rule
+kid: Traders from Europe take power
+span: 1498..1858
+order: 17
+focus: 21, 80, 6500
+src: Vasco da Gama
+src: East India Company
+src: Company rule in India
+S: Vasco da Gama reached Kozhikode by sea in 1498. The English East India Company was founded in 1600, and by the mid-1700s it accounted for half the world's trade. Company rule in India is variously dated from the Battle of Plassey in 1757 or from 1765, when the Company gained the right to collect revenue in Bengal.
+K: In 1498 ships from Portugal reached India. Soon Dutch, French and English traders came too. An English trading company slowly took over more and more land, until a company was ruling much of India.
+
+@iera raj
+name: 1857 and the British Raj
+kid: British rule
+span: 1857..1947
+order: 18
+focus: 22, 79, 6500
+src: Indian Rebellion of 1857
+src: British Raj
+S: A major uprising against the East India Company began on 10 May 1857 with a mutiny of sepoys at Meerut. Afterwards the British Crown ruled directly: the British Raj lasted from 1858 to 1947. It included areas administered by Britain, called British India, and states under their own rulers.
+K: In 1857 Indian soldiers and many others rose up against the British company that ruled them. The revolt failed. After it, the British queen's government ruled India directly, for almost ninety years.
+
+@iera independence
+name: Independence movement
+kid: The struggle for freedom
+span: 1885..1947
+order: 19
+focus: 22, 79, 6500
+src: Indian independence movement
+src: Indian National Congress
+S: The Indian independence movement was a series of political efforts from the mid-1880s to 1947 to end British colonial rule. The first nationalist movement took root when the Indian National Congress was formed in 1885.
+K: From 1885, Indians organised to win back their country. Leaders like Mahatma Gandhi led millions of people in protests. In 1947 they succeeded.
+
+@iera partition
+name: Partition and independence
+kid: Freedom, and a country divided
+span: 1946..1950
+order: 20
+focus: 27, 77, 6000
+src: Partition of India
+src: Constitution of India
+S: In 1947 British India was divided into two independent dominions, India and Pakistan, which came into existence at midnight on 14–15 August. The partition displaced between 12 and 20 million people along religious lines. India's constitution was adopted on 26 November 1949 and took effect on 26 January 1950.
+K: In August 1947 British rule ended. But the land was split into two countries, India and Pakistan. Millions of people had to leave their homes. In 1950 India got its own constitution.
+
+@iera republic
+name: Republic of India, 1950 to 1991
+kid: The young republic
+span: 1950..1991
+order: 21
+focus: 22, 79, 6500
+src: History of India (1947–present)
+src: Constitution of India
+S: India became an independent sovereign state on 15 August 1947, and a republic when its constitution took effect on 26 January 1950. British rule had unified the subcontinent's administration and economy, and partition had divided it again along religious lines.
+K: From 1950 India was a republic, a country that chooses its own leaders. It had to feed a huge population, build factories and dams, and hold together people who speak many languages.
+
+@iera since-1991
+name: India since 1991
+kid: India today
+span: 1991..now
+order: 22
+focus: 22, 79, 6500
+src: Economic liberalisation in India
+S: From 1991, policy changes opened the Indian economy to foreign trade and investment and gave markets and private enterprise a larger role. The reforms followed a balance-of-payments crisis.
+K: In 1991 India changed the way its economy worked and opened up to trade with the world. Since then its cities, businesses and technology have grown very fast.

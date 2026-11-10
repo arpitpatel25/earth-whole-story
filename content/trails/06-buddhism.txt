@@ -1,0 +1,113 @@
+# Trail: the spread of Buddhism. Facts from the articles named in src.
+
+@trail buddhism
+title: The path of the Buddha's teaching
+kid-title: Following the Buddha's teaching
+theme: religion
+color: #f5b942
+order: 6
+deck: From a garden in Nepal to caves on the Silk Road, a bronze giant in Japan and a stone mountain in Java. Ten places that trace how one teaching crossed Asia.
+kid-deck: A teacher called the Buddha lived in northern India about 2,500 years ago. His ideas travelled across the whole of Asia. Follow them to ten famous places.
+
+@stop bu-1
+trail: buddhism
+title: The garden at Lumbini
+date: 563 BCE
+at: Maya Devi Temple, Lumbini
+alt: 1500
+src: Lumbini
+conf: debated
+T: According to sacred texts and Buddhist commentaries, Queen Maya gave birth to Siddhartha Gautama, the Buddha, at Lumbini around 563 BCE. It is one of the most sacred places of Buddhist pilgrimage. A stone pillar with a Brahmi inscription, found here in 1896, is believed to mark a visit by the emperor Ashoka.
+K: Buddhist tradition says that the Buddha was born here, in a garden called Lumbini in what is now Nepal, about 2,500 years ago. His name then was Siddhartha Gautama.
+note: The date is the traditional one given in the source. Historians do not agree on when the Buddha lived.
+
+@stop bu-2
+trail: buddhism
+title: Under the Bodhi Tree
+date: 3rd century BCE
+at: Bodh Gaya
+alt: 1500
+src: Bodh Gaya
+T: Bodh Gaya, in Bihar, is famous as the place where Gautama Buddha is said to have attained enlightenment under what became known as the Bodhi Tree. The first temple on the site was built under the Maurya emperors. The Mahabodhi Temple here became a UNESCO World Heritage Site in 2002.
+K: Buddhists say that at this spot the Buddha sat under a tree and came to understand the truth about life. The tree is called the Bodhi Tree. A great temple stands here now.
+note: The date marks the first temple, built in the Maurya period.
+
+@stop bu-3
+trail: buddhism
+title: The first sermon
+date: 250 BCE
+at: Sarnath
+alt: 1500
+src: Sarnath
+T: At Sarnath, north-east of Varanasi, the Buddha gave his first sermon after his enlightenment. In 250 BCE the emperor Ashoka raised a column here, topped by a capital of four lions. That Lion Capital is also the State Emblem of India.
+K: At Sarnath the Buddha taught for the first time. About 250 years later the emperor Ashoka put up a tall stone pillar here, with four lions on top. Those four lions are now the symbol of India.
+
+@stop bu-4
+trail: buddhism
+title: The Great Stupa
+date: 3rd century BCE
+at: Sanchi Stupa
+alt: 1500
+src: Sanchi Stupa
+T: The Great Stupa at Sanchi, on a hilltop in Madhya Pradesh, is one of the oldest stone structures in India. It was commissioned by the Mauryan emperor Ashoka in the 3rd century BCE.
+K: This great stone dome on a hill in India is called a stupa. The emperor Ashoka had it built more than 2,200 years ago. It is one of the oldest stone buildings in India.
+
+@stop bu-5
+trail: buddhism
+title: Painted caves
+date: 200 BCE..480
+at: Ajanta Caves
+alt: 1500
+src: Ajanta Caves
+T: At Ajanta in Maharashtra, thirty Buddhist monuments were cut into the rock between the 2nd century BCE and about 480 CE. Their paintings and sculptures are universally regarded as masterpieces of Buddhist religious art. They are a UNESCO World Heritage Site.
+K: Thirty monasteries and prayer halls were cut straight into a cliff here, and the walls were covered with paintings. The paintings are some of the most beautiful Buddhist art in the world.
+
+@stop bu-6
+trail: buddhism
+title: Caves on the Silk Road
+date: 366..1400
+at: Mogao Caves
+alt: 1500
+src: Mogao Caves
+T: The teaching travelled with the caravans. Near Dunhuang, an oasis at a crossroads of the Silk Road, the first caves were dug in 366 CE as places of Buddhist meditation and worship. Caves went on being added until the 14th century. In the end there were 500 temples.
+K: Buddhist monks travelled with traders along the Silk Road into China. At a desert oasis they dug caves to pray in, starting in the year 366. Over a thousand years, 500 cave temples were made.
+
+@stop bu-7
+trail: buddhism
+title: The giants of Bamiyan
+date: 570
+at: Buddhas of Bamiyan
+alt: 1500
+src: Buddhas of Bamiyan
+T: In the Bamiyan Valley of today's Afghanistan, 2,500 metres up, two monumental Buddhas were carved into a cliff. Carbon dating shows the smaller, 38 metres tall, was built around 570 CE. The larger stood 55 metres tall.
+K: In a valley in Afghanistan, two giant statues of the Buddha were carved into a cliff about 1,450 years ago. The bigger one was 55 metres tall.
+
+@stop bu-8
+trail: buddhism
+title: A bronze Buddha in Nara
+date: 738..752
+at: Tōdai-ji
+alt: 1500
+src: Tōdai-ji
+T: Tōdai-ji, the "Eastern Great Temple", stands in Nara in Japan. Founded in 738 and opened in 752, it was built in imitation of the temples of Tang China. Its Great Buddha Hall houses the world's largest bronze statue of the Buddha.
+K: In the Japanese city of Nara there is a huge temple that opened in the year 752. Inside is the biggest bronze statue of the Buddha in the world.
+
+@stop bu-9
+trail: buddhism
+title: A mountain of stone in Java
+date: 9th century
+at: Borobudur
+alt: 1500
+src: Borobudur
+T: Borobudur, in Central Java, is a 9th-century Mahayana Buddhist temple built of grey stone during the reign of the Sailendra dynasty. It is decorated with 2,672 relief panels and originally had 504 statues of the Buddha.
+K: On the island of Java in Indonesia stands a temple like a mountain of stone, built about 1,200 years ago. Its walls are covered with 2,672 carved pictures.
+
+@stop bu-10
+trail: buddhism
+title: The palace of the Dalai Lamas
+date: 1645
+at: Potala Palace
+alt: 1500
+src: Potala Palace
+T: The Potala Palace in Lhasa was the winter palace of the Dalai Lamas. The present structure was begun in 1645 on the order of the 5th Dalai Lama. It rises 13 storeys and contains more than 1,000 rooms. Today it is a museum.
+K: High in the mountains of Tibet, in the city of Lhasa, stands a palace with more than a thousand rooms. It was built for the Dalai Lama, the leader of Tibetan Buddhists, starting in 1645.

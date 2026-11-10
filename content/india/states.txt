@@ -1,0 +1,291 @@
+# History views for India's 28 states and 8 union territories. Record ids are the ISO 3166-2 codes used by the map layer.
+# Facts come from the article named in src. Boundaries shown on the globe are today's; older periods used other borders.
+
+@istate IN-AP
+name: Andhra Pradesh
+kind: state
+formed: 1953 (Andhra State), 1956
+src: Andhra Pradesh
+T: In the 4th century BCE Megasthenes described the Andhras living in the deltas of the Godavari and Krishna. The Satavahanas ruled from Dhanyakataka between the 1st and 3rd centuries CE, followed by dynasties including the Eastern Chalukyas, Kakatiyas, the Vijayanagara Empire and the Qutb Shahis. Andhra State was carved out of Madras State in 1953 for Telugu speakers; Telangana was separated in 2014.
+K: People called the Andhras have lived by the rivers Godavari and Krishna for more than 2,300 years. The state was made in 1953 for people who speak Telugu.
+
+@istate IN-AR
+name: Arunachal Pradesh
+kind: state
+formed: 20 February 1987
+src: Arunachal Pradesh
+T: The north-west of this mountain region was once under the Monpa kingdom of Monyul. Under the British it was organised as the North-East Frontier Agency, the name it kept until 1972, when it became a union territory called Arunachal Pradesh. It became a state on 20 February 1987. Its northern border, the McMahon Line, is disputed: China claims most of the state.
+K: Arunachal Pradesh is a land of high mountains in the far north-east. It became a state in 1987. India and China disagree about where the border runs here.
+
+@istate IN-AS
+name: Assam
+kind: state
+formed: 26 January 1950
+src: Assam
+T: Settlements here go back to the second or first century BCE, and in the fourth century CE the region was a frontier of the Gupta Empire. It was ruled by the Varmanas, Mlechchhas and Kamarupa-Palas, and from the 13th to the early 19th century by the Ahom kingdom. After rebellion and Burmese invasions weakened the Ahoms, the British took control and established tea estates.
+K: The Ahom kings ruled Assam for about 600 years. Then the British came and planted tea gardens.
+
+@istate IN-BR
+name: Bihar
+kind: state
+formed: 1912 (province), 1950
+src: Bihar
+T: Bihar was the heartland of ancient India's first empires and of early Buddhism; monasteries such as Nalanda and Vikramashila drew students and scholars from across Asia. Its northern region, Mithila, rose with the Videha kingdom. Bihar was part of the Bengal Presidency until 1912, when Bihar and Orissa were made a separate province.
+K: Long ago, Bihar had great Buddhist schools where students came from all over Asia. It became a separate province in 1912.
+
+@istate IN-CT
+name: Chhattisgarh
+kind: state
+formed: 1 November 2000
+src: Chhattisgarh
+T: Known in ancient times as Dakshina Kosala, the region has the Sitabenga caves, dated to the 3rd century BCE and among the earliest examples of theatre architecture in India. From the sixth to the twelfth century rival dynasties divided it; later the Haihaiyavansi kingdom ruled most of it for 700 years, until Maratha suzerainty in 1740. Formerly part of Madhya Pradesh, it became a state on 1 November 2000.
+K: Chhattisgarh has a cave theatre more than 2,200 years old. One family of kings ruled most of it for 700 years. It became a state in 2000.
+
+@istate IN-GA
+name: Goa
+kind: state
+formed: 30 May 1987
+src: Goa
+T: The Portuguese, who first came to the subcontinent as merchants in the early 16th century, conquered Goa soon afterwards. It was the capital of Portugal's eastern empire and stayed under Portuguese rule for about 451 years, until its annexation by India in December 1961. On 30 May 1987 Goa became India's twenty-fifth state.
+K: Portugal ruled Goa for about 450 years. Goa joined India in 1961 and became a state in 1987.
+
+@istate IN-GJ
+name: Gujarat
+kind: state
+formed: 1 May 1960
+src: Gujarat
+T: Gujarat holds major cities of the Indus Valley Civilisation, among them Lothal, believed to be one of the world's first seaports, and Dholavira. Later it passed through the Maurya, Satavahana and Gupta realms, the Western Satraps, the Sultanate of Gujarat and the Kingdom of Baroda. On 1 May 1960 Bombay State was split on linguistic lines into Gujarat and Maharashtra.
+K: Gujarat has ruins of Indus cities more than 4,000 years old, including one of the world's first seaports. The state was made in 1960 for people who speak Gujarati.
+
+@istate IN-HR
+name: Haryana
+kind: state
+formed: 1 November 1966
+src: Haryana
+T: The villages of Rakhigarhi and Bhirrana in Haryana stand on ancient sites of the Indus Valley Civilisation. The modern state was formed on 1 November 1966 under the Punjab Reorganisation Act, when the Haryanvi- and Hindi-speaking areas of Punjab were separated. It surrounds Delhi on three sides and shares its capital, Chandigarh, with Punjab.
+K: Haryana has some of the oldest Indus sites in India. It became a state in 1966 and wraps around Delhi on three sides.
+
+@istate IN-HP
+name: Himachal Pradesh
+kind: state
+formed: 1971
+src: Himachal Pradesh
+T: Through most of its history this mountain region was ruled by local kingdoms, some of which accepted the overlordship of larger empires. Under the British it formed the hill regions of Punjab Province. In 1948 thirty small princely states were combined as Himachal Pradesh; hill areas of Punjab were added in 1966, and full statehood came in 1971.
+K: Small mountain kingdoms ruled these hills for most of history. In 1948 thirty of them were joined together, and Himachal Pradesh became a full state in 1971.
+
+@istate IN-JH
+name: Jharkhand
+kind: state
+formed: 15 November 2000
+src: Jharkhand
+T: In Mauryan times this forested plateau was held by a number of states known together as the Atavika, or forest, states; Brahmi inscriptions of the 3rd century BCE have been found in Khunti district. The name Jharkhand first appears on a 13th-century copper plate. Birsa Munda's revolt lasted from 1895 to 1900. The state's first chief minister took office on 15 November 2000, the anniversary of Birsa Munda's birth.
+K: Jharkhand is a land of forests and hills. The Adivasi hero Birsa Munda led a revolt here against British rule. The state began on his birthday in 2000.
+
+@istate IN-KA
+name: Karnataka
+kind: state
+formed: 1 November 1956
+src: Karnataka
+T: Before the third century BCE most of Karnataka was part of Ashoka's Mauryan Empire. Later the Western Chalukyas patronised architecture and Kannada literature, the Hoysalas followed in the 12th century, and the Mysore kingdom, once a vassal of Vijayanagara, rose in the south. The state was formed as Mysore State on 1 November 1956 and renamed Karnataka in 1973.
+K: Many great kingdoms ruled Karnataka. The state was made in 1956 and took the name Karnataka in 1973.
+
+@istate IN-KL
+name: Kerala
+kind: state
+formed: 1 November 1956
+src: Kerala
+T: The Chera dynasty, the first major kingdom of the region, rose through maritime commerce. In the 15th century the spice trade drew Portuguese traders to Kerala, beginning European colonisation in India. After independence the kingdoms of Travancore and Cochin merged in 1949; on 1 November 1956 Kerala was formed, uniting the Malayalam-speaking regions.
+K: Kerala grew rich by selling spices to ships from far away. Portuguese traders came here for spices more than 500 years ago. The state was made in 1956 for people who speak Malayalam.
+
+@istate IN-MP
+name: Madhya Pradesh
+kind: state
+formed: 1 November 1956
+src: Madhya Pradesh
+T: The region includes ancient Avanti, whose capital Ujjain became a major city in the sixth century BCE. It was ruled in turn by India's major dynasties, and the Marathas dominated most of the 18th century. After the Third Anglo-Maratha War it was divided into princely states under the British. The state was formed in 1956 and was India's largest by area until Chhattisgarh was separated in 2000.
+K: The old city of Ujjain in Madhya Pradesh is about 2,600 years old. The state was made in 1956 and lies right in the middle of India.
+
+@istate IN-MH
+name: Maharashtra
+kind: state
+formed: 1 May 1960
+src: Maharashtra
+T: Dynasties that ruled here include the Satavahanas, Vakatakas, Chalukyas, Rashtrakutas, Yadavas, Bahmanis and Mughals. By the early 19th century the region was divided between the Peshwa's dominions in the Maratha Confederacy and the Nizam of Hyderabad, until the East India Company defeated the Marathas. On 1 May 1960 Bombay State was divided into Maharashtra and Gujarat.
+K: Maharashtra was the home of the Marathas, who built a great empire. The state was made in 1960 for people who speak Marathi.
+
+@istate IN-MN
+name: Manipur
+kind: state
+formed: 21 January 1972
+src: Manipur
+T: Manipur is mostly hills around the Imphal Valley, home of the Meitei community and historically a kingdom. Under the British Raj it was a princely state. It acceded to India in 1947, its ruler signed a merger agreement in 1949, and it became a full state in 1972.
+K: Manipur was a kingdom in a green valley among hills. It joined India after 1947 and became a state in 1972.
+
+@istate IN-ML
+name: Meghalaya
+kind: state
+formed: 21 January 1972
+src: Meghalaya
+T: Meghalaya, "the abode of clouds", is the home of the Khasi, Garo and Jaintia peoples. A brick fortification on its border with Assam is dated to the 4th–8th century. The state was formed on 21 January 1972 by carving the Khasi and Jaintia Hills and the Garo Hills out of Assam.
+K: Meghalaya means "home of the clouds". It is the land of the Khasi, Garo and Jaintia peoples, and became a state in 1972.
+
+@istate IN-MZ
+name: Mizoram
+kind: state
+formed: 20 February 1987
+src: Mizoram
+T: Finds at Vangchhia suggest settlement as early as the 6th century BCE. From the 14th century Tibeto-Burman-speaking peoples migrated from the Chin Hills and formed chiefdoms; by the 18th century the Sailo dynasty dominated. The British annexed the area in 1895 as the Lushai Hills. It became a union territory in 1972 and, after the peace accord of 1986, a state on 20 February 1987.
+K: The Mizo people's ancestors came over the hills from what is now Myanmar. After a peace agreement in 1986, Mizoram became a state in 1987.
+
+@istate IN-NL
+name: Nagaland
+kind: state
+formed: 1 December 1963
+src: Nagaland
+T: The recorded history of the Nagas goes back to the 13th century. In the 19th century British Indian forces extended their influence into the Naga Hills. After independence the political status of the hills became a question, and the State of Nagaland was inaugurated on 1 December 1963 as the 16th state of the Indian Union.
+K: Nagaland is the home of the Naga peoples in the hills of the north-east. It became India's 16th state in 1963.
+
+@istate IN-OR
+name: Odisha
+kind: state
+formed: 1 April 1936 (province)
+src: Odisha
+T: The ancient kingdom of Kalinga, invaded by Ashoka in 261 BCE, coincides with the borders of modern Odisha. Cuttack was made a capital about 1135. The modern boundaries were drawn by the British Indian government: Orissa Province was established on 1 April 1936 from the Odia-speaking districts of three provinces. The spelling "Odisha" has been official since 2011.
+K: Odisha was once the kingdom of Kalinga, which the emperor Ashoka conquered. It became a province in 1936 for people who speak Odia.
+
+@istate IN-PB
+name: Punjab
+kind: state
+formed: 1 November 1966 (present borders)
+src: Punjab, India
+T: Punjab was the frontier of early empires, including Alexander's and the Mauryas'. Sikhism emerged here between the 15th and 17th centuries. The East India Company annexed the larger Punjab from the Sikh Empire in 1849. In 1947 the province was partitioned along religious lines amid widespread violence, the western part going to Pakistan. In 1966 the Indian state was reorganised by language.
+K: Punjab is the birthplace of the Sikh religion. In 1947 it was cut in two, and half became part of Pakistan. Today's state dates from 1966.
+
+@istate IN-RJ
+name: Rajasthan
+kind: state
+formed: 30 March 1949
+src: Rajasthan
+T: Rajasthan includes most of the Thar Desert and the ancient Aravalli range, and has ruins of the Indus Valley Civilisation at Kalibangan. Rajput rulers later established kingdoms across the region, which the British called Rajputana. The state was formed on 30 March 1949, when the states of the Rajputana Agency merged into the Indian Union.
+K: Rajasthan is a land of desert, old hills and Rajput kingdoms. It became a state in 1949, when many kingdoms joined together.
+
+@istate IN-SK
+name: Sikkim
+kind: state
+formed: 1975
+src: Sikkim
+T: The Buddhist saint Padmasambhava is said to have passed through this land in the 8th century. The Namgyal dynasty founded the Kingdom of Sikkim in the 17th century, and it was ruled by Buddhist priest-kings called Chogyals. It became a princely state of British India in 1890. In 1975 a referendum led to the end of the monarchy, and Sikkim joined India as its 22nd state.
+K: Sikkim was a small Buddhist kingdom in the Himalaya for about 300 years. In 1975 its people voted, and it became part of India.
+
+@istate IN-TN
+name: Tamil Nadu
+kind: state
+formed: 1956 (present shape), renamed 1969
+src: Tamil Nadu
+T: The Tamil country was ruled by the Cheras, Cholas and Pandyas of the Sangam era, then by the Pallavas from the 3rd to the 9th century and later by the Vijayanagara Empire. European trading ports appeared in the 17th century. After 1947 the region became Madras State, was reshaped along linguistic lines in 1956, and was renamed Tamil Nadu, "Tamil Country", in 1969.
+K: Tamil Nadu is the home of the Tamil language, and of the Chola, Chera and Pandya kings of long ago. It got its present name in 1969.
+
+@istate IN-TG
+name: Telangana
+kind: state
+formed: 2014
+src: Telangana
+src: Andhra Pradesh
+T: The Satavahanas ruled the whole Deccan plateau from here and traded as far as the Roman Empire. Later dynasties included the Eastern Chalukyas, Kakatiyas, the Vijayanagara Empire and the Qutb Shahis; from the 17th to the 19th century the Mughals and the Nizam of Hyderabad ruled. After independence the Telugu-speaking regions were grouped in Andhra Pradesh, until the Telangana movement won a separate state in 2014.
+K: Telangana was ruled for a long time by the Nizams of Hyderabad. After many years of protest it became India's newest state in 2014.
+
+@istate IN-TR
+name: Tripura
+kind: state
+formed: 21 January 1972
+src: Tripura
+T: Tripura was for several centuries the Tripuri kingdom, or Hill Tippera, ruled by the Manikya dynasty. It became a princely state under the British Raj and acceded to India in 1947, merging in 1949. On 21 January 1972 it became a full state, together with Meghalaya and Manipur.
+K: Tripura was a kingdom ruled by the Manikya kings for hundreds of years. It became a state of India in 1972.
+
+@istate IN-UP
+name: Uttar Pradesh
+kind: state
+formed: 1950
+src: Uttar Pradesh
+T: This stretch of the Ganges plain formed part of the Maurya, Gupta, Vardhana and Pala realms, the Delhi Sultanate and the Mughal Empire. Under the British it played a central role in the Rebellion of 1857 and in the independence movement. The United Provinces of Agra and Oudh, formed in 1902, became Uttar Pradesh in 1950.
+K: Uttar Pradesh lies along the river Ganges and has been at the centre of Indian history for thousands of years. It got its name in 1950.
+
+@istate IN-UT
+name: Uttarakhand
+kind: state
+formed: 9 November 2000
+src: Uttarakhand
+T: In the Vedic age these mountains were part of the Kuru and Panchala kingdoms. The Kunindas, in the second century BCE, were among the first major dynasties of Kumaon, and Ashokan edicts show the reach of Buddhism. The state was created from Uttar Pradesh on 9 November 2000; it was officially called Uttaranchal until 2007.
+K: Uttarakhand is a mountain state in the north. It was separated from Uttar Pradesh in 2000.
+
+@istate IN-WB
+name: West Bengal
+kind: state
+formed: 1947
+src: West Bengal
+T: The citadel of Gauda was capital of the Gauda kingdom, the Pala Empire and the Sena Empire. The East India Company annexed the region into its Bengal Presidency after the Battle of Buxar in 1764, and long exposure to British administration brought an early expansion of Western education. In 1947 Bengal was partitioned along religious lines, and West Bengal became part of India.
+K: Bengal was the first big region ruled by the British in India. In 1947 it was divided in two. The western part became West Bengal, and the eastern part is now Bangladesh.
+
+@istate IN-AN
+name: Andaman and Nicobar Islands
+kind: ut
+formed: after 1950
+src: Andaman and Nicobar Islands
+T: Of these 836 islands only 31 are inhabited. In the 11th century the Cholas used them as a naval base for expeditions to Southeast Asia. A penal colony was established in 1794, the islands became part of the British Raj in 1868, and Japan invaded them in the Second World War. North Sentinel Island is home to the Sentinelese, an uncontacted people.
+K: These islands lie far out in the sea. Chola ships once stopped here. On one island live the Sentinelese, who have no contact with the outside world.
+
+@istate IN-CH
+name: Chandigarh
+kind: ut
+formed: 1966
+src: Chandigarh
+T: Chandigarh was founded in the aftermath of independence and Partition in 1947: Lahore, capital of undivided Punjab, had gone to Pakistan, and East Punjab needed a new capital. In 1966, when the state was divided into Punjab and Haryana, Chandigarh became a union territory and the joint capital of both.
+K: Chandigarh is a city built after 1947, because Punjab had lost its old capital, Lahore. Today it is the capital of two states at once.
+
+@istate IN-DH
+name: Dadra and Nagar Haveli and Daman and Diu
+kind: ut
+formed: 1961 (joined India)
+src: Dadra and Nagar Haveli and Daman and Diu
+T: Daman and Diu were Portuguese colonies from the 1520s until India annexed them on 19 December 1961. Dadra and Nagar Haveli were Portuguese territories from 1779 until 11 August 1961. Goa, Daman and Diu were administered together until 1987, when Goa became a state.
+K: These small places on the west coast were ruled by Portugal for hundreds of years. They became part of India in 1961.
+
+@istate IN-DL
+name: Delhi
+kind: ut
+formed: 1 November 1956
+src: Delhi
+T: From the early 13th century to the mid-19th, Delhi was the capital of two major empires, the Delhi Sultanate and the Mughal Empire. In 1911 New Delhi became the capital of the British Indian Empire. The fort of Purana Qila matches the literary description of Indraprastha in the Mahabharata, though excavations have found no sign of so ancient a city. Delhi became a union territory on 1 November 1956.
+K: Delhi became the capital of sultans about 800 years ago. Later it was the capital of Mughal emperors, then of the British, and now of India.
+
+@istate IN-JK
+name: Jammu and Kashmir
+kind: ut
+formed: 31 October 2019
+src: Jammu and Kashmir (union territory)
+T: Jammu and Kashmir is a region administered by India as a union territory. It is the southern part of the larger Kashmir region, which has been the subject of a dispute between India and Pakistan since 1947 and between India and China since 1959. In 2019 the former state was reconstituted as two union territories, Jammu and Kashmir, and Ladakh.
+K: Jammu and Kashmir is a mountain region governed by India. India and Pakistan have disagreed about Kashmir since 1947. The borders shown here are today's lines of control, not agreed borders.
+
+@istate IN-LA
+name: Ladakh
+kind: ut
+formed: 31 October 2019
+src: Ladakh
+T: Ladakh is the eastern part of the larger Kashmir region, administered by India and part of a dispute with Pakistan since 1947 and with China since 1959. King Bhagan united Ladakh in 1460 and founded the Namgyal dynasty. It was established as a union territory on 31 October 2019.
+K: Ladakh lies high in the mountains. Kings of the Namgyal family ruled it from 1460. It became a union territory in 2019.
+
+@istate IN-LD
+name: Lakshadweep
+kind: ut
+formed: 1956
+src: Lakshadweep
+T: Evidence from Kalpeni shows people on these islands from at least 1500 BCE. The Cheras controlled them in the Sangam period, then the Pallavas. After a brief Portuguese presence in the late 15th century the Arakkal kingdom ruled; Mysore and then the British followed. The islands joined India in 1947 and became a union territory in 1956.
+K: People have lived on these tiny islands for at least 3,500 years. They became a union territory of India in 1956.
+
+@istate IN-PY
+name: Puducherry
+kind: ut
+formed: 16 August 1962 (de jure)
+src: Puducherry (union territory)
+T: Puducherry consists of four small unconnected districts, the former territories of French India: Pondichéry, Karikal, Mahé and Yanaon. Pondicherry became a French colony in 1674 and was the capital of French India. The territories passed to India in practice on 1 November 1954 and in law on 16 August 1962.
+K: Puducherry was a French colony for about 280 years. It is made of four little pieces of land far apart from each other.

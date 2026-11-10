@@ -1,0 +1,174 @@
+# Short story: the Columbian Exchange (format: spread). Facts from the articles named in src.
+
+@story columbian-exchange
+title: The Columbian Exchange
+kid-title: The great swap
+format: spread
+order: 8
+color: #9bd15b
+content-note: This story includes the deaths of most of the Indigenous population of the Americas from introduced diseases.
+deck: After 1492 two halves of the world that had been apart for thousands of years began trading plants, animals and germs. Nothing on your plate was ever the same.
+kid-deck: After 1492, plants, animals and germs began crossing the Atlantic Ocean in both directions. It changed what the whole world eats.
+led: story:atlantic-slave-trade | The Atlantic Slave Trade | who was made to grow the sugar; era:colonialism | Colonial empires | what followed the voyages; story:spice-trade | The Spice Trade | what the voyages were looking for
+
+@scene cx-01
+story: columbian-exchange
+title: The Columbian Exchange
+y: 1492
+cam: 20, -45, 18000
+look: title
+src: Columbian exchange
+T: From the late 15th century, plants, animals and diseases began moving between the Americas and the lands of Africa, Europe and Asia, in both directions and on a vast scale. Historians call it the Columbian exchange, after Christopher Columbus.
+K: Before 1492, the people of the Americas and the people of Europe, Africa and Asia had lived apart for thousands of years. Then ships began to cross the ocean, and plants, animals and germs crossed with them.
+show: arrow | from=Seville | to=Hispaniola | color=people
+show: arrow | from=Hispaniola | to=Seville | color=life
+note: The arrows are schematic.
+
+@scene cx-02
+story: columbian-exchange
+title: Four voyages
+y: 1492
+to: 1504
+cam: Hispaniola | 6500
+src: Christopher Columbus
+T: Christopher Columbus, a navigator from the Republic of Genoa, made four voyages across the Atlantic in the name of the monarchs of Spain. His expeditions were the first known European contact with the Caribbean and with Central and South America, and they opened the way for European colonization.
+K: Christopher Columbus, a sailor from Genoa, crossed the Atlantic four times for the king and queen of Spain. After him, many more Europeans came to the Americas.
+show: site | at=Hispaniola | label=The Caribbean, 1492 | ring=1
+note: The end year of the clock is nominal for the period of the four voyages.
+
+@scene cx-03
+story: columbian-exchange
+title: The germs went first
+y: 1500
+to: 1600
+cam: 15, -85, 12000
+toll: 0
+src: Columbian exchange
+src: Population history of the Indigenous peoples of the Americas
+T: The most terrible part of the exchange was invisible. Diseases from the Old World, to which the peoples of the Americas had never been exposed, reduced the Indigenous population by 80 to 95 percent from the 15th century onwards. In the Caribbean they were brought close to extinction.
+T: Nobody knows how many people lived in the Americas before. Estimates range from 8 million to 100 million; by the end of the 20th century many scholars leaned towards about 50 million.
+K: The saddest part of the story is about germs. The newcomers carried sicknesses that people in the Americas had never met before. Most of the people who lived there died of these diseases.
+note: Content note: mass death from disease.
+
+@scene cx-04
+story: columbian-exchange
+title: Smallpox
+y: 1520
+cam: 19, -99, 6500
+src: Smallpox
+src: Columbian exchange
+T: Smallpox, caused by the variola virus, was among the diseases that crossed. It began with fever and went on to cover the body in sores.
+T: It is also the only human disease ever to have been wiped out. The last natural case was diagnosed in October 1977, and the World Health Organization certified its eradication in 1980.
+K: One of the worst of these sicknesses was smallpox. Today nobody catches smallpox any more. Doctors around the world worked together until, in 1980, it was gone for good.
+note: The clock's year is nominal; the cited sources do not date smallpox's arrival in the Americas.
+
+@scene cx-05
+story: columbian-exchange
+title: Maize
+y: 1550
+cam: Balsas River | 9500
+src: Maize
+src: Columbian exchange
+T: Maize was domesticated by Indigenous peoples in southern Mexico about 9,000 years ago, from a wild grass called teosinte. After 1492 it became one of the American crops that grew important all around the world.
+K: Maize, also called corn, was first grown by people in Mexico about 9,000 years ago. After 1492 it spread all over the world.
+show: site | at=Balsas River | label=Maize, from southern Mexico | color=life | ring=1
+show: arrow | from=Balsas River | to=Seville | color=life
+
+@scene cx-06
+story: columbian-exchange
+title: The potato
+y: 1600
+to: 1845
+cam: 30, -40, 18000
+cam-to: Ireland | 6500
+src: Potato
+src: Great Famine (Ireland)
+T: The potato was domesticated in southern Peru and north-western Bolivia 7,000 to 10,000 years ago. Carried across the ocean, it became a staple food in many parts of the world.
+T: A people could come to depend on it too much. When the potato crop failed in Ireland between 1845 and 1852, between 775,000 and 1.5 million more people died than would have otherwise, and a million or more emigrated.
+K: The potato comes from the Andes mountains in South America. It became the main food for many people in Europe. In Ireland in the 1840s the potato plants died of a disease, and there was a terrible famine.
+show: site | at=Lake Titicaca | label=Potato, from the Andes | color=life
+show: arrow | from=Lake Titicaca | to=Ireland | color=life
+show: site | at=Ireland | label=Ireland, 1845 to 1852 | since=1845 | ring=1
+note: That the famine followed the failure of the potato crop is implied by its other name, the Irish Potato Famine.
+
+@scene cx-07
+story: columbian-exchange
+title: Tomatoes, chillies, chocolate
+y: 1550
+cam: 15, -60, 18000
+src: Tomato
+src: Chili pepper
+src: Cocoa bean
+T: The tomato came from western South America, and the Spanish introduced it to Eurasia in the 16th century. Chili peppers, whose name comes from the Nahuatl word chīlli, now add heat to many of the world's cuisines. The cacao tree, native to the Amazon rainforest, gives us chocolate.
+T: Portuguese and Spanish traders probably carried chili peppers on to Africa and Asia in the 16th century.
+K: Tomatoes, chilli peppers and chocolate all come from the Americas. The Spanish brought tomatoes across the ocean in the 1500s, and traders carried chillies on to Africa and Asia.
+show: arrow | from=Lima | to=Seville | color=life
+
+@scene cx-08
+story: columbian-exchange
+title: Cassava
+y: 1600
+cam: -5, -20, 16000
+src: Cassava
+T: Cassava, also called manioc or yuca, is a woody shrub native to South America, from Brazil, Paraguay and parts of the Andes. Its starchy root is now grown across the tropical and subtropical world.
+K: Cassava is a plant with a big, starchy root that people eat. It comes from South America and is now grown in warm countries all round the world.
+show: site | at=Brazil | label=Cassava, from South America | color=life
+
+@scene cx-09
+story: columbian-exchange
+title: What went west
+y: 1500
+to: 1650
+cam: 22, -50, 18000
+src: Columbian exchange
+src: Horse
+T: The exchange ran both ways. Rice, wheat, sugar cane and livestock from the Old World became important in the New.
+T: The horse was among them, and it was a homecoming of a kind: over 45 to 55 million years the horse family had evolved in North America, long before people domesticated horses in Central Asia around 4000 BCE.
+K: Things went the other way too. Europeans brought wheat, rice, sugar cane, cows, pigs and horses to the Americas. Long, long ago, the very first horses had lived in North America.
+show: arrow | from=Seville | to=Hispaniola | color=people
+show: arrow | from=Seville | to=Mexico City | color=people
+note: "Cows and pigs" in the Kid text stands for the source's "livestock".
+
+@scene cx-10
+story: columbian-exchange
+title: Sugar, and who cut it
+y: 1650
+cam: 15, -55, 12000
+src: Columbian exchange
+src: Atlantic slave trade
+T: Sugar cane crossed the Atlantic from the Old World and took over whole islands. The people made to plant and cut it were enslaved Africans, sold in the Americas to work on sugar, coffee, tobacco, cocoa and cotton plantations.
+T: Across the Americas, European colonists and enslaved Africans replaced Indigenous populations, to varying degrees.
+K: Sugar cane was brought to the Americas and grown on huge farms called plantations. The people forced to do the hard work were enslaved Africans.
+show: arrow | from=Elmina Castle | to=Barbados | color=#c98b4b
+show: site | at=Barbados | label=Sugar islands of the Caribbean
+
+@scene cx-11
+story: columbian-exchange
+title: A changed planet
+y: 1800
+cam: 25, 20, 22000
+src: Columbian exchange
+T: The new contacts among the world's people led to the interchange of many species of crops and livestock, and that supported increases in food production and in population across the Old World.
+T: The same exchange emptied much of the New. Both things are true, and they are the same story.
+K: Because of the great swap, people in Europe, Africa and Asia had more kinds of food and could feed more people. But the people of the Americas paid a terrible price.
+
+@quiz cx-q1
+story: columbian-exchange
+q: Which of these foods comes from the Americas?
+options: Potatoes; Wheat; Rice
+a: Potatoes
+why: Potatoes were first grown in the Andes mountains of South America. Wheat and rice went the other way.
+
+@quiz cx-q2
+story: columbian-exchange
+q: What killed most of the people living in the Americas after 1492?
+options: New diseases; Cold weather; Volcanoes
+a: New diseases
+why: Sicknesses brought from Europe, Africa and Asia killed 80 to 95 percent of the Indigenous population.
+
+@quiz cx-q3
+story: columbian-exchange
+q: Which disease has been wiped out completely?
+options: Smallpox; The common cold; Flu
+a: Smallpox
+why: The World Health Organization declared smallpox gone in 1980.

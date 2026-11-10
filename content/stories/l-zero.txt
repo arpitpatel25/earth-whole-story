@@ -1,0 +1,212 @@
+# Short story: zero and the numerals (format: chain). Facts from the articles named in src.
+
+@story zero
+title: The story of nothing
+kid-title: The story of zero
+format: chain
+order: 12
+color: #7fd1c7
+deck: Ten small symbols, one of them standing for nothing at all, travelled from India to Baghdad to Italy and then into every computer on Earth.
+kid-deck: The numbers you write every day were invented in India. The cleverest one is the one that means nothing: zero. Follow it around the world.
+led: era:islamic-golden-age | The Islamic Golden Age | Baghdad's scholars; story:printing-press | The printing press | what finally spread the numerals in Europe; era:internet | The Internet | a world built from 1 and 0; era:classical-empires | Classical empires | the India of the first numerals
+
+@scene zero-01
+story: zero
+title: The story of *nothing*
+y: 628
+cam: 25, 60, 22000
+look: title
+src: 0
+src: Hindu–Arabic numeral system
+T: Zero is a number that stands for an empty quantity. It seems the simplest idea there is. It took thousands of years to arrive.
+T: The numerals almost everyone uses today, 0 to 9 written by place value, were invented in India. This story follows them, link by link, to the screen you are reading.
+K: Zero means nothing at all. It sounds easy. But for thousands of years people counted without it.
+K: The numbers you use every day, from 0 to 9, were invented in India. This story follows them around the world.
+
+@scene zero-02
+story: zero
+title: Scratches on a bone
+y: 20 kya
+cam: Ishango | 5200
+src: Ishango bone
+conf: debated
+T: Counting is far older than numerals. The Ishango bone, found in today's Democratic Republic of the Congo and now believed to be about 20,000 years old, carries marks in three columns down its length.
+T: Some think it is a tally stick. Others suggest the scratches only gave a better grip.
+K: People counted long before they had written numbers. This bone from Africa is about 20,000 years old and has rows of scratches on it. Some scientists think the scratches are for counting. Others think they just made the bone easier to hold.
+show: site | at=Ishango | label=Ishango | ring=1
+
+@scene zero-03
+story: zero
+title: Babylon leaves a gap
+y: 1500 BCE
+to: 300 BCE
+cam: Babylon | 3800
+src: 0
+src: Babylonian cuneiform numerals
+T: By the middle of the 2nd millennium BC, Babylonian scribes had a sophisticated number system in base 60, written with a stylus on clay. It was positional: where a sign stood decided what it was worth.
+T: An empty position was shown only by a space. By 300 BC a punctuation sign, two slanted wedges, had been repurposed to mark the empty place. It was a placeholder, not yet a number.
+K: In Babylon, people wrote numbers by pressing marks into soft clay. Where a mark stood changed what it was worth, just like the 2 in 20 and the 2 in 200.
+K: When a place was empty they left a gap. Later they used two slanted marks to say "nothing here".
+show: site | at=Babylon | label=Babylon
+
+@scene zero-04
+story: zero
+title: Zero, invented twice
+y: 36 BCE
+cam: Chiapa de Corzo (Mesoamerican site) | 5200
+src: 0
+src: Maya numerals
+conf: debated
+T: On the other side of the world, people reached the same idea independently. The Long Count calendar of Mesoamerica needed a zero as a placeholder in its base-20 system. The earliest Long Count date known, on Stela 2 at Chiapa de Corzo, is from 36 BC.
+T: The Maya wrote zero as a shell. Who used it first is uncertain: the earliest dates lie outside the Maya homeland.
+K: Far away in Central America, people invented zero all by themselves. They needed it for their calendar. The Maya drew zero as a shell, one as a dot and five as a bar.
+show: site | at=Chiapa de Corzo (Mesoamerican site) | label=Chiapa de Corzo, 36 BC | ring=1
+
+@scene zero-05
+story: zero
+title: Rome does without
+y: 100
+cam: Rome | 6000
+src: Roman numerals
+T: Roman numerals are additive: you write symbols side by side and add them up. They use different symbols for each power of ten and have no zero.
+T: They remained the usual way of writing numbers throughout Europe well into the Late Middle Ages.
+K: The Romans wrote numbers with letters, like X for ten and C for a hundred, and added them up. They had no zero at all. People in Europe wrote numbers this way for more than a thousand years.
+show: site | at=Rome | label=Rome
+
+@scene zero-06
+story: zero
+title: Ten symbols in India
+y: 100
+to: 400
+cam: 23, 79, 6500
+src: Hindu–Arabic numeral system
+src: Bakhshali manuscript
+T: Between the 1st and 4th centuries, Indian mathematicians invented the system we use now: base ten, positional, with one symbol for each digit. The shapes of today's digits descend from Brahmi numerals.
+T: The Bakhshali manuscript, a mathematical text on birch bark found in 1881, uses a dot to hold an empty place. The dot was called shunya-bindu, the dot of the empty place. The manuscript's age is disputed: in 2024 Oxford University revised its dating to 799–1102 CE.
+K: In India, mathematicians invented a new way to write numbers. Ten symbols were enough for any number, however big, because the place of each symbol tells you what it is worth.
+K: For an empty place they first used a dot.
+show: region | countries=IND; PAK | color=idea | opacity=0.22
+note: The shaded area is today's India and Pakistan, for orientation. It is not a historical border.
+
+@scene zero-07
+story: zero
+title: Brahmagupta makes nothing a number
+y: 628
+cam: Bhinmal | 3000
+cam-to: Ujjain | 3000
+src: Brahmagupta
+src: Brāhmasphuṭasiddhānta
+T: Brahmagupta was born in 598 in Bhillamala, today's Bhinmal in Rajasthan, and later moved to Ujjain, a major centre for astronomy. Around 628 he wrote the Brāhmasphuṭasiddhānta.
+T: It is the first book that gives rules for doing arithmetic with zero and with negative numbers. A positive number added to an equal negative number, it says, makes zero. On one point he differs from us: he defined zero divided by zero as zero, while modern mathematics leaves division by zero undefined.
+K: A mathematician named Brahmagupta, born in Rajasthan in the year 598, did something new. He treated zero as a real number, one you can add and subtract like any other, and he wrote down the rules.
+K: He also wrote rules for numbers less than zero.
+show: site | at=Bhinmal | label=Bhillamala, Brahmagupta's birthplace
+show: site | at=Ujjain | label=Ujjain
+
+@scene zero-08
+story: zero
+title: A small circle on a temple wall
+y: 9th century
+cam: Gwalior | 2200
+src: Bakhshali manuscript
+T: On the wall of a temple in Gwalior, in Madhya Pradesh, a 9th-century inscription includes a zero. It was long thought to be the oldest Indian use of a zero symbol.
+K: On the wall of a temple in Gwalior, in India, there is a zero carved in stone. It has been there since the 800s.
+show: site | at=Gwalior | label=Gwalior | ring=1
+
+@scene zero-09
+story: zero
+title: Baghdad writes the textbook
+y: 825
+cam: 30, 60, 9500
+cam-to: Baghdad | 4500
+src: Al-Khwarizmi
+src: Hindu–Arabic numeral system
+src: 0
+T: By the 9th century Arabic mathematicians had adopted the Indian system and extended it to fractions. Al-Khwarizmi, who worked at the House of Wisdom in Baghdad around 820, described it in On the Calculation with Hindu Numerals about 825. Al-Kindi wrote on the same subject about 830.
+T: The Sanskrit word for the empty place, śūnya, was translated by the Arabic word ṣifr, which had meant "empty".
+K: Scholars in Baghdad learned the Indian numbers and wrote books explaining them. The most famous was by al-Khwarizmi, around the year 825.
+K: The Indian word for zero meant "empty". The Arabic word they chose for it, sifr, meant "empty" too.
+show: arrow | from=Ujjain | to=Baghdad | color=idea
+show: site | at=Baghdad | label=Baghdad, House of Wisdom
+note: The arrow shows the direction the system travelled. The real routes are not recorded.
+
+@scene zero-10
+story: zero
+title: A word on the move
+y: 1150
+cam: 40, 20, 9000
+src: 0
+src: Al-Khwarizmi
+T: In the 12th century Latin translations of al-Khwarizmi's textbook, titled Algorithmo de Numero Indorum, brought the decimal positional system to the Western world.
+T: The word travelled with the idea. Arabic ṣifr became Italian zefiro, shortened in Venetian to zevero and then zero, and passed through French into English.
+K: Next the books were turned into Latin, the language of scholars in Europe. The word travelled too. Arabic "sifr" became Italian "zefiro", which was squeezed down to "zero".
+
+@scene zero-11
+story: zero
+title: A merchant's son in Algeria
+y: 1202
+cam: Béjaïa | 3800
+cam-to: Pisa | 3800
+src: Fibonacci
+src: Liber Abaci
+T: Leonardo of Pisa, later known as Fibonacci, was the son of a merchant who directed a trading post at Bugia, today's Béjaïa in Algeria. He was educated there and learned the Hindu–Arabic numerals.
+T: In 1202 he completed the Liber Abaci, the Book of Calculation, which popularised the numerals in Europe. He called the system the modus Indorum, the method of the Indians. A whole section works through examples from commerce: converting currencies, calculating profit and interest.
+K: A boy from Pisa in Italy grew up in Bugia, a port in what is now Algeria, where his father ran a trading post. There he learned the Indian numbers. Later he was called Fibonacci.
+K: In 1202 he wrote a book showing merchants in Europe how to use them. He called it "the method of the Indians".
+show: arrow | from=Béjaïa | to=Pisa | color=idea
+show: site | at=Béjaïa | label=Bugia (Béjaïa)
+show: site | at=Pisa | label=Pisa, 1202
+
+@scene zero-12
+story: zero
+title: Three centuries of waiting
+y: 1202
+to: 1500
+cam: 46, 10, 6500
+src: Hindu–Arabic numeral system
+T: Europe did not switch overnight. Until the printing press of the 15th century, use of the new numerals was mainly confined to northern Italy.
+K: Europe did not change quickly. For about three hundred years, the new numbers were mostly used in northern Italy. Printed books finally spread them everywhere.
+
+@scene zero-13
+story: zero
+title: Only 1 and 0
+y: 1703
+cam: 50, 8, 7000
+src: Binary number
+T: In 1703 Gottfried Leibniz published his Explanation of Binary Arithmetic, "which uses only the characters 1 and 0". He had been working on it since at least 1679, showing how to add, subtract, multiply and divide in binary.
+T: He was not the first to think in twos. The Indian scholar Pingala, around the 2nd century BC, had developed a binary system to describe the rhythms of verse.
+K: In 1703 a thinker named Leibniz showed that you can write any number using only two symbols: 1 and 0.
+K: An Indian scholar named Pingala had used a two-symbol system long before, to describe the beat of poems.
+
+@scene zero-14
+story: zero
+title: Nothing, everywhere
+y: now
+cam: 20, 78, 30000
+src: Binary number
+src: Positional notation
+T: Almost all modern computers use the binary system, because two states are simple to build into electronic circuits. Each of its digits, a 1 or a 0, is called a bit.
+T: And the most common numeral system on Earth is still the one from India: base ten, positional, with a symbol for nothing.
+K: Computers count with only 1 and 0. Each 1 or 0 is called a bit.
+K: And when you write a number, you are using the ten symbols invented in India long ago.
+
+@quiz zero-q1
+story: zero
+q: Where were the numbers 0 to 9 that we use today invented?
+options: India; Italy; Egypt
+a: India
+why: Indian mathematicians invented the system between the 1st and 4th centuries. Scholars in Baghdad and then Italy passed it on.
+
+@quiz zero-q2
+story: zero
+q: Which of these had no zero at all?
+options: Roman numerals; Maya numerals; Indian numerals
+a: Roman numerals
+why: Roman numerals have no symbol for zero. The Maya drew zero as a shell.
+
+@quiz zero-q3
+story: zero
+q: Which two symbols do computers count with?
+options: 1 and 0; 1 and 2; X and V
+a: 1 and 0
+why: Almost all modern computers use the binary system, which has only the digits 1 and 0.

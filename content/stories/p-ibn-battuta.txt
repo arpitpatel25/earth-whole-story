@@ -1,0 +1,197 @@
+# Short story: Ibn Battuta (format: biography). Facts from the articles named in src.
+# All dates and events are as recorded in his own account, the Rihla; scenes say where scholars doubt it.
+
+@story ibn-battuta
+title: Ibn Battuta: one life, 117,000 kilometres
+kid-title: Ibn Battuta, the greatest traveller
+format: biography
+order: 16
+color: #6fd0a0
+deck: At 21 he left Tangier for Mecca, a trip of sixteen months. He came home 24 years later, by way of Kilwa, Delhi, the Maldives and China.
+kid-deck: A young man set off from Morocco to visit Mecca. He kept going for almost thirty years, and travelled further than anyone before the age of engines.
+led: story:black-death | The Black Death | the plague he met on his way home; story:mongol-empire | The Mongol Empire | the khans whose lands he crossed; era:mali-empire | The Mali Empire | his last journey; era:indian-ocean-trade | Indian Ocean trade | the sea lanes he sailed
+
+@scene ib-01
+story: ibn-battuta
+title: One life, *117,000 kilometres*
+y: 1325-06-14
+cam: 28, 40, 26000
+look: title
+src: Ibn Battuta
+T: Ibn Battuta was born in Tangier on 24 February 1304, into a family of Islamic legal scholars. Between 1325 and 1354 he visited much of Africa, Asia and the Iberian Peninsula: around 117,000 kilometres, more than any other explorer in pre-modern history.
+T: Everything known about his life comes from his own account. This story follows it, and says where historians doubt him.
+K: Ibn Battuta was born in Tangier, in Morocco, in 1304. He travelled about 117,000 kilometres. That is further than anyone else before trains, cars and planes.
+K: We know his story because he told it himself. Some parts may not be exactly true, and we will say which.
+
+@scene ib-02
+story: ibn-battuta
+title: Alone, at 21
+y: 1325-06-14
+to: 1326-04
+cam: Tangier | 5200
+cam-to: Alexandria | 6500
+src: Ibn Battuta
+quote: I set out alone, having neither fellow-traveler in whose companionship I might find cheer, nor caravan whose part I might join, but swayed by an overmastering impulse within me and a desire long-cherished in my bosom to visit these illustrious sanctuaries. | Ibn Battuta, The Rihla, as quoted in English translation | Ibn Battuta | https://en.wikipedia.org/wiki/Ibn_Battuta
+T: On 14 June 1325, aged 21, he set off from his home town to make the pilgrimage to Mecca, a journey that would ordinarily take sixteen months. He went overland along the North African coast, and in the early spring of 1326, after more than 3,500 kilometres, he reached Alexandria.
+K: When he was 21, Ibn Battuta left home to visit the holy city of Mecca. The trip usually took sixteen months. He set off alone, and followed the coast of North Africa all the way to Egypt.
+show: route | via=Tangier; 36.7, 3.1; 36.8, 10.2; 32.9, 13.2; Alexandria | color=people
+show: site | at=Tangier | label=Tangier, 14 June 1325
+note: The line follows the North African coast, as the source describes. The exact road is not recorded.
+
+@scene ib-03
+story: ibn-battuta
+title: The pilgrim
+y: 1326-11
+cam: Mecca | 5200
+src: Ibn Battuta
+T: He reached Mecca by way of Damascus and Medina, and completed his first pilgrimage in November 1326. That was the journey done. But on 17 November, after a month in the city, he joined a caravan of pilgrims going home to Iraq, and did not turn west.
+K: In November 1326 he reached Mecca. His journey was finished. But he did not go home. He joined a group of travellers heading for Iraq instead.
+show: site | at=Damascus | label=Damascus
+show: site | at=Mecca | label=Mecca, November 1326 | ring=1
+
+@scene ib-04
+story: ibn-battuta
+title: Down the African coast
+y: 1330
+to: 1332
+cam: 3, 47, 11000
+src: Ibn Battuta
+conf: debated
+T: From Aden he took ship for the Somali coast. Mogadishu, by his account, stood at the height of its prosperity. He sailed on south, with an overnight stop at Mombasa, to the island town of Kilwa, an important transit centre of the gold trade, where the city's planning impressed him.
+T: The dates of this voyage are uncertain: the source gives 1332 for Mogadishu and 1330 for Kilwa.
+K: Next he sailed down the east coast of Africa. He visited the rich trading towns of Mogadishu and Kilwa, where merchants traded gold.
+show: route | via=Aden; Mogadishu; Kilwa Kisiwani | color=people
+show: site | at=Mogadishu | label=Mogadishu
+show: site | at=Kilwa Kisiwani | label=Kilwa
+
+@scene ib-05
+story: ibn-battuta
+title: A princess goes home
+y: 1332
+cam: 44, 38, 8500
+src: Ibn Battuta
+T: Crossing the Black Sea, he entered the lands of the Golden Horde and joined the court of Öz Beg Khan as it moved to Astrakhan. One of the khan's wives, a daughter of the Byzantine emperor, was allowed to return to Constantinople to give birth, and Ibn Battuta went with her party.
+T: He arrived towards the end of 1332, or 1334, met the emperor Andronikos III and visited Hagia Sophia.
+K: Then he went north, to the land of the Mongol khan Öz Beg. One of the khan's wives was a princess from Constantinople. When she travelled home, Ibn Battuta went along, and met the emperor there.
+show: route | via=Astrakhan; Istanbul | color=people
+show: site | at=Astrakhan | label=Astrakhan
+show: site | at=Istanbul | label=Constantinople
+
+@scene ib-06
+story: ibn-battuta
+title: A judge in Delhi
+y: 1333-09-12
+to: 1341
+cam: 28, 72, 7500
+src: Ibn Battuta
+T: He had decided to seek work with the Sultan of Delhi, Muhammad bin Tughluq, renowned as the wealthiest man in the Muslim world. His party reached the Indus on 12 September 1333. On the strength of his years of study in Mecca, the sultan appointed him a qadi, a judge.
+T: He stayed until 1341, when an embassy arrived from China and he was put in charge of the return mission.
+K: Ibn Battuta went to India to work for the Sultan of Delhi, one of the richest rulers in the world. The sultan made him a judge. He stayed for about eight years.
+show: site | at=Delhi | label=Delhi | ring=1
+
+@scene ib-07
+story: ibn-battuta
+title: Stranded in the Maldives
+y: 1343
+cam: Malé | 6500
+src: Ibn Battuta
+T: The embassy went wrong at once: on the way to the coast, bandits attacked him and his retinue. Afraid to go back to Delhi a failure, he drifted south, and came to the Maldives.
+T: The islands, recently converted to Islam, wanted a chief judge who knew Arabic and the Qur'an. He was compelled to stay, became chief judge and married into the royal family. He spent nine months there, much longer than he had intended.
+K: The Sultan sent him to China as his ambassador, but robbers attacked on the way. He was afraid to go back, so he sailed to the Maldives, a chain of small islands. The people there needed a judge, and would not let him leave for nine months.
+show: site | at=Malé | label=The Maldives
+note: The year shown is approximate: the source dates his departure from Delhi to 1341 and his arrival in China to 1345.
+
+@scene ib-08
+story: ibn-battuta
+title: China
+y: 1345
+cam: Quanzhou | 7500
+src: Ibn Battuta
+conf: debated
+T: By way of Sri Lanka, Chittagong and Sumatra he arrived in 1345 at Quanzhou, in a China ruled by the Mongol Yuan dynasty. He praised the craftsmen and their silk and porcelain, and the advantages of paper money, and described how the city's great ships were built.
+T: Scholars have pointed out numerous errors in his account of China. He confuses the Yellow River with the Grand Canal, and believed porcelain was made from coal.
+K: At last, in 1345, he reached China. He admired the silk, the fine dishes called porcelain, and the paper money.
+K: But scholars have found many mistakes in what he wrote about China.
+show: route | via=Malé; 7, 81; Chittagong; 5.2, 97; Quanzhou | color=people
+show: site | at=Quanzhou | label=Quanzhou, 1345 | ring=1
+note: The line joins the places named in his account. It is not a recorded track.
+
+@scene ib-09
+story: ibn-battuta
+title: Home through the plague
+y: 1348
+to: 1349
+cam: Damascus | 6500
+cam-to: Tangier | 7000
+src: Ibn Battuta
+T: In 1348 he reached Damascus, meaning to retrace the route of his first pilgrimage. The Black Death had struck. He stopped at Homs as the plague spread through Syria, Palestine and Arabia.
+T: In 1349 he came back to Tangier by way of Fez, and found that his mother had died a few months before.
+K: On his way home, a terrible sickness called the Black Death was spreading through the lands he crossed. When he reached Tangier in 1349, he learned that his mother had died a few months earlier.
+show: site | at=Damascus | label=Damascus, 1348
+show: site | at=Tangier | label=Tangier, 1349 | since=1349
+
+@scene ib-10
+story: ibn-battuta
+title: One more desert
+y: 1351
+to: 1353
+cam: 30, -5, 9500
+cam-to: 20, -3, 9500
+src: Ibn Battuta
+src: The Travels of Ibn Battuta
+T: He did not stay. After a trip to Granada, he left Fez in the autumn of 1351 for Sijilmasa, on the northern edge of the Sahara, and crossed the desert with a caravan. He passed Taghaza, a commercial centre awash with Malian gold. He did not like it: it was plagued by flies, he recorded, and the water was brackish.
+T: From Oualata he followed a river he took for the Nile, in fact the Niger, to the capital of the Mali Empire. After a short stay in Timbuktu he went down the river to Gao in a canoe carved from a single tree. He returned to Morocco for the last time in 1353.
+K: He still could not sit still. In 1351 he set off across the Sahara desert to the Mali Empire. On the way he passed a trading town where the water tasted of salt and there were flies everywhere. He was not impressed.
+K: In Mali he visited Timbuktu, and travelled down the great Niger River in a canoe made from one tree trunk.
+show: route | via=Fez, Morocco; Sijilmasa; Taghaza; Oualata; Timbuktu; Gao | color=people
+show: site | at=Taghaza | label=Taghaza
+show: site | at=Timbuktu | label=Timbuktu
+show: site | at=Gao | label=Gao
+note: The line joins the places named in his account, in order. The caravan's exact track is not recorded.
+
+@scene ib-11
+story: ibn-battuta
+title: The book
+y: 1354
+to: 1355
+cam: Fez, Morocco | 4200
+src: Ibn Battuta
+src: The Travels of Ibn Battuta
+conf: debated
+T: At the suggestion of Morocco's ruler, Abu Inan Faris, he dictated the story of his travels to Ibn Juzayy, a scholar he had met in Granada. The book, finished in 1355, is commonly known as the Rihla, the Journey.
+T: It must be read with care. Ibn Juzayy borrowed descriptions from earlier travellers without saying so, and presented some of them as Ibn Battuta's own observations. Whether Ibn Battuta visited every place he mentions is doubted.
+K: Back in Morocco, the king asked Ibn Battuta to tell his whole story to a writer. The book they made is called the Rihla, which means "the Journey".
+K: Not everything in it can be trusted. The writer copied some parts from other travellers' books.
+show: site | at=Fez, Morocco | label=Fez
+
+@scene ib-12
+story: ibn-battuta
+title: Afterwards
+y: 1368
+cam: 30, 30, 26000
+src: Ibn Battuta
+T: Little is known of his life after the book. He was appointed a judge in Morocco and died in 1368 or 1369.
+T: His work stayed unknown outside the Muslim world until the beginning of the 19th century. By the Rihla's reckoning he had travelled further than Zheng He, with about 50,000 kilometres, and Marco Polo, with about 24,000, put together.
+K: After that, Ibn Battuta worked as a judge in Morocco. He died in 1368 or 1369.
+K: He had travelled further than the famous explorers Marco Polo and Zheng He added together.
+
+@quiz ib-q1
+story: ibn-battuta
+q: Where was Ibn Battuta going when he first left home?
+options: Mecca; China; Timbuktu
+a: Mecca
+why: He set off in 1325 to make the pilgrimage to Mecca. He ended up travelling for almost thirty years.
+
+@quiz ib-q2
+story: ibn-battuta
+q: What job did he do in Delhi and in the Maldives?
+options: Judge; Sailor; Cook
+a: Judge
+why: He came from a family of legal scholars. The Sultan of Delhi made him a judge, and so did the rulers of the Maldives.
+
+@quiz ib-q3
+story: ibn-battuta
+q: How do we know about his travels?
+options: He told his story to a writer; Someone filmed him; He drew a map
+a: He told his story to a writer
+why: He dictated his account to the scholar Ibn Juzayy. The book is called the Rihla.

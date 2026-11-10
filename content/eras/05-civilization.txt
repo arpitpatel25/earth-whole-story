@@ -1,0 +1,261 @@
+# Civilization: from the first farmers to the eve of the ocean voyages.
+
+@era neolithic
+name: Neolithic
+kid: The first farmers
+level: 1
+group: civilization
+span: 10000 BCE..3300 BCE
+src: Neolithic
+src: Neolithic Revolution
+S: The Neolithic, or New Stone Age, saw farming, herding and settled village life arise independently in several parts of the world. The domestication of plants and animals began in separate places after the end of the last ice age, 11,700 years ago.
+K: In the New Stone Age, people in several parts of the world worked out, each on their own, how to grow crops and keep animals. They began to stay in one place and build villages.
+
+@era bronze-age
+name: Bronze Age
+kid: The Bronze Age
+level: 1
+group: civilization
+span: 3300 BCE..1200 BCE
+src: Bronze Age
+S: A society is counted as Bronze Age if it made bronze by smelting copper and alloying it with tin or other metals, or traded for bronze made elsewhere. In the Near East the Early Bronze Age is dated from 3300 BCE; on the Indian subcontinent it began about the same time with the Indus Valley Civilisation.
+K: People learned to melt copper and mix it with tin or other metals to make bronze. Those who could not make it traded for it.
+
+@era iron-age-classical
+name: Iron Age and classical antiquity
+short: Iron Age and antiquity
+kid: Iron, empires and big ideas
+level: 1
+group: civilization
+span: 1200 BCE..500
+src: Iron Age
+src: Classical antiquity
+S: The Iron Age is the last of the three ages by which archaeologists sort early technology. It began around 1300 to 1200 BCE in Anatolia, the Caucasus and India, and at other times elsewhere. Classical antiquity, the era of ancient Greece and Rome, ran from the 8th century BCE to the 5th century CE.
+K: Iron tools and weapons spread, and huge empires grew in Persia, India, China and around the Mediterranean Sea.
+
+@era post-classical
+name: Post-classical world
+kid: Kingdoms, caravans and voyages
+level: 1
+group: civilization
+span: 500..1492
+src: Post-classical history
+S: Post-classical history runs from about 500 CE to about 1450 or 1500. It is marked by civilizations expanding geographically, by wars over land, resources and religion, and by trade networks growing between distant regions.
+K: After the old empires faded, new kingdoms and faiths spread. Traders linked far-off lands by caravan and by ship.
+
+@era farming-origins
+name: Independent origins of farming
+short: Farming begins
+kid: Farming is invented, many times
+level: 2
+group: civilization
+span: 9700 BCE..5000 BCE
+src: Neolithic Revolution
+S: Archaeological evidence shows plants and animals were domesticated in separate places around the world, beginning after the last ice age ended 11,700 years ago. At Gilgal in the Jordan Valley, stores of figs, wild barley and wild oats about 11,000 years old are too large to be gathered food alone.
+K: Farming was not invented once and copied. People in different parts of the world each worked it out for themselves, starting about 11,700 years ago.
+
+@era first-towns
+name: First villages, towns and cities
+short: First towns and cities
+kid: The first towns and cities
+level: 2
+group: civilization
+span: 7500 BCE..3100 BCE
+place: Uruk
+src: Çatalhöyük
+src: Uruk
+src: Jericho
+S: Çatalhöyük in Anatolia was a very large settlement from about 7500 to 5600 BCE. Jericho is among the oldest cities in the world. By about 3100 BCE Uruk in Mesopotamia may have held up to 50,000 people, the largest urban area of its time.
+K: Villages grew into towns, and towns into cities. About 5,000 years ago the city of Uruk, in what is now Iraq, may have been home to 50,000 people.
+
+@era writing
+name: Writing
+kid: Writing is invented
+level: 2
+group: civilization
+span: 3400 BCE..1200 BCE
+place: Uruk
+src: History of writing
+S: Writing was invented more than once, the first time within the last 6,000 years. Each invention grew out of earlier systems of symbols. Scholars once assumed it began only in Sumer and spread from there; the scripts of Mesoamerica helped show otherwise.
+K: Writing was invented more than once, in different parts of the world. The first time was less than 6,000 years ago.
+note: The start date of the band is approximate; the source gives "within the last 6,000 years".
+
+@era bronze-age-collapse
+name: Late Bronze Age collapse
+short: Bronze Age collapse
+kid: When the old kingdoms fell
+level: 2
+group: civilization
+span: 1250 BCE..1150 BCE
+src: Late Bronze Age collapse
+S: In the late 13th and early 12th centuries BCE many societies around the eastern Mediterranean collapsed suddenly and violently, among them powers in Egypt, Anatolia, the Aegean and the Balkans.
+K: About 3,200 years ago, many great kingdoms around the eastern Mediterranean Sea fell apart suddenly. Historians have argued about the cause since the 1800s.
+
+@era axial-age
+name: Axial Age
+kid: An age of big ideas
+level: 2
+group: civilization
+span: 800 BCE..200 BCE
+src: Axial Age
+S: The Axial Age is a term coined in 1949 by the philosopher Karl Jaspers for broad changes in religious and philosophical thought from about the 8th to the 3rd century BCE in Persia, India, China, the Levant and the Greco-Roman world.
+K: Between about 2,800 and 2,200 years ago, thinkers in Persia, India, China, the Levant, Greece and Rome asked big new questions about how to live and what is true.
+
+@era classical-empires
+name: Classical empires of Eurasia
+short: Classical empires
+kid: The great old empires
+level: 2
+group: civilization
+span: 550 BCE..476
+src: Achaemenid Empire
+src: Maurya Empire
+src: Han dynasty
+src: Roman Empire
+S: Cyrus the Great founded the Achaemenid Persian Empire in 550 BCE, the largest of its time. Chandragupta Maurya founded the Maurya Empire in South Asia around 320 BCE. The Han dynasty ruled China from 202 BCE to 220 CE, and Rome came under one-man rule in 27 BCE.
+K: Four giant empires grew up across Europe and Asia: Persia, the Mauryas in India, the Han in China, and Rome around the Mediterranean Sea.
+
+@era early-americas
+name: The Americas: Olmec and Maya
+short: Olmec and Maya
+kid: Olmec and Maya
+level: 2
+group: civilization
+span: 1200 BCE..900
+place: La Venta
+src: Olmecs
+src: Maya civilization
+S: The Olmecs flourished in what are now the Mexican states of Veracruz and Tabasco from roughly 1200 to 400 BCE. The Maya built complex societies from about 2000 BCE and developed the most sophisticated writing system of the pre-Columbian Americas.
+K: In Mexico and Central America, the Olmec and then the Maya built cities and temples. The Maya had their own writing, calendar and mathematics.
+
+@era early-africa
+name: Africa: Kush and Aksum
+short: Kush and Aksum
+kid: Kush and Aksum
+level: 2
+group: civilization
+span: 1070 BCE..700
+place: Meroë
+src: Kingdom of Kush
+src: Kingdom of Aksum
+S: The Kingdom of Kush, centred on the Nile in what is now northern Sudan, was a major power until the 4th century CE. Aksum, in today's Eritrea and northern Ethiopia, minted coins found as far away as southern India and adopted Christianity in the mid 4th century.
+K: Along the Nile in Sudan, the kingdom of Kush lasted more than a thousand years. Nearby Aksum, in Ethiopia and Eritrea, traded as far away as India.
+
+@era lapita
+name: Oceania: the Lapita voyagers
+short: Lapita voyagers
+kid: Sailors of the Pacific
+level: 2
+group: civilization
+span: 1600 BCE..500 BCE
+src: Lapita culture
+S: The Lapita people settled the islands of Melanesia by sea between about 1600 and 500 BCE. They are thought to have come from the northern Philippines, and they made pottery stamped with fine toothed patterns.
+K: More than 3,000 years ago, the Lapita people sailed across open ocean to settle islands in the Pacific. They made beautiful stamped pottery.
+
+@era silk-roads
+name: Silk Roads
+kid: The Silk Roads
+level: 2
+group: civilization
+span: 130 BCE..1453
+src: Silk Road
+S: The Silk Road was a network of Asian trade routes active from the second century BCE until the mid-15th century. It stretched over 6,400 km on land and carried goods, ideas and religions between East and West. The name was coined in the late 19th century.
+K: The Silk Roads were trade routes across Asia, more than 6,400 km long. Goods, ideas and religions travelled along them for about 1,600 years.
+
+@era indian-ocean-trade
+name: Indian Ocean trade
+kid: Ships across the Indian Ocean
+level: 2
+group: civilization
+span: 300 BCE..1500
+src: Indian Ocean trade
+S: Long-distance sea trade has linked the lands around the Indian Ocean since antiquity. Ships from Southeast Asia, South Asia, the Middle East and later Africa made it a zone of exchange between peoples and cultures from Southeast Asia to East Africa.
+K: Since ancient times, sailors have crossed the Indian Ocean using the seasonal monsoon winds, linking the lands from Southeast Asia to East Africa.
+note: The band's start date is nominal; the source says only "since antiquity".
+
+@era islamic-golden-age
+name: Islamic Golden Age
+kid: A golden age of learning
+level: 2
+group: civilization
+span: 786..1350
+place: Baghdad
+src: Islamic Golden Age
+S: The Islamic Golden Age is dated from the 8th to the 14th century. It is understood to have begun in the reign of the Abbasid caliph Harun al-Rashid (786 to 809) with the House of Wisdom in Baghdad, where scholars from across the Muslim world translated and built on earlier learning.
+K: In Baghdad, scholars gathered at the House of Wisdom to translate old books and make new discoveries. Learning flourished across the Muslim world for centuries.
+
+@era song-china
+name: Song China
+kid: Song China
+level: 2
+group: civilization
+span: 960..1279
+src: Song dynasty
+S: The Song dynasty ruled China from 960 to 1279. It was founded by Emperor Taizu and often fought the Liao, Western Xia and Jin states to its north.
+K: The Song family ruled China for more than 300 years, from 960 to 1279.
+
+@era mongol-empire
+name: Mongol Empire
+kid: The Mongol Empire
+level: 2
+group: civilization
+span: 1206..1368
+src: Mongol Empire
+S: The Mongol Empire was the largest contiguous empire in history. It began when a council proclaimed Temüjin, known as Genghis Khan, ruler of all Mongols in 1206, and at its height stretched from the Sea of Japan to eastern Europe.
+K: In 1206 Genghis Khan united the Mongol tribes. His empire grew into the largest joined-up land empire there has ever been.
+note: The end date marks the fall of the Yuan dynasty in China; the empire had already divided into separate khanates.
+
+@era black-death
+name: Black Death
+kid: The Black Death
+level: 2
+group: civilization
+span: 1346..1353
+src: Black Death
+S: The Black Death was a plague pandemic in Europe from 1346 to 1353, among the deadliest in history. It killed up to 50 million people: 30 to 60 percent of Europe's population and about a third of the Middle East's. The cause was the bacterium Yersinia pestis.
+K: The Black Death was a terrible sickness that spread across Europe and the Middle East. In seven years it killed up to 50 million people. It was caused by a germ spread mainly by flea bites.
+
+@era mali-empire
+name: Mali Empire
+kid: The empire of Mali
+level: 2
+group: civilization
+span: 1235..1610
+src: Mali Empire
+S: The Mali Empire in West Africa lasted from about 1235 to 1610. Founded by Sundiata Keita, it became famous for the wealth of its rulers, especially Mansa Musa, and was the largest empire in West Africa at its peak.
+K: Mali was the biggest empire in West Africa. One of its rulers, Mansa Musa, was famous far and wide for his riches.
+
+@era great-zimbabwe
+name: Great Zimbabwe
+kid: Great Zimbabwe
+level: 2
+group: civilization
+span: 1000..1500
+place: Great Zimbabwe
+src: Great Zimbabwe
+S: Great Zimbabwe, in the hills of today's Zimbabwe, was settled from around 1000 CE and was a kingdom's capital from the 13th century. Built between the 11th and 15th centuries with dry stone walls up to 11 m high, it is the largest stone structure in precolonial southern Africa.
+K: Great Zimbabwe was a city of great stone walls, built without any mortar. It was the capital of a kingdom in southern Africa.
+
+@era inca-aztec
+name: Inca and Aztec empires
+short: Inca and Aztec
+kid: The Inca and the Aztecs
+level: 2
+group: civilization
+span: 1428..1533
+place: Cusco
+src: Inca Empire
+src: Aztec Empire
+S: The Aztec Empire, an alliance of three city-states, ruled the Valley of Mexico from 1428. The Inca, centred on Cusco, built the largest empire in the pre-Columbian Americas between 1438 and 1533.
+K: In Mexico, three cities joined to form the Aztec Empire. In the Andes mountains, the Inca built the biggest empire the Americas had ever seen.
+
+@era polynesian-voyaging
+name: Polynesian voyaging
+kid: Polynesian voyagers
+level: 2
+group: civilization
+span: 900..1300
+src: Polynesian navigation
+S: Polynesian navigators, steering by stars, birds, swells and winds, crossed thousands of kilometres of open Pacific in double-hulled and outrigger canoes and reached nearly every island in the Polynesian Triangle. Eastern Polynesia was settled first; Hawaii, Easter Island and New Zealand came later.
+K: Polynesian sailors found their way across the Pacific Ocean by reading the stars, the ocean swells, the winds and the flight of birds. They settled Hawaii, Easter Island and New Zealand.
+note: The band's dates are nominal; the source gives the order of settlement, not dates.

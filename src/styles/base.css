@@ -1,0 +1,296 @@
+/* EARTH: The Whole Story — design tokens and base rules. See DESIGN.md. */
+
+@font-face {
+  font-family: 'Archivo';
+  src: url('fonts/archivo-latin-wdth-normal.woff2') format('woff2');
+  font-weight: 100 900;
+  font-stretch: 62% 125%;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Archivo';
+  src: url('fonts/archivo-latin-ext-wdth-normal.woff2') format('woff2');
+  font-weight: 100 900;
+  font-stretch: 62% 125%;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('fonts/source-serif-4-latin-opsz-normal.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('fonts/source-serif-4-latin-ext-opsz-normal.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('fonts/source-serif-4-latin-opsz-italic.woff2') format('woff2');
+  font-weight: 200 900;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Andika';
+  src: url('fonts/andika-latin-400-normal.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Andika';
+  src: url('fonts/andika-latin-700-normal.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* Colour: space is true black; surfaces are deep-sea ink; text is chalk. */
+  --void: #000;
+  --ink: #07111d;
+  --ink-2: #0d1b2b;
+  --ink-3: #16283b;
+  --line: rgba(226, 234, 244, 0.13);
+  --line-strong: rgba(226, 234, 244, 0.28);
+  --chalk: #f4f1e8;
+  --silt: #aab7c6;
+  --dim: #7d8b9c;
+  --marker: #ffd23f; /* the needle, focus, highlights */
+  --marker-ink: #1a1503;
+  --danger: #ff7a5c;
+  --ok: #7fd8a4;
+  --era: #e9e4d6; /* set from the current era band */
+
+  /* Strata: the six great bands of the timeline */
+  --band-universe: #3a3f8c;
+  --band-young-earth: #b5442c;
+  --band-life: #2f8f6b;
+  --band-humans: #c8862a;
+  --band-civilization: #3f74c9;
+  --band-modern: #e9e4d6;
+
+  /* Type */
+  --sans: 'Archivo', 'Helvetica Neue', Arial, system-ui, sans-serif;
+  --serif: 'Source Serif 4', 'Iowan Old Style', Georgia, serif;
+  --kid: 'Andika', 'Archivo', system-ui, sans-serif;
+  --read: var(--serif);
+  --fs-0: 0.75rem;
+  --fs-1: 0.8125rem;
+  --fs-2: 0.9375rem;
+  --fs-3: 1.0625rem;
+  --fs-4: 1.3125rem;
+  --fs-5: 1.75rem;
+  --fs-6: 2.5rem;
+  --fs-7: 4rem;
+
+  /* Space: a 4px grid */
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 32px;
+  --s7: 48px;
+
+  /* Motion: one curve, three speeds */
+  --ease: cubic-bezier(0.2, 0.7, 0.1, 1);
+  --t-fast: 120ms;
+  --t-mid: 240ms;
+  --t-slow: 480ms;
+
+  --radius: 3px;
+  --panel-w: 380px;
+  --deep-w: 460px;
+  --bar-h: 52px;
+  --shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
+  color-scheme: dark;
+}
+
+html[data-level='kid'] {
+  --read: var(--kid);
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: var(--void);
+  color: var(--chalk);
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  overscroll-behavior: none;
+}
+body {
+  overflow: hidden;
+}
+body.story-on {
+  overflow: auto;
+}
+button,
+input,
+select {
+  font: inherit;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+  background: none;
+  border: 0;
+  padding: 0;
+}
+a {
+  color: inherit;
+}
+p {
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.15;
+}
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+[hidden] {
+  display: none !important;
+}
+:focus {
+  outline: none;
+}
+:focus-visible {
+  outline: 2px solid var(--marker);
+  outline-offset: 2px;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+::selection {
+  background: var(--marker);
+  color: var(--marker-ink);
+}
+
+#globe {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  outline: none;
+  cursor: grab;
+}
+#globe:active {
+  cursor: grabbing;
+}
+#globe.pin-hover {
+  cursor: pointer;
+}
+
+/* Shared controls */
+.icon-btn {
+  display: inline-grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius);
+  color: var(--chalk);
+  background: rgba(7, 17, 29, 0.72);
+  border: 1px solid var(--line);
+  transition: background var(--t-fast) var(--ease), border-color var(--t-fast) var(--ease);
+}
+.icon-btn:hover {
+  background: var(--ink-3);
+  border-color: var(--line-strong);
+}
+.icon-btn[aria-pressed='true'] {
+  background: var(--chalk);
+  color: var(--ink);
+  border-color: var(--chalk);
+}
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--s2);
+  min-height: 36px;
+  padding: 0 var(--s4);
+  border-radius: var(--radius);
+  border: 1px solid var(--line-strong);
+  background: rgba(7, 17, 29, 0.72);
+  font-size: var(--fs-1);
+  font-weight: 560;
+  letter-spacing: 0.01em;
+  transition: background var(--t-fast) var(--ease), border-color var(--t-fast) var(--ease);
+}
+.btn:hover {
+  background: var(--ink-3);
+  border-color: var(--chalk);
+}
+.btn-primary {
+  background: var(--marker);
+  color: var(--marker-ink);
+  border-color: var(--marker);
+}
+.btn-primary:hover {
+  background: #ffe07a;
+  border-color: #ffe07a;
+}
+
+/* A panel carries the colour of the time you are in along its top edge. */
+.panel {
+  background: rgba(7, 17, 29, 0.9);
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--era);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  transition: border-top-color var(--t-slow) var(--ease);
+}
+@supports (backdrop-filter: blur(8px)) {
+  .panel {
+    background: rgba(7, 17, 29, 0.8);
+    backdrop-filter: blur(14px) saturate(1.2);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+html[data-capture] * {
+  transition: none !important;
+  animation: none !important;
+}

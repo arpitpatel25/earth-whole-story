@@ -1,0 +1,22 @@
+{
+  "id": "printing-press",
+  "note": "Dates of first printing with Gutenberg-style presses as given in the Wikipedia article 'Global spread of the printing press' and the articles on individual presses. Only places the retrieved text names are shown: by 1500 there were presses in 236 European towns.",
+  "sources": ["Global spread of the printing press", "Gutenberg Bible", "William Caxton", "Printing in Goa", "Bay Psalm Book", "Ibrahim Muteferrika"],
+  "points": [
+    {"at": "Mainz", "date": "1454", "label": "Mainz"},
+    {"at": "Cologne", "date": "1466", "label": "Cologne"},
+    {"at": "Rome", "date": "1467", "label": "Rome"},
+    {"at": "Venice", "date": "1469", "label": "Venice"},
+    {"at": "Paris", "date": "1470", "label": "Paris"},
+    {"at": "Budapest", "date": "1473", "label": "Buda"},
+    {"at": "Kraków", "date": "1473", "label": "Kraków"},
+    {"at": "Westminster", "date": "1476", "label": "Westminster"},
+    {"at": "Istanbul", "date": "1493", "label": "Constantinople (Hebrew press)"},
+    {"at": "Fez, Morocco", "date": "1516", "label": "Fez (Hebrew press)"},
+    {"at": "Mexico City", "date": "1539", "label": "Mexico City"},
+    {"at": "Old Goa", "date": "1556", "label": "Goa"},
+    {"at": "Cairo", "date": "1557", "label": "Cairo (Hebrew press)"},
+    {"at": "Safed", "date": "1577", "label": "Safed"},
+    {"at": "Cambridge, Massachusetts", "date": "1640", "label": "Cambridge, Massachusetts"}
+  ]
+}

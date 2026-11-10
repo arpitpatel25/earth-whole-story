@@ -1,0 +1,185 @@
+# Short story: the Mongol Empire (format: rise-fall). Facts from the articles named in src.
+
+@story mongol-empire
+title: The Mongol Empire
+kid-title: The Mongol Empire
+format: rise-fall
+order: 5
+color: #7fb2ff
+deck: In one lifetime a people of the steppe built the largest land empire in history. In another, it broke into four.
+kid-deck: In one lifetime, horse riders from the grasslands built the biggest land empire ever. Watch it grow, and watch it split.
+led: story:black-death | The Black Death | the plague that crossed the empire; story:silk-roads | The Silk Roads | the routes it made safe; era:gunpowder-empires | Gunpowder empires | the empires that came after
+
+@scene mg-01
+story: mongol-empire
+title: The Mongol Empire
+y: 1200
+cam: 45, 95, 14000
+look: title
+src: Mongol Empire
+T: The Mongol Empire was the largest contiguous empire in history. At its height it reached from the Sea of Japan to eastern Europe, north into Siberia, and south to the Iranian plateau and the edges of India and the Levant.
+T: Scroll, and watch the borders move. They are drawn from world snapshots for 1200, 1279, 1300 and 1400, and are approximate.
+K: The Mongol Empire was the biggest land empire there has ever been. It stretched from the sea near Japan all the way to Europe. Scroll to watch it grow.
+show: polity | names=Mongol Empire; Great Khanate; Ilkhanate; Chagatai Khanate; Khanate of the Golden Horde | color=people
+
+@scene mg-02
+story: mongol-empire
+title: Temüjin
+y: 1162
+to: 1206
+cam: Karakorum | 5200
+src: Genghis Khan
+src: Mongol Empire
+T: He was born Temüjin, some time between 1155 and 1167, and spent most of his life uniting the Mongol tribes. In 1206 a council proclaimed him ruler of all the Mongols. He is known by his title: Genghis Khan.
+K: A boy named Temüjin grew up on the grasslands of Mongolia. He spent most of his life bringing the Mongol tribes together. In 1206 they made him their ruler and called him Genghis Khan.
+show: polity | names=Mongol Empire | color=people
+
+@scene mg-03
+story: mongol-empire
+title: From the Pacific to the Caspian
+y: 1206
+to: 1227
+cam: 43, 85, 13000
+src: Genghis Khan
+src: Mongol Empire
+T: Genghis Khan launched a series of campaigns that conquered large parts of China and Central Asia. When he died on 18 August 1227 the empire ran from the Pacific Ocean to the Caspian Sea.
+K: Genghis Khan's armies conquered huge parts of China and Central Asia. When he died in 1227, his empire reached from the Pacific Ocean to the Caspian Sea.
+show: polity | names=Mongol Empire; Great Khanate; Ilkhanate; Chagatai Khanate; Khanate of the Golden Horde | color=people
+
+@scene mg-04
+story: mongol-empire
+title: Karakorum
+y: 1235
+cam: Karakorum | 3200
+src: Karakorum
+T: Karakorum, founded in 1220, was the capital of the empire between 1235 and 1260. It remained so until the empire divided; afterwards the seat of power moved to Dadu, where Beijing stands now.
+K: The capital of the empire was a city on the grasslands called Karakorum.
+show: site | at=Karakorum | label=Karakorum, capital 1235 to 1260 | ring=1 | color=people
+
+@scene mg-05
+story: mongol-empire
+title: Horses in relay
+y: 1235
+cam: 45, 80, 12000
+src: Yam (route)
+T: An empire that size ran on messages. The yam was a system of relay stations that gave army messengers food, shelter and fresh horses. Ögedei Khan used it extensively and expanded it, and later khans kept it up.
+K: How do you send a message across such a huge empire? The Mongols built stations along the roads where riders could get food, rest and a fresh horse, and then gallop on.
+show: route | via=Karakorum; Kashgar; Samarkand; Merv | color=people | dash=1
+note: The dashed line is schematic; the stations of the yam are not mapped here.
+
+@scene mg-06
+story: mongol-empire
+title: Europe, 1241
+y: 1236
+to: 1241-04-11
+cam: 50, 25, 5600
+src: Mongol invasion of Europe
+T: From the 1220s to the 1240s the Mongols conquered Volga Bulgaria, the Cumans, the Alans and the principalities of eastern Europe. Then they struck central Europe on two fronts at once.
+T: One army invaded divided Poland, a campaign that culminated in the Battle of Legnica on 9 April 1241. The other invaded the Kingdom of Hungary and fought the Battle of Mohi two days later. Europe's warring princes suspended their own quarrels in the face of it.
+K: Mongol armies rode into Europe. In April 1241 they fought two big battles within three days, one in Poland and one in Hungary.
+show: site | at=Legnica | label=Legnica, 9 April 1241 | ring=1
+show: site | at=Battle of Mohi | label=Mohi, 11 April 1241 | ring=1
+show: arrow | from=Kyiv | to=Legnica | color=people
+show: arrow | from=Kyiv | to=Battle of Mohi | color=people
+note: Arrows are schematic.
+
+@scene mg-07
+story: mongol-empire
+title: Baghdad, 1258
+y: 1258
+cam: Siege of Baghdad | 3600
+src: Siege of Baghdad
+T: In early 1258 a large army under Hulegu, a Mongol prince, attacked Baghdad, the historic capital of the Abbasid Caliphate. Within a few weeks the city fell and was sacked. The caliph, al-Musta'sim, was killed.
+K: In 1258 a Mongol army attacked Baghdad, one of the greatest cities in the world. In a few weeks the city fell.
+show: site | at=Siege of Baghdad | label=Baghdad falls, 1258 | ring=1
+show: polity | names=Mongol Empire; Great Khanate; Ilkhanate; Chagatai Khanate; Khanate of the Golden Horde | color=people
+
+@scene mg-08
+story: mongol-empire
+title: Stopped at Ain Jalut
+y: 1260-09-03
+cam: Battle of Ain Jalut | 3600
+src: Battle of Ain Jalut
+T: On 3 September 1260, near the spring of Ain Jalut in Galilee, the Mamluks of Egypt met a Mongol army and beat it. It was the first major halt to the Mongol advance.
+K: In 1260 an army from Egypt beat the Mongols in a battle at a place called Ain Jalut. It was the first time the Mongol advance was stopped.
+show: site | at=Battle of Ain Jalut | label=Ain Jalut, 3 September 1260 | ring=1 | color=allies
+show: arrow | from=Cairo | to=Battle of Ain Jalut | color=allies
+
+@scene mg-09
+story: mongol-empire
+title: Brothers at war
+y: 1259
+to: 1264
+cam: 44, 85, 15000
+src: Mongol Empire
+src: Golden Horde
+T: When the great khan Möngke died in 1259, rival councils elected two of his brothers at once, Ariq Böke and Kublai. They fought each other in a civil war from 1260 to 1264.
+T: Kublai won, but he never regained control of the whole. In the north-west the Golden Horde had become, in practice, an independent khanate.
+K: When the great khan died in 1259, two brothers both wanted to rule, and they went to war with each other. The empire began to break into separate parts.
+show: polity | names=Great Khanate | color=people
+show: polity | names=Khanate of the Golden Horde | color=fire
+show: polity | names=Ilkhanate | color=idea
+show: polity | names=Chagatai Khanate | color=trade
+
+@scene mg-10
+story: mongol-empire
+title: Kublai's China
+y: 1271
+to: 1294
+cam: Yuan dynasty | 6500
+src: Kublai Khan
+src: Yuan dynasty
+T: Kublai Khan proclaimed a new dynasty, the Great Yuan, in 1271, and ruled China until his death in 1294. The Yuan was a Mongol-led dynasty of China and one of the successors to the empire. It lasted until 1368.
+K: Kublai Khan, a grandson of Genghis Khan, became emperor of China. He called his ruling family the Yuan. They ruled China until 1368.
+show: polity | names=Great Khanate | color=people
+show: site | at=Yuan dynasty | label=Dadu (Beijing), the Yuan capital | ring=1 | color=people
+note: That Kublai was Genghis Khan's grandson follows from the source: Kublai was a son of Tolui, a son of Genghis.
+
+@scene mg-11
+story: mongol-empire
+title: A road under one roof
+y: 1280
+cam: 42, 70, 16000
+src: Mongol Empire
+src: Marco Polo
+T: The empire joined East to West, the Pacific to the Mediterranean, in what is called the Pax Mongolica: an enforced peace under which trade, technologies, goods and ideas crossed Eurasia.
+T: Marco Polo, a merchant from Venice, made his journey across Asia between 1271 and 1295.
+K: While the Mongols ruled, travellers and traders could cross Asia more safely than before. Goods and ideas moved from one end to the other. The traveller Marco Polo made his famous journey at this time.
+show: route | via=Venice; Feodosia; Samarkand; Kashgar; Dunhuang; Yuan dynasty | color=trade
+show: polity | names=Great Khanate; Ilkhanate; Chagatai Khanate; Khanate of the Golden Horde | color=people
+note: The route line is schematic and is not Marco Polo's actual path.
+
+@scene mg-12
+story: mongol-empire
+title: The end of the Yuan
+y: 1347
+to: 1368
+cam: 42, 95, 15000
+src: Mongol Empire
+src: Black Death
+T: In 1347 an army of the Golden Horde was besieging the port of Caffa when plague passed from there into Europe. The connections the empire had made carried death as readily as silk.
+T: In China the Yuan lost control of the country in 1368 and collapsed when Ming forces took its capital. The khanates went their own ways.
+K: The roads that carried silk also carried a terrible sickness, the plague. In 1368 the Mongol rulers of China were driven out, and the great empire was gone.
+show: polity | names=Great Khanate; Chagatai Khanate; Blue Horde; White Horde; Timurid Empire | color=people
+show: site | at=Feodosia | label=Caffa, 1347 | color=disease
+
+@quiz mg-q1
+story: mongol-empire
+q: What was Genghis Khan's name when he was a boy?
+options: Temüjin; Kublai; Hulegu
+a: Temüjin
+why: He was born Temüjin. Genghis Khan was the title he was given in 1206.
+
+@quiz mg-q2
+story: mongol-empire
+q: How did messages cross the empire so fast?
+options: Riders changed horses at relay stations; By ship; By pigeon
+a: Riders changed horses at relay stations
+why: The system was called the yam. Each station gave riders food, rest and a fresh horse.
+
+@quiz mg-q3
+story: mongol-empire
+q: What happened to the empire after 1259?
+options: It split into separate khanates; It conquered the whole world; It moved to Europe
+a: It split into separate khanates
+why: After the great khan Möngke died, his brothers fought, and the empire divided.
