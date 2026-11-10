@@ -1,0 +1,1 @@
+import{b as o}from"./chunk-6KE7VVGB.js";async function c(t,{Sheet:a}){let i=t.manifest.models?await o("data/curated/models.json").catch(()=>null):null;if(!i)return;t.models=Object.fromEntries(i.map(n=>[n.id,n]));let{initModels:e}=await import("./gallery-ZKFHIRIN.js");await e(t,i,{Sheet:a})}export{c as init};

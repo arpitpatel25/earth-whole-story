@@ -1,0 +1,1 @@
+import{b as t}from"./chunk-6KE7VVGB.js";async function d(i,{Sheet:a}){let n=i.manifest.india?await t("data/curated/india/index.json").catch(()=>null):null;if(!n)return;let{initIndia:c}=await import("./india-view-YTQPLRR4.js");await c(i,n,{Sheet:a})}export{d as init};
